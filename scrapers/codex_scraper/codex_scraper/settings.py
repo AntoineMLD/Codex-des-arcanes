@@ -16,6 +16,10 @@ BOT_NAME = "codex_scraper"
 SPIDER_MODULES = ["codex_scraper.spiders"]
 NEWSPIDER_MODULE = "codex_scraper.spiders"
 
+ITEM_PIPELINES = {
+    "codex_scraper.pipelines.JsonPerUrlPipeline": 300,
+}
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "codex_scraper (+http://www.yourdomain.com)"

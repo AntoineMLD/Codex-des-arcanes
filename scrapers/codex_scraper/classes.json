@@ -1,0 +1,102 @@
+{
+    "url": "https://www.aidedd.org/regles/classes/barbare/",
+    "title": "Barbare » Donjons & Dragons - D&D 5e",
+    "sections": [
+        {
+            "header": "Capacités de classe",
+            "content": ""
+        }
+    ],
+    "tables": [
+        {
+            "table_index": 1,
+            "headers": [
+                "Niv",
+                "Bonus de",
+                "maîtrise",
+                "Capacités",
+                "Rages",
+                "Dégâts"
+            ],
+            "rows": []
+        },
+        {
+            "table_index": 2,
+            "headers": [
+                "d8",
+                "Effet"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Effet": "Toute créature de votre choix que vous pouvez voir à 9 mètres ou moins de vous doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts nécrotiques. Vous gagnez également des points de vie temporaires égaux à 1d12 plus votre niveau de barbare."
+                },
+                {
+                    "d8": "2",
+                    "Effet": "Vous vous téléportez dans un espace inoccupé que vous pouvez voir dans un rayon de 9 mètres. Jusqu'à la fin de votre rage, vous pouvez, par une action bonus, activer à nouveau cet effet à chacun de vos tours."
+                },
+                {
+                    "d8": "4",
+                    "Effet": "Un éclair de lumière jaillit de votre poitrine. Une autre créature de votre choix que vous pouvez voir 9 mètres ou moins de vous doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants et être aveuglée jusqu'au début de votre prochain tour. Jusqu'à la fin de votre rage, vous pouvez, par une action bonus, activer à nouveau cet effet à chacun de vos tours."
+                },
+                {
+                    "d8": "5",
+                    "Effet": "Chaque fois qu'une créature vous touche avec un jet d'attaque avant la fin de votre rage, cette créature subit 1d6 dégâts de force, la magie se déchaînant en représailles."
+                },
+                {
+                    "d8": "6",
+                    "Effet": "Vous êtes entouré de lumières protectrices multicolores. Vous gagnez un bonus de +1 à la CA, et vos alliés à 3 mètres ou moins de vous gagnent le même bonus."
+                },
+                {
+                    "d8": "7",
+                    "Effet": "Des fleurs et des plantes poussent temporairement autour de vous. Jusqu'à ce que votre rage se termine, le sol dans un rayon de 4,50 mètres autour de vous est un terrain difficile pour vos ennemis."
+                },
+                {
+                    "d8": "8",
+                    "Effet": "La magie imprègne une arme de votre choix que vous tenez. Jusqu'à ce que votre rage se termine, le type de dégâts de l'arme est de force, et elle acquiert les propriétés légère et lancer, avec une portée nominale de 6 mètres et une longue portée de 18 mètres. Si l'arme quitte votre main, elle réapparaît dans votre main à la fin du tour en cours."
+                }
+            ]
+        }
+    ]
+},
+{
+    "url": "https://www.aidedd.org/regles/classes/barde/",
+    "title": "Barde » Donjons & Dragons - D&D 5e",
+    "sections": [
+        {
+            "header": "Capacités de classe",
+            "content": ""
+        }
+    ],
+    "tables": [
+        {
+            "table_index": 1,
+            "headers": [
+                " ",
+                "Sorts",
+                " ",
+                " ",
+                "Bonus de",
+                " ",
+                "mineurs",
+                "Sorts",
+                "- Emplacements de sorts -",
+                "Niv",
+                "maîtrise",
+                "Capacités",
+                "connus",
+                "connus",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "rows": []
+        }
+    ]
+},
