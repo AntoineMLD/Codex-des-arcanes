@@ -20,7 +20,7 @@ Un assistant numérique pour les Maîtres du Jeu, conçu pour faciliter la créa
 ### **Installation**
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/AntoineMLD/codex-des-arcanes.git
+   git clone https://github.com/AntoineMLD/Codex-des-arcanes.git
    cd codex-des-arcanes
    ```
 
