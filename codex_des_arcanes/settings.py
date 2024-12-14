@@ -90,7 +90,7 @@ DATABASES = {
         'TEST': {
     'NAME': 'test_codex_db',
     'DEPENDENCIES': [],
-},
+}}},
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
