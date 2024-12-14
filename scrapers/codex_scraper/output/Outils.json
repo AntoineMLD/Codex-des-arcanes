@@ -1,0 +1,269 @@
+{
+    "title": "Outils",
+    "introduction": "Les outils vous aident à faire quelque chose que vous ne pourriez pas faire autrement, comme de l'artisanat, réparer un objet, falsifier un document ou crocheter une serrure. Votre race, votre classe, votre historique ou bien encore vos dons vous donnent la maîtrise de certains outils. La maîtrise d'un outil vous permet d'ajouter votre bonus de maîtrise à tous les jets de caractéristique que vous réalisez avec cet outil. L'utilisation de l'outil n'est pas liée à une seule caractéristique, car la maîtrise d'un outil représente une connaissance qui va au-delà de sa simple utilisation. Par exemple, le MD peut vous demander de faire un jet de Dextérité pour sculpter un détail sur du bois avec des outils de menuisier, puis un jet de Force pour faire quelque chose sur un bois particulièrement dur.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Objet",
+                "VO",
+                "Prix",
+                "Poids"
+            ],
+            "rows": [
+                {
+                    "Objet": "Instruments de musique",
+                    "VO": "Musical instrument",
+                    "Prix": "",
+                    "Poids": ""
+                },
+                {
+                    "Objet": "Chalemie",
+                    "VO": "Shawm",
+                    "Prix": "2 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Cor",
+                    "VO": "Horn",
+                    "Prix": "3 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Cornemuse",
+                    "VO": "Bagpipes",
+                    "Prix": "30 po",
+                    "Poids": "3 kg"
+                },
+                {
+                    "Objet": "Flûte",
+                    "VO": "Flute",
+                    "Prix": "2 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Flûte de pan",
+                    "VO": "Pan flute",
+                    "Prix": "12 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Luth",
+                    "VO": "Lute",
+                    "Prix": "35 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Lyre",
+                    "VO": "Lyre",
+                    "Prix": "30 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Tambour",
+                    "VO": "Drum",
+                    "Prix": "6 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Tympanon",
+                    "VO": "Dulcimer",
+                    "Prix": "25 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Viole",
+                    "VO": "Viol",
+                    "Prix": "30 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Jeux",
+                    "VO": "Gaming set",
+                    "Prix": "",
+                    "Poids": ""
+                },
+                {
+                    "Objet": "Dés",
+                    "VO": "Dice set",
+                    "Prix": "1 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Jeu d'échecs draconiques",
+                    "VO": "Dragonchess set",
+                    "Prix": "1 po",
+                    "Poids": "250 g"
+                },
+                {
+                    "Objet": "Jeu de cartes",
+                    "VO": "Playing card set",
+                    "Prix": "5 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Jeu des Dragons",
+                    "VO": "Three-Dragon Ante set",
+                    "Prix": "1 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Kit d'empoisonneur",
+                    "VO": "Poisoner's kit",
+                    "Prix": "50 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Kit d'herboriste",
+                    "VO": "Herbalism kit",
+                    "Prix": "5 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Kit de contrefaçon",
+                    "VO": "Forgery kit",
+                    "Prix": "15 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Kit de déguisement",
+                    "VO": "Disguise kit",
+                    "Prix": "25 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Outils d'artisan",
+                    "VO": "Artisan's tools",
+                    "Prix": "",
+                    "Poids": ""
+                },
+                {
+                    "Objet": "Matériel d'alchimiste",
+                    "VO": "Alchemist's supplies",
+                    "Prix": "50 po",
+                    "Poids": "4 kg"
+                },
+                {
+                    "Objet": "Matériel de brasseur",
+                    "VO": "Brewer's supplies",
+                    "Prix": "20 po",
+                    "Poids": "4,5 kg"
+                },
+                {
+                    "Objet": "Matériel de calligraphe",
+                    "VO": "Calligrapher's supplies",
+                    "Prix": "10 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Matériel de peintre",
+                    "VO": "Painter's supplies",
+                    "Prix": "10 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Outils de bijoutier",
+                    "VO": "Jeweler's tools",
+                    "Prix": "25 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Outils de bricoleur",
+                    "VO": "Tinker's tools",
+                    "Prix": "50 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Outils de cartographe",
+                    "VO": "Cartographer's tools",
+                    "Prix": "15 po",
+                    "Poids": "3 kg"
+                },
+                {
+                    "Objet": "Outils de charpentier",
+                    "VO": "Carpenter's tools",
+                    "Prix": "8 po",
+                    "Poids": "3 kg"
+                },
+                {
+                    "Objet": "Outils de cordonnier",
+                    "VO": "Cobblers' tools",
+                    "Prix": "5 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Outils de forgeron",
+                    "VO": "Smith's tools",
+                    "Prix": "20 po",
+                    "Poids": "4 kg"
+                },
+                {
+                    "Objet": "Outils de maçon",
+                    "VO": "Mason's tools",
+                    "Prix": "10 po",
+                    "Poids": "4 kg"
+                },
+                {
+                    "Objet": "Outils de menuisier",
+                    "VO": "Woodcarver's tools",
+                    "Prix": "1 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Outils de potier",
+                    "VO": "Potter's tools",
+                    "Prix": "10 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Outils de souffleur de verre",
+                    "VO": "Glassblower's tools",
+                    "Prix": "30 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Outils de tanneur",
+                    "VO": "Leatherworker's tools",
+                    "Prix": "5 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Outils de tisserand",
+                    "VO": "Weaver's tools",
+                    "Prix": "1 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Ustensiles de cuisinier",
+                    "VO": "Cook's utensils",
+                    "Prix": "1 po",
+                    "Poids": "4 kg"
+                },
+                {
+                    "Objet": "Outils de navigateur",
+                    "VO": "Navigator's tools",
+                    "Prix": "25 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Outils de voleur",
+                    "VO": "Thieves' tools",
+                    "Prix": "25 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Véhicules (terrestres)",
+                    "VO": "Vehicles (land)",
+                    "Prix": "*",
+                    "Poids": "*"
+                },
+                {
+                    "Objet": "Véhicules (aquatiques)",
+                    "VO": "Vehicles (water)",
+                    "Prix": "*",
+                    "Poids": "*"
+                }
+            ]
+        }
+    ]
+}

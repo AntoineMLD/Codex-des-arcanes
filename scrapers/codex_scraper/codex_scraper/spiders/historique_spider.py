@@ -3,7 +3,8 @@ import scrapy
 
 class HistoriqueSpider(scrapy.Spider):
     name = "historique_spider"
-    start_urls = [
+    start_urls = []
+    """start_urls = [
         "https://www.aidedd.org/regles/historiques/",
         "https://www.aidedd.org/regles/historiques/acolyte/",
         "https://www.aidedd.org/regles/historiques/artisan-de-guilde/",
@@ -18,7 +19,12 @@ class HistoriqueSpider(scrapy.Spider):
         "https://www.aidedd.org/regles/historiques/sage/",
         "https://www.aidedd.org/regles/historiques/sauvageon/",
         "https://www.aidedd.org/regles/historiques/soldat/",
-    ]
+        "https://www.aidedd.org/regles/equipement/",
+        "https://www.aidedd.org/regles/equipement/armes/",
+        "https://www.aidedd.org/regles/equipement/armures/",
+        "https://www.aidedd.org/regles/equipement/materiel/",
+        "https://www.aidedd.org/regles/equipement/outils/"
+    ]"""
 
     def parse(self, response):
         # Extraire le titre de la page
