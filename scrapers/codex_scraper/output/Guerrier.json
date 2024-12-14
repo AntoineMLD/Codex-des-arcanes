@@ -1,0 +1,466 @@
+{
+    "title": "Guerrier",
+    "introduction": "Un humain équipé d'un harnois clinquant brandit son bouclier devant lui tout en fonçant vers des gobelins massés. Un elfe, derrière lui, vêtu d'une armure de cuir clouté, arrose ces mêmes gobelins avec les flèches qu'il décoche de son précieux arc. Le demi-orc à proximité lance des ordres, aidant les deux combattants à coordonner leur assaut au mieux. Un nain en cotte de mailles interpose son bouclier entre la massue d'un ogre et son compagnon, puis assène un coup mortel de côté. Son compagnon, un demi-elfe en armure d'écailles, fait virevolter deux cimeterres dans un tourbillon aveuglant tout en contournant l'ogre, à la recherche d'un point faible dans sa défense. Un combat de gladiateurs pour le spectacle dans une arène, un maître du trident avec son filet, entraîné à renverser ses ennemis et à se déplacer autour d'eux pour le plaisir et de la foule, et pour son propre avantage tactique.",
+    "sections": [
+        {
+            "title": "Spécialistes complets",
+            "content": "Les guerriers apprennent l'essentiel de tous les styles de combat. Chaque guerrier peut balancer un coup de hache, parer avec une rapière, manier une épée longue ou une épée à deux mains, utiliser un arc et même piéger des adversaires dans un filet avec un certain degré d'habileté. De même, un guerrier connaît le maniement des boucliers et l'utilisation de toutes les formes d'armure. En plus de ce degré de familiarité de base, chaque guerrier se spécialise dans un certain style de combat. L'un sera concentré sur le tir à l'arc, un autre en combat avec deux armes à la fois et un autre augmentera ses compétences martiales avec de la magie. Cette combinaison de larges capacités générales et de spécialisations variées fait des guerriers les combattants supérieurs sur les champs de bataille et dans les donjons. (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Entraîné pour le danger",
+            "content": "Chaque membre du gué de la cité, de la milice du village ou de l'armée de la reine n'est pas un guerrier. La plupart de ces troupes sont des soldats relativement peu formés avec seulement une connaissance de base du combat. Les soldats vétérans, les officiers militaires, les gardes du corps entraînés, les chevaliers dévoués et autres figures semblables sont des guerriers. Certains guerriers se sentent poussés à utiliser leur formation comme aventuriers. Fouiller des donjons, trucider des monstres et autres travaux dangereux communs pour les aventuriers est une seconde nature pour un guerrier, pas si différente de la vie qu'il ou elle a laissée derrière. Il y a de plus grands risques, peut-être, mais aussi de plus grandes récompenses ; peu de guerriers dans le gué de la cité ont l'occasion de découvrir une épée ardente par exemple. (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Créer un guerrier",
+            "content": "Lorsque vous créez un guerrier, pensez aux éléments de l'historique de votre personnage : où avez-vous obtenu votre formation de combat, et qu’est-ce qui vous démarque des combattants lambda autour de vous ? Êtes-vous particulièrement impitoyable ? Avez-vous obtenu une aide spéciale d’un mentor, peut-être en raison de votre dévouement exceptionnel ? Qu'est-ce qui vous a poussé vers cette formation en premier lieu ? Une menace pour votre patrie, une soif de vengeance ou la nécessité de faire vos preuves sont autant de facteurs de vocation. Vous avez peut-être bénéficié d’une formation dans l'armée d'un noble ou dans une milice locale. Peut-être avez-vous été formé dans une école militaire où l’on vous a enseigné la stratégie, la tactique et l'histoire militaire. Êtes-vous autodidacte ? Avez-vous pris l'épée pour échapper à la vie de la ferme, ou suivez-vous une tradition familiale ? Où avez-vous obtenu vos armes et votre armure ? D’un fait d’armes ou s’agit-il d’objets de famille ? Ou peut-être avez-vous économisé pendant des années pour vous les acheter ? Votre armement est maintenant l’une de vos possessions les plus importantes, les seules choses qui vous séparent de l'étreinte de la mort. (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Création rapide",
+            "content": "Vous pouvez concevoir rapidement un guerrier en suivant ces quelques suggestions. En premier lieu, la Force ou la Dextérité devrait être votre plus haute valeur de caractéristique, suivant que vous souhaitez vous spécialiser avec des armes de corps à corps ou à distance. Votre deuxième plus grande valeur de caractéristique devrait être la Constitution. Ensuite, choisissez l'historique soldat . (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Points de vie",
+            "content": "DV : 1d10 par niveau de guerrier pv au niveau 1 : 10 + votre modificateur de Constitution pv aux niveaux suivants : 1d10 (ou 6) + votre modificateur de Constitution (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Armures : toutes les armures, boucliers Armes : armes courantes, armes de guerre Outils : aucun Jets de sauvegarde : Force, Constitution Compétences : choisissez deux compétences parmi Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Intuition, Perception et Survie (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Équipement",
+            "content": "Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique : (a) une cotte de mailles ou (b) une armure de cuir, un arc long et 20 flèches (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) une arbalète légère et 20 carreaux ou (b) deux hachettes (a) un sac d'exploration souterraine ou (b) un sac d'explorateur"
+        },
+        {
+            "title": "Style de combat",
+            "content": "Vous adoptez un style particulier de combat qui sera votre spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de style de combat plus d'une fois, même si vous obtenez plus tard la possibilité de choisir un nouveau style. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Archerie",
+            "content": "Vous obtenez un bonus de +2 aux jets d'attaque avec une arme à distance. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Arme à deux mains",
+            "content": "Lorsque vous obtenez 1 ou 2 à un dé de dégâts lors d'une attaque que vous effectuez avec une arme de corps à corps que vous tenez avec vos deux mains, vous pouvez relancer le dé et obligatoirement prendre le nouveau résultat, même si celui-ci est un 1 ou un 2. L'arme doit avoir la propriété à deux mains ou polyvalente pour octroyer cet avantage. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Combat à deux armes",
+            "content": "Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Défense",
+            "content": "Si vous portez une armure, vous obtenez un bonus de +1 à la CA. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Duel",
+            "content": "Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Protection",
+            "content": "Quand une créature que vous pouvez voir attaque une cible autre que vous-même et qui se trouve à 1,50 mètre ou moins de vous, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque. Vous devez pour cela porter un bouclier. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Second souffle",
+            "content": "Vous possédez une réserve d'endurance limitée dans laquelle vous pouvez puiser pour vous protéger contre les dégâts. À votre tour vous pouvez utiliser une action bonus pour regagner un nombre de pv égal à 1d10 + votre niveau de guerrier. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Fougue",
+            "content": "À partir du niveau 2, à votre tour, vous pouvez réaliser une action supplémentaire en plus de votre action normale et de votre éventuelle action bonus. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez utiliser cette capacité deux fois entre deux repos, mais une seule fois par tour. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Archétype martial",
+            "content": "Au niveau 3, choisissez un archétype que vous vous efforcez d'imiter dans vos styles et techniques de combat. Votre archétype vous accorde des capacités spéciales au niveau 3 puis de nouvelles aux niveaux 7, 10, 15 et 18. Voir Archétypes martiaux ci-dessous. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 6, 8, 12, 14, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Attaque supplémentaire",
+            "content": "À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l’action Attaquer durant votre tour. Le nombre d'attaques augmente à trois lorsque vous atteignez le niveau 11 dans cette classe et à quatre lorsque vous atteignez le niveau 20 dans cette classe. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Inflexible",
+            "content": "À partir du niveau 9, vous pouvez relancer un jet de sauvegarde que vous avez raté. Si vous le faites, vous devez obligatoirement utiliser le nouveau résultat, et ne pouvez pas utiliser de nouveau cette capacité avant d'avoir terminé un repos long. Vous pouvez utiliser cette capacité deux fois entre deux repos longs à partir du niveau 13 et trois fois entre deux repos longs à partir du niveau 17. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Champion",
+            "content": "L'archétype du champion se concentre sur le développement du pouvoir physique brut pour parvenir à la perfection mortelle. Ceux qui se basent sur cet archétype combinent une formation rigoureuse et une excellence physique pour porter des coups dévastateurs. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Critique amélioré",
+            "content": "À partir du niveau 3, vos attaques avec des armes sont considérées comme un coup critique sur un jet naturel de 19 ou 20. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Athlète accompli",
+            "content": "À partir du niveau 7, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au supérieur) à tout jet de Force, Dextérité ou Constitution que vous effectuez et qui n'utilise pas déjà ce bonus de maîtrise. En outre, lorsque vous effectuez un saut en longueur, la distance que vous pouvez couvrir augmente d'une distance égale à votre modificateur de Force x 30 cm. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Style de combat supplémentaire",
+            "content": "Au niveau 10, vous pouvez choisir une deuxième option pour la capacité de Style de combat. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Critique supérieur",
+            "content": "À partir du niveau 15, vos attaques avec des armes sont considérées comme un coup critique sur un jet naturel de 18, 19 ou 20. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Survivant",
+            "content": "À partir du niveau 18, au début de chacun de vos tours, vous récupérez un nombre de points de vie égal à 5 + votre modificateur de Constitution s'il ne vous reste pas plus de la moitié de vos points de vie initiaux. Vous ne gagnez pas cet avantage si vous êtes à 0 point de vie. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Maître de guerre",
+            "content": "Vous êtes un expert des manœuvres durant la bataille. Vous comptez sur la ruse et la prouesse pour vaincre vos ennemis. Une formation intense combinée à une attention constante vous propulse au combat. La victoire est un signe de plus de la suprématie martiale. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Disciple martial",
+            "content": "Au niveau 3, vous gagnez la maîtrise d'un outil d'artisan de votre choix. Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Supériorité martiale",
+            "content": "Quand vous choisissez cet archétype au niveau 3, vous apprenez des manœuvres qui utilisent des dés spéciaux nommés « dés de supériorité ». Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Observation de l’ennemi",
+            "content": "À partir du niveau 7, si vous passez au moins 1 minute à observer ou à interagir avec une créature en n'étant pas engagé dans un combat, vous pouvez apprendre certaines informations à propos de ses capacités comparées aux vôtres. Le MD vous dit si la créature est égale, supérieure ou inférieure à vous par rapport à deux des caractéristiques suivantes de votre choix : Force Dextérité Constitution classe d'armure points de vie actuels total des niveaux de classe (le cas échéant) niveau de guerrier (le cas échéant)"
+        },
+        {
+            "title": "Supériorité martiale améliorée",
+            "content": "À partir du niveau 10, vos dés de supériorité deviennent des d10. À partir du niveau 18 ils deviennent des d12."
+        },
+        {
+            "title": "Implacable",
+            "content": "À partir du niveau 15, si lorsque vous lancez votre jet d’initiative vous n’avez plus de dés de supériorité disponibles, vous en regagnez un."
+        },
+        {
+            "title": "Manœuvres",
+            "content": "Attaque menaçante . Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter d’effrayer la cible. Ajoutez votre dé de supériorité aux dégâts, et la cible doit faire un jet de sauvegarde de Sagesse. En cas d'échec, la cible est effrayée jusqu'à la fin de votre prochain tour."
+        },
+        {
+            "title": "Chevalier occulte",
+            "content": "L’archétype chevalier occulte combine la maîtrise martiale commune à tous les combattants avec une étude attentive de la magie. Les chevaliers occultes utilisent des techniques magiques similaires à celles pratiquées par les magiciens, et concentrent leurs études sur deux des huit écoles de magie : abjuration et évocation. Les sorts d’abjuration accordent une protection supplémentaire au chevalier occulte dans la bataille, et les sorts d'évocation infligent des dégâts à plusieurs ennemis à la fois, augmentant la portée du guerrier en combat. Ces chevaliers apprennent un nombre relativement restreint de sorts, ce qui leur permet de les mémoriser au lieu de les garder dans un grimoire."
+        },
+        {
+            "title": "Incantation",
+            "content": "Lorsque vous atteignez le niveau 3, vous augmentez vos prouesses martiales avec la possibilité de lancer des sorts."
+        },
+        {
+            "title": "Lien avec une arme",
+            "content": "Au niveau 3, vous apprenez un rituel qui crée un lien magique entre vous et une arme. Vous effectuez le rituel pendant 1 heure, ce qui peut être effectué pendant un repos court. L'arme doit être à votre portée tout au long du rituel, à l'issue duquel vous touchez l'arme et forgez le lien. Une fois que vous vous êtes lié avec une arme, vous ne pouvez pas être désarmé de cette arme, sauf si vous êtes incapable d'agir. Si l'arme se trouve sur le même plan d'existence que vous, vous pouvez invoquer cette arme par une action bonus à votre tour, l'amenant à se téléporter instantanément dans votre main. Vous pouvez être lié à un maximum de deux armes, mais ne pouvez en invoquer qu'une seule à la fois avec votre action bonus. Si vous essayez de vous lier à une troisième arme, vous devez rompre le lien avec l'une des deux autres."
+        },
+        {
+            "title": "Magie de guerre",
+            "content": "À partir du niveau 7, lorsque vous utilisez votre action pour lancer un sort mineur, vous pouvez effectuer une attaque avec une arme en tant qu'action bonus."
+        },
+        {
+            "title": "Frappe occulte",
+            "content": "Au niveau 10, vous apprenez comment passer la résistance à vos sorts d'une créature, grâce à votre attaque avec une arme. Lorsque vous touchez une créature avec une attaque d'arme, cette créature a un désavantage au prochain jet de sauvegarde contre un sort que vous lancez avant la fin de votre prochain tour."
+        },
+        {
+            "title": "Charge arcanique",
+            "content": "Au niveau 15, vous gagnez la capacité de vous téléporter jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir, lorsque vous utilisez votre Fougue. Vous pouvez vous téléporter avant ou après l'action supplémentaire."
+        },
+        {
+            "title": "Magie de guerre améliorée",
+            "content": "À partir du niveau 18, lorsque vous utilisez votre action pour lancer un sort, vous pouvez effectuez une attaque avec une arme en tant qu'action bonus."
+        }
+    ],
+    "tables": {
+        "class_features": [
+            {
+                "Niv": "Niv",
+                "Bonus de maîtrise": "Bonus demaîtrise",
+                "Capacités": "Capacités"
+            },
+            {
+                "Niv": "1",
+                "Bonus de maîtrise": "+2",
+                "Capacités": "Style de combat, Second souffle"
+            },
+            {
+                "Niv": "2",
+                "Bonus de maîtrise": "+2",
+                "Capacités": "Fougue (1)"
+            },
+            {
+                "Niv": "3",
+                "Bonus de maîtrise": "+2",
+                "Capacités": "Archétype martial"
+            },
+            {
+                "Niv": "4",
+                "Bonus de maîtrise": "+2",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "5",
+                "Bonus de maîtrise": "+3",
+                "Capacités": "Attaque supplémentaire (1)"
+            },
+            {
+                "Niv": "6",
+                "Bonus de maîtrise": "+3",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "7",
+                "Bonus de maîtrise": "+3",
+                "Capacités": "Capacité de l'archétype martial"
+            },
+            {
+                "Niv": "8",
+                "Bonus de maîtrise": "+3",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "9",
+                "Bonus de maîtrise": "+4",
+                "Capacités": "Inflexible (1)"
+            },
+            {
+                "Niv": "10",
+                "Bonus de maîtrise": "+4",
+                "Capacités": "Capacité de l'archétype martial"
+            },
+            {
+                "Niv": "11",
+                "Bonus de maîtrise": "+4",
+                "Capacités": "Attaque supplémentaire (2)"
+            },
+            {
+                "Niv": "12",
+                "Bonus de maîtrise": "+4",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "13",
+                "Bonus de maîtrise": "+5",
+                "Capacités": "Inflexible (2)"
+            },
+            {
+                "Niv": "14",
+                "Bonus de maîtrise": "+5",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "15",
+                "Bonus de maîtrise": "+5",
+                "Capacités": "Capacité de l'archétype martial"
+            },
+            {
+                "Niv": "16",
+                "Bonus de maîtrise": "+5",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "17",
+                "Bonus de maîtrise": "+6",
+                "Capacités": "Fougue (2), Inflexible (3)"
+            },
+            {
+                "Niv": "18",
+                "Bonus de maîtrise": "+6",
+                "Capacités": "Capacité de l'archétype martial"
+            },
+            {
+                "Niv": "19",
+                "Bonus de maîtrise": "+6",
+                "Capacités": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "20",
+                "Bonus de maîtrise": "+6",
+                "Capacités": "Attaque supplémentaire (3)"
+            }
+        ],
+        "spell_slots": [
+            {
+                "Niv": "",
+                "Sorts mineurs connus": "Sorts",
+                "Sorts connus": "",
+                "1": "",
+                "2": null,
+                "3": null,
+                "4": null
+            },
+            {
+                "Niv": "",
+                "Sorts mineurs connus": "mineurs",
+                "Sorts connus": "Sorts",
+                "1": "- Emplacements de sorts -",
+                "2": null,
+                "3": null,
+                "4": null
+            },
+            {
+                "Niv": "Niv",
+                "Sorts mineurs connus": "connus",
+                "Sorts connus": "connus",
+                "1": "1",
+                "2": "2",
+                "3": "3",
+                "4": "4"
+            },
+            {
+                "Niv": "3",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "3",
+                "1": "2",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "4",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "4",
+                "1": "3",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "5",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "4",
+                "1": "3",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "6",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "4",
+                "1": "3",
+                "2": "-",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "7",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "5",
+                "1": "4",
+                "2": "2",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "8",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "6",
+                "1": "4",
+                "2": "2",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "9",
+                "Sorts mineurs connus": "2",
+                "Sorts connus": "6",
+                "1": "4",
+                "2": "2",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "10",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "7",
+                "1": "4",
+                "2": "3",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "11",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "8",
+                "1": "4",
+                "2": "3",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "12",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "8",
+                "1": "4",
+                "2": "3",
+                "3": "-",
+                "4": "-"
+            },
+            {
+                "Niv": "13",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "9",
+                "1": "4",
+                "2": "3",
+                "3": "2",
+                "4": "-"
+            },
+            {
+                "Niv": "14",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "10",
+                "1": "4",
+                "2": "3",
+                "3": "2",
+                "4": "-"
+            },
+            {
+                "Niv": "15",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "10",
+                "1": "4",
+                "2": "3",
+                "3": "2",
+                "4": "-"
+            },
+            {
+                "Niv": "16",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "11",
+                "1": "4",
+                "2": "3",
+                "3": "3",
+                "4": "-"
+            },
+            {
+                "Niv": "17",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "11",
+                "1": "4",
+                "2": "3",
+                "3": "3",
+                "4": "-"
+            },
+            {
+                "Niv": "18",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "11",
+                "1": "4",
+                "2": "3",
+                "3": "3",
+                "4": "-"
+            },
+            {
+                "Niv": "19",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "12",
+                "1": "4",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            },
+            {
+                "Niv": "20",
+                "Sorts mineurs connus": "3",
+                "Sorts connus": "13",
+                "1": "4",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            }
+        ]
+    }
+}
