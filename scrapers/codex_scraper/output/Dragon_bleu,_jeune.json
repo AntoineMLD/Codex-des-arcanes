@@ -1,0 +1,53 @@
+{
+    "title": "Dragon bleu, jeune",
+    "prerequisites": "Dragon (chromatique) de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/blue-dragon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dragon-bleu-jeune",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "152 (16d10 + 64)",
+        "Vitesse",
+        "12 m, creusement 6 m, vol 24 m",
+        "FOR",
+        "21 (+5)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "17 (+3)",
+        "Jets de sauvegarde",
+        "Dex +4, Con +8, Sag +5, Cha +7",
+        "Compétences",
+        "Discrétion +4, Perception +9",
+        "Immunités aux dégâts",
+        "foudre",
+        "Sens",
+        "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le dragon effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 16 (2d10 + 5) dégâts perforants + 5 (1d10) dégâts de foudre.",
+        "Griffes. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Souffle de foudre (Recharge 5-6). Le dragon crache une tempête d'éclairs sur une ligne de 18 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16, subissant 55 (10d10) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le dragon effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 16 (2d10 + 5) dégâts perforants + 5 (1d10) dégâts de foudre.",
+        "Griffes. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Souffle de foudre (Recharge 5-6). Le dragon crache une tempête d'éclairs sur une ligne de 18 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16, subissant 55 (10d10) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

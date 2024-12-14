@@ -1,0 +1,50 @@
+{
+    "title": "Maître voleur",
+    "prerequisites": "Humanoïde de taille M, tout alignement",
+    "description": "Non spécifié",
+    "source": "Monsters of the Multiverse",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=maitre-voleur",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure de cuir clouté)",
+        "Points de vie",
+        "84 (13d8 + 26)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Jets de sauvegarde",
+        "Dex +7, Int +3",
+        "Compétences",
+        "Acrobaties +7, Athlétisme +3, Perception +3, Escamotage +7, Discrétion +7",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "une langue au choix (généralement le commun) et le jargon des voleurs",
+        "Puissance",
+        "5 (1800 PX)",
+        "Bonus de maîtrise",
+        "+3"
+    ],
+    "actions": [
+        "Attaques multiples. Le voleur effectue trois attaques avec son épée courte ou son arc court.",
+        "Épée courte. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 mètre, une cible. Touché : 7 (1d6 + 4) dégâts perforants plus 3 (1d6) dégâts de poison.",
+        "Arc court. Attaque à distance avec une arme : +7 au toucher, portée 24/96 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants plus 3 (1d6) dégâts de poison.",
+        "Action fourbe. Le voleur effectue l'action Foncer, Se cacher ou Se désengager.",
+        "Esquive. Le voleur réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le voleur doit être capable de voir l'attaquant."
+    ],
+    "reactions": [
+        "Esquive. Le voleur réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le voleur doit être capable de voir l'attaquant."
+    ]
+}

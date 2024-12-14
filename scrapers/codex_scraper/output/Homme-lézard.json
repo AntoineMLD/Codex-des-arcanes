@@ -1,0 +1,51 @@
+{
+    "title": "Homme-lézard",
+    "prerequisites": "Humanoïde (homme-lézard) de taille M, neutre",
+    "description": "Les homme-lézards sont des humanoïdes reptiliens primitifs qui se cachent dans les marais et les jungles. Défendant férocement leur territoire, ils tuent lorsque c'est nécessaire et font tout pour survivre.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/lizardfolk.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle, bouclier)",
+        "Points de vie",
+        "22 (4d8 + 4)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Discrétion +4, Perception +3, Survie +5",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "draconique",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'homme-lézard effectue deux attaques au corps à corps, chacune avec une arme différente.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Gourdin lesté. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Bouclier à pointe. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'homme-lézard effectue deux attaques au corps à corps, chacune avec une arme différente.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Gourdin lesté. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Bouclier à pointe. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

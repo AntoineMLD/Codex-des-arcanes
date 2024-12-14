@@ -1,0 +1,43 @@
+{
+    "title": "Tabaxi, chasseur",
+    "prerequisites": "Humanoïde (tabaxi) de taille M, chaotique bon",
+    "description": "Les tabaxis sont des hommes-chats originaires des jungles de Maztica.",
+    "source": "Adventures (Tomb of Annihilation)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tabaxi-chasseur",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure de cuir)",
+        "Points de vie",
+        "40 (9d8)",
+        "Vitesse",
+        "9 m, escalade 6 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "15 (+2)",
+        "Compétences",
+        "Athlétisme +2, Discrétion +5, Perception +4, Survie +6",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "commun plus une autre langue",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le tabaxi effectue deux attaques avec ses griffes, son épée courte ou son arc court.",
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts tranchants.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arc court. Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

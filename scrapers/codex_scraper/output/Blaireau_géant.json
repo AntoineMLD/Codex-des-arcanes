@@ -1,0 +1,45 @@
+{
+    "title": "Blaireau géant",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=blaireau-geant",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "13 (2d8 + 4)",
+        "Vitesse",
+        "9 m, creusement 3 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "vision dans le noir 9 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le blaireau réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le blaireau réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

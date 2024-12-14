@@ -1,0 +1,49 @@
+{
+    "title": "Géant des nuages",
+    "prerequisites": "Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)",
+    "description": "Un géant des nuages gagne son rang en fonction des trésors qu'il accumule, de la richesse qu'il porte sur lui, et des dons qu'il réalise à d'autres géants des nuages.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/cloud-giant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=geant-des-nuages",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "200 (16d12 + 96)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "27 (+8)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "22 (+6)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "Con +10, Sag +7, Cha +7",
+        "Compétences",
+        "Intuition +7, Perception +7",
+        "Sens",
+        "Perception passive 17",
+        "Langues",
+        "commun, géant",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le géant effectue deux attaques avec la morgenstern.",
+        "Morgenstern. Attaque au corps à corps avec une arme : +12 au toucher, allonge 3 m, une cible. Touché : 21 (3d8 + 8) dégâts perforants.",
+        "Rocher. Attaque à distance avec une arme : +12 au toucher, portée 18/72 m, une cible. Touché : 30 (4d10 + 8) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le géant effectue deux attaques avec la morgenstern.",
+        "Morgenstern. Attaque au corps à corps avec une arme : +12 au toucher, allonge 3 m, une cible. Touché : 21 (3d8 + 8) dégâts perforants.",
+        "Rocher. Attaque à distance avec une arme : +12 au toucher, portée 18/72 m, une cible. Touché : 30 (4d10 + 8) dégâts contondants."
+    ],
+    "reactions": []
+}

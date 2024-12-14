@@ -1,0 +1,53 @@
+{
+    "title": "Démon des ombres",
+    "prerequisites": "Fiélon (démon) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/shadow-demon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=demon-des-ombres",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "66 (12d8 + 12)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Jets de sauvegarde",
+        "Dex +5 Cha +4",
+        "Compétences",
+        "Discrétion +7",
+        "Vulnérabilités aux dégâts",
+        "radiant",
+        "Résistances aux dégâts",
+        "acide, feu, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "froid, foudre, poison",
+        "Immunités aux états",
+        "épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "abyssal, télépathie 36 m",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 10 (2d6 + 3) dégâts psychiques ou, si le démon a un avantage à son jet d'attaque, 17 (4d6 + 3) dégâts psychiques."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 10 (2d6 + 3) dégâts psychiques ou, si le démon a un avantage à son jet d'attaque, 17 (4d6 + 3) dégâts psychiques."
+    ],
+    "reactions": []
+}

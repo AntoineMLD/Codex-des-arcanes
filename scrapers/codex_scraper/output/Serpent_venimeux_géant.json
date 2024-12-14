@@ -1,0 +1,43 @@
+{
+    "title": "Serpent venimeux géant",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux-geant",
+    "stats": [
+        "Classe d'armure",
+        "14",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Compétences",
+        "Perception +2",
+        "Sens",
+        "vision aveugle 3 m, Perception passive 12",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 6 (1d4 + 4) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 6 (1d4 + 4) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

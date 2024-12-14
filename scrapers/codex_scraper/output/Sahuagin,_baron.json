@@ -1,0 +1,51 @@
+{
+    "title": "Sahuagin, baron",
+    "prerequisites": "Humanoïde (sahuagin) de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/sahuagin-baron.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sahuagin-baron",
+    "stats": [
+        "Classe d'armure",
+        "16 (cuirasse)",
+        "Points de vie",
+        "76 (9d10 + 27)",
+        "Vitesse",
+        "9 m, nage 15 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "17 (+3)",
+        "Jets de sauvegarde",
+        "Dex +5, Con +6, Int +5, Sag +4",
+        "Compétences",
+        "Perception +7",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 17",
+        "Langues",
+        "sahuagin",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le sahuagin effectue trois attaques : une de morsure et deux avec ses griffes ou avec le trident.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d4 + 4) dégâts perforants.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisé à deux mains pour effectuer une attaque au corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le sahuagin effectue trois attaques : une de morsure et deux avec ses griffes ou avec le trident.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d4 + 4) dégâts perforants.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisé à deux mains pour effectuer une attaque au corps à corps."
+    ],
+    "reactions": []
+}

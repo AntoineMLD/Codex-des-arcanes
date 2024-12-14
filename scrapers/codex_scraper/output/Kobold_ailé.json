@@ -1,0 +1,43 @@
+{
+    "title": "Kobold ailé",
+    "prerequisites": "Humanoïde (kobold) de taille P, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/winged-kobold.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kobold-aile",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "7 (3d6 - 3)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "7 (-2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "9 (-1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "8 (-1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Dague. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Chute de pierre. Attaque à distance avec une arme : +5 au toucher, une cible se trouvant directement sous le kobold. Touché : 6 (1d6 + 3) dégâts contondants."
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Chute de pierre. Attaque à distance avec une arme : +5 au toucher, une cible se trouvant directement sous le kobold. Touché : 6 (1d6 + 3) dégâts contondants."
+    ],
+    "reactions": []
+}

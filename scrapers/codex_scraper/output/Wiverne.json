@@ -1,0 +1,49 @@
+{
+    "title": "Wiverne",
+    "prerequisites": "Dragon de taille G, sans alignement",
+    "description": "Cousines des grands dragons, les wivernes possèdent deux pattes écailleuses, des ailes de cuir et une queue musclée surmontée d'un dard empoisonné pouvant tuer une créature en quelques secondes.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wyvern.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=wiverne",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "110 (13d10 + 39)",
+        "Vitesse",
+        "6 m, vol 24 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La wiverne effectue deux attaques : une de morsure et une avec son dard. Lorsqu'elle vole, elle peut utiliser ses griffes à la place d'une des attaques.",
+        "Dard. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une créature. Touché : 11 (2d6 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. La wiverne effectue deux attaques : une de morsure et une avec son dard. Lorsqu'elle vole, elle peut utiliser ses griffes à la place d'une des attaques.",
+        "Dard. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une créature. Touché : 11 (2d6 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

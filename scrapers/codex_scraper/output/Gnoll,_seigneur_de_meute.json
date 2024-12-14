@@ -1,0 +1,49 @@
+{
+    "title": "Gnoll, seigneur de meute",
+    "prerequisites": "Humanoïde (gnoll) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gnoll-seigneur-de-meute",
+    "stats": [
+        "Classe d'armure",
+        "15 (chemise de mailles)",
+        "Points de vie",
+        "49 (9d8 + 9)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "gnoll",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le gnoll effectue deux attaques, avec sa coutille ou avec son arc long, et utilise son Incitation au déchaînement s'il le peut.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Coutille. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une cible. Touché : 8 (1d10 + 3) dégâts tranchants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.",
+        "Incitation au déchaînement (Recharge 5-6). Une créature que le gnoll peut voir dans un rayon de 9 mètres autour de lui peut utiliser sa réaction pour effectuer une attaque au corps à corps si elle peut entendre le gnoll et qu'elle possède le trait Déchaîné."
+    ],
+    "actions": [
+        "Attaques multiples. Le gnoll effectue deux attaques, avec sa coutille ou avec son arc long, et utilise son Incitation au déchaînement s'il le peut.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Coutille. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une cible. Touché : 8 (1d10 + 3) dégâts tranchants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.",
+        "Incitation au déchaînement (Recharge 5-6). Une créature que le gnoll peut voir dans un rayon de 9 mètres autour de lui peut utiliser sa réaction pour effectuer une attaque au corps à corps si elle peut entendre le gnoll et qu'elle possède le trait Déchaîné."
+    ],
+    "reactions": []
+}

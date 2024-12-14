@@ -1,0 +1,41 @@
+{
+    "title": "Guêpe géante",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=guepe-geante",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "3 m, vol 15 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Dard. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d6 + 2) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si le poison réduit les points de vie de la cible à 0, celle-ci est stable mais empoisonnée durant 1 heure, même si elle récupère des points de vie par la suite, et paralysée tant qu'elle est empoisonnée de cette manière."
+    ],
+    "actions": [
+        "Dard. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d6 + 2) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si le poison réduit les points de vie de la cible à 0, celle-ci est stable mais empoisonnée durant 1 heure, même si elle récupère des points de vie par la suite, et paralysée tant qu'elle est empoisonnée de cette manière."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Djinn",
+    "prerequisites": "Élémentaire de taille G, chaotique bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/djinni.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=djinn",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "161 (14d10 + 84)",
+        "Vitesse",
+        "9 m, vol 27 m",
+        "FOR",
+        "21 (+5)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "22 (+6)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "20 (+5)",
+        "Jets de sauvegarde",
+        "Dex +6, Sag +7, Cha +9",
+        "Immunités aux dégâts",
+        "foudre, tonnerre",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 13",
+        "Langues",
+        "aérien",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le djinn effectue trois attaques avec le cimeterre.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants + 3 (1d6) dégâts de foudre ou de tonnerre (au choix du djinn).",
+        "Création de tourbillon. Le djinn crée magiquement un tourbillon de vent de 1,50 mètre de rayon et de 9 mètres de haut, en un point situé dans un rayon de 36 mètres autour du djinn et qu'il peut voir. Le tourbillon reste tant que le djinn maintient sa concentration (comme s'il se concentrait sur un sort). Toute créature, à l'exception du djinn, qui pénètre dans le tourbillon doit réussir un jet de sauvegarde de Force DD 18 ou être entravée par les vents. Le djinn peut déplacer le tourbillon jusqu'à 18 mètres en utilisant une action, et les créatures entravées par le tourbillon se déplacent avec lui. Le tourbillon se termine si le djinn le perd de vue. Une créature peut utiliser son action pour libérer une créature entravée par le tourbillon (elle peut se libérer elle-même), en réussissant un jet de Force DD 18. En cas de réussite, la créature n'est plus entravée et se déplace à l'endroit le plus proche à l'extérieur du tourbillon."
+    ],
+    "actions": [
+        "Attaques multiples. Le djinn effectue trois attaques avec le cimeterre.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants + 3 (1d6) dégâts de foudre ou de tonnerre (au choix du djinn).",
+        "Création de tourbillon. Le djinn crée magiquement un tourbillon de vent de 1,50 mètre de rayon et de 9 mètres de haut, en un point situé dans un rayon de 36 mètres autour du djinn et qu'il peut voir. Le tourbillon reste tant que le djinn maintient sa concentration (comme s'il se concentrait sur un sort). Toute créature, à l'exception du djinn, qui pénètre dans le tourbillon doit réussir un jet de sauvegarde de Force DD 18 ou être entravée par les vents. Le djinn peut déplacer le tourbillon jusqu'à 18 mètres en utilisant une action, et les créatures entravées par le tourbillon se déplacent avec lui. Le tourbillon se termine si le djinn le perd de vue. Une créature peut utiliser son action pour libérer une créature entravée par le tourbillon (elle peut se libérer elle-même), en réussissant un jet de Force DD 18. En cas de réussite, la créature n'est plus entravée et se déplace à l'endroit le plus proche à l'extérieur du tourbillon."
+    ],
+    "reactions": []
+}

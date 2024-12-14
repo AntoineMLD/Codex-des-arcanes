@@ -1,0 +1,41 @@
+{
+    "title": "Babouin",
+    "prerequisites": "Bête de taille P, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=babouin",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "3 (1d6)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 – 1) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 – 1) dégâts perforants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Banshie",
+    "prerequisites": "Mort-vivant de taille M, chaotique mauvais",
+    "description": "La mélancolique banshie est une créature malveillante formée à partir de l'esprit d'une femme elfe. Ses cheveux ceignent son visage tel un enchevêtrement désordonné, et son corps est vêtu de haillons vaporeux qui volent et tournent autour d'elle.",
+    "source": "Monster Manual (BR)",
+    "image_url": "https://www.aidedd.org/dnd/images/banshee.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=banshie",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "58 (13d8)",
+        "Vitesse",
+        "0 m, vol 12 m (stationnaire)",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "17 (+3)",
+        "Jets de sauvegarde",
+        "Sag +2, Cha +5",
+        "Résistances aux dégâts",
+        "acide, foudre, feu, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "froid, nécrotique, poison",
+        "Immunités aux états",
+        "à terre, charmé, empoisonné, agrippé, entravé, épuisement, paralysé, pétrifié, effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, elfique",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Contact corrupteur. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une cible. Touché : 12 (3d6 + 2) dégâts nécrotiques.",
+        "Visage Effroyable. Chaque créature non morte-vivante se trouvant à 18 mètres de la banshie et pouvant la voir doit réussir un jet de sauvegarde de Sagesse DD 13 ou être effrayée pendant 1 minute. Une créature effrayée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si la banshie est toujours visible, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde de la cible est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Visage Effroyable de la banshie pendant les prochaines 24 heures.",
+        "Hurlement (1/jour). La banshie pousse un hurlement plaintif, à condition de ne pas être exposée à la lumière du soleil. Les morts-vivants et les artificiels sont immunisés à cet effet. Toutes les autres créatures se situant à 9 mètres d'elle et pouvant l'entendre doivent effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, la créature tombe à 0 point de vie. En cas de réussite, elle subit 10 (3d6) dégâts psychiques."
+    ],
+    "actions": [
+        "Contact corrupteur. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une cible. Touché : 12 (3d6 + 2) dégâts nécrotiques.",
+        "Visage Effroyable. Chaque créature non morte-vivante se trouvant à 18 mètres de la banshie et pouvant la voir doit réussir un jet de sauvegarde de Sagesse DD 13 ou être effrayée pendant 1 minute. Une créature effrayée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si la banshie est toujours visible, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde de la cible est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Visage Effroyable de la banshie pendant les prochaines 24 heures.",
+        "Hurlement (1/jour). La banshie pousse un hurlement plaintif, à condition de ne pas être exposée à la lumière du soleil. Les morts-vivants et les artificiels sont immunisés à cet effet. Toutes les autres créatures se situant à 9 mètres d'elle et pouvant l'entendre doivent effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, la créature tombe à 0 point de vie. En cas de réussite, elle subit 10 (3d6) dégâts psychiques."
+    ],
+    "reactions": []
+}

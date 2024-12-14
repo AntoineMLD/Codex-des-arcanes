@@ -1,0 +1,53 @@
+{
+    "title": "Épouvantail",
+    "prerequisites": "Artificiel de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/scarecrow.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=epouvantail",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "36 (8d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Vulnérabilités aux dégâts",
+        "feu",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, effrayé, paralysé, empoisonné, inconscient",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "comprend les langues de son créateur mais ne peut pas parler",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'épouvantail effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée jusqu'à la fin du prochain tour de l'épouvantail.",
+        "Regard terrifiant. L'épouvantail cible une créature qu'il peut voir et située à 9 mètres ou moins de lui. Si la cible peut voir l'épouvantail, elle doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée par magie jusqu'à la fin du prochain tour de l'épouvantail. La cible effrayée est également paralysée."
+    ],
+    "actions": [
+        "Attaques multiples. L'épouvantail effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée jusqu'à la fin du prochain tour de l'épouvantail.",
+        "Regard terrifiant. L'épouvantail cible une créature qu'il peut voir et située à 9 mètres ou moins de lui. Si la cible peut voir l'épouvantail, elle doit réussir un jet de sauvegarde de Sagesse DD 11 ou être effrayée par magie jusqu'à la fin du prochain tour de l'épouvantail. La cible effrayée est également paralysée."
+    ],
+    "reactions": []
+}

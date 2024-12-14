@@ -1,0 +1,51 @@
+{
+    "title": "Chasme",
+    "prerequisites": "Fiélon (démon) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-chasme.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chasme",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "84 (13d10 + 13)",
+        "Vitesse",
+        "6 m, vol 18 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "10 (+0)",
+        "Jets de sauvegarde",
+        "Dex +5, Sag +5",
+        "Compétences",
+        "Perception +5",
+        "Résistances aux dégâts",
+        "froid, feu, foudre",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15",
+        "Langues",
+        "abyssal, télépathie 36 m",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Rostre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 16 (4d6 + 2) dégâts perforants + 24 (7d6) dégâts nécrotiques, et le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis. Si cet effet fait tomber le maximum de points de vie de la créature à 0, la créature meurt. Cette réduction du maximum de points de vie de la créature est effective jusqu'à ce que la créature finisse un repos long ou soit ciblée par un sort de restauration supérieure ou tout autre effet similaire."
+    ],
+    "actions": [
+        "Rostre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 16 (4d6 + 2) dégâts perforants + 24 (7d6) dégâts nécrotiques, et le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis. Si cet effet fait tomber le maximum de points de vie de la créature à 0, la créature meurt. Cette réduction du maximum de points de vie de la créature est effective jusqu'à ce que la créature finisse un repos long ou soit ciblée par un sort de restauration supérieure ou tout autre effet similaire."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Prêtre",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les prêtres transmettent les enseignements de leurs dieux aux gens du peuple. Ils sont les leaders spirituels des temples et des chapelles et détiennent souvent une position influente au sein de leur communauté. Les prêtres mauvais peuvent travailler ouvertement sous le joug d'un tyran, ou être les chefs d'une secte religieuse dissimulée dans l'ombre d'une civilisation bonne, supervisant des rites dépravés.Un prêtre dispose généralement d'un ou plusieurs acolytes qui l'aident lors des cérémonies.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pretre",
+    "stats": [
+        "Classe d'armure",
+        "13 (chemise de mailles)",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "13 (+1)",
+        "Compétences",
+        "Médecine +7, Persuasion +3, Religion +5",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "deux langues au choix",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Masse d'armes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants."
+    ],
+    "actions": [
+        "Masse d'armes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Espion",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les dirigeants, les nobles, les marchands, les maîtres de guilde et autres riches notables utilisent les espions pour avoir le dessus dans un monde à la politique sans foi ni loi. Un espion est entraîné à récolter secrètement de l'information. Les espions loyaux préféreraient mourir que divulguer des renseignements qui pourraient les compromettre, eux ou leurs employeurs.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=espion",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "27 (6d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Discrétion +4, Escamotage +4, Intuition +4, Investigation +5, Perception +6, Persuasion +5, Tromperie +5",
+        "Sens",
+        "Perception passive 16",
+        "Langues",
+        "deux langues au choix",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'espion effectue deux attaques au corps à corps.",
+        "Épée courte. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arbalète de poing. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'espion effectue deux attaques au corps à corps.",
+        "Épée courte. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arbalète de poing. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

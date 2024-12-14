@@ -1,0 +1,45 @@
+{
+    "title": "Pieuvre géante",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/octopus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pieuvre-geante",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "52 (8d10 + 8)",
+        "Vitesse",
+        "3 m, nage 18 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Compétences",
+        "Discrétion +5, Perception +4",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Tentacules. Attaque au corps à corps avec une arme : +5 au toucher, allonge 4,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants, et la cible est agrippée (DD 16 pour s'échapper). Tant qu'elle est agrippée, la créature est entravée, et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.",
+        "Nuage d'encre (Recharge après un repos court ou long). Un nuage d'encre de 6 mètres de rayon s'étend autours de la pieuvre si elle se trouve sous l'eau. La visibilité dans la zone est nulle pendant 1 minute, bien qu'un fort courant puisse disperser l'encre. Après avoir projeté son nuage d'encre, la pieuvre peut réaliser l'action Foncer en tant qu'action bonus."
+    ],
+    "actions": [
+        "Tentacules. Attaque au corps à corps avec une arme : +5 au toucher, allonge 4,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants, et la cible est agrippée (DD 16 pour s'échapper). Tant qu'elle est agrippée, la créature est entravée, et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.",
+        "Nuage d'encre (Recharge après un repos court ou long). Un nuage d'encre de 6 mètres de rayon s'étend autours de la pieuvre si elle se trouve sous l'eau. La visibilité dans la zone est nulle pendant 1 minute, bien qu'un fort courant puisse disperser l'encre. Après avoir projeté son nuage d'encre, la pieuvre peut réaliser l'action Foncer en tant qu'action bonus."
+    ],
+    "reactions": []
+}

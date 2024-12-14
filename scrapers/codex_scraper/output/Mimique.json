@@ -1,0 +1,49 @@
+{
+    "title": "Mimique",
+    "prerequisites": "Monstruosité (métamorphe) de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/mimic.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mimique",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "58 (9d8 + 18)",
+        "Vitesse",
+        "4,50 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Discrétion +5",
+        "Immunités aux dégâts",
+        "acide",
+        "Immunités aux états",
+        "à terre",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants. Si la mimique est sous forme d'objet, la cible est affectée par le trait Collant.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 4 (1d8) dégâts d'acide."
+    ],
+    "actions": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants. Si la mimique est sous forme d'objet, la cible est affectée par le trait Collant.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 4 (1d8) dégâts d'acide."
+    ],
+    "reactions": []
+}

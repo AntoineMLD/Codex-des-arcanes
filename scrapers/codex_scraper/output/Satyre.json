@@ -1,0 +1,47 @@
+{
+    "title": "Satyre",
+    "prerequisites": "Fée de taille M, chaotique neutre",
+    "description": "Les satyres sont des fées bruyantes qui ressemblent à des humains corpulents, mais dont les membres inférieurs sont couverts de fourrure et les pieds sont des sabots fendus comme ceux d'une chèvre. Ils batifolent au sein des forêts sauvages, conduits par la curiosité et l'hédonisme à parts égales.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/satyr.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=satyre",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure de cuir)",
+        "Points de vie",
+        "31 (7d8)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Discrétion +5, Perception +2, Représentation +6",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "commun, elfique, sylvestre",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Coup de tête. Attaque au corps à corps avec une arme : + 3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts contondants.",
+        "Épée courte. Attaque au corps à corps avec une arme : + 5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arc court. Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Coup de tête. Attaque au corps à corps avec une arme : + 3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts contondants.",
+        "Épée courte. Attaque au corps à corps avec une arme : + 5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arc court. Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

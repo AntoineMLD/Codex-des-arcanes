@@ -1,0 +1,45 @@
+{
+    "title": "Élan géant",
+    "prerequisites": "Bête de taille TG, sans alignement",
+    "description": "Le majestueux élan géant est rare, au point que son apparition est souvent considérée comme la préfiguration d'un événement important, comme la naissance d'un roi. Des légendes racontent que les dieux prennent la forme d'un élan géant lorsqu'ils visitent le plan matériel. Beaucoup de cultures croient donc que chasser ces créatures déclenche la colère divine.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=elan-geant",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "42 (5d12 + 10)",
+        "Vitesse",
+        "18 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "Un élan géant comprend le commun, l'elfique et le sylvestre mais ne peut pas les parler",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Coup de tête. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature au sol. Touché : 22 (4d8 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Coup de tête. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature au sol. Touché : 22 (4d8 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

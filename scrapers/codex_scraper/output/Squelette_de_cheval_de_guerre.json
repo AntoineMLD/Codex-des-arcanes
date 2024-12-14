@@ -1,0 +1,47 @@
+{
+    "title": "Squelette de cheval de guerre",
+    "prerequisites": "Mort-vivant de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=squelette-de-cheval-de-guerre",
+    "stats": [
+        "Classe d'armure",
+        "13 (restes de caparaçonnage)",
+        "Points de vie",
+        "22 (3d10 + 6)",
+        "Vitesse",
+        "18 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "5 (-3)",
+        "Vulnérabilités aux dégâts",
+        "contondant",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

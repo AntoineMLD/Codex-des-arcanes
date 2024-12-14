@@ -1,0 +1,47 @@
+{
+    "title": "Troll",
+    "prerequisites": "Géant de taille G, chaotique mauvais",
+    "description": "Redoutables géants à la peau verte, les trolls mangent tout ce qu'ils peuvent attraper et dévorer. Seuls l'acide et le feu peuvent arrêter les propriétés régénératrices de la chair d'un troll.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/troll.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=troll",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "84 (8d10 + 40)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "9 (-1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +2",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "géant",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le troll effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le troll effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cockatrice",
+    "prerequisites": "Monstruosité de taille P, sans alignement",
+    "description": "La cockatrice ressemble à hideux mélange entre un lézard, un oiseau et une chauve-souris. Elle est tristement connue à cause de sa capacité à changer la chair en pierre.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/cockatrice.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cockatrice",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "27 (6d6 + 6)",
+        "Vitesse",
+        "6 m, vol 12 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être pétrifiée par magie. En cas d'échec, la magie commence à transformer la créature en pierre, et celle-ci est entravée. Elle doit retenter le jet de sauvegarde à la fin de son tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée pendant 24 heures."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être pétrifiée par magie. En cas d'échec, la magie commence à transformer la créature en pierre, et celle-ci est entravée. Elle doit retenter le jet de sauvegarde à la fin de son tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée pendant 24 heures."
+    ],
+    "reactions": []
+}

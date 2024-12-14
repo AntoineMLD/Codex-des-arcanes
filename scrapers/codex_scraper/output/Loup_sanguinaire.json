@@ -1,0 +1,43 @@
+{
+    "title": "Loup sanguinaire",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/dire-wolf.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=loup-sanguinaire",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "37 (5d10 + 10)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Discrétion +4, Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre."
+    ],
+    "reactions": []
+}

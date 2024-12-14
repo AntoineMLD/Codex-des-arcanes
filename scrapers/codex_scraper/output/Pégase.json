@@ -1,0 +1,45 @@
+{
+    "title": "Pégase",
+    "prerequisites": "Céleste de taille G, chaotique bon",
+    "description": "Les chevaux ailés blancs connus sous le nom de pégase s'élèvent à travers les cieux, offrant une vision de grâce et de majesté.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/pegasus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pegase",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "59 (7d10 + 21)",
+        "Vitesse",
+        "18 m, vol 27 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "Dex +4, Sag +4, Cha +3",
+        "Compétences",
+        "Perception +6",
+        "Sens",
+        "Perception passive 16",
+        "Langues",
+        "comprend le céleste, le commun, l'elfique et le sylvestre mais ne peut pas parler",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

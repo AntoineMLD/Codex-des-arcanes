@@ -1,0 +1,45 @@
+{
+    "title": "Nuée de rats",
+    "prerequisites": "Nuée de bêtes TP de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-rats",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "24 (7d8 - 7)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "9 (-1)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "9 (-1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Résistances aux dégâts",
+        "contondant, perforant, tranchant",
+        "Immunités aux états",
+        "à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié",
+        "Sens",
+        "vision dans le noir 9 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Morsures. Attaque au corps à corps avec une arme : +2 au toucher, allonge 0 m, une cible dans l'espace de la nuée. Touché : 7 (2d6) dégâts perforants, ou 3 (1d6) si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "actions": [
+        "Morsures. Attaque au corps à corps avec une arme : +2 au toucher, allonge 0 m, une cible dans l'espace de la nuée. Touché : 7 (2d6) dégâts perforants, ou 3 (1d6) si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "reactions": []
+}

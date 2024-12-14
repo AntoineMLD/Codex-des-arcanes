@@ -1,0 +1,49 @@
+{
+    "title": "Squelette de minotaure",
+    "prerequisites": "Mort-vivant de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/minotaur-skeleton.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=squelette-de-minotaure",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "67 (9d10 + 18)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "5 (-3)",
+        "Vulnérabilités aux dégâts",
+        "contondant",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "comprend l'abyssal mais ne peut pas parler",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 17 (2d12 + 4) dégâts tranchants.",
+        "Corne. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 17 (2d12 + 4) dégâts tranchants.",
+        "Corne. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

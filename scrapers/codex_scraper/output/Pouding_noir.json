@@ -1,0 +1,49 @@
+{
+    "title": "Pouding noir",
+    "prerequisites": "Vase de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/black-pudding.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pouding-noir",
+    "stats": [
+        "Classe d'armure",
+        "7",
+        "Points de vie",
+        "85 (10d10 + 30)",
+        "Vitesse",
+        "6 m, escalade 6 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "5 (-3)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "acide, froid, foudre, tranchant",
+        "Immunités aux états",
+        "aveuglé, charmé, assourdi, épuisement, effrayé, à terre",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants + 18 (4d8) dégâts d'acide. De plus, une armure non magique portée par la cible est en partie dissoute et subit une diminution permanente et cumulable de -1 à la CA qu'elle confère. L'armure est détruite si la diminution de CA fait tomber la CA de l'armure à 10.",
+        "Division. Lorsqu'un pouding de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, il se divise en 2 nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède la moitié des points de vie de l'original, arrondis à l'entier inférieur. Les nouveaux poudings font une taille de moins que le pouding original."
+    ],
+    "actions": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants + 18 (4d8) dégâts d'acide. De plus, une armure non magique portée par la cible est en partie dissoute et subit une diminution permanente et cumulable de -1 à la CA qu'elle confère. L'armure est détruite si la diminution de CA fait tomber la CA de l'armure à 10.",
+        "Division. Lorsqu'un pouding de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, il se divise en 2 nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède la moitié des points de vie de l'original, arrondis à l'entier inférieur. Les nouveaux poudings font une taille de moins que le pouding original."
+    ],
+    "reactions": [
+        "Division. Lorsqu'un pouding de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, il se divise en 2 nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède la moitié des points de vie de l'original, arrondis à l'entier inférieur. Les nouveaux poudings font une taille de moins que le pouding original."
+    ]
+}

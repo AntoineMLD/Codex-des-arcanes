@@ -1,0 +1,47 @@
+{
+    "title": "Dryade",
+    "prerequisites": "Fée de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/dryad.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dryade",
+    "stats": [
+        "Classe d'armure",
+        "11 (16 avec",
+        "peau d'écorce",
+        ")",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "18 (+4)",
+        "Compétences",
+        "Discrétion +5, Perception +4",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "elfique, sylvestre",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Gourdin. Attaque au corps à corps avec une arme : +2 au toucher (+6 au toucher avec gourdin magique), allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants, ou 8 (1d8 + 4) dégâts contondants avec gourdin magique.",
+        "Charme des fées. La dryade cible un humanoïde ou une bête qu'elle peut voir et se trouvant à 9 mètres maximum d'elle. Si la cible peut voir la dryade, elle doit réussir un jet de sauvegarde de Sagesse DD 14 ou être charmée par magie. La créature charmée considère la dryade comme une amie de confiance dont elle doit tenir compte et qu'elle doit protéger. Néanmoins la créature n'est pas sous le contrôle de la dryade, mais elle prend les requêtes et les actions de la dryade de la meilleure façon qui soit. Chaque fois que la dryade ou ses alliés font quelque chose de dangereux pour la cible, elle peut retenter son jet de sauvegarde, mettant fin à l'effet qui l'affecte en cas de réussite. Sinon, l'effet prend fin au bout de 24 heures ou jusqu'à ce que la dryade meure, jusqu'à ce qu'elle soit sur un plan d'existence différent de celui de la cible, ou mette fin à l'effet en utilisant son action bonus. Si le jet de sauvegarde de la cible est une réussite, la cible est immunisée au Charme des fées de la dryade pour les prochaines 24 heures. La dryade ne peut avoir sous son charme plus d'un humanoïde et plus de trois bêtes à la fois."
+    ],
+    "actions": [
+        "Gourdin. Attaque au corps à corps avec une arme : +2 au toucher (+6 au toucher avec gourdin magique), allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants, ou 8 (1d8 + 4) dégâts contondants avec gourdin magique.",
+        "Charme des fées. La dryade cible un humanoïde ou une bête qu'elle peut voir et se trouvant à 9 mètres maximum d'elle. Si la cible peut voir la dryade, elle doit réussir un jet de sauvegarde de Sagesse DD 14 ou être charmée par magie. La créature charmée considère la dryade comme une amie de confiance dont elle doit tenir compte et qu'elle doit protéger. Néanmoins la créature n'est pas sous le contrôle de la dryade, mais elle prend les requêtes et les actions de la dryade de la meilleure façon qui soit. Chaque fois que la dryade ou ses alliés font quelque chose de dangereux pour la cible, elle peut retenter son jet de sauvegarde, mettant fin à l'effet qui l'affecte en cas de réussite. Sinon, l'effet prend fin au bout de 24 heures ou jusqu'à ce que la dryade meure, jusqu'à ce qu'elle soit sur un plan d'existence différent de celui de la cible, ou mette fin à l'effet en utilisant son action bonus. Si le jet de sauvegarde de la cible est une réussite, la cible est immunisée au Charme des fées de la dryade pour les prochaines 24 heures. La dryade ne peut avoir sous son charme plus d'un humanoïde et plus de trois bêtes à la fois."
+    ],
+    "reactions": []
+}

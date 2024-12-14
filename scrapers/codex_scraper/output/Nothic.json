@@ -1,0 +1,49 @@
+{
+    "title": "Nothic",
+    "prerequisites": "Aberration de taille M, neutre mauvais",
+    "description": "Le nothic est une monstruosité possédant de terribles griffes et un grand œil unique. S'il est poussé à la violence, il utilise son horrible regard pour putréfier la peau sur les os de ses ennemis.",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/nothic.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nothic",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "45 (6d8 + 18)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Arcanes +3, Discrétion +5, Intuition +4, Perception +2",
+        "Sens",
+        "vision véritable 36 m, Perception passive 12",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le nothic effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Regard de putréfaction. Le nothic prend pour cible une créature qu'il peut voir dans un rayon de 9 mètres autour de lui. La cible doit réussir un jet de sauvegarde de Constitution DD 12 contre cette magie ou prendre 10 (3d6) dégâts nécrotiques.",
+        "Intuition mystérieuse. Le nothic prend pour cible une créature qu'il peut voir dans un rayon de 9 mètres autour de lui. La cible doit faire un jet de Charisme (Tromperie) contre un jet de Sagesse (Intuition) du nothic. Si le nothic l'emporte, il apprend par magie un fait ou un secret de la cible. Si la cible est immunisée aux charmes, elle remporte automatiquement l'opposition."
+    ],
+    "actions": [
+        "Attaques multiples. Le nothic effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Regard de putréfaction. Le nothic prend pour cible une créature qu'il peut voir dans un rayon de 9 mètres autour de lui. La cible doit réussir un jet de sauvegarde de Constitution DD 12 contre cette magie ou prendre 10 (3d6) dégâts nécrotiques.",
+        "Intuition mystérieuse. Le nothic prend pour cible une créature qu'il peut voir dans un rayon de 9 mètres autour de lui. La cible doit faire un jet de Charisme (Tromperie) contre un jet de Sagesse (Intuition) du nothic. Si le nothic l'emporte, il apprend par magie un fait ou un secret de la cible. Si la cible est immunisée aux charmes, elle remporte automatiquement l'opposition."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Bandit, capitaine",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement non loyal",
+    "description": "Il faut une forte personnalité, un esprit impitoyablement rusé, et une langue acérée pour maintenir un gang de bandits uni. Le capitaine bandit ne manque pas de ces qualités.Non content de gérer une équipe de râleurs égoïstes, le capitaine pirate, une variante du capitaine bandit, dirige et assure la protection d'un bateau. Pour garder la main sur son équipage, le capitaine doit régulièrement distribuer récompenses et brimades.Plus que les trésors, le capitaine bandit ou pirate est avide de réputation. Un prisonnier qui en appel à sa vanité ou à son ego a plus de chance d'obtenir un traitement clément que celui qui ne le fait pas ou prétend ne rien savoir de la sulfureuse réputation du capitaine.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/bandit-captain.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=bandit-capitaine",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure de cuir clouté)",
+        "Points de vie",
+        "65 (10d8 + 20)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "14 (+2)",
+        "Jets de sauvegarde",
+        "For +4, Dex +5, Sag +2",
+        "Compétences",
+        "Athlétisme +4, Tromperie +4",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "deux langues au choix",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le capitaine effectue trois attaques : deux avec son cimeterre et une avec sa dague. Ou bien il effectue deux attaques à distance avec ses dagues.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le capitaine effectue trois attaques : deux avec son cimeterre et une avec sa dague. Ou bien il effectue deux attaques à distance avec ses dagues.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

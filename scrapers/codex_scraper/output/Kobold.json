@@ -1,0 +1,43 @@
+{
+    "title": "Kobold",
+    "prerequisites": "Humanoïde (kobold) de taille P, loyal mauvais",
+    "description": "Les kobolds sont de lâches humanoïdes reptiliens qui ont pour habitude d'infester les donjons. Ils compensent leur inaptitude physique par leur grand talent à tendre des pièges.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/kobold.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kobold",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "5 (2d6 - 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "7 (-2)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "9 (-1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "8 (-1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Dague. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Fronde. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants."
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Fronde. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 4 (1d4 + 2) dégâts contondants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Lierre musqué jaune",
+    "prerequisites": "Plante de taille M, sans alignement",
+    "description": "Un lierre musqué jaune est une plante grimpante dont les fleurs ressemblent à celles d'une orchidée.",
+    "source": "Adventures (Tomb of Annihilation)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=lierre-musque-jaune",
+    "stats": [
+        "Classe d'armure",
+        "6",
+        "Points de vie",
+        "60 (11d8 + 11)",
+        "Vitesse",
+        "1,50 m, escalade 1,50 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "3 (-4)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Immunités aux états",
+        "assourdi, aveuglé, épuisement, à terre",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "actions": [
+        "Contact. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 13 (3d8) dégâts psychiques. Si la cible est un humanoïde qui tombe à 0 point de vie à cause de ses dégâts, il meurt et un bulbe de lierre musqué lui est implanté. À moins que ce bulbe ne soit détruit, le cadavre s'anime sous forme d'un zombi musqué jaune 24 heures après sa mort. Le buble est détruit si la créature est ramenée d'entre les morts avant qu'elle ne puisse se transformer en un zombi musqué jaune, ou si le cadavre est ciblé par un sort de délivrance des malédiction ou une magie similaire avant d'être réanimé.",
+        "Musc jaune (3/jour). Les fleurs du lierre libèrent un puissant musc qui cible tous les humanoïdes dans un rayon de 9 mètres. Chaque cible doit réussir un jet de sauvegarde de Sagesse DD 11 ou être charmée par le lierre durant 1 minute. Une créature charmée de cette manière ne fait rien pendant son tour, hormis se déplacer aussi près que possible du lierre. Une créature charmée par le lierre peut répéter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Serpent de feu",
+    "prerequisites": "Élémentaire de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/fire-snake.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=serpent-de-feu",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Vulnérabilités aux dégâts",
+        "froid",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "feu",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "comprend l'igné mais ne peut pas parler",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le serpent effectue deux attaques : une de morsure et une avec sa queue.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants + 3 (1d6) dégâts de feu.",
+        "Queue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts contondants + 3 (1d6) dégâts de feu."
+    ],
+    "actions": [
+        "Attaques multiples. Le serpent effectue deux attaques : une de morsure et une avec sa queue.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants + 3 (1d6) dégâts de feu.",
+        "Queue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts contondants + 3 (1d6) dégâts de feu."
+    ],
+    "reactions": []
+}

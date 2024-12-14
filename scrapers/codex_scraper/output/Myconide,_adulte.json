@@ -1,0 +1,45 @@
+{
+    "title": "Myconide, adulte",
+    "prerequisites": "Plante de taille M, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/myconid.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=myconide-adulte",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "22 (4d8 + 4)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Poing. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts contondants + 5 (2d4) dégâts de poison.",
+        "Spores pacificatrices (3/jour). Le myconide projette des spores sur une créature qu'il peut voir et se trouvant à 1,50 mètre de lui. La cible doit réussir un jet de sauvegarde de Constitution DD 11 ou être étourdie pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Spores de communication (3/jour). Des spores sont envoyées dans toutes les directions dans un rayon de 6 mètres autour du myconide. Ces spores contournent les angles de mur et n'affectent que les créatures possédant une valeur d'Intelligence de 2 ou supérieure et qui ne sont ni des morts-vivants, ni des artificiels, ni des élémentaires. Les créatures affectées peuvent communiquer par télépathie avec une autre créature affectée tant qu'elles se trouvent à 9 mètres ou moins l'une de l'autre. Cet effet reste effectif pendant 1 heure."
+    ],
+    "actions": [
+        "Poing. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts contondants + 5 (2d4) dégâts de poison.",
+        "Spores pacificatrices (3/jour). Le myconide projette des spores sur une créature qu'il peut voir et se trouvant à 1,50 mètre de lui. La cible doit réussir un jet de sauvegarde de Constitution DD 11 ou être étourdie pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Spores de communication (3/jour). Des spores sont envoyées dans toutes les directions dans un rayon de 6 mètres autour du myconide. Ces spores contournent les angles de mur et n'affectent que les créatures possédant une valeur d'Intelligence de 2 ou supérieure et qui ne sont ni des morts-vivants, ni des artificiels, ni des élémentaires. Les créatures affectées peuvent communiquer par télépathie avec une autre créature affectée tant qu'elles se trouvent à 9 mètres ou moins l'une de l'autre. Cet effet reste effectif pendant 1 heure."
+    ],
+    "reactions": []
+}

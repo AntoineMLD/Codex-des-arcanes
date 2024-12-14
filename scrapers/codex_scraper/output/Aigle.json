@@ -1,0 +1,43 @@
+{
+    "title": "Aigle",
+    "prerequisites": "Bête de taille P, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/eagle.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=aigle",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "3 (1d6)",
+        "Vitesse",
+        "3 m, vol 18 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Serres. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants."
+    ],
+    "actions": [
+        "Serres. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants."
+    ],
+    "reactions": []
+}

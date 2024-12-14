@@ -1,0 +1,136 @@
+{
+    "title": "Comparses",
+    "introduction": "Version officielle de l' Essentials Kit de cette règle mise en ligne par WotC lors de l'opération Stay at Home - Play at Home 2020.",
+    "sections": [
+        {
+            "title": "Bloc de stat d'un comparse",
+            "content": "Les caractéristiques de jeu d'un comparse sont présentées dans ce que l'on appelle un bloc de stat, qui est en fait une mini-feuille de personnage. Un bloc de stat contient les valeurs de caractéristique et les points de vie, ainsi que les actions qu'un comparse est le plus susceptible de mener en combat, et fonctionne avec n'importe quelle race de personnage. Si les joueurs et le MD s'entendent, il est aussi possible d'améliorer un comparse avec les traits raciaux des règles génériques. Pour plus d'informations sur les blocs de stat, voir la description des créatures des règles génériques. Compagnon d'armes (niv 1) Expert (niv 1) Incantateur (niv 1)"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Un comparse maîtrise toutes les armures, armes et outils inclus dans son bloc de stat. En outre, les compagnons d'armes maîtrisent les armes courantes et les armes de guerre, les boucliers et toutes les armures. Les experts maîtrisent les armes courantes, les rapières, les épées courtes et les armures légères. Les incantateurs maîtrisent les armes courantes et les armures légères."
+        },
+        {
+            "title": "Niveaux",
+            "content": "Un comparse commence comme un personnage de niveau 1. Au fur et à mesure des aventures, il gagne des points d'expérience et des niveaux comme un personnage joueur, en utilisant la progression des règles génériques. Lorsqu'un comparse gagne un niveau, consultez les tables ci-dessous pour obtenir le nouveau maximum de points de vie et les nouvelles capacités du comparse."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Niv",
+                "Points de vie",
+                "Capacités"
+            ],
+            "rows": [
+                {
+                    "Niv": "1",
+                    "Points de vie": "13 (2d8 +4)",
+                    "Capacités": "Rôle martial"
+                },
+                {
+                    "Niv": "2",
+                    "Points de vie": "19 (3d8 + 6)",
+                    "Capacités": "Second souffle"
+                },
+                {
+                    "Niv": "3",
+                    "Points de vie": "26 (4d8 + 8)",
+                    "Capacités": "Critique amélioré"
+                },
+                {
+                    "Niv": "4",
+                    "Points de vie": "32 (5d8 + 10)",
+                    "Capacités": "Amélioration de caractéristique"
+                },
+                {
+                    "Niv": "5",
+                    "Points de vie": "39 (6d8 + 12)",
+                    "Capacités": "Bonus de maîtrise"
+                },
+                {
+                    "Niv": "6",
+                    "Points de vie": "45 (7d8 + 14)",
+                    "Capacités": "Attaque supplémentaire"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niv",
+                "Points de vie",
+                "Capacités"
+            ],
+            "rows": [
+                {
+                    "Niv": "1",
+                    "Points de vie": "11 (2d8 + 2)",
+                    "Capacités": "Serviable, Outils"
+                },
+                {
+                    "Niv": "2",
+                    "Points de vie": "16 (3d8 + 3)",
+                    "Capacités": "Ruse"
+                },
+                {
+                    "Niv": "3",
+                    "Points de vie": "22 (4d8 + 4)",
+                    "Capacités": "Expertise"
+                },
+                {
+                    "Niv": "4",
+                    "Points de vie": "27 (5d8 + 5)",
+                    "Capacités": "Amélioration de caractéristique"
+                },
+                {
+                    "Niv": "5",
+                    "Points de vie": "33 (6d8 + 6)",
+                    "Capacités": "Bonus de maîtrise"
+                },
+                {
+                    "Niv": "6",
+                    "Points de vie": "38 (7d8 + 7)",
+                    "Capacités": "Attaque supplémentaire"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "",
+                "",
+                "",
+                "Sorts",
+                "",
+                ""
+            ],
+            "rows": [
+                {},
+                {},
+                {
+                    "": "2",
+                    "Sorts": "2"
+                },
+                {
+                    "": "2",
+                    "Sorts": "2"
+                },
+                {
+                    "": "3",
+                    "Sorts": "2"
+                },
+                {
+                    "": "3",
+                    "Sorts": "3"
+                },
+                {
+                    "": "4",
+                    "Sorts": "3"
+                },
+                {
+                    "": "4",
+                    "Sorts": "3"
+                }
+            ]
+        }
+    ]
+}

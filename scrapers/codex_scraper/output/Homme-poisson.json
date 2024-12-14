@@ -1,0 +1,43 @@
+{
+    "title": "Homme-poisson",
+    "prerequisites": "Humanoïde (homme-poisson) de taille M, neutre",
+    "description": "Les hommes-poissons sont des humanoïdes aquatiques dont la partie inférieure du corps est celle d'un poisson. Ils vivent en petites tribus sous les mers.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/merfolk.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=homme-poisson",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "3 m, nage 12 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Perception +2",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "aquatique, commun",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d6) dégâts perforants, ou 4 (1d8) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "actions": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d6) dégâts perforants, ou 4 (1d8) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Roi/reine lézard",
+    "prerequisites": "Humanoïde (homme-lézard) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=roi-reine-lezard",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "78 (12d8 + 24)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "Con +4, Sag +2",
+        "Compétences",
+        "Discrétion +5, Perception +4, Survie +4",
+        "Immunités aux états",
+        "effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "abyssal, draconique",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le roi lézard effectue deux attaques : une de morsure et une avec ses griffes ou avec le trident, ou deux attaques avec le trident.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts tranchants.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants, ou 7 (1d8 + 3) dégâts perforants si utilisé à deux mains pour faire une attaque au corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le roi lézard effectue deux attaques : une de morsure et une avec ses griffes ou avec le trident, ou deux attaques avec le trident.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts tranchants.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants, ou 7 (1d8 + 3) dégâts perforants si utilisé à deux mains pour faire une attaque au corps à corps."
+    ],
+    "reactions": []
+}

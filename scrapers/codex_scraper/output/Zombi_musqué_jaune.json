@@ -1,0 +1,41 @@
+{
+    "title": "Zombi musqué jaune",
+    "prerequisites": "Mort-vivant de taille M, sans alignement",
+    "description": "Non spécifié",
+    "source": "Adventures (Tomb of Annihilation)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=zombi-musque-jaune",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "3 (-4)",
+        "Immunités aux états",
+        "charmé, épuisement",
+        "Sens",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "actions": [
+        "Coup. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts contondants."
+    ],
+    "reactions": []
+}

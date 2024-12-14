@@ -1,0 +1,43 @@
+{
+    "title": "Faucon de sang",
+    "prerequisites": "Bête de taille P, sans alignement",
+    "description": "Tenant son nom de ses plumes pourpres et de sa nature agressive, le faucon de sang attaque sans crainte avec son bec aiguisé telle une dague.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=faucon-de-sang",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "7 (2d6)",
+        "Vitesse",
+        "3 m, vol 18 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

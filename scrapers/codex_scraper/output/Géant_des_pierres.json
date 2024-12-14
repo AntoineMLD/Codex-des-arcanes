@@ -1,0 +1,53 @@
+{
+    "title": "Géant des pierres",
+    "prerequisites": "Géant de taille TG, neutre",
+    "description": "Les géants des pierres sont reclus, calmes et paisibles, tant qu'on les laisse seuls.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/stone-giant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=geant-des-pierres",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "126 (11d12 + 55)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "23 (+6)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "9 (-1)",
+        "Jets de sauvegarde",
+        "Dex +5, Con +8, Sag +4",
+        "Compétences",
+        "Athlétisme +12, Perception +4",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "géant",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le géant effectue deux attaques avec la massue.",
+        "Massue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 4,50 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 18/72 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 ou tomber à terre.",
+        "Réception de rocher. Si un rocher ou un objet similaire est envoyé au géant, le géant peut, s'il réussit un jet de sauvegarde de Dextérité DD 10, attraper le projectile et ainsi en éviter les dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le géant effectue deux attaques avec la massue.",
+        "Massue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 4,50 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 18/72 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 ou tomber à terre.",
+        "Réception de rocher. Si un rocher ou un objet similaire est envoyé au géant, le géant peut, s'il réussit un jet de sauvegarde de Dextérité DD 10, attraper le projectile et ainsi en éviter les dégâts contondants."
+    ],
+    "reactions": [
+        "Réception de rocher. Si un rocher ou un objet similaire est envoyé au géant, le géant peut, s'il réussit un jet de sauvegarde de Dextérité DD 10, attraper le projectile et ainsi en éviter les dégâts contondants."
+    ]
+}

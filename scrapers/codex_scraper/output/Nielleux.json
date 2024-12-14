@@ -1,0 +1,47 @@
+{
+    "title": "Nielleux",
+    "prerequisites": "Plante de taille P, neutre mauvais",
+    "description": "Un nielleux est une plante éveillée qui ressemble à un arbuste qui peut tirer ses racines hors du sol. Ses branches se tordent ensemble pour former une silhouette humanoïde avec une tête et des membres.",
+    "source": "Monster Manual (BR)",
+    "image_url": "https://www.aidedd.org/dnd/images/blight.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nielleux",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "4 (1d6 + 1)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "3 (-4)",
+        "Compétences",
+        "Discrétion +3",
+        "Vulnérabilités aux dégâts",
+        "feu",
+        "Immunités aux états",
+        "aveuglé, assourdi",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9",
+        "Langues",
+        "comprend le commun mais ne peut pas parler",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

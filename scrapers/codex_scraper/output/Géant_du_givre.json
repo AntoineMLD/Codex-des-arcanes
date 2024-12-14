@@ -1,0 +1,51 @@
+{
+    "title": "Géant du givre",
+    "prerequisites": "Géant de taille TG, neutre mauvais",
+    "description": "Les géants du givre sont des créatures faites de glace et de neige, avec des cheveux et une barbe d'une couleur blanc pâle ou bleu clair, et la peau aussi bleue que la glace. Ils ne respectent que la force brute et le talent au combat.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/frost-giant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=geant-du-givre",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure composite)",
+        "Points de vie",
+        "138 (12d12 + 60)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "23 (+6)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "21 (+5)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Jets de sauvegarde",
+        "Con +8, Sag +3, Cha +4",
+        "Compétences",
+        "Athlétisme +9, Perception +3",
+        "Immunités aux dégâts",
+        "froid",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "géant",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le géant effectue deux attaques avec la hache à deux mains.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 25 (3d12 + 6) dégâts tranchants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 18/72 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le géant effectue deux attaques avec la hache à deux mains.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 25 (3d12 + 6) dégâts tranchants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 18/72 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants."
+    ],
+    "reactions": []
+}

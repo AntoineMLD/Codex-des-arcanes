@@ -1,0 +1,7 @@
+{
+    "title": "Secousse sismique",
+    "prerequisites": "Aucun",
+    "description": "Vous causez un tremblement dans le sol à portée. Chaque créature autre que vous-même dans cette zone doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 1d6 dégâts contondants et se retrouve à terre. Si le sol dans cette zone est de la terre meuble ou de la pierre, il devient un terrain difficile jusqu'à qu'il soit déblayé, et chaque portion de la zone de 1,50 mètre de diamètre nécessite au moins 1 minute pour être nettoyée à la main. Aux niveaux supérieurs . Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.",
+    "source": "Xanathar´s Guide to Everything",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique"
+}

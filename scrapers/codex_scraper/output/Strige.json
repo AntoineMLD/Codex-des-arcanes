@@ -1,0 +1,41 @@
+{
+    "title": "Strige",
+    "prerequisites": "Bête de taille TP, sans alignement",
+    "description": "Cet horrible monstre ressemble à un croisement entre une grande chauve-souris et un moustique géant. Ses pattes se terminent par des pinces coupantes, et sa longue trompe en forme d'aiguille perfore l'air lorsque la strige cherche à se nourrir du sang de créatures vivantes.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/stirge.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=strige",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "2 (1d4)",
+        "Vitesse",
+        "3 m, vol 12 m",
+        "FOR",
+        "4 (-3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "6 (-2)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Absorption de sang. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d4 + 3) dégâts perforants, et la strige reste attachée à sa cible. Tant qu'elle est attachée, la strige n'attaque pas mais au début de chaque tour de la strige, la cible perd 5 (1d4 + 3) point de vie du fait qu'elle perde son sang. La strige peut se détacher en dépensant 1,50 mètre de mouvement, ce qu'elle fait une fois qu'elle a absorbé 10 points de vie de sang de la cible, ou lorsque cette dernière est morte. Toute créature, dont la cible, peut utiliser son action pour détacher la strige."
+    ],
+    "actions": [
+        "Absorption de sang. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 5 (1d4 + 3) dégâts perforants, et la strige reste attachée à sa cible. Tant qu'elle est attachée, la strige n'attaque pas mais au début de chaque tour de la strige, la cible perd 5 (1d4 + 3) point de vie du fait qu'elle perde son sang. La strige peut se détacher en dépensant 1,50 mètre de mouvement, ce qu'elle fait une fois qu'elle a absorbé 10 points de vie de sang de la cible, ou lorsque cette dernière est morte. Toute créature, dont la cible, peut utiliser son action pour détacher la strige."
+    ],
+    "reactions": []
+}

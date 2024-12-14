@@ -1,0 +1,45 @@
+{
+    "title": "Grenouille géante",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=grenouille-geante",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "18 (4d8)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Compétences",
+        "Discrétion +3, Perception +2",
+        "Sens",
+        "vision dans le noir 9 m, Perception passive 12",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, et la cible est agrippée (DD 11 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et la grenouille ne peut pas mordre une autre cible.",
+        "Engloutissement. La grenouille effectue une attaque de morsure contre une cible de taille P ou inférieure qu'elle agrippe. Si l'attaque réussit, la cible est avalée et elle n'est plus agrippée. La créature avalée est aveuglée est entravée, bénéficie d'un abri total contre les attaques ou autres effets provenant de l'extérieur de la grenouille, et subit 5 (2d4) dégâts d'acide au début de chaque tour de la grenouille. La grenouille ne peut avaler qu'une cible à la fois. Si la grenouille meurt, la créature avalée n'est plus entravée et peut sortir du cadavre en utilisant 1,50 mètre de mouvement, pour alors en émerger et se retrouver à terre."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, et la cible est agrippée (DD 11 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et la grenouille ne peut pas mordre une autre cible.",
+        "Engloutissement. La grenouille effectue une attaque de morsure contre une cible de taille P ou inférieure qu'elle agrippe. Si l'attaque réussit, la cible est avalée et elle n'est plus agrippée. La créature avalée est aveuglée est entravée, bénéficie d'un abri total contre les attaques ou autres effets provenant de l'extérieur de la grenouille, et subit 5 (2d4) dégâts d'acide au début de chaque tour de la grenouille. La grenouille ne peut avaler qu'une cible à la fois. Si la grenouille meurt, la créature avalée n'est plus entravée et peut sortir du cadavre en utilisant 1,50 mètre de mouvement, pour alors en émerger et se retrouver à terre."
+    ],
+    "reactions": []
+}

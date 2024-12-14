@@ -1,0 +1,52 @@
+{
+    "title": "Sage, maître",
+    "prerequisites": "Humanoïde (toute race) de taille M, -",
+    "description": "Les spécialistes de la connaissance qui résident à Candlekeep sont des maîtres sages et des sages qui placent l'érudition avant toute autre chose.",
+    "source": "Adventures (Candlekeep Mysteries)",
+    "image_url": "https://www.aidedd.org/dnd/images/sage.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sage-maitre",
+    "stats": [
+        "Classe d'armure",
+        "10 (13 avec",
+        "armure de mage",
+        ")",
+        "Points de vie",
+        "54 (12d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "20 (+5)",
+        "SAG",
+        "18 (+4)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Arcanes +11, Histoire +11, Intuition +7, Investigation +11, Médecine +10, Nature +11, Religion +11",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "commun et cinq autres langues",
+        "Puissance",
+        "5 (1800 PX)",
+        "Bonus de maîtrise",
+        "+3"
+    ],
+    "actions": [
+        "Poigne électrique (sort mineur). Attaque au corps à corps avec un sort : +8 au toucher (avec avantage si la cible porte une armure en métal), allonge 1,50 m, une créature. Touché : 13 (3d8) dégâts de foudre, et la cible ne peut pas prendre de réaction avant le début de son prochain tour.",
+        "Boule de feu (sort de niveau 3 ; 3/jour). Le sage crée une explosion de feu centrée sur un point qu'il peut voir à 45 mètres ou moins de lui. Chaque créature dans une sphère de 6 mètres de rayon centrée sur ce point doit effectuer un jet de sauvegarde de Dextérité DD 14, subissant 28 (8d6) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le feu se propage dans les coins et enflamme dans la zone les objets inflammables qui ne sont pas portés.",
+        "Incantation. La caractéristique d'incantation du sage est l'Intelligence (jet de sauvegarde contre ses sorts DD 14, +6 au toucher pour les attaques avec un sort). Il lance l'un des sorts suivants",
+        "lumière, main de mage, réparation, prestidigitation",
+        "compréhension des langues, détection de la magie, dissipation de la magie, identification, lévitation, localisation d'objet, disque flottant de Tenser, serviteur invisible",
+        "bannissement, contact avec un autre plan, convocations instantanées de Drawmij, mythes et légendes, localisation de créature, contrat, métamorphose, protection contre le mal et le bien, scrutation, communication à distance, vision suprême",
+        "Bouclier (sort de niveau 1 ; 3/jour). Quand le sage est touché par une attaque ou ciblé par un sort de projectile magique, il invoque une barrière invisible de force magique qui le protège. Jusqu'au début de son prochain tour, le sage bénéficie d'un bonus de +5 à la CA, y compris contre le déclenchant l'attaque, et il ne subit aucun dégât de projectile magique."
+    ],
+    "reactions": [
+        "Bouclier (sort de niveau 1 ; 3/jour). Quand le sage est touché par une attaque ou ciblé par un sort de projectile magique, il invoque une barrière invisible de force magique qui le protège. Jusqu'au début de son prochain tour, le sage bénéficie d'un bonus de +5 à la CA, y compris contre le déclenchant l'attaque, et il ne subit aucun dégât de projectile magique."
+    ]
+}

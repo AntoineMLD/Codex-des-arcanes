@@ -1,0 +1,45 @@
+{
+    "title": "Nuée d'insectes",
+    "prerequisites": "Nuée de bêtes TP de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nuee-d-insectes",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "6 m, escalade 6 m",
+        "FOR",
+        "3 (-4)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "1 (-5)",
+        "Résistances aux dégâts",
+        "contondant, perforant, tranchant",
+        "Immunités aux états",
+        "à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié",
+        "Sens",
+        "vision aveugle 3 m, Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Morsures. Attaque au corps à corps avec une arme : +3 au toucher, allonge 0 m, une cible dans l'espace de la nuée. Touché : 10 (4d4) dégâts perforants, ou 5 (2d4) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "actions": [
+        "Morsures. Attaque au corps à corps avec une arme : +3 au toucher, allonge 0 m, une cible dans l'espace de la nuée. Touché : 10 (4d4) dégâts perforants, ou 5 (2d4) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "reactions": []
+}

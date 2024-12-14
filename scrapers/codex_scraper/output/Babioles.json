@@ -1,0 +1,415 @@
+{
+    "title": "Babioles",
+    "introduction": "Lorsque vous faites votre personnage, vous pouvez lancer un dé sur la table ci-dessous pour gagner une babiole, un objet simple légèrement imprégné de mystère. Le MD peut également utiliser cette table pour l'aider à décorer une salle dans un donjon ou remplir les poches d'une créature.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d100",
+                "Babiole"
+            ],
+            "rows": [
+                {
+                    "d100": "01",
+                    "Babiole": "Une main de gobelin momifiée"
+                },
+                {
+                    "d100": "02",
+                    "Babiole": "Un morceau de cristal qui brille faiblement au clair de lune"
+                },
+                {
+                    "d100": "03",
+                    "Babiole": "Une pièce d'or d'une terre inconnue"
+                },
+                {
+                    "d100": "04",
+                    "Babiole": "Un journal écrit dans une langue que vous ne connaissez pas"
+                },
+                {
+                    "d100": "05",
+                    "Babiole": "Un anneau de cuivre qui ne ternit pas"
+                },
+                {
+                    "d100": "06",
+                    "Babiole": "Une vieille pièce d'échecs en verre"
+                },
+                {
+                    "d100": "07",
+                    "Babiole": "Une paire de dés en osselet, chacun portant le symbole d'un crâne sur la face qui montrerait normalement le 6"
+                },
+                {
+                    "d100": "08",
+                    "Babiole": "Une petite idole représentant une créature cauchemardesque qui vous donne des rêves troublants quand vous dormez près d'elle"
+                },
+                {
+                    "d100": "09",
+                    "Babiole": "Un collier en corde duquel pendent quatre doigts elfes momifiés"
+                },
+                {
+                    "d100": "10",
+                    "Babiole": "L'acte d'une parcelle de terrain d'un domaine que vous ne connaissez pas"
+                },
+                {
+                    "d100": "11",
+                    "Babiole": "Un bloc de 30 grammes d'un matériau inconnu"
+                },
+                {
+                    "d100": "12",
+                    "Babiole": "Une petite poupée de chiffon piquée avec des aiguilles"
+                },
+                {
+                    "d100": "13",
+                    "Babiole": "Une dent d'une bête inconnue"
+                },
+                {
+                    "d100": "14",
+                    "Babiole": "Une énorme écaille, peut-être d'un dragon"
+                },
+                {
+                    "d100": "15",
+                    "Babiole": "Une plume vert clair"
+                },
+                {
+                    "d100": "16",
+                    "Babiole": "Une vieille carte de divination portant votre portrait"
+                },
+                {
+                    "d100": "17",
+                    "Babiole": "Un orbe en verre rempli de fumée qui se déplace"
+                },
+                {
+                    "d100": "18",
+                    "Babiole": "Un oeuf de 30 grammes avec une coque rouge vif"
+                },
+                {
+                    "d100": "19",
+                    "Babiole": "Une pipe qui fait des bulles"
+                },
+                {
+                    "d100": "20",
+                    "Babiole": "Un pot en verre contenant un morceau de chair bizarre qui flotte dans un liquide salé"
+                },
+                {
+                    "d100": "21",
+                    "Babiole": "Une petite boîte à musique de gnome qui joue une chanson qui vous rappelle vaguement votre enfance"
+                },
+                {
+                    "d100": "22",
+                    "Babiole": "Une petite statuette en bois d'un halfelin béat"
+                },
+                {
+                    "d100": "23",
+                    "Babiole": "Un orbe en cuivre gravé de runes étranges"
+                },
+                {
+                    "d100": "24",
+                    "Babiole": "Un disque de pierre multicolore"
+                },
+                {
+                    "d100": "25",
+                    "Babiole": "Une petite icône d'argent représentant un corbeau"
+                },
+                {
+                    "d100": "26",
+                    "Babiole": "Un sac contenant quarante-sept dents humanoïdes, dont l'une est cariée"
+                },
+                {
+                    "d100": "27",
+                    "Babiole": "Un fragment d'obsidienne qui se sent toujours chaud au toucher"
+                },
+                {
+                    "d100": "28",
+                    "Babiole": "Une griffe osseuse d'un dragon suspendue à un collier de cuir lisse"
+                },
+                {
+                    "d100": "29",
+                    "Babiole": "Une paire de vieilles chaussettes"
+                },
+                {
+                    "d100": "30",
+                    "Babiole": "Un livre blanc dont les pages refusent de retenir l'encre, la craie, la graphite ou toute autre substance ou marquage"
+                },
+                {
+                    "d100": "31",
+                    "Babiole": "Un badge en argent qui représente une étoile à cinq branches"
+                },
+                {
+                    "d100": "32",
+                    "Babiole": "Un couteau qui appartenait à un parent"
+                },
+                {
+                    "d100": "33",
+                    "Babiole": "Un flacon de verre rempli de rognures d'ongles"
+                },
+                {
+                    "d100": "34",
+                    "Babiole": "Un dispositif métallique et rectangulaire avec deux petites coupes en métal à une extrémité et qui jette des étincelles lorsqu'il est mouillé"
+                },
+                {
+                    "d100": "35",
+                    "Babiole": "Un gant blanc pailleté aux dimensions d'un humain"
+                },
+                {
+                    "d100": "36",
+                    "Babiole": "Une veste avec une centaine de minuscules poches"
+                },
+                {
+                    "d100": "37",
+                    "Babiole": "Un petit bloc de pierre léger"
+                },
+                {
+                    "d100": "38",
+                    "Babiole": "Un petit dessin qui représente le portrait d'un gobelin"
+                },
+                {
+                    "d100": "39",
+                    "Babiole": "Un flacon de verre vide qui sent le parfum lorsqu'il est ouvert"
+                },
+                {
+                    "d100": "40",
+                    "Babiole": "Une pierre précieuse qui ressemble à un morceau de charbon pour tout le monde, sauf pour vous"
+                },
+                {
+                    "d100": "41",
+                    "Babiole": "Un morceau de tissu d'une vieille bannière"
+                },
+                {
+                    "d100": "42",
+                    "Babiole": "Un insigne de grade d'un légionnaire perdu"
+                },
+                {
+                    "d100": "43",
+                    "Babiole": "Une cloche en argent minuscule et sans battant"
+                },
+                {
+                    "d100": "44",
+                    "Babiole": "Un canari mécanique à l'intérieur d'une lampe de gnome"
+                },
+                {
+                    "d100": "45",
+                    "Babiole": "Un petit coffre avec de nombreux pieds sculptés sur le fond"
+                },
+                {
+                    "d100": "46",
+                    "Babiole": "Une pixie morte à l'intérieur d'une bouteille en verre transparent"
+                },
+                {
+                    "d100": "47",
+                    "Babiole": "Une boîte métallique qui n'a pas d'ouverture mais qui sonne comme si elle était remplie de liquide, de sable, d'araignées ou de verre brisé (au choix)"
+                },
+                {
+                    "d100": "48",
+                    "Babiole": "Un orbe de verre rempli d'eau, dans lequel nage un poisson rouge mécanique"
+                },
+                {
+                    "d100": "49",
+                    "Babiole": "Une cuillère d'argent avec un M gravé sur le manche"
+                },
+                {
+                    "d100": "50",
+                    "Babiole": "Un sifflet en bois de couleur or"
+                },
+                {
+                    "d100": "51",
+                    "Babiole": "Un scarabée mort de la taille de votre main"
+                },
+                {
+                    "d100": "52",
+                    "Babiole": "Deux soldats de plomb, l'un avec la tête manquante"
+                },
+                {
+                    "d100": "53",
+                    "Babiole": "Une petite boîte remplie de boutons de différentes tailles"
+                },
+                {
+                    "d100": "54",
+                    "Babiole": "Une bougie qui ne peut pas être allumée"
+                },
+                {
+                    "d100": "55",
+                    "Babiole": "Une petite cage sans porte"
+                },
+                {
+                    "d100": "56",
+                    "Babiole": "Une vieille clé"
+                },
+                {
+                    "d100": "57",
+                    "Babiole": "Une carte au trésor indéchiffrable"
+                },
+                {
+                    "d100": "58",
+                    "Babiole": "Une poigne d'épée brisée"
+                },
+                {
+                    "d100": "59",
+                    "Babiole": "Une patte de lapin"
+                },
+                {
+                    "d100": "60",
+                    "Babiole": "Un œil de verre"
+                },
+                {
+                    "d100": "61",
+                    "Babiole": "Un camée (pendentif) sculpté à l'image d'une personne hideuse"
+                },
+                {
+                    "d100": "62",
+                    "Babiole": "Un crâne en argent de la taille d'une pièce de monnaie"
+                },
+                {
+                    "d100": "63",
+                    "Babiole": "Un masque d'albâtre"
+                },
+                {
+                    "d100": "64",
+                    "Babiole": "Une pyramide de bâtonnets d'encens noir qui sent très mauvais"
+                },
+                {
+                    "d100": "65",
+                    "Babiole": "Un bonnet de nuit qui, lorsqu'il est porté, vous donne des rêves agréables"
+                },
+                {
+                    "d100": "66",
+                    "Babiole": "Une chausse-trappe unique fabriquée à partir d'un os"
+                },
+                {
+                    "d100": "67",
+                    "Babiole": "Un cadre de monocle en or sans la lentille"
+                },
+                {
+                    "d100": "68",
+                    "Babiole": "Un cube de 2,50 cm d'arête, avec chaque face peinte d'une couleur différente"
+                },
+                {
+                    "d100": "69",
+                    "Babiole": "Un bouton de porte en cristal"
+                },
+                {
+                    "d100": "70",
+                    "Babiole": "Un petit paquet rempli de poussière rose"
+                },
+                {
+                    "d100": "71",
+                    "Babiole": "Un fragment d'une belle chanson, écrite avec des notes de musique sur deux morceaux de parchemin"
+                },
+                {
+                    "d100": "72",
+                    "Babiole": "Une boucle d'oreille en forme de goutte d'argent faite à partir d'une vraie larme"
+                },
+                {
+                    "d100": "73",
+                    "Babiole": "La coquille d'un oeuf peint avec des scènes de misère humaine d'un détail troublant"
+                },
+                {
+                    "d100": "74",
+                    "Babiole": "Un éventail qui, une fois déplié, montre un chat endormi"
+                },
+                {
+                    "d100": "75",
+                    "Babiole": "Un ensemble de tubes d'os"
+                },
+                {
+                    "d100": "76",
+                    "Babiole": "Un trèfle à quatre feuilles à l'intérieur d'un livre qui traite des bonnes manières et de l'étiquette"
+                },
+                {
+                    "d100": "77",
+                    "Babiole": "Une feuille de parchemin sur laquelle est dessiné un engin mécanique complexe"
+                },
+                {
+                    "d100": "78",
+                    "Babiole": "Un fourreau orné dans lequel à ce jour aucune lame ne rentre"
+                },
+                {
+                    "d100": "79",
+                    "Babiole": "Une invitation à une fête où un assassinat a eu lieu"
+                },
+                {
+                    "d100": "80",
+                    "Babiole": "Un pentacle de bronze avec la gravure d'une tête de rat au centre"
+                },
+                {
+                    "d100": "81",
+                    "Babiole": "Un mouchoir violet brodé avec le nom d'un puissant archimage"
+                },
+                {
+                    "d100": "82",
+                    "Babiole": "La moitié du plan d'un temple, d'un château, ou d'une autre structure"
+                },
+                {
+                    "d100": "83",
+                    "Babiole": "Un peu de tissu plié qui, une fois déplié, se transforme en un élégant chapeau"
+                },
+                {
+                    "d100": "84",
+                    "Babiole": "Un récépissé de dépôt dans une banque d'une ville très éloignée"
+                },
+                {
+                    "d100": "85",
+                    "Babiole": "Un journal avec sept pages manquantes"
+                },
+                {
+                    "d100": "86",
+                    "Babiole": "Une tabatière en argent vide et portant une inscription sur le dessus qui dit « rêves »"
+                },
+                {
+                    "d100": "87",
+                    "Babiole": "Un symbole sacré en fer et consacré à un dieu inconnu"
+                },
+                {
+                    "d100": "88",
+                    "Babiole": "Un livre qui raconte l'histoire de l'ascension et la chute d'un héros légendaire, avec le dernier chapitre manquant"
+                },
+                {
+                    "d100": "89",
+                    "Babiole": "Un flacon de sang de dragon"
+                },
+                {
+                    "d100": "90",
+                    "Babiole": "Une ancienne flèche de conception elfique"
+                },
+                {
+                    "d100": "91",
+                    "Babiole": "Une aiguille qui ne se plie pas"
+                },
+                {
+                    "d100": "92",
+                    "Babiole": "Une broche ornée de conception naine"
+                },
+                {
+                    "d100": "93",
+                    "Babiole": "Une bouteille de vin vide portant une jolie étiquette qui dit « Le magicien des vins, Cuvée du Dragon Rouge, 331422-W »"
+                },
+                {
+                    "d100": "94",
+                    "Babiole": "Un couvercle avec une mosaïque multicolore en surface"
+                },
+                {
+                    "d100": "95",
+                    "Babiole": "Une souris pétrifiée"
+                },
+                {
+                    "d100": "96",
+                    "Babiole": "Un drapeau de pirate noir orné d'un crâne et des os croisés d'un dragon"
+                },
+                {
+                    "d100": "97",
+                    "Babiole": "Un petit crabe ou araignée mécanique qui se déplace quand il n'est pas observé"
+                },
+                {
+                    "d100": "98",
+                    "Babiole": "Un pot de verre contenant du lard avec une étiquette qui dit « Graisse de griffon »"
+                },
+                {
+                    "d100": "99",
+                    "Babiole": "Une boîte en bois avec un fond en céramique qui contient un ver vivant avec une tête à chaque extrémité de son corps"
+                },
+                {
+                    "d100": "100",
+                    "Babiole": "Une urne en métal contenant les cendres d'un héros"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Githyanki, chevalier",
+    "prerequisites": "Humanoïde (gith) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/githyanki.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=githyanki-chevalier",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "91 (14d8 + 28)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "Con +5, Int +5, Sag +5",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "gith",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le githyanki effectue deux attaques d'épée à deux mains en argent.",
+        "Épée à deux mains en argent. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d6 + 6) dégâts tranchants + 10 (3d6) dégâts psychiques. C'est une attaque avec une arme magique. En cas de coup critique contre une cible avec un corps astral (comme celui conféré par le sort projection astrale), le githyanki peut trancher le cordon argenté qui relie la cible à son corps matériel, au lieu de lui infliger des dégâts."
+    ],
+    "actions": [
+        "Attaques multiples. Le githyanki effectue deux attaques d'épée à deux mains en argent.",
+        "Épée à deux mains en argent. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d6 + 6) dégâts tranchants + 10 (3d6) dégâts psychiques. C'est une attaque avec une arme magique. En cas de coup critique contre une cible avec un corps astral (comme celui conféré par le sort projection astrale), le githyanki peut trancher le cordon argenté qui relie la cible à son corps matériel, au lieu de lui infliger des dégâts."
+    ],
+    "reactions": []
+}

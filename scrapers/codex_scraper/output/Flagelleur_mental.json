@@ -1,0 +1,49 @@
+{
+    "title": "Flagelleur mental",
+    "prerequisites": "Aberration de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/mind-flayer.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=flagelleur-mental",
+    "stats": [
+        "Classe d'armure",
+        "15 (cuirasse)",
+        "Points de vie",
+        "71 (13d8 + 13)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "19 (+4)",
+        "SAG",
+        "17 (+3)",
+        "CHA",
+        "17 (+3)",
+        "Jets de sauvegarde",
+        "Int +7, Sag +6, Cha +6",
+        "Compétences",
+        "Arcanes +7, Discrétion +4, Intuition +6, Perception +6, Persuasion +6, Tromperie +6",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "profond, commun des profondeurs, télépathie 36 m",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Explosion de l'esprit (Recharge 5-6). Le flagelleur mental émet une vague d'énergie psychique dans un cône de 18 mètres. Chaque créature présente dans la zone doit réussir un jet de sauvegarde d'Intelligence DD 15 ou subir 22 (4d8 + 4) dégâts psychiques et être étourdie pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Extraction de cerveau. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, un humanoïde incapable d'agir et agrippé par le flagelleur mental. Touché : la cible subit 55 (10d10) dégâts perforants. Si ces dégâts font tomber les points de vie de la cible à 0, le flagelleur mental tue la cible en lui extrayant et dévorant le cerveau.",
+        "Tentacules. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 15 (2d10 + 4) dégâts psychiques. Si la cible est de taille M ou inférieure, elle est agrippée (DD 15 pour s'échapper) et doit réussir un jet de sauvegarde d'Intelligence DD 15 ou être étourdie tant qu'elle est agrippée de cette manière."
+    ],
+    "actions": [
+        "Explosion de l'esprit (Recharge 5-6). Le flagelleur mental émet une vague d'énergie psychique dans un cône de 18 mètres. Chaque créature présente dans la zone doit réussir un jet de sauvegarde d'Intelligence DD 15 ou subir 22 (4d8 + 4) dégâts psychiques et être étourdie pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Extraction de cerveau. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, un humanoïde incapable d'agir et agrippé par le flagelleur mental. Touché : la cible subit 55 (10d10) dégâts perforants. Si ces dégâts font tomber les points de vie de la cible à 0, le flagelleur mental tue la cible en lui extrayant et dévorant le cerveau.",
+        "Tentacules. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 15 (2d10 + 4) dégâts psychiques. Si la cible est de taille M ou inférieure, elle est agrippée (DD 15 pour s'échapper) et doit réussir un jet de sauvegarde d'Intelligence DD 15 ou être étourdie tant qu'elle est agrippée de cette manière."
+    ],
+    "reactions": []
+}

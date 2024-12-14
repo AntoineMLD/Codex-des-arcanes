@@ -1,0 +1,7 @@
+{
+    "title": "Immolation",
+    "prerequisites": "Aucun",
+    "description": "Les flammes enveloppent une créature visible dans la portée du sort. La cible doit effectuer un jet de sauvegarde de Dextérité, subissant 8d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En cas d'échec, la cible prend feu pour la durée du sort. La cible en feu répand une lumière vive jusqu'à 9 mètres de rayon et une lumière faible sur 9 mètres supplémentaires. À la fin de chacun de ses tours, la cible refait le jet de sauvegarde. Elle subit 4d6 dégâts de feu en cas d'échec, et le feu s'éteint en cas de réussite. Ces flammes magiques ne peuvent pas être éteintes par des moyens non magiques. Si les dégâts de ce sort tuent une cible, celle-ci est transformée en cendre.",
+    "source": "Xanathar´s Guide to Everything",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=immolation"
+}

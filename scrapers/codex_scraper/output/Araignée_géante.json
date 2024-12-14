@@ -1,0 +1,45 @@
+{
+    "title": "Araignée géante",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "Pour piéger sa proie, une araignée géante tisse des toiles élaborées ou jette des brins de toile collants de son abdomen. Les araignées géantes vivent généralement sous terre, établissant leurs repaires au plafond ou dans des crevasses obscures. Ces endroits sont souvent ornés de cocons qui retiennent d'anciennes victimes.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/giant-spider.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "26 (4d10 + 4)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Compétences",
+        "Discrétion +7",
+        "Sens",
+        "vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 7 (1d8 + 3) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 9 (2d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si le poison réduit les points de vie de la cible à 0, celle-ci est stable mais empoisonnée durant 1 heure, même si elle récupère des points de vie par la suite, et paralysée tant qu'elle est empoisonnée de cette manière.",
+        "Toile d'araignée (Recharge 5-6). Attaque à distance avec une arme : +5 au toucher, portée 9/18 m, une créature. Touché : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un jet de Force DD 12, déchirant la toile en cas de réussite. La toile peut aussi être attaquée et détruite (CA 10 ; pv 5 ; vulnérabilité aux dégâts de feu ; immunités aux dégâts contondants, de poison et psychiques)."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 7 (1d8 + 3) dégâts perforants, et la cible doit réaliser un jet de sauvegarde de Constitution DD 11, subissant 9 (2d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si le poison réduit les points de vie de la cible à 0, celle-ci est stable mais empoisonnée durant 1 heure, même si elle récupère des points de vie par la suite, et paralysée tant qu'elle est empoisonnée de cette manière.",
+        "Toile d'araignée (Recharge 5-6). Attaque à distance avec une arme : +5 au toucher, portée 9/18 m, une créature. Touché : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un jet de Force DD 12, déchirant la toile en cas de réussite. La toile peut aussi être attaquée et détruite (CA 10 ; pv 5 ; vulnérabilité aux dégâts de feu ; immunités aux dégâts contondants, de poison et psychiques)."
+    ],
+    "reactions": []
+}

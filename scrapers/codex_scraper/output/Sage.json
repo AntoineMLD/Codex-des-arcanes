@@ -1,183 +1,51 @@
 {
     "title": "Sage",
-    "introduction": "Vous avez passé des années à étudier le multivers. Vous avez écumé les manuscrits, dévoré des parchemins et écouté les plus grands experts sur les sujets qui vous intéressent. Vos efforts ont fait de vous un maître dans vos domaines d'études.",
-    "sections": [],
-    "tables": [
-        {
-            "headers": [
-                "d8",
-                "Spécialité"
-            ],
-            "rows": [
-                {
-                    "d8": "1",
-                    "Spécialité": "Alchimiste"
-                },
-                {
-                    "d8": "2",
-                    "Spécialité": "Astronome"
-                },
-                {
-                    "d8": "3",
-                    "Spécialité": "Académicien discrédité"
-                },
-                {
-                    "d8": "4",
-                    "Spécialité": "Bibliothécaire"
-                },
-                {
-                    "d8": "5",
-                    "Spécialité": "Professeur"
-                },
-                {
-                    "d8": "6",
-                    "Spécialité": "Chercheur"
-                },
-                {
-                    "d8": "7",
-                    "Spécialité": "Apprenti magicien"
-                },
-                {
-                    "d8": "8",
-                    "Spécialité": "Scribe"
-                }
-            ]
-        },
-        {
-            "headers": [
-                "d8",
-                "Trait"
-            ],
-            "rows": [
-                {
-                    "d8": "1",
-                    "Trait": "J'utilise de grands mots qui donnent l'impression d'une grande érudition."
-                },
-                {
-                    "d8": "2",
-                    "Trait": "J'ai lu tous les livres des plus grandes bibliothèques du monde, ou du moins je me vante de l'avoir fait."
-                },
-                {
-                    "d8": "3",
-                    "Trait": "Je suis habitué à aider ceux qui ne sont pas aussi intelligents que moi, et j'explique patiemment tout et n'importe quoi aux autres."
-                },
-                {
-                    "d8": "4",
-                    "Trait": "Il n'y a rien que j'aime plus au monde qu'un bon mystère."
-                },
-                {
-                    "d8": "5",
-                    "Trait": "Je suis disposé à écouter tous les arguments avant de me faire mon propre jugement."
-                },
-                {
-                    "d8": "6",
-                    "Trait": "Je... parle... lentement... quand je parle... à des idiots... soit... presque... à tout le monde... si je... compare... avec moi."
-                },
-                {
-                    "d8": "7",
-                    "Trait": "Je suis horriblement et terriblement maladroit dans les situations sociales."
-                },
-                {
-                    "d8": "8",
-                    "Trait": "Je suis convaincu que les gens sont toujours en train d'essayer de me voler mes secrets."
-                }
-            ]
-        },
-        {
-            "headers": [
-                "d6",
-                "Idéal"
-            ],
-            "rows": [
-                {
-                    "d6": "1",
-                    "Idéal": "Connaissances. Le chemin vers le pouvoir et le progrès personnel passe par la connaissance (Neutre)."
-                },
-                {
-                    "d6": "2",
-                    "Idéal": "Beauté. Ce qui est beau nous montre au-delà de cela ce qui est vrai (Bon)."
-                },
-                {
-                    "d6": "3",
-                    "Idéal": "Logique. Les émotions ne doivent pas obscurcir notre pensée logique (Loyal)."
-                },
-                {
-                    "d6": "4",
-                    "Idéal": "Sans limites. Rien ne doit entraver les infinies possibilités inhérentes à toute existence (Chaotique)."
-                },
-                {
-                    "d6": "5",
-                    "Idéal": "Pouvoir. La connaissance est la voie vers le pouvoir et la domination (Mauvais)."
-                },
-                {
-                    "d6": "6",
-                    "Idéal": "Progrès personnel. Le but d'une vie d'étude est l'amélioration de soi-même (Tout alignement)."
-                }
-            ]
-        },
-        {
-            "headers": [
-                "d6",
-                "Lien"
-            ],
-            "rows": [
-                {
-                    "d6": "1",
-                    "Lien": "Il est de mon devoir de protéger mes élèves."
-                },
-                {
-                    "d6": "2",
-                    "Lien": "Je possède un texte ancien qui renferme de terribles secrets qui ne doivent pas tomber entre de mauvaises mains."
-                },
-                {
-                    "d6": "3",
-                    "Lien": "Je travaille à préserver une bibliothèque, une université, un scriptorium ou un monastère."
-                },
-                {
-                    "d6": "4",
-                    "Lien": "Le travail de ma vie est une série de livres sur un domaine spécifique de connaissance."
-                },
-                {
-                    "d6": "5",
-                    "Lien": "J'ai cherché toute ma vie la réponse à une question."
-                },
-                {
-                    "d6": "6",
-                    "Lien": "J'ai vendu mon âme pour de la connaissance. J'espère faire de grandes choses et la récupérer en retour."
-                }
-            ]
-        },
-        {
-            "headers": [
-                "d6",
-                "Défaut"
-            ],
-            "rows": [
-                {
-                    "d6": "1",
-                    "Défaut": "Je suis facilement distrait par la promesse d'information."
-                },
-                {
-                    "d6": "2",
-                    "Défaut": "La plupart des gens crient et courent quand ils voient un démon. Moi je m'arrête et je prends des notes sur son anatomie."
-                },
-                {
-                    "d6": "3",
-                    "Défaut": "Décrypter un mystère ancien vaut le prix d'une civilisation."
-                },
-                {
-                    "d6": "4",
-                    "Défaut": "Je privilégie les solutions compliquées aux dépens des solutions faciles."
-                },
-                {
-                    "d6": "5",
-                    "Défaut": "Je parle sans vraiment penser mes mots, insultant invariablement les autres."
-                },
-                {
-                    "d6": "6",
-                    "Défaut": "Je ne peux pas garder un secret pour sauver ma vie, ou n'importe qui d'autre."
-                }
-            ]
-        }
+    "prerequisites": "Humanoïde (toute race) de taille M, -",
+    "description": "Les spécialistes de la connaissance qui résident à Candlekeep sont des maîtres sages et des sages qui placent l'érudition avant toute autre chose.",
+    "source": "Adventures (Candlekeep Mysteries)",
+    "image_url": "https://www.aidedd.org/dnd/images/sage.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sage",
+    "stats": [
+        "Classe d'armure",
+        "10 (13 avec",
+        "armure de mage",
+        ")",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "18 (+4)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Arcanes +8, Histoire +8, Intuition +4, Investigation +8, Médecine +6, Nature +8, Religion +8",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "commun et quatre autres langues",
+        "Puissance",
+        "1/2 (100 PX)",
+        "Bonus de maîtrise",
+        "+2"
+    ],
+    "actions": [
+        "Poigne électrique (sort mineur). Attaque au corps à corps avec un sort : +6 au toucher (avec avantage si la cible porte une armure en métal), allonge 1,50 m, une créature. Touché : 9 (2d8) dégâts de foudre, et la cible ne peut pas prendre de réaction avant le début de son prochain tour.",
+        "Incantation. La caractéristique d'incantation du sage est l'Intelligence (jet de sauvegarde contre ses sorts DD 14, +6 au toucher pour les attaques avec un sort). Il lance l'un des sorts suivants",
+        "lumière, main de mage, réparation",
+        "compréhension des langues, détection de la magie, identification",
+        "dissipation de la magie, lévitation, localisation d'objet, voir l'invisible, communication à distance, don des langues, serviteur invisible",
+        "Bouclier (sort de niveau 1 ; 3/jour). Quand le sage est touché par une attaque ou ciblé par un sort de projectile magique, il invoque une barrière invisible de force magique qui le protège. Jusqu'au début de son prochain tour, le sage bénéficie d'un bonus de +5 à la CA, y compris contre le déclenchant l'attaque, et il ne subit aucun dégât de projectile magique."
+    ],
+    "reactions": [
+        "Bouclier (sort de niveau 1 ; 3/jour). Quand le sage est touché par une attaque ou ciblé par un sort de projectile magique, il invoque une barrière invisible de force magique qui le protège. Jusqu'au début de son prochain tour, le sage bénéficie d'un bonus de +5 à la CA, y compris contre le déclenchant l'attaque, et il ne subit aucun dégât de projectile magique."
     ]
 }

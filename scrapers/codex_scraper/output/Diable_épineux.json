@@ -1,0 +1,53 @@
+{
+    "title": "Diable épineux",
+    "prerequisites": "Fiélon (diable) de taille P, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/spined-devil.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=diable-epineux",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "22 (5d6 + 5)",
+        "Vitesse",
+        "6 m, vol 12 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "8 (-1)",
+        "Résistances aux dégâts",
+        "froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 12",
+        "Langues",
+        "infernal, télépathie 36 m",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le diable effectue deux attaques : une de morsure et une avec la fourche, ou deux attaques d'épines caudales.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants.",
+        "Fourche. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Épine caudale. Attaque à distance avec une arme : +4 au toucher, portée 6/24 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants + 3 (1d6) dégâts de feu."
+    ],
+    "actions": [
+        "Attaques multiples. Le diable effectue deux attaques : une de morsure et une avec la fourche, ou deux attaques d'épines caudales.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants.",
+        "Fourche. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Épine caudale. Attaque à distance avec une arme : +4 au toucher, portée 6/24 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants + 3 (1d6) dégâts de feu."
+    ],
+    "reactions": []
+}

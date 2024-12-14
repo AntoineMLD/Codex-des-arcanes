@@ -1,0 +1,41 @@
+{
+    "title": "Chamane Uthgardt",
+    "prerequisites": "Humanoïde (humain) de taille M, neutre mauvais",
+    "description": "Non spécifié",
+    "source": "Adventures (Storm King's Thunder)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chamane-uthgardt",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure de peaux)",
+        "Points de vie",
+        "38 (7d8 + 7)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Médecine +4, Nature +4, Perception +4, Survie +6",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "bothii, commun",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "actions": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 6 (1d8 + 2) dégâts perforants si utilisée avec les deux mains pour une attaque au corps à corps.",
+        "Arc court. Attaque à distance avec une arme : +3 au toucher, portée 24/96 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

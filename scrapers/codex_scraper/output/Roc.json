@@ -1,0 +1,49 @@
+{
+    "title": "Roc",
+    "prerequisites": "Monstruosité de taille Gig, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/roc.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=roc",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "248 (16d20 + 80)",
+        "Vitesse",
+        "6 m, vol 36 m",
+        "FOR",
+        "28 (+9)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Jets de sauvegarde",
+        "Dex +4, Con +9, Sag +4, Cha +3",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le roc effectue deux attaques : une avec son bec et une avec ses serres.",
+        "Bec. Attaque au corps à corps avec une arme : +13 au toucher, allonge 3 m, une cible. Touché : 27 (4d8 + 9) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +13 au toucher, allonge 1,50 m, une cible. Touché : 23 (4d6 + 9) dégâts tranchants, et la cible est agrippée (évasion DD 19). Tant qu'elle est agrippée, la cible est entravée, et le roc ne peut pas utiliser son attaque avec ses serres contre une autre cible."
+    ],
+    "actions": [
+        "Attaques multiples. Le roc effectue deux attaques : une avec son bec et une avec ses serres.",
+        "Bec. Attaque au corps à corps avec une arme : +13 au toucher, allonge 3 m, une cible. Touché : 27 (4d8 + 9) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +13 au toucher, allonge 1,50 m, une cible. Touché : 23 (4d6 + 9) dégâts tranchants, et la cible est agrippée (évasion DD 19). Tant qu'elle est agrippée, la cible est entravée, et le roc ne peut pas utiliser son attaque avec ses serres contre une autre cible."
+    ],
+    "reactions": []
+}

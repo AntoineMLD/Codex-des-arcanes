@@ -1,0 +1,49 @@
+{
+    "title": "Grick dominant",
+    "prerequisites": "Monstruosité de taille G, neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=grick-dominant",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "75 (10d10 + 20)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "9 (-1)",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "—",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le grick effectue deux attaques : une avec sa queue et une avec ses tentacules. S'il touche lors d'une attaque avec ses tentacules, le grick peut effectuer une attaque avec son bec contre la même cible.",
+        "Queue. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Tentacules. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 22 (4d8 + 4) dégâts tranchants.",
+        "Bec. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 13 (2d8 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le grick effectue deux attaques : une avec sa queue et une avec ses tentacules. S'il touche lors d'une attaque avec ses tentacules, le grick peut effectuer une attaque avec son bec contre la même cible.",
+        "Queue. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Tentacules. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 22 (4d8 + 4) dégâts tranchants.",
+        "Bec. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 13 (2d8 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

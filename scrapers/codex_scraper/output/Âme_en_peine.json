@@ -1,0 +1,49 @@
+{
+    "title": "Âme en peine",
+    "prerequisites": "Mort-vivant de taille M, neutre mauvais",
+    "description": "Parfois un humanoïde est tellement imprégné d'énergie négative au moment de sa mort que son âme s'effondre et disparait juste avant de devoir rejoindre les plans inférieurs. Cet esprit privé d'âme est une âme en peine.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wraith.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ame-en-peine",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "67 (9d8 + 27)",
+        "Vitesse",
+        "0 m, vol 18 m (stationnaire)",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "15 (+2)",
+        "Résistances aux dégâts",
+        "acide, feu, foudre, froid, tonnerre ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux dégâts",
+        "nécrotique, poison",
+        "Immunités aux états",
+        "à terre, charmé, épuisement, agrippé, paralysé, pétrifié, empoisonné, entravé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "les langues qu'elle connaissait de son vivant",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Absorption de vie. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 21 (4d8 + 3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. Cette diminution perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.",
+        "Création de spectre. L'âme en peine prend pour cible un humanoïde se trouvant à 3 mètres ou moins, décédé depuis 1 minute maximum et dont la mort fut violente. L'esprit de la cible se relève en tant que spectre, à l'endroit où se trouve le corps ou dans l'espace inoccupé le plus proche. Le spectre est sous le contrôle de l'âme en peine. L'âme en peine ne peut pas avoir plus de sept spectres sous son contrôle en même temps."
+    ],
+    "actions": [
+        "Absorption de vie. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 21 (4d8 + 3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. Cette diminution perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.",
+        "Création de spectre. L'âme en peine prend pour cible un humanoïde se trouvant à 3 mètres ou moins, décédé depuis 1 minute maximum et dont la mort fut violente. L'esprit de la cible se relève en tant que spectre, à l'endroit où se trouve le corps ou dans l'espace inoccupé le plus proche. Le spectre est sous le contrôle de l'âme en peine. L'âme en peine ne peut pas avoir plus de sept spectres sous son contrôle en même temps."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Panthère",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=panthere",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "15 m, escalade 12 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Discrétion +6, Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

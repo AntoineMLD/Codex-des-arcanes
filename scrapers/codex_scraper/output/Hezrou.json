@@ -1,0 +1,53 @@
+{
+    "title": "Hezrou",
+    "prerequisites": "Fiélon (démon) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-hezrou.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hezrou",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "136 (13d10 + 65)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "For +7, Con +8, Sag +4",
+        "Résistances aux dégâts",
+        "froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "abyssal, télépathie 36 m",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le hezrou effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le hezrou effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

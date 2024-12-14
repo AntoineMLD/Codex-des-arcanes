@@ -1,0 +1,45 @@
+{
+    "title": "Hydre",
+    "prerequisites": "Monstruosité de taille TG, sans alignement",
+    "description": "L'hydre est une horreur reptilienne au corps de crocodile et aux multiples têtes qui surmontent des longs cous serpentins. Bien que ses têtes puissent être coupées, l'hydre les fait rapidement repousser de manière magique.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hydra.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hydre",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "172 (15d12 + 75)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +6",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 16",
+        "Langues",
+        "—",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'hydre peut effectuer autant d'attaques de morsure qu'elle a de têtes.",
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 10 (1d10 + 5) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'hydre peut effectuer autant d'attaques de morsure qu'elle a de têtes.",
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 10 (1d10 + 5) dégâts perforants."
+    ],
+    "reactions": []
+}

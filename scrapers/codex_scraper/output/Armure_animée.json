@@ -1,0 +1,47 @@
+{
+    "title": "Armure animée",
+    "prerequisites": "Artificiel de taille M, sans alignement",
+    "description": "Cette armure animée par la magie grince et ferraille en se déplaçant, faisant autant de bruit que l'esprit vengeur d'un chevalier déchu.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/animated-armor.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=armure-animee",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "7,50 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "3 (-4)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison, psychique",
+        "Immunités aux états",
+        "assourdi, aveuglé, charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 6",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'armure effectue deux attaques au corps à corps.",
+        "Coup. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. L'armure effectue deux attaques au corps à corps.",
+        "Coup. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants."
+    ],
+    "reactions": []
+}

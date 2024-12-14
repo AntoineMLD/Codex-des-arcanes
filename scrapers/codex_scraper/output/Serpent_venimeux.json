@@ -1,0 +1,41 @@
+{
+    "title": "Serpent venimeux",
+    "prerequisites": "Bête de taille TP, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "2 (1d4)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "2 (-4)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Sens",
+        "vision aveugle 3 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant et la cible doit réaliser un jet de sauvegarde de Constitution DD 10, subissant 5 (2d4) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant et la cible doit réaliser un jet de sauvegarde de Constitution DD 10, subissant 5 (2d4) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

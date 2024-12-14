@@ -1,0 +1,41 @@
+{
+    "title": "Ankylosaure",
+    "prerequisites": "Bête de taille TG, sans alignement",
+    "description": "Une épaisse carapace protège le corps de ce dinosaure herbivore qu'est l'ankylosaure, qui est capable de se défendre des autres prédateurs grâce à sa queue en forme de massue avec laquelle il peut délivrer des coups dévastateurs.",
+    "source": "Monster Manual (BR)",
+    "image_url": "https://www.aidedd.org/dnd/images/ankylosaurus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ankylosaure",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "68 (8d12 + 16)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Queue. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 18 (4d6 + 4) dégâts contondants. Si la cible est une créature, celle-ci doit réussir un jet de sauvegarde de Force DD 14 ou tomber à terre."
+    ],
+    "actions": [
+        "Queue. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 18 (4d6 + 4) dégâts contondants. Si la cible est une créature, celle-ci doit réussir un jet de sauvegarde de Force DD 14 ou tomber à terre."
+    ],
+    "reactions": []
+}

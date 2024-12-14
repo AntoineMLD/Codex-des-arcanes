@@ -1,0 +1,45 @@
+{
+    "title": "Nuée de serpents venimeux",
+    "prerequisites": "Nuée de bêtes TP de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-serpents-venimeux",
+    "stats": [
+        "Classe d'armure",
+        "14",
+        "Points de vie",
+        "36 (8d8)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Résistances aux dégâts",
+        "contondant, perforant, tranchant",
+        "Immunités aux états",
+        "à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié",
+        "Sens",
+        "vision aveugle 3 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Morsures. Attaque au corps à corps avec une arme : +6 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 7 (2d6) dégâts perforants, ou 3 (1d6) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie. La cible doit réaliser un jet de sauvegarde de Constitution DD 10, subissant 14 (4d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Morsures. Attaque au corps à corps avec une arme : +6 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 7 (2d6) dégâts perforants, ou 3 (1d6) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie. La cible doit réaliser un jet de sauvegarde de Constitution DD 10, subissant 14 (4d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

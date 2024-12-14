@@ -1,0 +1,106 @@
+{
+    "title": "Partir à l'aventure",
+    "introduction": "Fouiller dans l'ancien Tombeau des horreurs, se faufiler dans les sombres ruelles de Waterdeep, se frayer un chemin à coup de lame dans l'épaisse jungle de l'Île de la terreur, voilà de quoi sont faites les aventures de D&D. Le personnage que vous personnifiez va explorer des ruines oubliées et des territoires jamais cartographiés, découvrir de sombres secrets et des complots sinistres, et occire d'horribles monstres. Si tout va bien, votre personnage survivra et obtiendra de riches récompenses avant de repartir pour de nouvelles aventures. Ce chapitre couvre les bases de la vie d'aventure, des mécaniques du mouvement aux complexités de l'interaction sociale. Les règles du repos se trouvent aussi ici, tout comme un survol des activités que votre personnage pourrait entreprendre entre les aventures.",
+    "sections": [
+        {
+            "title": "Temps",
+            "content": "Dans les situations où suivre le temps écoulé est important, le MD détermine le temps qu'une tâche requiert. Le MD peut utiliser une échelle de temps différente suivant le contexte de la situation qui se présente. Dans l'environnement d'un donjon, les déplacements des aventuriers utilisent une échelle de temps en minutes . Il leur faudra environ une minute pour dévaler un long couloir, une autre minute pour examiner la porte au fond du hall à la recherche de pièges, puis dix bonnes minutes pour fouiller la chambre au-delà à la recherche de quelque chose d'intéressant ou ayant de la valeur. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Déplacement",
+            "content": "Nager à travers une rivière torrentielle, se faufiler dans le tunnel d'un donjon, escalader l'abrupte falaise d'une montagne, les mouvements jouent un rôle clé dans les aventures de D&D. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Vitesse",
+            "content": "Chaque personnage et chaque monstre ont une vitesse spécifique, ce qui représente la distance en mètres que le personnage ou le monstre peut parcourir en marchant lors d'un round. Ce chiffre présuppose de brefs déplacements énergiques lors de situations dangereuses. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Types de déplacements spéciaux",
+            "content": "Les déplacements à travers de dangereux donjons ou dans des contrées sauvages impliquent souvent plus que de la simple marche. Les aventuriers risquent de devoir escalader, ramper, nager ou sauter pour atteindre l'endroit où ils souhaitent se rendre. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Activités lors d'un déplacement",
+            "content": "Lorsque des aventuriers se déplacent à travers un donjon ou dans des contrées sauvages, ils doivent rester à l’affût du danger, et certains devront réaliser d'autres tâches afin d'aider le groupe dans son voyage. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Environnement",
+            "content": "De par sa nature, une aventure implique de fouiller dans des endroits sombres, dangereux et plein de mystères qui ne demandent qu'à être explorés. Les règles qui suivent couvrent les principales façons qu'ont les aventuriers pour interagir avec l'environnement. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Chuter",
+            "content": "Tomber d'une grande hauteur est un des périls les plus communs auquel les aventuriers vont faire face. À la fin d'une chute, une créature reçoit 1d6 points de dégâts contondants pour chaque 3 mètres de chute, jusqu'à un maximum de 20d6. La créature termine à terre, à moins qu'elle ne réussisse à éviter les dégâts associés à la chute. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Suffoquer",
+            "content": "Une créature peut retenir sa respiration pendant un nombre de minutes égal à 1 + son modificateur de Constitution (minimum 30 secondes). Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Vision et lumière",
+            "content": "Les tâches les plus fondamentales d'une aventure (détecter un danger, trouver des objets cachés, frapper un ennemi durant un combat et lancer un sort, pour ne nommer que ceux-ci) dépendent de la capacité de l'aventurier à voir. Les ténèbres et autres effets qui entravent la vision peuvent s'avérer très gênants. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Nourriture et eau",
+            "content": "Les personnages qui ne mangent ou ne boivent pas souffrent d' épuisement . L'épuisement causé par le manque de nourriture ou d'eau ne peut être éliminé tant que le personnage ne mange et ne boit pas la quantité totale nécessaire. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Interactions avec des objets",
+            "content": "Les interactions d'un personnage avec les objets dans un environnement sont souvent simples à résoudre dans le jeu. Le joueur dit au MD que son personnage fait quelque chose, comme actionner un levier, et le MD décrit ce qui se produit... si quelque chose se produit. Par exemple, un personnage peut décider de tirer un levier qui peut, à son tour, lever une herse, inonder une pièce d'eau ou ouvrir une porte secrète dans un mur tout près. Si le levier est bloqué, le personnage peut décider de le forcer. Dans ce cas, le MD peut demander un jet de Force pour voir si le personnage réussit à débloquer le levier. Le MD fixe le DD pour chacun de ces jets, en fonction de la difficulté de la tâche. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Interactions sociales",
+            "content": "Explorer des donjons, outrepasser des obstacles et pourfendre des monstres sont des aspects clés des aventures de D&D. Tout aussi importantes, toutefois, sont les interactions sociales que les aventuriers ont avec les autres habitants du monde. Les interactions peuvent prendre plusieurs formes. Il se peut que vous deviez convaincre un voleur peu scrupuleux de confesser des actions malhonnêtes ou alors que vous deviez complimenter un dragon pour qu'il épargne votre vie. Le MD assume les rôles de chacun des personnages qui participent aux interactions et qui ne sont pas ceux des joueurs à la table. N'importe lequel de ces personnages est appelé un personnage non-joueur (PNJ). Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Jeu de rôle",
+            "content": "Le jeu de rôle [roleplay] est, littéralement, l'action de jouer un rôle. Dans ce cas, c'est vous, en tant que joueur, qui déterminez comment votre personnage pense, agit et parle. Le jeu de rôle est partie intégrante de tous les aspects du jeu, et il est mis en avant lors des interactions sociales. L’excentricité, les manières et la personnalité de votre personnage influencent le dénouement de vos interactions. Décrivez l'attitude et les émotions de votre personnage. Concentrez-vous sur les intentions de votre personnage et sur comment les autres risquent de les percevoir. Fournissez autant de détails que vous voulez."
+        },
+        {
+            "title": "Jets de caractéristique",
+            "content": "En plus du jeu de rôle, les jets de caractéristique sont la clé pour déterminer le dénouement d'une interaction. Vos efforts en jeu de rôle peuvent modifier l'attitude d'un PNJ, mais il reste toujours une part de chance en ce qui concerne la résolution d'une situation. Par exemple, votre MD peut demander un jet de Charisme à tout moment durant une interaction s'il veut que le dé joue un rôle dans la détermination des réactions des PNJ. D'autres jets peuvent s'avérer appropriés dans certaines situations, à la discrétion de votre MD. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Repos",
+            "content": "Aussi héroïques qu'ils puissent être, les aventuriers ne peuvent passer les 24 heures d'une journée dans le feu de l'action de l'exploration, des interactions ou des combats. Ils doivent se reposer, c'est-à-dire prendre du temps pour dormir et manger, panser leurs plaies, se reposer l'esprit pour la magie, et reprendre du tonus pour les prochaines aventures. Les aventuriers, comme toutes autres créatures, peuvent prendre des repos courts au milieu d'une journée d'aventure et un repos long en fin de journée. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Repos court",
+            "content": "Un repos court est une période de temps mort qui dure au moins 1 heure, et durant laquelle un personnage ne fait rien de plus demandant que manger, boire, lire ou panser ses plaies. Un personnage peut utiliser un ou plusieurs dés de vie à la fin d'un repos court, à concurrence du nombre de dés de vie maximums d'un personnage, ce qui équivaut au niveau du personnage. Pour chaque dé de vie dépensé de cette façon, le joueur jette le dé et ajoute le modificateur de Constitution du personnage. Le personnage regagne un nombre de points de vie égal au total (minimum 0). Le joueur peut décider de dépenser un dé de vie additionnel après chaque dé lancé. Un personnage regagne les dés de vie ainsi dépensés après un repos long, comme expliqué ci-dessous. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Repos long",
+            "content": "Un repos long est une période de temps mort d'au moins 8 heures lors de laquelle un personnage dort au moins 6 heures et entreprend des activités légères comme lire, parler, manger ou monter la garde durant un maximum de 2 heures. Si le repos est interrompu par une période d'activité soutenue (au moins une heure de marche, de combat, d'incantation ou d'activités similaires), le personnage doit recommencer le repos long depuis le début pour en bénéficier. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Entre les aventures",
+            "content": "Entre les explorations dans les donjons et les batailles contre d'anciens fléaux, les aventuriers ont besoin de temps pour se reposer, récupérer et se préparer pour leurs prochaines aventures. Beaucoup d'aventuriers utilisent aussi ce temps pour entreprendre d'autres tâches, comme construire une armure, conduire des recherches ou dépenser leur or chèrement acquis. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Coût de la vie",
+            "content": "Entre les aventures, vous choisissez une qualité de vie particulière et payez les coûts associés à votre train de vie, tel que décrit dans le chapitre Équipement . Vivre un style de vie particulier n'a pas un gros impact sur votre personnage, mais votre style de vie peut affecter la façon dont les individus et le groupe vous perçoivent. Par exemple, lorsque vous vivez la vie d'un aristocrate, il peut s'avérer plus facile d'influencer les nobles d'une ville que si vous vivez dans la pauvreté. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        },
+        {
+            "title": "Temps morts",
+            "content": "Entre les aventures, le MD peut vous demander ce que votre personnage fait durant tout ce temps. Les périodes de temps mort peuvent varier dans leur durée, mais chaque activité de temps mort nécessite un certain nombre de jours pour en gagner les avantages, et au moins 8 heures par jour doivent être consacrées à une activité de temps mort pour compter. Les jours ne doivent pas obligatoirement être consécutifs. Si vous avez plus que le minimum de jours à consacrer, vous pouvez continuer à faire la même chose pour une période de temps plus longue, ou basculer vers une autre activité de temps mort. Mettre fin à un effet qui vous empêche de regagner des points de vie. Lors des prochaines 24 heures, gagner un avantage aux jets de sauvegarde contre les maladies ou les poisons qui vous affectent."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                ""
+            ],
+            "rows": [
+                {},
+                {},
+                {
+                    "": "Rapide"
+                },
+                {
+                    "": "Normal"
+                },
+                {
+                    "": "Lent"
+                }
+            ]
+        }
+    ]
+}

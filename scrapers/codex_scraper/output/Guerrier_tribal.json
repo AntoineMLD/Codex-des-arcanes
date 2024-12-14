@@ -1,0 +1,41 @@
+{
+    "title": "Guerrier tribal",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les guerriers tribaux vivent loin de la civilisation, subsistant, le plus souvent, par la pêche et la chasse. Chaque tribu agit conformément aux souhaits de son chef, qui est son meilleur ou son plus ancien guerrier, ou à ceux d'un membre de la tribu béni par les dieux.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=guerrier-tribal",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure de peaux)",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue au choix",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée avec les deux mains pour une attaque au corps à corps."
+    ],
+    "actions": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée avec les deux mains pour une attaque au corps à corps."
+    ],
+    "reactions": []
+}

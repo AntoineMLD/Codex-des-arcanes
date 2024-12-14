@@ -1,0 +1,47 @@
+{
+    "title": "Pentadrone",
+    "prerequisites": "Artificiel de taille G, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/pentadrone.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pentadrone",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "32 (5d10 + 5)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "vision véritable 36 m, Perception passive 14",
+        "Langues",
+        "modron",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le pentadrone effectue cinq attaques d'appendice.",
+        "Appendice. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Gaz paralysant (Recharge 5-6). Le pentadrone exhale du gaz dans un cône de 9 mètres. Chaque créature présente dans cette zone doit réussir un jet de sauvegarde de Constitution DD 11 ou être paralysée pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le pentadrone effectue cinq attaques d'appendice.",
+        "Appendice. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Gaz paralysant (Recharge 5-6). Le pentadrone exhale du gaz dans un cône de 9 mètres. Chaque créature présente dans cette zone doit réussir un jet de sauvegarde de Constitution DD 11 ou être paralysée pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

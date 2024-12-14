@@ -1,0 +1,38 @@
+{
+    "title": "Morse",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "Un morse adulte pèse environ une tonne. Les humains les chassent pour leur viande, leur graisse, leur peau, leurs os et leurs défenses.",
+    "source": "Adventures (Rime of the Frostmaiden)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=morse",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "22 (3d10 + 6)",
+        "Vitesse",
+        "6 m, nage 12 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "actions": [
+        "Défenses. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

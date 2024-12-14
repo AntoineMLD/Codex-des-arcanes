@@ -1,0 +1,43 @@
+{
+    "title": "Remorhaz, jeune",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=remorhaz-jeune",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "93 (11d10 + 33)",
+        "Vitesse",
+        "9 m, creusement 6 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Immunités aux dégâts",
+        "froid, feu",
+        "Sens",
+        "vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 20 (3d10 + 4) dégâts perforants + 7 (2d6) dégâts de feu."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 20 (3d10 + 4) dégâts perforants + 7 (2d6) dégâts de feu."
+    ],
+    "reactions": []
+}

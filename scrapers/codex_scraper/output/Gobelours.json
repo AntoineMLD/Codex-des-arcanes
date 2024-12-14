@@ -1,0 +1,45 @@
+{
+    "title": "Gobelours",
+    "prerequisites": "Humanoïde (gobelinoïde) de taille M, chaotique mauvais",
+    "description": "Les gobelours sont des gobelinoïdes velus nés pour la bataille et la destruction. Ils survivent en pillant et en chassant, mais sont friands des attaques en embuscades d'où ils peuvent rapidement s'enfuir en cas de problème.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/bugbear.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gobelours",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure de peaux, bouclier)",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Discrétion +6, Survie +2",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, gobelin",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morgenstern. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 9 (2d6 + 2) dégâts perforants au corps à corps ou 5 (1d6 + 2) dégâts perforants à distance."
+    ],
+    "actions": [
+        "Morgenstern. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 9 (2d6 + 2) dégâts perforants au corps à corps ou 5 (1d6 + 2) dégâts perforants à distance."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Tyrannosaure",
+    "prerequisites": "Bête de taille TG, sans alignement",
+    "description": "Cet énorme dinosaure prédateur terrorise toutes les autres créatures sur son territoire. Il poursuit tout ce qu'il pense pouvoir manger, et il y a peu de créatures qu'il n'essayera pas de dévorer entière.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/tyrannosaurus-rex.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tyrannosaure",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "136 (13d12 + 52)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "25 (+7)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le tyrannosaure effectue deux attaques : une de morsure et une avec sa queue. Il ne peut pas faire les deux attaques contre la même cible.",
+        "Morsure. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 33 (4d12 + 7) dégâts perforants. Si la cible est une créature de taille M ou plus petite, elle est agrippée (évasion DD 17). Tant qu'elle est agrippée, la cible est entravée, et le tyrannosaure ne peut pas mordre une autre cible.",
+        "Queue. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 20 (3d8 + 7) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le tyrannosaure effectue deux attaques : une de morsure et une avec sa queue. Il ne peut pas faire les deux attaques contre la même cible.",
+        "Morsure. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 33 (4d12 + 7) dégâts perforants. Si la cible est une créature de taille M ou plus petite, elle est agrippée (évasion DD 17). Tant qu'elle est agrippée, la cible est entravée, et le tyrannosaure ne peut pas mordre une autre cible.",
+        "Queue. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 20 (3d8 + 7) dégâts contondants."
+    ],
+    "reactions": []
+}

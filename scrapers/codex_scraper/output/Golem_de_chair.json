@@ -1,0 +1,47 @@
+{
+    "title": "Golem de chair",
+    "prerequisites": "Artificiel de taille M, neutre",
+    "description": "Un golem de chair est le macabre assortiment de plusieurs parties de cadavres humanoïdes, cousues et vissées les unes aux autres, dans le but de créer une brute vigoureuse possédant une force prodigieuse. De puissants enchantements le protègent, repoussant les sorts et les armes courantes.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/flesh-golem.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=golem-de-chair",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "93 (11d8 + 44)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Immunités aux dégâts",
+        "foudre, poison ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium",
+        "Immunités aux états",
+        "charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "comprend les langues de son créateur mais ne peut pas parler",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

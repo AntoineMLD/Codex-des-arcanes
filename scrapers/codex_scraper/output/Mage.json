@@ -1,0 +1,47 @@
+{
+    "title": "Mage",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les mages passent leur vie à étudier et expérimenter la magie. Les mages bons conseillent des nobles ou d'autres dirigeants, alors que les mages mauvais résident dans des lieux isolés pour y pratiquer leurs expériences impies sans ingérence.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mage",
+    "stats": [
+        "Classe d'armure",
+        "12 (15 avec",
+        "armure de mage",
+        ")",
+        "Points de vie",
+        "40 (9d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "9 (-1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "17 (+3)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Jets de sauvegarde",
+        "Int +6, Sag +4",
+        "Compétences",
+        "Arcanes +6, Histoire +6",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "quatre langues au choix",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

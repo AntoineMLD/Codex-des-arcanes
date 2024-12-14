@@ -1,0 +1,47 @@
+{
+    "title": "Troglodyte",
+    "prerequisites": "Humanoïde (troglodyte) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/troglodyte.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=troglodyte",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "13 (2d8 + 4)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Discrétion +2",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "troglodyte",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le troglodyte effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Le troglodyte effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants."
+    ],
+    "reactions": []
+}

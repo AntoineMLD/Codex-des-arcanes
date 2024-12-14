@@ -1,0 +1,43 @@
+{
+    "title": "Chouette géante",
+    "prerequisites": "Bête de taille G, neutre",
+    "description": "Les chouettes géantes sont des créatures intelligentes protectrices de leurs royaumes forestiers.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chouette-geante",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "19 (3d10 + 3)",
+        "Vitesse",
+        "1,50 m, vol 18 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +4, Perception +5",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 15",
+        "Langues",
+        "Une chouette géante comprend le commun, l'elfique et le sylvestre mais ne peut pas les parler",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Serres. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d6 + 1) dégâts tranchants."
+    ],
+    "actions": [
+        "Serres. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d6 + 1) dégâts tranchants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Incantateur (niv 1)",
+    "prerequisites": "Humanoïde (toute race) de taille M, -",
+    "description": "Un comparse incantateur avec la spécialité guérisseur peut être un prêtre, un devin, un artiste utilisant des sorts ou une personne ayant la magie dans ses veines.",
+    "source": "Rules (Essentials Kit)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=incantateur-niv-1",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure de cuir)",
+        "Points de vie",
+        "9 (2d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "Sag +4",
+        "Compétences",
+        "Arcanes +4, Investigation +4, Religion +4",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "commun, plus une de votre choix",
+        "Puissance",
+        "-"
+    ],
+    "actions": [
+        "Bâton. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants, ou 4 (1d8) dégâts contondants si utilisé avec les deux mains."
+    ],
+    "reactions": []
+}

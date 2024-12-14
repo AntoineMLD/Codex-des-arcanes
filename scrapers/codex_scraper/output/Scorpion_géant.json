@@ -1,0 +1,45 @@
+{
+    "title": "Scorpion géant",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=scorpion-geant",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "52 (7d10 + 14)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "9 (-1)",
+        "CHA",
+        "3 (-4)",
+        "Sens",
+        "vision aveugle 18 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le scorpion réalise trois attaques : deux avec ses pinces et une avec son aiguillon.",
+        "Pinces. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts contondants, et la cible est agrippée (DD 12 pour s'échapper). Le scorpion a deux pinces, chacune lui permettant d'agripper une cible.",
+        "Dard. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 7 (1d10 + 2) dégâts perforants et la cible doit réaliser un jet de sauvegarde de Constitution DD 12, subissant 22 (4d10) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le scorpion réalise trois attaques : deux avec ses pinces et une avec son aiguillon.",
+        "Pinces. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts contondants, et la cible est agrippée (DD 12 pour s'échapper). Le scorpion a deux pinces, chacune lui permettant d'agripper une cible.",
+        "Dard. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 7 (1d10 + 2) dégâts perforants et la cible doit réaliser un jet de sauvegarde de Constitution DD 12, subissant 22 (4d10) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

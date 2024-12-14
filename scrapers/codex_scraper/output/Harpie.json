@@ -1,0 +1,47 @@
+{
+    "title": "Harpie",
+    "prerequisites": "Monstruosité de taille M, chaotique mauvais",
+    "description": "Une harpie combine le corps, les jambes et les ailes d'un vautour et le torse, les bras et la tête d'une humaine. Sa douce mélodie a conduit d'innombrables aventuriers à leur perte.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/harpy.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=harpie",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "38 (7d8 + 7)",
+        "Vitesse",
+        "6 m, vol 12 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "commun",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La harpie effectue deux attaques : une avec ses griffes et une avec son gourdin.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Gourdin. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts contondants.",
+        "Chant captivant. La harpie entonne une mélodie magique. Tout humanoïde ou géant à 90 mètres maximum de la harpie et qui peut entendre le chant doit réussir un jet de sauvegarde de Sagesse DD 11 ou bien se retrouver charmé jusqu'à ce que le chant prenne fin. La harpie doit utiliser une action bonus lors de ses tours suivants pour prolonger le chant. Elle peut interrompre le chant à tout moment. Le chant s'interrompt si la harpie est incapable d'agir. Tant qu'elle est sous l'effet du charme, la cible est incapable d'agir et n'est pas affectée par le chant d'autres harpies. Si la cible charmée se trouve à plus de 1,50 mètre de la harpie, cette cible doit durant son tour se diriger vers la harpie par le chemin le plus direct. Elle ne peut éviter les attaques d'opportunité, mais peut refaire un jet de sauvegarde dès qu'elle pénètre une zone pouvant créer des dégâts (de la lave ou une fosse par exemple) ou dès qu'elle subit des dégâts provenant d'une autre source que la harpie. Une créature peut aussi relancer son jet de sauvegarde à la fin de chacun de ses tours. Lorsque le jet de sauvegarde est réussi, l'effet du charme prend fin. Une cible ayant réussi son jet de sauvegarde est immunisée contre le chant de cette harpie pour les prochaines 24 heures."
+    ],
+    "actions": [
+        "Attaques multiples. La harpie effectue deux attaques : une avec ses griffes et une avec son gourdin.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Gourdin. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts contondants.",
+        "Chant captivant. La harpie entonne une mélodie magique. Tout humanoïde ou géant à 90 mètres maximum de la harpie et qui peut entendre le chant doit réussir un jet de sauvegarde de Sagesse DD 11 ou bien se retrouver charmé jusqu'à ce que le chant prenne fin. La harpie doit utiliser une action bonus lors de ses tours suivants pour prolonger le chant. Elle peut interrompre le chant à tout moment. Le chant s'interrompt si la harpie est incapable d'agir. Tant qu'elle est sous l'effet du charme, la cible est incapable d'agir et n'est pas affectée par le chant d'autres harpies. Si la cible charmée se trouve à plus de 1,50 mètre de la harpie, cette cible doit durant son tour se diriger vers la harpie par le chemin le plus direct. Elle ne peut éviter les attaques d'opportunité, mais peut refaire un jet de sauvegarde dès qu'elle pénètre une zone pouvant créer des dégâts (de la lave ou une fosse par exemple) ou dès qu'elle subit des dégâts provenant d'une autre source que la harpie. Une créature peut aussi relancer son jet de sauvegarde à la fin de chacun de ses tours. Lorsque le jet de sauvegarde est réussi, l'effet du charme prend fin. Une cible ayant réussi son jet de sauvegarde est immunisée contre le chant de cette harpie pour les prochaines 24 heures."
+    ],
+    "reactions": []
+}

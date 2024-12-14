@@ -1,0 +1,59 @@
+{
+    "title": "Marilith",
+    "prerequisites": "Fiélon (démon) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-marilith.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=marilith",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "189 (18d10 + 90)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "18 (+4)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "20 (+5)",
+        "Jets de sauvegarde",
+        "For +9, Con +10, Sag +8, Cha +10",
+        "Résistances aux dégâts",
+        "froid, feu, foudre ; contondant, perforant et tranchant non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision véritable 36 m, Perception passive 13",
+        "Langues",
+        "abyssal, télépathie 36 m",
+        "Puissance",
+        "16 (15000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La marilith effectue sept attaques : six avec ses épées longues et une avec sa queue.",
+        "Épée longue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Queue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une créature. Touché : 15 (2d10 + 4) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (DD 19 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et la marilith peut toucher automatiquement sa cible avec sa queue, mais ne peut pas attaquer d'autres cibles.",
+        "Téléportation. La marilith se téléporte magiquement, avec tout équipement qu'elle porte ou transporte, vers un espace inoccupé qu'elle peut voir et situé dans un rayon de 36 mètres autour d'elle.",
+        "Parade. La marilith ajoute 5 à sa CA contre une attaque au corps à corps qui la toucherait. Pour ce faire, elle doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. La marilith effectue sept attaques : six avec ses épées longues et une avec sa queue.",
+        "Épée longue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Queue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une créature. Touché : 15 (2d10 + 4) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (DD 19 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et la marilith peut toucher automatiquement sa cible avec sa queue, mais ne peut pas attaquer d'autres cibles.",
+        "Téléportation. La marilith se téléporte magiquement, avec tout équipement qu'elle porte ou transporte, vers un espace inoccupé qu'elle peut voir et situé dans un rayon de 36 mètres autour d'elle.",
+        "Parade. La marilith ajoute 5 à sa CA contre une attaque au corps à corps qui la toucherait. Pour ce faire, elle doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. La marilith ajoute 5 à sa CA contre une attaque au corps à corps qui la toucherait. Pour ce faire, elle doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

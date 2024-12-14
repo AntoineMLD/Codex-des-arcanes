@@ -1,0 +1,51 @@
+{
+    "title": "Traqueur invisible",
+    "prerequisites": "Élémentaire de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/invisible-stalker.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=traqueur-invisible",
+    "stats": [
+        "Classe d'armure",
+        "14",
+        "Points de vie",
+        "104 (16d8 + 32)",
+        "Vitesse",
+        "15 m, vol 15 m (stationnaire)",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "19 (+4)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Discrétion +10, Perception +8",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 18",
+        "Langues",
+        "aérien, comprend le commun mais ne peut pas parler",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le traqueur invisible effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le traqueur invisible effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants."
+    ],
+    "reactions": []
+}

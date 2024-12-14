@@ -1,0 +1,51 @@
+{
+    "title": "Kuo-toa",
+    "prerequisites": "Humanoïde (kuo-toa) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/kuo-toa.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kuo-toa",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle, bouclier)",
+        "Points de vie",
+        "18 (4d8)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 14",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps.",
+        "Filet. Attaque à distance avec une arme : +3 au toucher, portée 1,50/4,50 m, une créature de taille G ou inférieure. Touché : la cible est entravée. Une créature peut utiliser son action pour effectuer un jet de Force DD 10 pour se libérer elle-même, ou pour libérer une autre créature prise dans le filet, mettant ainsi fin à cet effet en cas de réussite. Infliger 5 points de dégâts tranchants au filet (CA 10) libère la cible, sans la blesser, en détruisant le filet.",
+        "Bouclier collant. Lorsqu'une créature rate le kuo-toa avec une attaque au corps à corps avec une arme, le kuo-toa utilise son bouclier collant pour attraper l'arme. L'attaquant doit réussir un jet de sauvegarde de Force DD 11 ou voir son arme se coller au bouclier du kuo-toa. Si le porteur de l'arme ne peut pas, ou ne veut pas, la lâcher, il est agrippé jusqu'à ce que l'arme ne soit plus collée. Tant qu'elle adhère au bouclier, l'arme ne peut pas être utilisée. Une créature peut libérer l'arme en utilisant son action pour effectuer un jet de Force DD 11 et en le réussissant."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps.",
+        "Filet. Attaque à distance avec une arme : +3 au toucher, portée 1,50/4,50 m, une créature de taille G ou inférieure. Touché : la cible est entravée. Une créature peut utiliser son action pour effectuer un jet de Force DD 10 pour se libérer elle-même, ou pour libérer une autre créature prise dans le filet, mettant ainsi fin à cet effet en cas de réussite. Infliger 5 points de dégâts tranchants au filet (CA 10) libère la cible, sans la blesser, en détruisant le filet.",
+        "Bouclier collant. Lorsqu'une créature rate le kuo-toa avec une attaque au corps à corps avec une arme, le kuo-toa utilise son bouclier collant pour attraper l'arme. L'attaquant doit réussir un jet de sauvegarde de Force DD 11 ou voir son arme se coller au bouclier du kuo-toa. Si le porteur de l'arme ne peut pas, ou ne veut pas, la lâcher, il est agrippé jusqu'à ce que l'arme ne soit plus collée. Tant qu'elle adhère au bouclier, l'arme ne peut pas être utilisée. Une créature peut libérer l'arme en utilisant son action pour effectuer un jet de Force DD 11 et en le réussissant."
+    ],
+    "reactions": [
+        "Bouclier collant. Lorsqu'une créature rate le kuo-toa avec une attaque au corps à corps avec une arme, le kuo-toa utilise son bouclier collant pour attraper l'arme. L'attaquant doit réussir un jet de sauvegarde de Force DD 11 ou voir son arme se coller au bouclier du kuo-toa. Si le porteur de l'arme ne peut pas, ou ne veut pas, la lâcher, il est agrippé jusqu'à ce que l'arme ne soit plus collée. Tant qu'elle adhère au bouclier, l'arme ne peut pas être utilisée. Une créature peut libérer l'arme en utilisant son action pour effectuer un jet de Force DD 11 et en le réussissant."
+    ]
+}

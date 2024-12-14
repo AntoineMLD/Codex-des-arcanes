@@ -1,0 +1,53 @@
+{
+    "title": "Dragon blanc, jeune",
+    "prerequisites": "Dragon (chromatique) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/white-dragon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dragon-blanc-jeune",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "133 (14d10 + 56)",
+        "Vitesse",
+        "12 m, creusement 6 m, nage 12 m, vol 24 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Jets de sauvegarde",
+        "Dex +3, Con +7, Sag +3, Cha +4",
+        "Compétences",
+        "Discrétion +3, Perception +6",
+        "Immunités aux dégâts",
+        "froid",
+        "Sens",
+        "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le dragon effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants + 4 (1d8) dégâts de froid.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Souffle de froid (Recharge 5-6). Le dragon crache une tempête de glace dans un cône de 9 mètres. Chaque créature dans la zone d'effet doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 45 (10d8) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le dragon effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants + 4 (1d8) dégâts de froid.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Souffle de froid (Recharge 5-6). Le dragon crache une tempête de glace dans un cône de 9 mètres. Chaque créature dans la zone d'effet doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 45 (10d8) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

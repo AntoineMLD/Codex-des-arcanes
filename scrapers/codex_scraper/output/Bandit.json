@@ -1,0 +1,43 @@
+{
+    "title": "Bandit",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement non loyal",
+    "description": "Les bandits vagabondent en bandes et sont parfois dirigés par des malfrats, des vétérans ou des mages. Tous les bandits ne sont pas mauvais. L'oppression, la sécheresse, les épidémies ou la famine peuvent souvent entraîner d'honnêtes gens vers une vie de banditisme.Les pirates sont des bandits de haute mer. Ils peuvent être des flibustiers intéressés uniquement par les trésors et le meurtre, ou être des corsaires légitimés par la couronne pour attaquer et piller les navires d'une nation ennemie.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=bandit",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure de cuir)",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Cimeterre. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts tranchants.",
+        "Arbalète légère. Attaque à distance avec une arme : +3 au toucher, portée 24/96 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Cimeterre. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts tranchants.",
+        "Arbalète légère. Attaque à distance avec une arme : +3 au toucher, portée 24/96 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

@@ -3,8 +3,7 @@ import scrapy
 
 class HistoriqueSpider(scrapy.Spider):
     name = "historique_spider"
-    start_urls = []
-    """start_urls = [
+    start_urls = [
         "https://www.aidedd.org/regles/historiques/",
         "https://www.aidedd.org/regles/historiques/acolyte/",
         "https://www.aidedd.org/regles/historiques/artisan-de-guilde/",
@@ -23,8 +22,29 @@ class HistoriqueSpider(scrapy.Spider):
         "https://www.aidedd.org/regles/equipement/armes/",
         "https://www.aidedd.org/regles/equipement/armures/",
         "https://www.aidedd.org/regles/equipement/materiel/",
-        "https://www.aidedd.org/regles/equipement/outils/"
-    ]"""
+        "https://www.aidedd.org/regles/equipement/outils/",
+        "https://www.aidedd.org/regles/equipement/montures-et-marchandises/",
+        "https://www.aidedd.org/regles/equipement/depenses/",
+        "https://www.aidedd.org/regles/equipement/babioles/",
+        "https://www.aidedd.org/regles/personnalisation/multiclassage/",
+        "https://www.aidedd.org/regles/caracteristiques/",
+        "https://www.aidedd.org/regles/aventure/",
+        "https://www.aidedd.org/regles/combat/",
+        "https://www.aidedd.org/regles/magie/",
+        "https://www.aidedd.org/regles/rencontres/",
+        "https://www.aidedd.org/regles/objets-magiques/",
+        "https://www.aidedd.org/regles/objets-magiques/intelligents/",
+        "https://www.aidedd.org/regles/objets-magiques/artefacts/",
+        "https://www.aidedd.org/regles/objets-magiques/creation/",
+        "https://www.aidedd.org/regles/pieges/",
+        "https://www.aidedd.org/regles/temps-morts/",
+        "https://www.aidedd.org/regles/objets/",
+        "https://www.aidedd.org/regles/maladies/",
+        "https://www.aidedd.org/regles/poisons/",
+        "https://www.aidedd.org/regles/folie/",
+        "https://www.aidedd.org/regles/pieges-xgte/",
+        "https://www.aidedd.org/regles/comparses/",
+    ]
 
     def parse(self, response):
         # Extraire le titre de la page

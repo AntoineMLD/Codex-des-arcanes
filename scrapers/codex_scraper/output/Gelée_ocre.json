@@ -1,0 +1,51 @@
+{
+    "title": "Gelée ocre",
+    "prerequisites": "Vase de taille G, sans alignement",
+    "description": "Une gelée ocre est une vase jaunâtre qui peut se glisser sous les portes et dans les interstices étroits afin de dévorer les créatures qu'elle poursuit.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ochre-jelly.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gelee-ocre",
+    "stats": [
+        "Classe d'armure",
+        "8",
+        "Points de vie",
+        "45 (6d10 + 12)",
+        "Vitesse",
+        "3 m, escalade 3 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "6 (-2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "1 (-5)",
+        "Résistances aux dégâts",
+        "acide",
+        "Immunités aux dégâts",
+        "foudre, tranchant",
+        "Immunités aux états",
+        "aveuglé, charmé, assourdi, épuisement, effrayé, à terre",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts contondants + 3 (1d6) d'acide.",
+        "Division. Lorsqu'une gelée de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, elle se divise en 2 nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède la moitié des points de vie de l'originale, arrondis à l'entier inférieur. Les nouvelles gelées font une taille de moins que la gelée d'origine."
+    ],
+    "actions": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts contondants + 3 (1d6) d'acide.",
+        "Division. Lorsqu'une gelée de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, elle se divise en 2 nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède la moitié des points de vie de l'originale, arrondis à l'entier inférieur. Les nouvelles gelées font une taille de moins que la gelée d'origine."
+    ],
+    "reactions": [
+        "Division. Lorsqu'une gelée de taille M ou supérieure subit des dégâts de foudre ou des dégâts tranchants, elle se divise en 2 nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède la moitié des points de vie de l'originale, arrondis à l'entier inférieur. Les nouvelles gelées font une taille de moins que la gelée d'origine."
+    ]
+}

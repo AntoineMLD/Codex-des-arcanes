@@ -1,0 +1,51 @@
+{
+    "title": "Assassin",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement non bon",
+    "description": "Entraînés à l'utilisation du poison, les assassins sont des tueurs sans remord travaillant pour des nobles, des maîtres de guilde, des souverains, et n'importe qui d'autre pouvant se payer leurs services.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=assassin",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure de cuir clouté)",
+        "Points de vie",
+        "78 (12d8 + 24)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Jets de sauvegarde",
+        "Dex +6, Int +4",
+        "Compétences",
+        "Acrobaties +6, Discrétion +9, Perception +3, Tromperie +3",
+        "Résistances aux dégâts",
+        "poison",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "jargon des voleurs plus deux langues au choix",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'assassin effectue deux attaques avec l'épée courte.",
+        "Épée courte. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Arbalète légère. Attaque à distance avec une arme : +6 au toucher, portée 24/96 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. L'assassin effectue deux attaques avec l'épée courte.",
+        "Épée courte. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Arbalète légère. Attaque à distance avec une arme : +6 au toucher, portée 24/96 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 15, subissant 24 (7d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

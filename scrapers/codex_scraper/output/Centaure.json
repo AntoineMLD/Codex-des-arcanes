@@ -1,0 +1,49 @@
+{
+    "title": "Centaure",
+    "prerequisites": "Monstruosité de taille G, neutre bon",
+    "description": "Un centaure a le corps d'un large cheval surmonté d'une tête, des bras et d'un torse humanoïde. Voyageurs solitaires, ils évitent les conflits mais combattent férocement lorsqu'ils y sont obligés.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/centaur.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=centaure",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "45 (6d10 + 12)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Athlétisme +6, Perception +3, Survie +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "elfique, sylvestre",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le centaure effectue deux attaques : une avec la pique et une avec ses sabots, ou deux avec l'arc long.",
+        "Pique. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 9 (1d10 + 4) dégâts perforants.",
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le centaure effectue deux attaques : une avec la pique et une avec ses sabots, ou deux avec l'arc long.",
+        "Pique. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 9 (1d10 + 4) dégâts perforants.",
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

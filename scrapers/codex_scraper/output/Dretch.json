@@ -1,0 +1,53 @@
+{
+    "title": "Dretch",
+    "prerequisites": "Fiélon (démon) de taille P, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-dretch.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dretch",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "18 (4d6 + 4)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "3 (-4)",
+        "Résistances aux dégâts",
+        "froid, feu, foudre",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "abyssal, télépathie 18 m (ne fonctionne qu'avec les créatures qui comprennent l'abyssal)",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le dretch effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Nuage fétide (1/jour). Un immonde gaz verdâtre s'échappe du dretch dans un rayon de 3 mètres. Le gaz contourne les angles, et la zone est légèrement obscurcie. Il reste présent pendant une minute ou jusqu'à ce qu'un vent fort le disperse. Toute créature qui débute son tour dans cette zone doit réussir un jet de sauvegarde de Constitution DD 11 ou être empoisonnée jusqu'au début de son prochain tour. Tant qu'elle est empoisonnée de la sorte, la cible ne peut utiliser lors de son tour qu'une action ou qu'une action bonus, mais pas les deux, et elle ne peut pas utiliser de réaction."
+    ],
+    "actions": [
+        "Attaques multiples. Le dretch effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Nuage fétide (1/jour). Un immonde gaz verdâtre s'échappe du dretch dans un rayon de 3 mètres. Le gaz contourne les angles, et la zone est légèrement obscurcie. Il reste présent pendant une minute ou jusqu'à ce qu'un vent fort le disperse. Toute créature qui débute son tour dans cette zone doit réussir un jet de sauvegarde de Constitution DD 11 ou être empoisonnée jusqu'au début de son prochain tour. Tant qu'elle est empoisonnée de la sorte, la cible ne peut utiliser lors de son tour qu'une action ou qu'une action bonus, mais pas les deux, et elle ne peut pas utiliser de réaction."
+    ],
+    "reactions": []
+}

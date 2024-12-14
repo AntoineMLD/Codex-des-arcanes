@@ -1,0 +1,43 @@
+{
+    "title": "Belette géante",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=belette-geante",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "9 (2d8)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Discrétion +5, Perception +3",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

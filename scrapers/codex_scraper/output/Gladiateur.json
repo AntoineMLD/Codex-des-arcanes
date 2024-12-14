@@ -1,0 +1,53 @@
+{
+    "title": "Gladiateur",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les gladiateurs se battent pour le plaisir de foules en liesse. Certains gladiateurs sont de brutaux combattants de fosse pour qui chaque combat est une lutte dans laquelle ils jouent leur vie, alors que d'autres sont des duellistes professionnels gagnant d'importantes rémunérations mais qui se battent rarement jusqu'à la mort.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gladiateur",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure de cuir clouté, bouclier)",
+        "Points de vie",
+        "112 (15d8 + 45)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "For +7, Dex +5, Con +6",
+        "Compétences",
+        "Athlétisme +10, Intimidation +5",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le gladiateur effectue trois attaques au corps à corps ou deux attaques à distance.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisée avec les deux mains pour une attaque au corps à corps.",
+        "Coup de bouclier. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d4 + 4) dégâts contondants. Si la cible est une créature de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas tomber à terre.",
+        "Parade. Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le gladiateur effectue trois attaques au corps à corps ou deux attaques à distance.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisée avec les deux mains pour une attaque au corps à corps.",
+        "Coup de bouclier. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d4 + 4) dégâts contondants. Si la cible est une créature de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas tomber à terre.",
+        "Parade. Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

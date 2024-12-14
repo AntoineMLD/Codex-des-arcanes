@@ -1,0 +1,53 @@
+{
+    "title": "Quasit",
+    "prerequisites": "Fiélon (démon, métamorphe) de taille TP, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/quasit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=quasit",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "7 (3d4)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +5",
+        "Résistances aux dégâts",
+        "froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "abyssal, commun",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Griffes (Morsure sous forme de bête). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou subir 5 (2d4) dégâts de poison et être empoisonné pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Frayeur (1/jour). Une créature que le quasit choisit, se trouvant dans un rayon de 6 mètres, doit réussir un jet de sauvegarde de Sagesse DD 10 ou être effrayée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si le quasit est dans sa ligne de mire, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Invisibilité. Le quasit devient invisible par magie jusqu'à ce qu'il attaque, utilise sa Frayeur, ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement qu'il porte ou transporte est également invisible."
+    ],
+    "actions": [
+        "Griffes (Morsure sous forme de bête). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou subir 5 (2d4) dégâts de poison et être empoisonné pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Frayeur (1/jour). Une créature que le quasit choisit, se trouvant dans un rayon de 6 mètres, doit réussir un jet de sauvegarde de Sagesse DD 10 ou être effrayée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si le quasit est dans sa ligne de mire, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Invisibilité. Le quasit devient invisible par magie jusqu'à ce qu'il attaque, utilise sa Frayeur, ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement qu'il porte ou transporte est également invisible."
+    ],
+    "reactions": []
+}

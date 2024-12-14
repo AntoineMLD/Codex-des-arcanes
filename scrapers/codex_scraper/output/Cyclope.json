@@ -1,0 +1,45 @@
+{
+    "title": "Cyclope",
+    "prerequisites": "Géant de taille TG, chaotique neutre",
+    "description": "Les cyclopes sont des géants n'ayant qu'un œil au milieu du front qui subsistent comme ils peuvent dans les terres sauvages. À cause de leur taille et de leur force, ils représentent une terrible menace au combat, mais ils peuvent facilement être trompés par un adversaire astucieux.",
+    "source": "Monster Manual (BR)",
+    "image_url": "https://www.aidedd.org/dnd/images/cyclops.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cyclope",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "138 (12d12 + 60)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "10 (+0)",
+        "Sens",
+        "Perception passive 8",
+        "Langues",
+        "géant",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le cyclope effectue deux attaques avec la massue.",
+        "Massue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 9/36 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le cyclope effectue deux attaques avec la massue.",
+        "Massue. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +9 au toucher, portée 9/36 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants."
+    ],
+    "reactions": []
+}

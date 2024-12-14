@@ -1,0 +1,7 @@
+{
+    "title": "Lien de protection",
+    "prerequisites": "Aucun",
+    "description": "Ce sort protège une créature consentante que vous touchez et crée une connexion mystique entre vous et la cible jusqu'à ce que le sort se termine. Aussi longtemps que la cible n'est pas éloignée de plus de 18 mètres de vous, elle gagne un bonus de +1 à la CA, +1 aux jets de sauvegarde et obtient une résistance à tous les dégâts. De plus, chaque fois qu'elle subit des dégâts, vous recevez la même quantité de dégâts. Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance. Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées. Vous pouvez également rompre le sort au prix d'une action.",
+    "source": "Player´s Handbook (SRD)",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=lien-de-protection"
+}

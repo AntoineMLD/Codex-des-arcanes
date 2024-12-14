@@ -1,0 +1,49 @@
+{
+    "title": "Dao",
+    "prerequisites": "Élémentaire de taille G, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/dao.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dao",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "187 (15d10 + 105)",
+        "Vitesse",
+        "9 m, creusement 9 m, vol 9 m",
+        "FOR",
+        "23 (+6)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "24 (+7)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Jets de sauvegarde",
+        "Int +5, Sag +5, Cha +6",
+        "Immunités aux états",
+        "pétrifié",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "terreux",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le dao effectue deux attaques avec ses poings, ou deux attaques avec le maillet.",
+        "Poing. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d8 + 6) dégâts contondants.",
+        "Maillet. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 20 (4d6 + 6) dégâts contondants. Si la cible est une créature de taille TG ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 18 ou tomber à terre."
+    ],
+    "actions": [
+        "Attaques multiples. Le dao effectue deux attaques avec ses poings, ou deux attaques avec le maillet.",
+        "Poing. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d8 + 6) dégâts contondants.",
+        "Maillet. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 20 (4d6 + 6) dégâts contondants. Si la cible est une créature de taille TG ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 18 ou tomber à terre."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,312 @@
+{
+    "title": "Monstres",
+    "introduction": "Les statistiques d'une créature , parfois appelées « bloc de stat », fournissent l'essentiel des informations nécessaires pour jouer le monstre.",
+    "sections": [
+        {
+            "title": "Taille",
+            "content": "Un monstre peut être de taille Très Petite, Petite, Moyenne, Grande, Très Grande ou Gigantesque. La table ci-dessous indique combien d'espace une créature d'une taille particulière occupe en combat (voir Combat pour plus d'informations sur les tailles des créatures)."
+        },
+        {
+            "title": "Type",
+            "content": "Le type d'un monstre détermine sa nature profonde. Certains sorts, objets magiques, capacités de classe et autres effets dans le jeu interagissent de manière spéciale avec les créatures d'un type particulier. Par exemple, une flèche tueuse de dragons inflige des dégâts supplémentaires non seulement aux dragons, mais également aux autres créatures de type dragon, comme les dragons-tortues et les wivernes. Voici les différents types de créatures que l'on rencontre dans le jeu. Ces types n'ont pas de règles propres."
+        },
+        {
+            "title": "Alignement",
+            "content": "L'alignement d'une créature fournit des indices sur la façon dont elle va agir dans une situation de roleplay ou de combat. Par exemple, une créature chaotique mauvaise sera sans doute difficile à raisonner et attaquera probablement les personnages à vue, tandis qu'une créature neutre pourra tenter de négocier (voir Détail du personnage pour la description des différents alignements). L'alignement spécifié dans le bloc de stat de la créature est son alignement par défaut. Libre à vous de changer l'alignement d'une créature pour répondre aux besoins de votre campagne. Si vous souhaitez un dragon vert d'alignement bon ou un géant des tempêtes mauvais, rien ne vous en empêche. Certaines créatures peuvent être de n'importe quel alignement. En d'autres termes, vous choisissez leur alignement. Certains alignements de créatures indiquent une aversion ou un penchant pour la loi, le chaos, le bien ou le mal. Par exemple, un berserker peut être de n'importe quel alignement chaotique (chaotique bon, chaotique neutre ou chaotique mauvais) de par sa nature sauvage. Beaucoup de créatures ayant une faible intelligence n'ont pas la perception ou la compréhension de la loi, du chaos, du bien et du mal. Elles ne se posent pas de dilemmes éthiques ou moraux, mais agissent plutôt par instinct ou intuition. Ces créatures sont non alignées, ce qui signifie qu'elles n'ont pas d'alignement."
+        },
+        {
+            "title": "Classe d'armure",
+            "content": "Une créature qui porte une armure ou un bouclier possède une classe d'armure (CA) qui prend en compte son armure, son bouclier et sa Dextérité. Autrement, la CA d'une créature est basée sur son modificateur de Dextérité et son armure naturelle, si elle en possède une. Le fait qu'une créature ait une armure naturelle, porte une armure ou soit équipée d'un bouclier, est précisé entre parenthèses après sa valeur de CA."
+        },
+        {
+            "title": "Points de vie",
+            "content": "Généralement lorsqu'une créature tombe à 0 point de vie, elle est détruite ou meurt (voir Combat pour plus d'information sur les points de vie). Les points de vie d'une créature sont à la fois représentés par un nombre de dés et une moyenne. Par exemple, une créature avec 2d8 points de vie a en moyenne 9 points de vie (2 × 4½). La taille d'un monstre détermine le type de dés utilisé pour calculer ses points de vie, comme indiqué dans la table ci-dessous."
+        },
+        {
+            "title": "Vitesse",
+            "content": "La vitesse d'une créature indique quelle distance elle peut parcourir à son tour (voir Combat pour plus d'information sur la vitesse). Toutes les créatures ont une vitesse de marche, simplement appelée vitesse. Les créatures sans possibilité de déplacement ont une vitesse de 0 m. Certaines créatures ont un ou plusieurs autres modes de déplacement comme indiqué ci-après."
+        },
+        {
+            "title": "Valeurs de caractéristique",
+            "content": "Toutes les créatures ont six valeurs de caractéristiques (Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme) et les modificateurs correspondants (voir Caractéristiques pour plus d'information sur les caractéristiques)."
+        },
+        {
+            "title": "Jets de sauvegarde",
+            "content": "L'entrée Jets de sauvegarde est réservée aux créatures particulièrement résistantes à certains types d'effets. Par exemple, une créature qui ne peut pas facilement être charmée ou effrayée gagne un bonus à ses jets de sauvegarde de Sagesse. La plupart des créatures n'ont pas de bonus spécial aux jets de sauvegarde. Dans ce cas cette section du bloc de stat est absente."
+        },
+        {
+            "title": "Compétences",
+            "content": "Le champ Compétences est réservé aux créatures qui ont la maîtrise d'une ou plusieurs compétences. Par exemple, une créature aux facultés de perception élevées et naturellement très discrète peut avoir un bonus de maîtrise à ses jets de Sagesse (Perception) et de Dextérité (Discrétion)."
+        },
+        {
+            "title": "Vulnérabilité, Résistances et Immunités",
+            "content": "Certaines créatures possèdent des vulnérabilités, des résistances ou des immunités à certains types de dégâts. Des créatures particulières sont même résistantes ou immunisées aux dégâts d'attaques non magiques (une attaque magique est une attaque délivrée par un sort, un objet magique ou une autre source de magie). En outre, certaines créatures sont immunisées à certaines conditions."
+        },
+        {
+            "title": "Sens",
+            "content": "Le champ Sens d'une créature indique sa valeur de Sagesse (Perception) passive aussi bien que les sens spéciaux qu'elle possède. Les sens spéciaux sont décrits ci-dessous."
+        },
+        {
+            "title": "Langues",
+            "content": "Les langues par lesquelles une créature peut communiquer sont listées par ordre alphabétique. Parfois une créature peut comprendre une langue sans pour autant la parler ; dans ce cas cela est précisé dans ce champ. \"—\" indique que la créature ne comprend ni ne parle aucun langage."
+        },
+        {
+            "title": "Facteur de puissance",
+            "content": "La puissance d'une créature indique la menace représentée par cette créature. Un groupe de quatre aventuriers bien reposés et correctement équipés devrait être capable de défaire une créature possédant un facteur de puissance (FP) égal au niveau du groupe sans subir de perte. Par exemple, un groupe de quatre aventuriers de niveau 3 devrait considérer une créature de FP 3 comme un défi intéressant mais pas mortel. Les créatures plus faibles que des personnages de niveau 1 ont un facteur de puissance inférieur à 1. Les créatures de FP 0 sont insignifiantes, sauf en grand nombre. Celles sans attaque efficace ne valent pas de points d'expériences tandis que les autres en rapportent chacune 10. Quelques créatures représentent une menace si importante que même un groupe d'aventuriers de niveau 20 ne pourrait y tenir tête. Ces créatures ont un FP de 21 ou plus, et sont spécialement conçues pour tester les compétences des joueurs."
+        },
+        {
+            "title": "Capacités spéciales",
+            "content": "Les capacités spéciales (qui apparaissent après le FP d'une créature mais avant ses actions et/ou réactions) sont généralement des caractéristiques particulièrement importantes lors des combats et qui requièrent une explication détaillée."
+        },
+        {
+            "title": "Actions",
+            "content": "Quand une créature prend son action, elle peut choisir celle-ci parmi les options situées dans la section Actions de son bloc de stat, ou entreprendre une des actions réalisables par toutes les créatures comme Esquiver, Foncer ou Se cacher (voir Combat )."
+        },
+        {
+            "title": "Réactions",
+            "content": "Si une créature peut faire quelque chose de spécial avec sa réaction, la section Réaction l'indiquera. Sinon cette section sera absente du bloc de stat."
+        },
+        {
+            "title": "Usage limité",
+            "content": "RÈGLES DE LUTTE POUR LES MONSTRES De nombreux monstres possèdent des attaques spéciales qui leur permettent d'agripper rapidement une proie. Quand un monstre frappe avec une telle attaque, il n'a pas besoin de faire un jet de caractéristique supplémentaire pour déterminer s'il parvient à agripper ou non sa cible, à moins que la description ne dise le contraire. Une créature agrippée par le monstre peut utiliser son action pour tenter de s'échapper. Pour cela, elle doit réussir un jet de Force (Athlétisme) ou de Dextérité (Acrobaties) contre le DD d'évasion indiqué dans le bloc de stat du monstre. Si aucune DD d'évasion n'est indiqué, le DD par défaut est de 10 + le modificateur de Force (Athlétisme) du monstre."
+        },
+        {
+            "title": "Équipement",
+            "content": "Le bloc de stat indique rarement l'équipement autre que les armes et les armures utilisées par la créature. Une créature qui a coutume de porter des habits, comme un humanoïde, est considérée comme étant vêtue de manière appropriée. Le MD peut équiper les créatures d'objets supplémentaires selon son bon vouloir en utilisant le chapitre Équipement comme source d'inspiration, tout comme il peut décider quelle partie de cet équipement est récupérable et s'il est encore utilisable une fois la créature éliminée. Une armure cabossée et faite pour une créature est rarement utilisable par quelqu'un d'autre par exemple. Si une créature qui peut lancer des sorts a besoin de composantes matérielles, on considère qu'elle possède les composantes nécessaires pour les sorts indiqués dans son bloc de stat."
+        },
+        {
+            "title": "Créatures légendaires",
+            "content": "Une créature légendaire peut faire des choses qu'aucune créature ordinaire ne pourrait entreprendre. Les créatures légendaires peuvent réaliser des actions spéciales en dehors de leur tour, et certaines peuvent même influencer leur environnement, causant des effets magiques extraordinaires autour d'elles. Si une créature prend la forme d'une créature légendaire, avec l'aide d'un sort par exemple, elle ne gagne pas ses actions légendaires, ni ses actions de repaire, ni ses effets régionaux."
+        },
+        {
+            "title": "Actions légendaires",
+            "content": "Une créature légendaire peut prendre un certain nombre d'actions spéciales, appelées actions légendaires, en dehors de son tour. Une seule action légendaire peut être utilisée à la fois et uniquement à la fin du tour d'une autre créature. Une créature légendaire regagne les actions légendaires qu'elle a dépensées au début de son tour. Elle peut renoncer à les utiliser, et ne peut les utiliser si elle est incapable d'agir ou incapable de prendre des actions. Si elle est surprise, elle ne peut les utiliser qu'après son premier tour dans le combat."
+        },
+        {
+            "title": "Repaire de créature légendaire",
+            "content": "Une créature légendaire peut avoir une section décrivant son repaire et les effets spéciaux qu'elle peut y générer en son sein, que ce soit volontairement ou par sa seule présence. Les créatures légendaires n'ont pas toutes un repaire. Cette section s'applique uniquement pour les créatures légendaires qui passent le plus clair de leur temps dans leur antre et qui sont donc généralement rencontrées dans celui-ci."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Taille",
+                "Espace",
+                "Exemple"
+            ],
+            "rows": [
+                {
+                    "Taille": "Très Petite (TP)",
+                    "Espace": "75 cm x 75 cm",
+                    "Exemple": "Diablotin, esprit follet"
+                },
+                {
+                    "Taille": "Petite (P)",
+                    "Espace": "1,50 m x 1,50 m",
+                    "Exemple": "Rat géant, gobelin"
+                },
+                {
+                    "Taille": "Moyenne (M)",
+                    "Espace": "1,50 m x 1,50 m",
+                    "Exemple": "Orc, loup-garou"
+                },
+                {
+                    "Taille": "Grande (G)",
+                    "Espace": "3 m x 3 m",
+                    "Exemple": "Hippogriffe, ogre"
+                },
+                {
+                    "Taille": "Très Grande (TG)",
+                    "Espace": "4,50 m x 4,50 m",
+                    "Exemple": "Géant de feu, sylvanien"
+                },
+                {
+                    "Taille": "Gigantesque (Gig)",
+                    "Espace": "6 m x 6 m ou plus",
+                    "Exemple": "Kraken, ver pourpre"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Taille",
+                "Dés de vie",
+                "PV moyens par dé"
+            ],
+            "rows": [
+                {
+                    "Taille": "Très Petite",
+                    "Dés de vie": "d4",
+                    "PV moyens par dé": "2½"
+                },
+                {
+                    "Taille": "Petite",
+                    "Dés de vie": "d6",
+                    "PV moyens par dé": "3½"
+                },
+                {
+                    "Taille": "Moyenne",
+                    "Dés de vie": "d8",
+                    "PV moyens par dé": "4½"
+                },
+                {
+                    "Taille": "Grande",
+                    "Dés de vie": "d10",
+                    "PV moyens par dé": "5½"
+                },
+                {
+                    "Taille": "Très Grande",
+                    "Dés de vie": "d12",
+                    "PV moyens par dé": "6½"
+                },
+                {
+                    "Taille": "Gigantesque",
+                    "Dés de vie": "d20",
+                    "PV moyens par dé": "10½"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "rows": [
+                {
+                    "": "Bonus demaîtrise"
+                },
+                {
+                    "": "+5"
+                },
+                {
+                    "": "+5"
+                },
+                {
+                    "": "+5"
+                },
+                {
+                    "": "+6"
+                },
+                {
+                    "": "+6"
+                },
+                {
+                    "": "+6"
+                },
+                {
+                    "": "+6"
+                },
+                {
+                    "": "+7"
+                },
+                {
+                    "": "+7"
+                },
+                {
+                    "": "+7"
+                },
+                {
+                    "": "+7"
+                },
+                {
+                    "": "+8"
+                },
+                {
+                    "": "+8"
+                },
+                {
+                    "": "+8"
+                },
+                {
+                    "": "+8"
+                },
+                {
+                    "": "+9"
+                },
+                {
+                    "": "+9"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Facteur depuissance",
+                "PX",
+                "Facteur depuissance",
+                "PX"
+            ],
+            "rows": [
+                {
+                    "Facteur depuissance": "14",
+                    "PX": "11 500"
+                },
+                {
+                    "Facteur depuissance": "15",
+                    "PX": "13 000"
+                },
+                {
+                    "Facteur depuissance": "16",
+                    "PX": "15 000"
+                },
+                {
+                    "Facteur depuissance": "17",
+                    "PX": "18 000"
+                },
+                {
+                    "Facteur depuissance": "18",
+                    "PX": "20 000"
+                },
+                {
+                    "Facteur depuissance": "19",
+                    "PX": "22 000"
+                },
+                {
+                    "Facteur depuissance": "20",
+                    "PX": "25 000"
+                },
+                {
+                    "Facteur depuissance": "21",
+                    "PX": "33 000"
+                },
+                {
+                    "Facteur depuissance": "22",
+                    "PX": "41 000"
+                },
+                {
+                    "Facteur depuissance": "23",
+                    "PX": "50 000"
+                },
+                {
+                    "Facteur depuissance": "24",
+                    "PX": "62 000"
+                },
+                {
+                    "Facteur depuissance": "25",
+                    "PX": "75 000"
+                },
+                {
+                    "Facteur depuissance": "26",
+                    "PX": "90 000"
+                },
+                {
+                    "Facteur depuissance": "27",
+                    "PX": "105 000"
+                },
+                {
+                    "Facteur depuissance": "28",
+                    "PX": "120 000"
+                },
+                {
+                    "Facteur depuissance": "29",
+                    "PX": "135 000"
+                },
+                {
+                    "Facteur depuissance": "30",
+                    "PX": "155 000"
+                }
+            ]
+        }
+    ]
+}

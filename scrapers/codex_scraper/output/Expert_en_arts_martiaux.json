@@ -1,0 +1,49 @@
+{
+    "title": "Expert en arts martiaux",
+    "prerequisites": "Humanoïde de taille M, tout alignement",
+    "description": "Non spécifié",
+    "source": "Monsters of the Multiverse",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=expert-en-arts-martiaux",
+    "stats": [
+        "Classe d'armure",
+        "16 (Défense sans armure)",
+        "Points de vie",
+        "60 (11d8 + 11)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Acrobaties +5, Discrétion +5, Intuition +5",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "3 (700 PX)",
+        "Bonus de maîtrise",
+        "+2"
+    ],
+    "actions": [
+        "Attaques multiples. L'adepte effectue trois attaques à mains nues ou trois attaques de fléchette.",
+        "Attaque à mains nues. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants. Une fois par tour, l'adepte peut infliger l'un des effets supplémentaires suivants (choisir ou lancez un d4) :",
+        "1-2. La cible doit réussir un jet de sauvegarde de Dextérité DD 13 ou être jetée à terre.",
+        "3-4. La cible doit réussir un jet de sauvegarde de Force DD 13 ou être repoussée de 3 mètres de l'adepte.",
+        "Fléchette. Attaque à distance avec une arme : +5 au toucher, portée 6/18 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Parade de projectiles. Lorsqu'il est touché par une attaque à distance avec une arme, l'adepte dévie le projectile qui le frappe. Les dégâts qu'il subit de l'attaque sont réduits de 1d10 + 3. Si les dégâts sont réduits à 0, l'adepte attrape le projectile s'il est suffisamment petit pour pouvoir tenir dans une main et que l'adepte a une main de libre."
+    ],
+    "reactions": [
+        "Parade de projectiles. Lorsqu'il est touché par une attaque à distance avec une arme, l'adepte dévie le projectile qui le frappe. Les dégâts qu'il subit de l'attaque sont réduits de 1d10 + 3. Si les dégâts sont réduits à 0, l'adepte attrape le projectile s'il est suffisamment petit pour pouvoir tenir dans une main et que l'adepte a une main de libre."
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Githzerai, zerth",
+    "prerequisites": "Humanoïde (gith) de taille M, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/githzerai.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=githzerai-zerth",
+    "stats": [
+        "Classe d'armure",
+        "17",
+        "Points de vie",
+        "84 (13d8 + 26)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "16 (+3)",
+        "SAG",
+        "17 (+3)",
+        "CHA",
+        "12 (+1)",
+        "Jets de sauvegarde",
+        "For +4, Dex +7, Int +6, Sag +6",
+        "Compétences",
+        "Arcanes +6, Intuition +6, Perception +6",
+        "Sens",
+        "Perception passive 16",
+        "Langues",
+        "gith",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le githzerai effectue deux attaques à mains nues.",
+        "Attaque à mains nues. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants + 13 (3d8) dégâts psychiques. C'est une attaque avec une arme magique."
+    ],
+    "actions": [
+        "Attaques multiples. Le githzerai effectue deux attaques à mains nues.",
+        "Attaque à mains nues. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants + 13 (3d8) dégâts psychiques. C'est une attaque avec une arme magique."
+    ],
+    "reactions": []
+}

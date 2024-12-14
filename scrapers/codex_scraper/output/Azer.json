@@ -1,0 +1,47 @@
+{
+    "title": "Azer",
+    "prerequisites": "Élémentaire de taille M, loyal neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/azer.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=azer",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle, bouclier)",
+        "Points de vie",
+        "39 (6d8 + 12)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "10 (+0)",
+        "Jets de sauvegarde",
+        "Con +4",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "igné",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Marteau de guerre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants, ou 8 (1d10 + 3) dégâts contondants si utilisé à deux mains pour faire une attaque au corps à corps, plus 3 (1d6) dégâts de feu."
+    ],
+    "actions": [
+        "Marteau de guerre. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants, ou 8 (1d10 + 3) dégâts contondants si utilisé à deux mains pour faire une attaque au corps à corps, plus 3 (1d6) dégâts de feu."
+    ],
+    "reactions": []
+}

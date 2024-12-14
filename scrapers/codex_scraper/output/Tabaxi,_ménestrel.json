@@ -1,0 +1,42 @@
+{
+    "title": "Tabaxi, ménestrel",
+    "prerequisites": "Humanoïde (tabaxi) de taille M, chaotique bon",
+    "description": "Les tabaxis sont des hommes-chats originaires des jungles de Maztica.",
+    "source": "Adventures (Tomb of Annihilation)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tabaxi-menestrel",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m, escalade 6 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Discrétion +4, Perception +3, Représentation +7, Persuasion +5",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "commun plus deux autres langues",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le tabaxi effectue deux attaques avec ses griffes, ou deux attaques avec ses fléchettes.",
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts tranchants.",
+        "Fléchettes. Attaque à distance avec une arme : +4 au toucher, portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

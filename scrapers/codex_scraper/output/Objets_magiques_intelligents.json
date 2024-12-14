@@ -1,0 +1,152 @@
+{
+    "title": "Objets magiques intelligents",
+    "introduction": "Certains objets magiques possèdent leur propre conscience et personnalité. Un tel objet pourrait être possédé, hanté par l'esprit de son précédent possesseur, ou bien tout simplement rendu doué de raison par la magie utilisée lors de sa création. Quoi qu'il en soit, l'objet se comporte comme un personnage, avec les caprices et excentricités, les idéaux, les liens, et parfois les défauts qui vont de pair. Un objet intelligent peut être un allié précieux pour son possesseur, ou une véritable épine dans le pied.",
+    "sections": [
+        {
+            "title": "Créer un objet magique intelligent",
+            "content": "Lorsque vous décidez de fabriquer un objet magique intelligent, vous créez la personnalité de l'objet de la même manière que lorsque vous créez un PNJ, avec cependant quelques différences indiquées ci-dessous. L'objet insiste pour être tenu ou équipé constamment. L'objet exige que son porteur se débarrasse de tout ce que l'objet trouve répugnant. L'objet exige de son porteur qu'il poursuive le but de l'objet et abandonne ses propres buts. L'objet exige d'être confié à quelqu'un d'autre."
+        },
+        {
+            "title": "Conflit",
+            "content": "Un objet intelligent possède sa volonté propre, moulée sur sa personnalité et son alignement. Si son utilisateur agit d'une manière contradictoire avec l'alignement ou le dessein spécial de l'objet, un conflit peut éclater. Lorsqu'un tel conflit survient, l'objet effectue un jet de Charisme opposé au jet de Charisme de son utilisateur. Si l'objet remporte ce jet d'opposition, il effectue l'une ou plus des revendications qui suivent : L'objet insiste pour être tenu ou équipé constamment. L'objet exige que son porteur se débarrasse de tout ce que l'objet trouve répugnant. L'objet exige de son porteur qu'il poursuive le but de l'objet et abandonne ses propres buts. L'objet exige d'être confié à quelqu'un d'autre."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "d100",
+                "Communication"
+            ],
+            "rows": [
+                {
+                    "d100": "01-60",
+                    "Communication": "L'objet communique en transmettant ses émotions à la créature qui l'équipe ou qui le manie."
+                },
+                {
+                    "d100": "61-90",
+                    "Communication": "L'objet peut parler, lire, et comprendre une ou plusieurs langues."
+                },
+                {
+                    "d100": "91-00",
+                    "Communication": "L'objet peut parler, lire, et comprendre une ou plusieurs langues. De plus, l'objet peut communiquer par télépathie avec tout personnage qui l'équipe ou le manie."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d4",
+                "Sens"
+            ],
+            "rows": [
+                {
+                    "d4": "1",
+                    "Sens": "Ouïe et vision normale à 9 mètres."
+                },
+                {
+                    "d4": "2",
+                    "Sens": "Ouïe et vision normale à 18 mètres."
+                },
+                {
+                    "d4": "3",
+                    "Sens": "Ouïe et vision normale à 36 mètres."
+                },
+                {
+                    "d4": "4",
+                    "Sens": "Ouïe et vision dans le noir à 36 mètres."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d100",
+                "Alignement"
+            ],
+            "rows": [
+                {
+                    "d100": "01-15",
+                    "Alignement": "Loyal bon"
+                },
+                {
+                    "d100": "16-35",
+                    "Alignement": "Neutre bon"
+                },
+                {
+                    "d100": "36-50",
+                    "Alignement": "Chaotique bon"
+                },
+                {
+                    "d100": "51-63",
+                    "Alignement": "Loyal neutre"
+                },
+                {
+                    "d100": "64-73",
+                    "Alignement": "Neutre"
+                },
+                {
+                    "d100": "74-85",
+                    "Alignement": "Chaotique neutre"
+                },
+                {
+                    "d100": "86-89",
+                    "Alignement": "Loyal mauvais"
+                },
+                {
+                    "d100": "90-96",
+                    "Alignement": "Neutre mauvais"
+                },
+                {
+                    "d100": "97-00",
+                    "Alignement": "Chaotique mauvais"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d10",
+                "Dessein"
+            ],
+            "rows": [
+                {
+                    "d10": "1",
+                    "Dessein": "Aligné : l'objet cherche à vaincre ou détruire ceux qui sont d'un alignement diamétralement opposé au sien (un tel objet n'est jamais neutre)."
+                },
+                {
+                    "d10": "2",
+                    "Dessein": "Fléau : l'objet cherche à vaincre ou détruire les créatures d'une sorte particulière, comme les fiélons, les métamorphes, les trolls ou les magiciens."
+                },
+                {
+                    "d10": "3",
+                    "Dessein": "Protecteur : l'objet cherche à défendre une race particulière ou une sorte de créatures, comme les elfes ou les druides."
+                },
+                {
+                    "d10": "4",
+                    "Dessein": "Croisé : l'objet cherche à vaincre, affaiblir, ou détruire les serviteurs d'une divinité particulière."
+                },
+                {
+                    "d10": "5",
+                    "Dessein": "Templier : l'objet cherche à défendre les serviteurs et intérêts d'une divinité particulière."
+                },
+                {
+                    "d10": "6",
+                    "Dessein": "Destructeur : l'objet recherche la destruction et incite son utilisateur à combattre sans lui demander son avis."
+                },
+                {
+                    "d10": "7",
+                    "Dessein": "Chasseur de gloire : l'objet cherche à être connu comme le plus puissant objet magique du monde en rendant son utilisateur célèbre, en bien ou en mal."
+                },
+                {
+                    "d10": "8",
+                    "Dessein": "Chasseur de connaissances : l'objet a une soif intarissable de connaissances en tous genres, ou bien est destiné à résoudre un mystère, apprendre un secret ou comprendre une prophétie sibylline."
+                },
+                {
+                    "d10": "9",
+                    "Dessein": "Chasseur de destin : l'objet est convaincu que lui et son porteur vont jouer un rôle déterminant dans de futurs événements."
+                },
+                {
+                    "d10": "10",
+                    "Dessein": "Chasseur du créateur : l'objet est à la recherche de son créateur et veut comprendre pourquoi il a été créé."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Sentinelle d'eau",
+    "prerequisites": "Élémentaire de taille G, neutre",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/water-weird.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sentinelle-d-eau",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "58 (9d10 + 9)",
+        "Vitesse",
+        "0 m, nage 18 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Résistances aux dégâts",
+        "feu ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, agrippé, paralysé, empoisonné, entravé, à terre, inconscient",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 10",
+        "Langues",
+        "comprend l'aquatique mais ne peut pas parler",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Constriction. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une créature. Touché : 13 (3d6 + 3) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (évasion DD 13) et attirée de 1,50 mètre vers la sentinelle d'eau. Tant qu'elle est agrippée, la cible est entravée, la sentinelle d'eau tente de la noyer et ne peut pas étreindre une autre cible."
+    ],
+    "actions": [
+        "Constriction. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une créature. Touché : 13 (3d6 + 3) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (évasion DD 13) et attirée de 1,50 mètre vers la sentinelle d'eau. Tant qu'elle est agrippée, la cible est entravée, la sentinelle d'eau tente de la noyer et ne peut pas étreindre une autre cible."
+    ],
+    "reactions": []
+}

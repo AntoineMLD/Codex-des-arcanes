@@ -1,0 +1,41 @@
+{
+    "title": "Poney",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=poney",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Sabots. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts contondants."
+    ],
+    "actions": [
+        "Sabots. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts contondants."
+    ],
+    "reactions": []
+}

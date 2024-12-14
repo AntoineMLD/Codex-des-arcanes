@@ -1,0 +1,47 @@
+{
+    "title": "Babélien",
+    "prerequisites": "Aberration de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/gibbering-mouther.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=babelien",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "67 (9d8 + 27)",
+        "Vitesse",
+        "3 m, nage 3 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "6 (-2)",
+        "Immunités aux états",
+        "à terre",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le babélien effectue une attaque de morsure et, s'il le peut, utilise sa Salive aveuglante.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 10 ou tomber à terre. Si la cible est tuée par les dégâts de cette attaque, elle est absorbée par le babélien.",
+        "Salive aveuglante (Recharge 5-6). Le babélien crache un projectile chimique sur un point qu'il peut voir dans un rayon de 4,50 mètres autour de lui. Le projectile explose dans un éclat de lumière aveuglant au moment de l'impact. Chaque créature se trouvant à 1,50 mètre du flash de lumière doit réussir un jet de sauvegarde de Dextérité DD 13 ou être aveuglée jusqu'à la fin du prochain tour du babélien."
+    ],
+    "actions": [
+        "Attaques multiples. Le babélien effectue une attaque de morsure et, s'il le peut, utilise sa Salive aveuglante.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 10 ou tomber à terre. Si la cible est tuée par les dégâts de cette attaque, elle est absorbée par le babélien.",
+        "Salive aveuglante (Recharge 5-6). Le babélien crache un projectile chimique sur un point qu'il peut voir dans un rayon de 4,50 mètres autour de lui. Le projectile explose dans un éclat de lumière aveuglant au moment de l'impact. Chaque créature se trouvant à 1,50 mètre du flash de lumière doit réussir un jet de sauvegarde de Dextérité DD 13 ou être aveuglée jusqu'à la fin du prochain tour du babélien."
+    ],
+    "reactions": []
+}

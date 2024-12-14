@@ -1,0 +1,47 @@
+{
+    "title": "Ours brun",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ours-brun",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "34 (4d10 + 12)",
+        "Vitesse",
+        "12 m, escalade 9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'ours réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'ours réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

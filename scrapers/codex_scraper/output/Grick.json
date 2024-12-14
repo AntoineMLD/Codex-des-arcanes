@@ -1,0 +1,47 @@
+{
+    "title": "Grick",
+    "prerequisites": "Monstruosité de taille M, neutre",
+    "description": "Cette monstruosité vermiforme se confond avec la roche des cavernes qu'il hante. Quand sa proie s'approche, il déploie ses tentacules barbelés pour révéler un bec béant et affuté.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/grick.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=grick",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "27 (6d8)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "5 (-3)",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le grick effectue une attaque avec ses tentacules. Si cette attaque touche, le grick peut effectuer une attaque avec son bec contre la même cible.",
+        "Tentacules. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants.",
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le grick effectue une attaque avec ses tentacules. Si cette attaque touche, le grick peut effectuer une attaque avec son bec contre la même cible.",
+        "Tentacules. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants.",
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

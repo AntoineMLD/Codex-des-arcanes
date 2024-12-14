@@ -1,0 +1,7 @@
+{
+    "title": "Combattant monté",
+    "prerequisites": "Aucun",
+    "description": "Vous êtes un dangereux ennemi à affronter lorsque vous êtes monté. Lorsque vous êtes monté et pas incapable d'agir, vous gagnez les avantages suivants : Vous avez un avantage aux jets d'attaque au corps à corps contre toute créature non montée qui est plus petite que votre monture. Vous pouvez forcer une attaque qui cible votre monture à vous cibler à sa place. Si votre monture est soumise à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, elle ne prend aucun dégât si le jet de sauvegarde est réussi, et seulement la moitié des dégâts en cas d'échec.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=combattant-monte"
+}

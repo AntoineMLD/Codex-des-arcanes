@@ -1,0 +1,86 @@
+{
+    "title": "Poisons",
+    "introduction": "Compte tenu de leur nature insidieuse et mortelle, les poisons sont illégaux dans la plupart des sociétés, mais ils n'en sont pas moins l'un des outils préférés des assassins, des drows et d'autres créatures maléfiques. Les poisons sont de quatre types :",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Poison",
+                "Type",
+                "Prix par dose"
+            ],
+            "rows": [
+                {
+                    "Poison": "Essence éthérée",
+                    "Type": "Inhalation",
+                    "Prix par dose": "300 po"
+                },
+                {
+                    "Poison": "Fumées d'othur",
+                    "Type": "Inhalation",
+                    "Prix par dose": "500 po"
+                },
+                {
+                    "Poison": "Huile de taggit",
+                    "Type": "Contact",
+                    "Prix par dose": "400 po"
+                },
+                {
+                    "Poison": "Larmes de minuit",
+                    "Type": "Ingestion",
+                    "Prix par dose": "1500 po"
+                },
+                {
+                    "Poison": "Malice",
+                    "Type": "Inhalation",
+                    "Prix par dose": "250 po"
+                },
+                {
+                    "Poison": "Mucus de charognard rampant",
+                    "Type": "Contact",
+                    "Prix par dose": "200 po"
+                },
+                {
+                    "Poison": "Poison de ver pourpre",
+                    "Type": "Blessure",
+                    "Prix par dose": "2000 po"
+                },
+                {
+                    "Poison": "Poison de wiverne",
+                    "Type": "Blessure",
+                    "Prix par dose": "1200 po"
+                },
+                {
+                    "Poison": "Poison drow",
+                    "Type": "Blessure",
+                    "Prix par dose": "200 po"
+                },
+                {
+                    "Poison": "Sang d'assassin",
+                    "Type": "Ingestion",
+                    "Prix par dose": "150 po"
+                },
+                {
+                    "Poison": "Sérum de vérité",
+                    "Type": "Ingestion",
+                    "Prix par dose": "150 po"
+                },
+                {
+                    "Poison": "Teinture pale",
+                    "Type": "Ingestion",
+                    "Prix par dose": "250 po"
+                },
+                {
+                    "Poison": "Torpeur",
+                    "Type": "Ingestion",
+                    "Prix par dose": "600 po"
+                },
+                {
+                    "Poison": "Venin de serpent",
+                    "Type": "Blessure",
+                    "Prix par dose": "200 po"
+                }
+            ]
+        }
+    ]
+}

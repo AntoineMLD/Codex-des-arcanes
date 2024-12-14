@@ -1,0 +1,43 @@
+{
+    "title": "Tricératops",
+    "prerequisites": "Bête de taille TG, sans alignement",
+    "description": "Des dinosaures herbivores les plus agressifs, le tricératops possède de grandes cornes et une vitesse redoutable, qu'il utilise pour encorner et piétiner à mort ses prédateurs.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/triceratops.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=triceratops",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "95 (10d12 + 30)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Corne. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 24 (4d8 + 6) dégâts perforants.",
+        "Piétinement. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une créature à terre. Touché : 22 (3d10 + 6) dégâts contondants."
+    ],
+    "actions": [
+        "Corne. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 24 (4d8 + 6) dégâts perforants.",
+        "Piétinement. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une créature à terre. Touché : 22 (3d10 + 6) dégâts contondants."
+    ],
+    "reactions": []
+}

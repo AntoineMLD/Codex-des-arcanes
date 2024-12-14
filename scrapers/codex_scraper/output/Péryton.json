@@ -1,0 +1,49 @@
+{
+    "title": "Péryton",
+    "prerequisites": "Monstruosité de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/peryton.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=peryton",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "6 m, vol 18 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Perception +5",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "Perception passive 15",
+        "Langues",
+        "comprend le commun et l'elfique mais ne peut pas parler",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le péryton effectue une attaque avec sa corne et une attaque avec ses serres.",
+        "Corne. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 +3) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le péryton effectue une attaque avec sa corne et une attaque avec ses serres.",
+        "Corne. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 +3) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

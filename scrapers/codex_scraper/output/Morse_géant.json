@@ -1,0 +1,40 @@
+{
+    "title": "Morse géant",
+    "prerequisites": "Bête de taille TG, sans alignement",
+    "description": "Un morse géant est aussi gros qu'un éléphant et, adulte, il pèse plus de 5 tonnes.",
+    "source": "Adventures (Rime of the Frostmaiden)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=morse-geant",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "55 (9d12 + 27)",
+        "Vitesse",
+        "6 m, nage 12 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le morse réalise deux attaques : une de coup de corps et une avec ses défenses.",
+        "Coup de corps. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d8 + 6) dégâts contondants.",
+        "Défenses. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 16 (3d6 + 6) dégâts perforants."
+    ],
+    "reactions": []
+}

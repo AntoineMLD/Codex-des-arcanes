@@ -1,0 +1,57 @@
+{
+    "title": "Érinye",
+    "prerequisites": "Fiélon (diable) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/erinyes.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=erinye",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "153 (18d8 + 72)",
+        "Vitesse",
+        "9 m, vol 18 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "18 (+4)",
+        "Jets de sauvegarde",
+        "Dex +7, Con +8, Sag +6, Cha +8",
+        "Résistances aux dégâts",
+        "froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision véritable 36 m, Perception passive 12",
+        "Langues",
+        "infernal, télépathie 36 m",
+        "Puissance",
+        "12 (8400 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'érinye effectue trois attaques.",
+        "Épée longue. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts tranchants, ou 9 (1d10 + 4) dégâts tranchants si utilisée à deux mains, plus 13 (3d8) dégâts de poison.",
+        "Arc long. Attaque à distance avec une arme : +7 au toucher, portée 45/180 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 13 (3d8) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être empoisonnée. Le poison reste jusqu'à ce qu'il soit supprimé à l'aide d'un sort de restauration partielle ou toute autre magie similaire.",
+        "Parade. L'érinye ajoute 4 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. L'érinye effectue trois attaques.",
+        "Épée longue. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts tranchants, ou 9 (1d10 + 4) dégâts tranchants si utilisée à deux mains, plus 13 (3d8) dégâts de poison.",
+        "Arc long. Attaque à distance avec une arme : +7 au toucher, portée 45/180 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 13 (3d8) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être empoisonnée. Le poison reste jusqu'à ce qu'il soit supprimé à l'aide d'un sort de restauration partielle ou toute autre magie similaire.",
+        "Parade. L'érinye ajoute 4 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. L'érinye ajoute 4 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

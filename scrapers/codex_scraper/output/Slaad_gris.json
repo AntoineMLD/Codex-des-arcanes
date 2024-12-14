@@ -1,0 +1,51 @@
+{
+    "title": "Slaad gris",
+    "prerequisites": "Aberration (métamorphe) de taille M, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/gray-slaad.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=slaad-gris",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "127 (17d8 + 51)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Arcanes + 5, Perception +7",
+        "Résistances aux dégâts",
+        "acide, froid, feu, foudre, tonnerre",
+        "Sens",
+        "vision aveugle 18 m, vision dans le noir 18 m, Perception passive 17",
+        "Langues",
+        "slaad, télépathie 18 m",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le slaad effectue trois attaques : une de morsure et deux avec ses griffes ou avec l'épée à deux mains.",
+        "Morsure (forme de slaad uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Griffes (forme de slaad uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts tranchants.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Le slaad effectue trois attaques : une de morsure et deux avec ses griffes ou avec l'épée à deux mains.",
+        "Morsure (forme de slaad uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Griffes (forme de slaad uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts tranchants.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

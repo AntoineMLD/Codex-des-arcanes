@@ -1,0 +1,43 @@
+{
+    "title": "Bête éclipsante",
+    "prerequisites": "Monstruosité de taille G, loyal mauvais",
+    "description": "Ce prédateur monstrueux doit son nom à sa capacité à se dissimuler à l'aide d'illusions, déplaçant la lumière pour qu'il semble être là où il n'est pas.",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/displacer-beast.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=bete-eclipsante",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "85 (10d10 + 30)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "8 (-1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La bête éclipsante effectue deux attaques avec ses tentacules.",
+        "Tentacule. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 7 (1d6 + 4) dégâts contondants + 3 (1d6) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. La bête éclipsante effectue deux attaques avec ses tentacules.",
+        "Tentacule. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 7 (1d6 + 4) dégâts contondants + 3 (1d6) dégâts perforants."
+    ],
+    "reactions": []
+}

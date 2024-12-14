@@ -1,0 +1,41 @@
+{
+    "title": "Bec de hache",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "Un bec de hache est un grand oiseau incapable de voler possédant de puissantes pattes, un bec recourbé, ainsi qu'un déplaisant caractère.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/axe-beak.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=bec-de-hache",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "19 (3d10 + 3)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts tranchants."
+    ],
+    "actions": [
+        "Bec. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts tranchants."
+    ],
+    "reactions": []
+}

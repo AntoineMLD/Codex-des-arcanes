@@ -1,0 +1,61 @@
+{
+    "title": "Spectateur",
+    "prerequisites": "Aberration de taille M, loyal neutre",
+    "description": "Un spectateur est une forme inférieure du tyrannoeil, une aberration infâme et mortelle. Il ressemble à une sphère flottante à la mâchoire béante, et possède un grand œil unique au centre de quatre pédoncules oculaires qui lancent des rayons mortels.",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/spectator.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=spectateur",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "39 (6d8 + 12)",
+        "Vitesse",
+        "0 m, vol 9 m (stationnaire)",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Perception +6",
+        "Immunités aux états",
+        "À terre",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "profond, commun des profondeurs, télépathie 36 m",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : + 1 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts perforants.",
+        "Rayons oculaires. Le spectateur tire jusqu'à deux rayons oculaires magiques suivants sur une ou deux créatures qu'il peut voir dans un rayon de 27 mètres. Chaque rayon ne peut être utilisé qu'une seule fois par tour.",
+        "1- Rayon de confusion. La cible doit réussir un jet de sauvegarde de Sagesse DD 13 ou bien elle ne peut plus utiliser de réaction jusqu'à la fin de son prochain tour. Durant son tour, la cible ne peut se déplacer et utilise son action pour faire une attaque au corps à corps ou à distance contre une créature choisie au hasard et qui est à sa portée. Si la cible ne peut attaquer, elle ne fait rien durant son tour.",
+        "2- Rayon paralysant. La cible doit réussir un jet de sauvegarde de Constitution DD 13 ou bien être paralysée pendant 1 minute. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "3- Rayon de peur. La cible doit réussir un jet de sauvegarde de Sagesse DD 13 ou bien être effrayée durant 1 minute. La cible peut relancer son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si le spectateur peut être vu par la cible, l'effet s'interrompant pour la cible en cas de réussite.",
+        "4- Rayon de blessure. La cible doit effectuer un jet de sauvegarde de Constitution DD 13, subissant 16 (3d10) dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Création d'eau et de nourriture. Le spectateur peut créer magiquement suffisamment d'eau et de nourriture pour se sustenter durant 24 heures.",
+        "Renvoi de sort. Si le spectateur réussit un jet de sauvegarde contre un sort, ou si une attaque magique le manque, le spectateur peut choisir une autre créature (dont celle qui a lancé le sort) qu'il peut voir dans un rayon de 9 mètres autour de lui. Le sort cible alors cette créature à la place du spectateur. Si le sort demandait un jet de sauvegarde, la créature doit en faire un. Si le sort était une attaque, un jet d'attaque est lancé contre la créature ciblée."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : + 1 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts perforants.",
+        "Rayons oculaires. Le spectateur tire jusqu'à deux rayons oculaires magiques suivants sur une ou deux créatures qu'il peut voir dans un rayon de 27 mètres. Chaque rayon ne peut être utilisé qu'une seule fois par tour.",
+        "1- Rayon de confusion. La cible doit réussir un jet de sauvegarde de Sagesse DD 13 ou bien elle ne peut plus utiliser de réaction jusqu'à la fin de son prochain tour. Durant son tour, la cible ne peut se déplacer et utilise son action pour faire une attaque au corps à corps ou à distance contre une créature choisie au hasard et qui est à sa portée. Si la cible ne peut attaquer, elle ne fait rien durant son tour.",
+        "2- Rayon paralysant. La cible doit réussir un jet de sauvegarde de Constitution DD 13 ou bien être paralysée pendant 1 minute. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "3- Rayon de peur. La cible doit réussir un jet de sauvegarde de Sagesse DD 13 ou bien être effrayée durant 1 minute. La cible peut relancer son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si le spectateur peut être vu par la cible, l'effet s'interrompant pour la cible en cas de réussite.",
+        "4- Rayon de blessure. La cible doit effectuer un jet de sauvegarde de Constitution DD 13, subissant 16 (3d10) dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Création d'eau et de nourriture. Le spectateur peut créer magiquement suffisamment d'eau et de nourriture pour se sustenter durant 24 heures.",
+        "Renvoi de sort. Si le spectateur réussit un jet de sauvegarde contre un sort, ou si une attaque magique le manque, le spectateur peut choisir une autre créature (dont celle qui a lancé le sort) qu'il peut voir dans un rayon de 9 mètres autour de lui. Le sort cible alors cette créature à la place du spectateur. Si le sort demandait un jet de sauvegarde, la créature doit en faire un. Si le sort était une attaque, un jet d'attaque est lancé contre la créature ciblée."
+    ],
+    "reactions": [
+        "Renvoi de sort. Si le spectateur réussit un jet de sauvegarde contre un sort, ou si une attaque magique le manque, le spectateur peut choisir une autre créature (dont celle qui a lancé le sort) qu'il peut voir dans un rayon de 9 mètres autour de lui. Le sort cible alors cette créature à la place du spectateur. Si le sort demandait un jet de sauvegarde, la créature doit en faire un. Si le sort était une attaque, un jet d'attaque est lancé contre la créature ciblée."
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Chevalier",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les chevaliers sont des guerriers ayant prêté allégeance à un dirigeant, un ordre religieux ou une noble cause. L'alignement du chevalier détermine à quel point le serment est honoré. Que ce soit en s'engageant dans une quête ou en patrouillant un royaume, un chevalier voyage souvent avec un entourage qui comprend écuyers et servants, lesquels sont des roturiers.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chevalier",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "52 (8d8 + 16)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "Con +4, Sag +2",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le chevalier effectue deux attaques au corps à corps.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +2 au toucher, portée 30/120 m, une cible. Touché : 5 (1d10) dégâts perforants.",
+        "Commandement (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut lancer un avertissement ou un ordre spécial chaque fois qu'une créature non-hostile qu'il peut voir dans un rayon de 9 mètres autour de lui effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de Commandement à la fois. Cet effet se termine si le chevalier est incapable d'agir.",
+        "Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le chevalier effectue deux attaques au corps à corps.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +2 au toucher, portée 30/120 m, une cible. Touché : 5 (1d10) dégâts perforants.",
+        "Commandement (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut lancer un avertissement ou un ordre spécial chaque fois qu'une créature non-hostile qu'il peut voir dans un rayon de 9 mètres autour de lui effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de Commandement à la fois. Cet effet se termine si le chevalier est incapable d'agir.",
+        "Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

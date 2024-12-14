@@ -1,0 +1,49 @@
+{
+    "title": "Sahuagin",
+    "prerequisites": "Humanoïde (sahuagin) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/sahuagin.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sahuagin",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "22 (4d8 + 4)",
+        "Vitesse",
+        "9 m, nage 12 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Perception +5",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 15",
+        "Langues",
+        "sahuagin",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le sahuagin effectue deux attaques : une de morsure et une avec ses griffes ou sa lance.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts tranchants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le sahuagin effectue deux attaques : une de morsure et une avec ses griffes ou sa lance.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts tranchants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants, ou 5 (1d8 + 1) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "reactions": []
+}

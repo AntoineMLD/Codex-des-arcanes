@@ -1,0 +1,51 @@
+{
+    "title": "Chimère",
+    "prerequisites": "Monstruosité de taille G, chaotique mauvais",
+    "description": "Une chimère est la vile combinaison d'une chèvre, d'un lion et d'un dragon, et elle arbore les têtes de chacune de ces trois créatures. Elle affectionne d'arriver en volant pour engloutir sa proie dans les flammes grâce à son souffle avant d'atterrir et de se jeter au combat.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/chimera.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chimere",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "114 (12d10 + 48)",
+        "Vitesse",
+        "9 m, vol 18 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Perception +8",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 18",
+        "Langues",
+        "comprend le draconique mais ne peut pas parler",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La chimère effectue trois attaques : une de morsure, une avec ses cornes et une avec ses griffes. Lorsque son souffle de feu est utilisable, elle peut l'utiliser à la place de la morsure ou des cornes.",
+        "Cornes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts contondants.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants.",
+        "Souffle de feu (Recharge 5-6). La chimère exhale des flammes dans un cône de 4,50 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 15, subissant 31 (7d8) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. La chimère effectue trois attaques : une de morsure, une avec ses cornes et une avec ses griffes. Lorsque son souffle de feu est utilisable, elle peut l'utiliser à la place de la morsure ou des cornes.",
+        "Cornes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts contondants.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants.",
+        "Souffle de feu (Recharge 5-6). La chimère exhale des flammes dans un cône de 4,50 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 15, subissant 31 (7d8) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

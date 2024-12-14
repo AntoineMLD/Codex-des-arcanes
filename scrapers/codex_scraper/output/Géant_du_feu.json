@@ -1,0 +1,51 @@
+{
+    "title": "Géant du feu",
+    "prerequisites": "Géant de taille TG, loyal mauvais",
+    "description": "Avec leur peau sombre et leurs cheveux rouges flamboyants, les géants du feu ont une terrible réputation de soldats et conquérants. Ils demeurent au sein des volcans et des montagnes rocheuses, et sont craints pour leurs capacités à bruler, piller et détruire.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/fire-giant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=geant-du-feu",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "162 (13d12 + 78)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "25 (+7)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "23 (+6)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "Dex +3, Con +10, Cha +5",
+        "Compétences",
+        "Athlétisme +11, Perception +6",
+        "Immunités aux dégâts",
+        "feu",
+        "Sens",
+        "Perception passive 16",
+        "Langues",
+        "géant",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le géant effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +11 au toucher, allonge 3 m, une cible. Touché : 28 (6d6 + 7) dégâts tranchants.",
+        "Rocher. Attaque à distance avec une arme : +11 au toucher, portée 18/72 m, une cible. Touché : 29 (4d10 + 7) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le géant effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +11 au toucher, allonge 3 m, une cible. Touché : 28 (6d6 + 7) dégâts tranchants.",
+        "Rocher. Attaque à distance avec une arme : +11 au toucher, portée 18/72 m, une cible. Touché : 29 (4d10 + 7) dégâts contondants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Méphite boueux",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/mud-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-boueux",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "27 (6d6 + 6)",
+        "Vitesse",
+        "6 m, nage 6 m, vol 6 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Discrétion +3",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "aquatique, terreux",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Poing. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts contondants.",
+        "Souffle boueux (Recharge 6). Le méphite éructe une boue visqueuse en direction d'une créature située à 1,50 mètre ou moins de lui. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité DD 11 ou être entravée pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Poing. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts contondants.",
+        "Souffle boueux (Recharge 6). Le méphite éructe une boue visqueuse en direction d'une créature située à 1,50 mètre ou moins de lui. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité DD 11 ou être entravée pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Scorpion",
+    "prerequisites": "Bête de taille TP, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=scorpion",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "1 (1d4 - 1)",
+        "Vitesse",
+        "3 m",
+        "FOR",
+        "2 (-4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "8 (-1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "2 (-4)",
+        "Sens",
+        "vision aveugle 3 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Dard. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 1 dégât perforant et la cible doit réaliser un jet de sauvegarde de Constitution DD 9, subissant 4 (1d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Dard. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 1 dégât perforant et la cible doit réaliser un jet de sauvegarde de Constitution DD 9, subissant 4 (1d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Galeb duhr",
+    "prerequisites": "Élémentaire de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/galeb-duhr.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=galeb-duhr",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "85 (9d8 + 45)",
+        "Vitesse",
+        "4,50 m (9 m lorsqu'il roule, 18 m s'il roule en descente)",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, paralysé, empoisonné, pétrifié",
+        "Sens",
+        "vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11",
+        "Langues",
+        "terreux",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts contondants.",
+        "Animation de rochers (1/jour). Le galeb duhr anime magiquement jusqu'à 2 rochers qu'il peut voir et qui se trouvent dans un rayon de 18 mètres autour de lui. Un rocher a les mêmes statistiques que le galeb duhr, à l'exception de l'Intelligence et du Charisme (le rocher à une valeur de 1 dans ces deux caractéristiques), ne peut pas être charmé ou effrayé, et ne possède pas non plus l'option d'action Animation de rochers. Un rocher reste animé aussi longtemps que le galeb duhr maintient sa concentration, jusqu'à 1 minute maximum (de la même manière que s'il se concentrait sur un sort)."
+    ],
+    "actions": [
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts contondants.",
+        "Animation de rochers (1/jour). Le galeb duhr anime magiquement jusqu'à 2 rochers qu'il peut voir et qui se trouvent dans un rayon de 18 mètres autour de lui. Un rocher a les mêmes statistiques que le galeb duhr, à l'exception de l'Intelligence et du Charisme (le rocher à une valeur de 1 dans ces deux caractéristiques), ne peut pas être charmé ou effrayé, et ne possède pas non plus l'option d'action Animation de rochers. Un rocher reste animé aussi longtemps que le galeb duhr maintient sa concentration, jusqu'à 1 minute maximum (de la même manière que s'il se concentrait sur un sort)."
+    ],
+    "reactions": []
+}

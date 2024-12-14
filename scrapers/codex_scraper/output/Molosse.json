@@ -1,0 +1,43 @@
+{
+    "title": "Molosse",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "Les molosses sont d'impressionnants chiens prisés par les humanoïdes pour leur loyauté et leur sens aiguisés.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/mastiff.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=molosse",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "5 (1d8 + 1)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas tomber à terre."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas tomber à terre."
+    ],
+    "reactions": []
+}

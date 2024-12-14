@@ -1,0 +1,7 @@
+{
+    "title": "Soigneur",
+    "prerequisites": "Aucun",
+    "description": "Vous êtes un habile médecin, ce qui vous permet de guérir les blessures rapidement pour que vos alliés puissent retourner au combat. Vous gagnez les avantages suivants : Lorsque vous utilisez une trousse de soins pour stabiliser une créature mourante, cette créature regagne également 1 point de vie. Par une action, vous pouvez dépenser une utilisation d'une trousse de soins pour soigner une créature et lui redonner 1d6 + 4 points de vie, plus un nombre de points de vie supplémentaires égal au nombre maximum de dés de vie de la créature. La créature ne peut pas bénéficier de vos soins de nouveau jusqu'à ce qu'elle termine un repos court ou long.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=soigneur"
+}

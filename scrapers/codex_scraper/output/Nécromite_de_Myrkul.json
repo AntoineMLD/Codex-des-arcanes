@@ -1,0 +1,41 @@
+{
+    "title": "Nécromite de Myrkul",
+    "prerequisites": "Humanoïde (humain) de taille M, neutre mauvais",
+    "description": "Les nécromites sont des adeptes de Myrkul qui ne maîtrisent pas encore la magie des arcanes et qui en combat utilisent un fléau doté d'un crâne à la place de la tête de frappe d'un fléau normal.",
+    "source": "Adventures (Descent into Avernus)",
+    "image_url": "https://www.aidedd.org/dnd/images/necromite-of-myrkul.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=necromite-de-myrkul",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "13 (2d8 + 4)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "16 (+3)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Arcanes +5, Religion +5",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "abyssal, commun, infernal",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "actions": [
+        "Fléau de crâne. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d8) dégâts contondants.",
+        "Griffes de la tombe. Attaque à distance avec un sort : +5 au toucher, portée 27 m, une cible. Touché : 8 (2d4 + 3) dégâts nécrotiques."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Draconien, fantassin",
+    "prerequisites": "Monstruosité de taille M, tout alignement",
+    "description": "Non spécifié",
+    "source": "Fizban´s Treasury of Dragons",
+    "image_url": "https://www.aidedd.org/dnd/images/draconian-foot-soldier.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=draconien-fantassin",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "22 (4d8 + 4)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "10 (+0)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "1/2 (100 PX)",
+        "Bonus de maîtrise",
+        "+2"
+    ],
+    "actions": [
+        "Attaques multiples. Le draconien effectue deux attaques avec son épée courte.",
+        "Épée courte. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

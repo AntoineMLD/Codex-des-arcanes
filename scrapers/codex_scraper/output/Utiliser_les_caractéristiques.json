@@ -1,0 +1,134 @@
+{
+    "title": "Utiliser les caractéristiques",
+    "introduction": "Six caractéristiques donnent une description rapide des capacités physiques et mentales de toute créature :",
+    "sections": [
+        {
+            "title": "Valeurs et modificateurs de caractéristique",
+            "content": "Chaque caractéristique d'une créature a une valeur, un nombre qui définit l'ampleur de cette caractéristique. Une valeur de caractéristique est une mesure des capacités innées, mais englobe également la formation et la compétence d'une créature dans les activités liées à cette caractéristique. Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Avantage et désavantage",
+            "content": "Parfois, une capacité spéciale ou un sort vous indique que vous avez un avantage ou un désavantage à un jet de caractéristique, un jet de sauvegarde ou un jet d'attaque. Lorsque cela se produit, lancez un second d20 et utilisez le plus élevé des deux jets si vous avez un avantage, ou le plus faible des deux jets si vous avez un désavantage. Par exemple, si vous avez un désavantage et obtenez un 17 et un 5 aux jets, vous devez utiliser le 5. Si au contraire vous aviez un avantage, vous devez utiliser le 17. Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Bonus de maîtrise",
+            "content": "Les personnages ont un bonus de maîtrise déterminé par leur niveau, comme indiqué dans le chapitre de création de personnage . Les monstres possèdent également ce bonus, lequel est intégré dans leurs blocs de stat. Ce bonus est utilisé pour les jets de caractéristique, les jets de sauvegarde et les jets d'attaque. Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Jets de caractéristique",
+            "content": "Un jet de caractéristique sert à vérifier le talent inné et la formation d'un personnage ou d'un monstre dans le but de relever un défi. Le MD demande un jet de caractéristique quand un personnage ou un monstre tente une action (autre qu'une attaque) qui a une chance d'échouer. Lorsque le résultat est incertain, les dés déterminent le résultat. Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Opposition",
+            "content": "Parfois, les efforts d'un monstre ou d'un personnage sont directement opposés à un autre. Cela peut se produire lorsque deux créatures essaient de faire la même chose mais qu'une seule peut réussir, comme pour essayer de récupérer un anneau magique qui vient de tomber au sol. Cette situation s'applique également lorsque l'une d'elles tente d'empêcher l'autre d'accomplir quelque chose, comme quand un monstre tente d'ouvrir une porte qu'un aventurier tient fermée. Dans de telles situations, le résultat est déterminé par une forme spéciale de jet de caractéristique appelé une opposition. Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Compétences",
+            "content": "Chaque caractéristique couvre un large éventail de capacités, y compris les compétences qu'un personnage ou un monstre peut maîtriser. Une compétence représente un aspect spécifique d'une valeur de caractéristique, et les compétences maîtrisées par un individu démontrent l'accent mis sur cet aspect spécifique (les compétences maîtrisées d'un personnage sont déterminées à la création de celui-ci, et les compétences maîtrisées d'un monstre apparaissent dans son bloc de stat). Force : Athlétisme Dextérité : Acrobaties, Discrétion, Escamotage Intelligence : Arcanes, Investigation, Histoire, Nature, Religion Sagesse : Dressage, Intuition, Médecine, Perception, Survie Charisme : Intimidation, Persuasion, Représentation, Tromperie"
+        },
+        {
+            "title": "Jets passifs",
+            "content": "Un jet passif est un jet de caractéristique spécial qui n'implique pas de jet de dés. Ce jet peut représenter la moyenne des résultats pour une tâche faite à plusieurs reprises, comme rechercher de portes secrètes, encore et encore. Il peut également être utilisé lorsque le MD veut déterminer secrètement si les personnages réussissent à faire quelque chose sans lancer de dés, comme pour détecter un monstre caché. Voici comment déterminer le total d'un personnage pour un jet passif : Vous essayez de grimper une falaise abrupte ou glissante, d'éviter les pièges tout en escaladant un mur, ou de vous accrocher à une surface alors que quelque chose essaie de vous faire lâcher. Vous essayez de sauter une distance inhabituellement longue Vous luttez pour nager ou rester à flot en présence de courants contraires, de vagues houleuses ou dans une zone avec d'épaisses algues. Ou bien une autre créature essaie de vous noyer ou de vous sortir de l'eau, ou toute autre chose qui peut interférer avec votre nage."
+        },
+        {
+            "title": "Travailler ensemble",
+            "content": "Parfois, plusieurs personnages travaillent en équipe pour réaliser une tâche. Le personnage qui conduit l'effort principal, ou celui avec le plus fort modificateur de caractéristique, peut alors faire un jet de caractéristique avec un avantage, reflétant ainsi l'aide fournie par les autres personnages. En combat, cela se traduit par l'action Aider (voir Combat ). Un personnage ne peut fournir de l'aide que s'il s'agit d'une tâche qu'il pourrait effectuer seul. Par exemple, tenter de crocheter une serrure exige la maîtrise des outils de voleur, donc un personnage qui n'a pas cette maîtrise ne peut pas aider un autre personnage dans cette tâche. En outre, un personnage ne peut aider que si deux ou plusieurs personnes travaillant ensemble sont effectivement productives. Certaines tâches, comme enfiler une aiguille, ne sont pas plus faciles avec de l'aide. Vous essayez de grimper une falaise abrupte ou glissante, d'éviter les pièges tout en escaladant un mur, ou de vous accrocher à une surface alors que quelque chose essaie de vous faire lâcher. Vous essayez de sauter une distance inhabituellement longue Vous luttez pour nager ou rester à flot en présence de courants contraires, de vagues houleuses ou dans une zone avec d'épaisses algues. Ou bien une autre créature essaie de vous noyer ou de vous sortir de l'eau, ou toute autre chose qui peut interférer avec votre nage."
+        },
+        {
+            "title": "Utiliser chaque caractéristique",
+            "content": "Chaque tâche qu'un personnage ou monstre peut tenter dans le jeu est couverte par l'une des six caractéristiques. Cette section explique plus en détail ce que signifient ces caractéristiques et la façon dont elles sont utilisées dans le jeu. Vous essayez de grimper une falaise abrupte ou glissante, d'éviter les pièges tout en escaladant un mur, ou de vous accrocher à une surface alors que quelque chose essaie de vous faire lâcher. Vous essayez de sauter une distance inhabituellement longue Vous luttez pour nager ou rester à flot en présence de courants contraires, de vagues houleuses ou dans une zone avec d'épaisses algues. Ou bien une autre créature essaie de vous noyer ou de vous sortir de l'eau, ou toute autre chose qui peut interférer avec votre nage."
+        },
+        {
+            "title": "Force",
+            "content": "La Force détermine la puissance physique, l'entrainement sportif et la mesure dans laquelle vous pouvez exercer une force physique brute. Vous essayez de grimper une falaise abrupte ou glissante, d'éviter les pièges tout en escaladant un mur, ou de vous accrocher à une surface alors que quelque chose essaie de vous faire lâcher. Vous essayez de sauter une distance inhabituellement longue Vous luttez pour nager ou rester à flot en présence de courants contraires, de vagues houleuses ou dans une zone avec d'épaisses algues. Ou bien une autre créature essaie de vous noyer ou de vous sortir de l'eau, ou toute autre chose qui peut interférer avec votre nage."
+        },
+        {
+            "title": "Dextérité",
+            "content": "La Dextérité détermine l'agilité, les réflexes et l'équilibre. Contrôler un chariot lourdement chargé sur une pente raide Manœuvrer un chariot dans un virage serré Crocheter une serrure Désarmer un piège Ligoter un prisonnier Détacher ses liens Jouer d'un instrument Fabriquer un petit objet ou un objet avec de petits détails"
+        },
+        {
+            "title": "Constitution",
+            "content": "La Constitution détermine la santé, l'endurance et la force vitale. Le MD peut demander un jet de Constitution lorsque vous essayez d'accomplir des tâches comme : Retenir votre souffle Marcher ou travailler pendant des heures sans repos Ne pas dormir Survivre sans eau ni nourriture Boire une chope de bière d'un trait"
+        },
+        {
+            "title": "Intelligence",
+            "content": "L'intelligence détermine l'acuité mentale, la précision de la mémoire et la capacité à raisonner. Communiquer avec une créature sans utiliser de mots Estimer la valeur d'un objet précieux Se déguiser pour tromper un garde de la ville Falsifier un document Connaître quelque chose à propos d'un métier ou d'un commerce Gagner à un jeu de compétences"
+        },
+        {
+            "title": "Sagesse",
+            "content": "La Sagesse reflète la façon dont vous êtes à l'écoute du monde autour de vous, ainsi que la perspicacité et l'intuition. Avoir un pressentiment sur le plan d'action à suivre Discerner si une créature apparemment morte ou vivante est un mort-vivant"
+        },
+        {
+            "title": "Charisme",
+            "content": "Le Charisme détermine votre capacité à interagir efficacement avec les autres. Il comprend des facteurs comme la confiance et l'éloquence, et peut représenter une personnalité charmante ou dominante. Trouver la meilleure personne pour obtenir des informations, des rumeurs, des ragots Se fondre dans la foule pour obtenir une idée générale des sujets de conversations"
+        },
+        {
+            "title": "Jets de sauvegarde",
+            "content": "Un jet de sauvegarde (appelé aussi sauvegarde tout court) représente une tentative pour résister à un sort, un piège, un poison, une maladie ou autre menace similaire. Vous ne décidez normalement pas de faire un jet de sauvegarde, vous êtes obligé de le faire parce que votre personnage ou monstre est en danger. Pour faire un jet de sauvegarde, lancez un d20 et ajoutez le modificateur de caractéristique adéquat. Par exemple, vous utilisez votre modificateur de Dextérité pour un jet de sauvegarde de Dextérité. Un jet de sauvegarde peut être modifié par un bonus ou un malus de situation, et peut être affecté par un avantage ou un désavantage, selon ce que détermine le MD."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Valeur de Caractéristique",
+                "2-3",
+                "4-5",
+                "6-7",
+                "8-9",
+                "10-11",
+                "12-13",
+                "14-15",
+                "16-17",
+                "18-19",
+                "20-21"
+            ],
+            "rows": [
+                {
+                    "Valeur de Caractéristique": "Modificateur",
+                    "2-3": "-4",
+                    "4-5": "-3",
+                    "6-7": "-2",
+                    "8-9": "-1",
+                    "10-11": "+0",
+                    "12-13": "+1",
+                    "14-15": "+2",
+                    "16-17": "+3",
+                    "18-19": "+4",
+                    "20-21": "+5"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Tâche",
+                "DD"
+            ],
+            "rows": [
+                {
+                    "Tâche": "Très facile",
+                    "DD": "5"
+                },
+                {
+                    "Tâche": "Facile",
+                    "DD": "10"
+                },
+                {
+                    "Tâche": "Moyenne",
+                    "DD": "15"
+                },
+                {
+                    "Tâche": "Difficile",
+                    "DD": "20"
+                },
+                {
+                    "Tâche": "Très difficile",
+                    "DD": "25"
+                },
+                {
+                    "Tâche": "Quasi impossible",
+                    "DD": "30"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Golem d'argile",
+    "prerequisites": "Artificiel de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/clay-golem.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=golem-d-argile",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "133 (14d10 + 56)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "acide, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium",
+        "Immunités aux états",
+        "charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "comprend les langues de son créateur mais ne peut pas parler",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants. Si la cible est une créature, celle-ci doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. La cible meurt si cet effet réduit ses points de vie à 0. Cette diminution perdure jusqu'à ce que la cible bénéficie d'un sort de restauration supérieure ou d'une magie similaire.",
+        "Hâte (Recharge 5-6). Jusqu'à la fin de son prochain tour, le golem bénéficie par magie d'un bonus de +2 à sa CA, d'un avantage aux jets de sauvegarde de Dextérité, et peut utiliser une attaque de coup en action bonus."
+    ],
+    "actions": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants. Si la cible est une créature, celle-ci doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. La cible meurt si cet effet réduit ses points de vie à 0. Cette diminution perdure jusqu'à ce que la cible bénéficie d'un sort de restauration supérieure ou d'une magie similaire.",
+        "Hâte (Recharge 5-6). Jusqu'à la fin de son prochain tour, le golem bénéficie par magie d'un bonus de +2 à sa CA, d'un avantage aux jets de sauvegarde de Dextérité, et peut utiliser une attaque de coup en action bonus."
+    ],
+    "reactions": []
+}

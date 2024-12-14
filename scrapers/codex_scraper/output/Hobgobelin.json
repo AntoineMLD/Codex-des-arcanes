@@ -1,0 +1,43 @@
+{
+    "title": "Hobgobelin",
+    "prerequisites": "Humanoïde (gobelinoïde) de taille M, loyal mauvais",
+    "description": "Les hobgobelins sont de grands gobelinoïdes à la peau noir orangée ou rouge orangée. Un hobgobelin mesure le mérite suivant la force physique et les prouesses martiales, ne se souciant de rien d'autre que de la compétence et de l'astuce dans la bataille.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hobgoblin.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hobgobelin",
+    "stats": [
+        "Classe d'armure",
+        "18 (cotte de mailles, bouclier)",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, gobelin",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Épée longue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts tranchants, ou 6 (1d10 + 1) dégâts tranchants si utilisée à deux mains.",
+        "Arc long. Attaque à distance avec une arme : +3 au toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Épée longue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts tranchants, ou 6 (1d10 + 1) dégâts tranchants si utilisée à deux mains.",
+        "Arc long. Attaque à distance avec une arme : +3 au toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

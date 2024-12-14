@@ -1,0 +1,53 @@
+{
+    "title": "Glabrezu",
+    "prerequisites": "Fiélon (démon) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-glabrezu.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=glabrezu",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "157 (15d10 + 75)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "21 (+5)",
+        "INT",
+        "19 (+4)",
+        "SAG",
+        "17 (+3)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "For +9, Con +9, Sag +7, Cha +7",
+        "Résistances aux dégâts",
+        "froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision véritable 36 m, Perception passive 13",
+        "Langues",
+        "abyssal, télépathie 36 m",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Il peut aussi choisir d'effectuer deux attaques avec ses pinces et lancer un sort.",
+        "Pinces. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (DD 15 pour s'échapper). Le glabrezu possède deux pinces, chacune d'elles pouvant agripper une cible.",
+        "Poing. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Il peut aussi choisir d'effectuer deux attaques avec ses pinces et lancer un sort.",
+        "Pinces. Attaque au corps à corps avec une arme : +9 au toucher, allonge 3 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants. Si la cible est de taille M ou inférieure, elle est agrippée (DD 15 pour s'échapper). Le glabrezu possède deux pinces, chacune d'elles pouvant agripper une cible.",
+        "Poing. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts contondants."
+    ],
+    "reactions": []
+}

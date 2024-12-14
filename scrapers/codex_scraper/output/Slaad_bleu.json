@@ -1,0 +1,49 @@
+{
+    "title": "Slaad bleu",
+    "prerequisites": "Aberration de taille G, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/blue-slaad.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=slaad-bleu",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "123 (13d10 + 52)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Perception +1",
+        "Résistances aux dégâts",
+        "acide, froid, feu, foudre, tonnerre",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "slaad, télépathie 18 m",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le slaad effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 15 ou être infectée par une maladie appelée chaos-phage. Tant qu'elle est infectée par cette maladie, la cible ne peut pas récupérer de point de vie, et son maximum de points de vie est réduit de 10 (3d6) toutes les 24 heures. Si la maladie réduit le maximum de points de vie de la cible à 0, la cible se transforme instantanément en slaad rouge ou, si elle possède la capacité de lancer des sorts de niveau 3 ou supérieurs, en slaad vert. Seul un sort de souhait peut inverser la transformation.",
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le slaad effectue trois attaques : une de morsure et deux avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 15 ou être infectée par une maladie appelée chaos-phage. Tant qu'elle est infectée par cette maladie, la cible ne peut pas récupérer de point de vie, et son maximum de points de vie est réduit de 10 (3d6) toutes les 24 heures. Si la maladie réduit le maximum de points de vie de la cible à 0, la cible se transforme instantanément en slaad rouge ou, si elle possède la capacité de lancer des sorts de niveau 3 ou supérieurs, en slaad vert. Seul un sort de souhait peut inverser la transformation.",
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts perforants."
+    ],
+    "reactions": []
+}

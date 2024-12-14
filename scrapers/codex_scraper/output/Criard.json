@@ -1,0 +1,41 @@
+{
+    "title": "Criard",
+    "prerequisites": "Plante de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/shrieker.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=criard",
+    "stats": [
+        "Classe d'armure",
+        "5",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "0 m",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "1 (-5)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "3 (-4)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux états",
+        "aveuglé, assourdi, effrayé",
+        "Sens",
+        "vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [],
+    "actions": [],
+    "reactions": [
+        "Hurlement. Lorsqu'une lumière vive ou une créature se trouve à 9 mètres ou moins du criard, il émet un hurlement audible à 90 mètres à la ronde. Le criard pousse son crie jusqu'à ce que ce qui l'a dérangé sorte de sa portée de vision aveugle et pendant les 1d4 tours qui suivent."
+    ]
+}

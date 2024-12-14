@@ -1,0 +1,49 @@
+{
+    "title": "Éfrit",
+    "prerequisites": "Élémentaire de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/efreeti.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=efrit",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "200 (16d10 + 112)",
+        "Vitesse",
+        "12 m, vol 18 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "24 (+7)",
+        "INT",
+        "16 (+3)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "Int +7, Sag +6, Cha +7",
+        "Immunités aux dégâts",
+        "feu",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 12",
+        "Langues",
+        "igné",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'éfrit effectue deux attaques avec le cimeterre, ou utilise son Jet de flammes deux fois.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d6 + 6) dégâts tranchants + 7 (2d6) dégâts de feu.",
+        "Jet de flammes. Attaque à distance avec un sort : +7 au toucher, portée 36 m, une cible. Touché : 17 (5d6) dégâts de feu."
+    ],
+    "actions": [
+        "Attaques multiples. L'éfrit effectue deux attaques avec le cimeterre, ou utilise son Jet de flammes deux fois.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d6 + 6) dégâts tranchants + 7 (2d6) dégâts de feu.",
+        "Jet de flammes. Attaque à distance avec un sort : +7 au toucher, portée 36 m, une cible. Touché : 17 (5d6) dégâts de feu."
+    ],
+    "reactions": []
+}

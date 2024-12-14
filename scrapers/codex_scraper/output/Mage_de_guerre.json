@@ -1,0 +1,7 @@
+{
+    "title": "Mage de guerre",
+    "prerequisites": "Prérequis : Capacité de lancer au moins un sort",
+    "description": "Vous avez pratiqué le lancer de sorts au milieu d'un combat, apprenant des techniques que vous accordent les avantages suivants : Vous avez un avantage aux jets de sauvegarde de Constitution pour maintenir votre concentration sur un sort lorsque vous subissez des dégâts. Vous pouvez effectuer les composantes somatiques d'un sort même si vous avez des armes ou un bouclier dans les mains. Lorsque le mouvement d'une créature hostile provoque une attaque d'opportunité pour vous, vous pouvez utiliser votre réaction pour lancer un sort à la créature, plutôt que d'effectuer une attaque d'opportunité. Le sort doit avoir un temps d'incantation de 1 action et ne doit viser que cette créature.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=mage-de-guerre"
+}

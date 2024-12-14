@@ -1,0 +1,45 @@
+{
+    "title": "Spore gazeuse",
+    "prerequisites": "Plante de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=spore-gazeuse",
+    "stats": [
+        "Classe d'armure",
+        "5",
+        "Points de vie",
+        "1 (1d10 - 4)",
+        "Vitesse",
+        "0 m, vol 3 m (stationnaire)",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "1 (-5)",
+        "CON",
+        "3 (-4)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "1 (-5)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "aveuglé, assourdi, effrayé, paralysé, empoisonné, à terre",
+        "Sens",
+        "vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 5",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Contact. Attaque au corps à corps avec une arme : +0 au toucher, allonge 1,50 m, une créature. Touché : 1 dégâts de poison, et la créature doit réussir un jet de sauvegarde de Constitution DD 10 ou être infectée par la maladie décrite dans le trait Mort explosive."
+    ],
+    "actions": [
+        "Contact. Attaque au corps à corps avec une arme : +0 au toucher, allonge 1,50 m, une créature. Touché : 1 dégâts de poison, et la créature doit réussir un jet de sauvegarde de Constitution DD 10 ou être infectée par la maladie décrite dans le trait Mort explosive."
+    ],
+    "reactions": []
+}

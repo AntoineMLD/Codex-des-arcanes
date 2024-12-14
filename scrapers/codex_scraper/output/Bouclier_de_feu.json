@@ -1,0 +1,7 @@
+{
+    "title": "Bouclier de feu",
+    "prerequisites": "Aucun",
+    "description": "De fines et vaporeuses flammes cernent votre corps pour la durée du sort, irradiant une lumière vive dans un rayon de 3 mètres et une lumière faible à trois mètres supplémentaires. Vous pouvez mettre fin au sort en utilisant une action pour le faire disparaitre. Les flammes forment autour de vous un bouclier de chaleur ou de froid, à votre choix. Le bouclier de chaleur vous confère une résistance aux dégâts de froid et celui de froid une résistance aux dégâts de feu. De plus, si une créature située à 1,50 mètre ou moins de vous vous touche avec une attaque au corps à corps, des flammes jaillissent du bouclier. L'attaquant subit alors 2d8 dégâts de feu ou de froid, selon le modèle choisi.",
+    "source": "Player´s Handbook (SRD)",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-feu"
+}

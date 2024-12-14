@@ -1,0 +1,47 @@
+{
+    "title": "Kuo-toa, fouet",
+    "prerequisites": "Humanoïde (kuo-toa) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/kuo-toa-whip.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kuo-toa-fouet",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "65 (10d8 + 20)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Perception +6, Religion +4",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le kuo-toa effectue deux attaques : une de morsure et une avec le bâton à pinces.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Bâton à pinces. Attaque au corps à corps avec une arme : +4 au toucher, allonge 3 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants. Si la cible est une créature de taille M ou inférieure, elle est agrippée (évasion DD 14). Jusqu'à ce que la cible ne soit plus agrippée, le kuo-toa ne peut pas utiliser son bâton à pinces contre une autre cible."
+    ],
+    "actions": [
+        "Attaques multiples. Le kuo-toa effectue deux attaques : une de morsure et une avec le bâton à pinces.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Bâton à pinces. Attaque au corps à corps avec une arme : +4 au toucher, allonge 3 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants. Si la cible est une créature de taille M ou inférieure, elle est agrippée (évasion DD 14). Jusqu'à ce que la cible ne soit plus agrippée, le kuo-toa ne peut pas utiliser son bâton à pinces contre une autre cible."
+    ],
+    "reactions": []
+}
