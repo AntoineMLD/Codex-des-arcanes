@@ -17,7 +17,9 @@ class OccultisteSpider(scrapy.Spider):
 
         # Extraire les sections principales et leurs contenus
         sections = response.xpath(
-            "//div[@class='content']//h2 | //div[@class='content']//h3 | //div[@class='content']//h4"
+            "//div[@class='content']//h2 | "
+            "//div[@class='content']//h3 | "
+            "//div[@class='content']//h4"
         )
         section_data = []
 
