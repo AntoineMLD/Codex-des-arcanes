@@ -15,9 +15,7 @@ class PaladinSpiderSpider(scrapy.Spider):
         introduction = " ".join([text.strip() for text in introduction])
 
         # Extraire les sections (H3 et H4) avec leur contenu
-        sections = response.xpath(
-            "//div[@class='content']//h3 | //div[@class='content']//h4"
-        )
+        sections = response.xpath("//div[@class='content']//h3 | //div[@class='content']//h4")
         section_data = []
         for section in sections:
             section_title = section.xpath(".//text()").get(default="").strip()
@@ -28,9 +26,7 @@ class PaladinSpiderSpider(scrapy.Spider):
                 section_data.append(
                     {
                         "title": section_title,
-                        "content": " ".join(
-                            [content.strip() for content in section_content]
-                        ),
+                        "content": " ".join([content.strip() for content in section_content]),
                     }
                 )
 
@@ -51,8 +47,7 @@ class PaladinSpiderSpider(scrapy.Spider):
                 if cells:  # Ignorer les lignes vides
                     # Transformer chaque ligne en dictionnaire basé sur les headers
                     row_dict = {
-                        headers[i]: cells[i] if i < len(cells) else ""
-                        for i in range(len(headers))
+                        headers[i]: cells[i] if i < len(cells) else "" for i in range(len(headers))
                     }
                     rows.append(row_dict)
 

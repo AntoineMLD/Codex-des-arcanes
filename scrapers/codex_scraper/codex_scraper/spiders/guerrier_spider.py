@@ -14,9 +14,7 @@ class GuerrierSpider(scrapy.Spider):
         introduction = " ".join([text.strip() for text in introduction])
 
         # Extraire les sections (H3 et H4) avec leur contenu
-        sections = response.xpath(
-            "//div[@class='content']//h3 | //div[@class='content']//h4"
-        )
+        sections = response.xpath("//div[@class='content']//h3 | //div[@class='content']//h4")
         section_data = []
         for section in sections:
             section_title = section.xpath(".//text()").get(default="").strip()
@@ -27,9 +25,7 @@ class GuerrierSpider(scrapy.Spider):
                 section_data.append(
                     {
                         "title": section_title,
-                        "content": " ".join(
-                            [content.strip() for content in section_content]
-                        ),
+                        "content": " ".join([content.strip() for content in section_content]),
                     }
                 )
 
@@ -56,40 +52,18 @@ class GuerrierSpider(scrapy.Spider):
                 spell_slots.append(
                     {
                         "Niv": (
-                            cells[0].xpath("string()").get().strip()
-                            if len(cells) > 0
-                            else None
+                            cells[0].xpath("string()").get().strip() if len(cells) > 0 else None
                         ),
                         "Sorts mineurs connus": (
-                            cells[1].xpath("string()").get().strip()
-                            if len(cells) > 1
-                            else None
+                            cells[1].xpath("string()").get().strip() if len(cells) > 1 else None
                         ),
                         "Sorts connus": (
-                            cells[2].xpath("string()").get().strip()
-                            if len(cells) > 2
-                            else None
+                            cells[2].xpath("string()").get().strip() if len(cells) > 2 else None
                         ),
-                        "1": (
-                            cells[3].xpath("string()").get().strip()
-                            if len(cells) > 3
-                            else None
-                        ),
-                        "2": (
-                            cells[4].xpath("string()").get().strip()
-                            if len(cells) > 4
-                            else None
-                        ),
-                        "3": (
-                            cells[5].xpath("string()").get().strip()
-                            if len(cells) > 5
-                            else None
-                        ),
-                        "4": (
-                            cells[6].xpath("string()").get().strip()
-                            if len(cells) > 6
-                            else None
-                        ),
+                        "1": (cells[3].xpath("string()").get().strip() if len(cells) > 3 else None),
+                        "2": (cells[4].xpath("string()").get().strip() if len(cells) > 4 else None),
+                        "3": (cells[5].xpath("string()").get().strip() if len(cells) > 5 else None),
+                        "4": (cells[6].xpath("string()").get().strip() if len(cells) > 6 else None),
                     }
                 )
 

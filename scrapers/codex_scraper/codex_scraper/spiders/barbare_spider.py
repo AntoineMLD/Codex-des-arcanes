@@ -11,9 +11,7 @@ class BarbareSpider(scrapy.Spider):
         introduction = response.xpath("//div[@class='content']/p[1]/text()").get()
 
         # Extraire les sous-sections
-        sections = response.xpath(
-            "//div[@class='content']//h3 | //div[@class='content']//h4"
-        )
+        sections = response.xpath("//div[@class='content']//h3 | //div[@class='content']//h4")
         section_data = []
 
         for section in sections:
