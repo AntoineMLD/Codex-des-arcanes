@@ -6,7 +6,7 @@ class MoineSpider(scrapy.Spider):
     start_urls = ["https://www.aidedd.org/regles/classes/moine/"]
 
     def parse(self, response):
-# Extraire le titre
+        # Extraire le titre
         title = response.xpath("//h1/text()").get(default="No title").strip()
 
         # Extraire l'introduction
@@ -43,7 +43,9 @@ class MoineSpider(scrapy.Spider):
             # Nettoyage des en-têtes pour les rendre compatibles avec les clés JSON attendues
             text = header.xpath(".//text()").get()
             text = text.lower().replace("\n", " ").replace("  ", " ").strip()
-            if "<br>" in text:  # Gestion des sauts de ligne dans les colonnes (comme "bonus de maîtrise")
+            if (
+                "<br>" in text
+            ):  # Gestion des sauts de ligne dans les colonnes (comme "bonus de maîtrise")
                 text = " ".join(text.split("<br>"))
             formatted_headers.append(text)
 
@@ -60,8 +62,8 @@ class MoineSpider(scrapy.Spider):
 
         yield {
             "title": title,
-            "introduction": introduction,  
-            "sections": section_data,      
+            "introduction": introduction,
+            "sections": section_data,
             "table": {
                 "headers": formatted_headers,
                 "rows": rows,
