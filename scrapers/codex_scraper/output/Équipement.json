@@ -1,0 +1,80 @@
+{
+    "title": "Équipement",
+    "introduction": "Le marché d'une grande ville grouille d’acheteurs et de vendeurs de toutes sortes : forgerons nains et elfes sculpteurs sur bois, agriculteurs halfelins et bijoutiers gnomes, pour ne pas mentionner les humains de toutes tailles et couleurs de peaux qui proviennent d'un éventail de nations et de cultures. Dans les grandes villes, presque tout ce qui est imaginable est proposé à la vente, des épices exotiques et des vêtements de luxe aux paniers en osier et aux pratiques épées.",
+    "sections": [
+        {
+            "title": "Équipement de départ",
+            "content": "Lorsque vous créez votre personnage, vous recevez un équipement spécifique suivant votre classe et votre historique. Mais vous pouvez aussi commencer avec un nombre de pièces d'or en fonction de votre classe, comme indiqué sur la table ci-dessous, et les dépenser en achetant les articles présentés dans ce chapitre."
+        },
+        {
+            "title": "Richesses",
+            "content": "La richesse apparaît sous de nombreuses formes dans un monde de D&D. Pièces de monnaie, pierres précieuses, objets de commerce, objets d'art, animaux et propriétés peuvent refléter le bien-être financier de votre personnage. Les paysans commercent avec des biens, troquant ce dont ils ont besoin et payant les impôts en grain et fromage. Les nobles commercent soit en termes de droits juridiques, tels les droits d'une mine, d'un port, de terres agricoles, soit avec des lingots d'or, en mesurant l'or par le poids plutôt qu'en comptant des pièces. Seuls les marchands, les aventuriers et ceux qui offrent des services professionnels à louer traitent généralement avec des pièces."
+        },
+        {
+            "title": "Monnaies",
+            "content": "Les pièces communes ont différentes dénominations en fonction de la valeur du métal à partir duquel elles sont fabriquées. Les trois pièces de monnaie les plus courantes sont la pièce d'or (po), la pièce d'argent (pa) et la pièce de cuivre (pc)."
+        },
+        {
+            "title": "Revente",
+            "content": "Les occasions abondent dans les souterrains que vous allez explorer pour trouver des trésors, de l'équipement, des armes, des armures, et plus encore. Normalement, vous pouvez vendre ces trésors et ces objets lorsque vous retournez dans un village ou une ville, à condition de trouver des acheteurs ou des marchands intéressés par votre butin."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Classe",
+                "Argent de départ"
+            ],
+            "rows": [
+                {
+                    "Classe": "Barbare",
+                    "Argent de départ": "2d4 x 10 po"
+                },
+                {
+                    "Classe": "Barde",
+                    "Argent de départ": "5d4 x 10 po"
+                },
+                {
+                    "Classe": "Clerc",
+                    "Argent de départ": "5d4 x 10 po"
+                },
+                {
+                    "Classe": "Druide",
+                    "Argent de départ": "2d4 x 10 po"
+                },
+                {
+                    "Classe": "Ensorceleur",
+                    "Argent de départ": "3d4 x 10 po"
+                },
+                {
+                    "Classe": "Guerrier",
+                    "Argent de départ": "5d4 x 10 po"
+                },
+                {
+                    "Classe": "Magicien",
+                    "Argent de départ": "4d4 x 10 po"
+                },
+                {
+                    "Classe": "Moine",
+                    "Argent de départ": "5d4 po"
+                },
+                {
+                    "Classe": "Occultiste",
+                    "Argent de départ": "4d4 x 10 po"
+                },
+                {
+                    "Classe": "Paladin",
+                    "Argent de départ": "5d4 x 10 po"
+                },
+                {
+                    "Classe": "Rôdeur",
+                    "Argent de départ": "5d4 x 10 po"
+                },
+                {
+                    "Classe": "Roublard",
+                    "Argent de départ": "4d4 x 10 po"
+                }
+            ]
+        }
+    ]
+}

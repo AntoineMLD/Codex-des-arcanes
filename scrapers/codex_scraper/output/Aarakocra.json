@@ -1,0 +1,45 @@
+{
+    "title": "Aarakocra",
+    "prerequisites": "Humanoïde (aarakocra) de taille M, neutre bon",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/aarakocra.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=aarakocra",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "6 m, vol 15 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Perception +5",
+        "Sens",
+        "Perception passive 15",
+        "Langues",
+        "aérien, aarakocra",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Serres. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Serres. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

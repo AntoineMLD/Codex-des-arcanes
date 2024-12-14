@@ -1,0 +1,49 @@
+{
+    "title": "Méphite fumant",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/smoke-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-fumant",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "22 (5d6 + 5)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Discrétion +4, Perception +2",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "aérien, igné",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Souffle de cendre (Recharge 6). Le méphite crache un cône de 4,50 mètres de cendres fumantes. Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité DD 10 ou être aveuglée jusqu'à la fin du prochain tour du méphite."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Souffle de cendre (Recharge 6). Le méphite crache un cône de 4,50 mètres de cendres fumantes. Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité DD 10 ou être aveuglée jusqu'à la fin du prochain tour du méphite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Sanglier géant",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sanglier-geant",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "42 (5d10 + 15)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Défenses. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Défenses. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

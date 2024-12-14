@@ -1,0 +1,7 @@
+{
+    "title": "Initié à la magie",
+    "prerequisites": "Aucun",
+    "description": "Choisissez une classe : barde, clerc, druide, ensorceleur, magicien ou occultiste. Vous apprenez deux sorts mineurs de votre choix parmi la liste de sorts de cette classe. En outre, choisissez un sort de niveau 1 à apprendre dans cette même liste. En utilisant ce don, vous pouvez lancer le sort à son niveau le plus bas et devez ensuite terminer un repos long avant de pouvoir le lancer à nouveau de cette manière. Votre caractéristique d'incantation pour ces sorts dépend de la classe que vous avez choisie : Charisme pour barde, ensorceleur ou occultiste ; Sagesse pour clerc ou druide ; Intelligence pour magicien.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=initie-a-la-magie"
+}

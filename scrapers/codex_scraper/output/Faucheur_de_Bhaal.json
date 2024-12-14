@@ -1,0 +1,42 @@
+{
+    "title": "Faucheur de Bhaal",
+    "prerequisites": "Humanoïde (humain) de taille M, chaotique mauvais",
+    "description": "Les faucheurs sont le rang supérieur aux lames de nuit parmi les cultistes de Bhaal.",
+    "source": "Adventures (Descent into Avernus)",
+    "image_url": "https://www.aidedd.org/dnd/images/reaper-of-bhaal.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=faucheur-de-bhaal",
+    "stats": [
+        "Classe d'armure",
+        "15",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Intimidation +5, Perception +3, Persuasion +5, Discrétion +9",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "commun",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le faucheur effectue deux attaques avec des dagues et utilise Linceul.",
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts perforants.",
+        "Linceul. Le faucheur devient magiquement invisible jusqu'au début de son prochain tour. Cette invisibilité prend fin si le faucheur effectue un jet d'attaque, un jet de dégâts ou lance un sort."
+    ],
+    "reactions": []
+}

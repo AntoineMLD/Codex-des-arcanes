@@ -1,0 +1,45 @@
+{
+    "title": "Nuée de piranhas",
+    "prerequisites": "Nuée de bêtes TP de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-piranhas",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "28 (8d8 - 8)",
+        "Vitesse",
+        "0 m, nage 12 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "9 (-1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "2 (-4)",
+        "Résistances aux dégâts",
+        "contondant, perforant, tranchant",
+        "Immunités aux états",
+        "à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morsures. Attaque au corps à corps avec une arme : +5 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 14 (4d6) dégâts perforants, ou 7 (2d6) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "actions": [
+        "Morsures. Attaque au corps à corps avec une arme : +5 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 14 (4d6) dégâts perforants, ou 7 (2d6) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "reactions": []
+}

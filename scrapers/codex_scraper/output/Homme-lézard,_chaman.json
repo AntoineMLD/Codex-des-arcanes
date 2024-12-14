@@ -1,0 +1,49 @@
+{
+    "title": "Homme-lézard, chaman",
+    "prerequisites": "Humanoïde (homme-lézard) de taille M, neutre",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard-chaman",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Discrétion +4, Perception +4, Survie +6",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "draconique",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples (forme d'homme-lézard uniquement). L'homme-lézard effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 7 (1d10 + 2) dégâts perforants sous forme de crocodile. Si l'homme-lézard est sous forme de crocodile et que sa cible est une créature de taille G ou inférieure, la cible est agrippée (évasion DD 12). Tant qu'elle est agrippée, la cible est entravée, et l'homme-lézard ne peut plus mordre d'autres cibles. Si l'homme-lézard retourne à sa forme véritable, la cible n'est plus agrippée.",
+        "Griffes (forme d'homme-lézard uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Changement de forme (Recharge après un repos court ou long). L'homme-lézard se métamorphose magiquement en un crocodile et peut rester sous cette forme durant 1 heure. Il peut revenir à sa forme véritable par une action bonus. Ses statistiques, autres que sa taille, sont les mêmes que sous sa forme humanoïde. L'équipement qu'il porte ou transporte n'est pas transformé. L'homme-lézard retrouve sa forme humanoïde s'il est tué."
+    ],
+    "actions": [
+        "Attaques multiples (forme d'homme-lézard uniquement). L'homme-lézard effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 7 (1d10 + 2) dégâts perforants sous forme de crocodile. Si l'homme-lézard est sous forme de crocodile et que sa cible est une créature de taille G ou inférieure, la cible est agrippée (évasion DD 12). Tant qu'elle est agrippée, la cible est entravée, et l'homme-lézard ne peut plus mordre d'autres cibles. Si l'homme-lézard retourne à sa forme véritable, la cible n'est plus agrippée.",
+        "Griffes (forme d'homme-lézard uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Changement de forme (Recharge après un repos court ou long). L'homme-lézard se métamorphose magiquement en un crocodile et peut rester sous cette forme durant 1 heure. Il peut revenir à sa forme véritable par une action bonus. Ses statistiques, autres que sa taille, sont les mêmes que sous sa forme humanoïde. L'équipement qu'il porte ou transporte n'est pas transformé. L'homme-lézard retrouve sa forme humanoïde s'il est tué."
+    ],
+    "reactions": []
+}

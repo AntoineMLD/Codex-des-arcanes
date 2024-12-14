@@ -1,0 +1,51 @@
+{
+    "title": "Slaad funeste",
+    "prerequisites": "Aberration (métamorphe) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/death-slaad.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=slaad-funeste",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "170 (20d8 + 80)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Arcanes + 6, Perception +8",
+        "Résistances aux dégâts",
+        "acide, froid, feu, foudre, tonnerre",
+        "Sens",
+        "vision aveugle 18 m, vision dans le noir 18 m, Perception passive 18",
+        "Langues",
+        "slaad, télépathie 18 m",
+        "Puissance",
+        "10 (5900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le slaad effectue trois attaques : une morsure et deux avec ses griffes ou avec l'épée à deux mains.",
+        "Morsure (forme de slaad uniquement). Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts perforants + 7 (2d6) dégâts nécrotiques.",
+        "Griffes (forme de slaad uniquement). Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d10 + 5) dégâts tranchants + 7 (2d6) dégâts nécrotiques.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants + 7 (2d6) dégâts nécrotiques."
+    ],
+    "actions": [
+        "Attaques multiples. Le slaad effectue trois attaques : une morsure et deux avec ses griffes ou avec l'épée à deux mains.",
+        "Morsure (forme de slaad uniquement). Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts perforants + 7 (2d6) dégâts nécrotiques.",
+        "Griffes (forme de slaad uniquement). Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d10 + 5) dégâts tranchants + 7 (2d6) dégâts nécrotiques.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants + 7 (2d6) dégâts nécrotiques."
+    ],
+    "reactions": []
+}

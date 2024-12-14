@@ -1,0 +1,47 @@
+{
+    "title": "Griffon",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "Le griffon est un féroce carnivore volant possédant le corps musclé d'un lion, ainsi que la tête, les pattes antérieures et les ailes d'un aigle.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/griffon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=griffon",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "59 (7d10 + 21)",
+        "Vitesse",
+        "9 m, vol 24 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Perception +5",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 15",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le griffon effectue deux attaques : une avec son bec et une avec ses griffes.",
+        "Bec. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Le griffon effectue deux attaques : une avec son bec et une avec ses griffes.",
+        "Bec. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants."
+    ],
+    "reactions": []
+}

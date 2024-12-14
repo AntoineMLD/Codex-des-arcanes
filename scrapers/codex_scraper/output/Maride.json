@@ -1,0 +1,49 @@
+{
+    "title": "Maride",
+    "prerequisites": "Élémentaire de taille G, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/marid.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=maride",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "229 (17d10 + 136)",
+        "Vitesse",
+        "9 m, nage 27 m, vol 18 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "26 (+8)",
+        "INT",
+        "18 (+4)",
+        "SAG",
+        "17 (+3)",
+        "CHA",
+        "18 (+4)",
+        "Jets de sauvegarde",
+        "Dex +5 Sag +7 Cha +8",
+        "Résistances aux dégâts",
+        "acide, froid, foudre",
+        "Sens",
+        "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13",
+        "Langues",
+        "aquatique",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le maride effectue deux attaques avec le trident.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +10 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 13 (2d6 + 6) dégâts perforants, ou 15 (2d8 + 6) dégâts perforants si utilisé à deux mains pour effectuer une attaque au corps à corps.",
+        "Jet d'eau. Le maride projette par magie de l'eau sur une ligne de 18 mètres de long et de 1,50 mètre de large. Chaque créature se trouvant sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16. En cas d'échec, une cible subit 21 (6d6) dégâts contondants et, si elle est de taille TG ou inférieure, est repoussée de 6 mètres puis jetée à terre. En cas de réussite, une cible ne subit que la moitié des dégâts contondants et elle n'est ni repoussée ni jetée à terre."
+    ],
+    "actions": [
+        "Attaques multiples. Le maride effectue deux attaques avec le trident.",
+        "Trident. Attaque au corps à corps ou à distance avec une arme : +10 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 13 (2d6 + 6) dégâts perforants, ou 15 (2d8 + 6) dégâts perforants si utilisé à deux mains pour effectuer une attaque au corps à corps.",
+        "Jet d'eau. Le maride projette par magie de l'eau sur une ligne de 18 mètres de long et de 1,50 mètre de large. Chaque créature se trouvant sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16. En cas d'échec, une cible subit 21 (6d6) dégâts contondants et, si elle est de taille TG ou inférieure, est repoussée de 6 mètres puis jetée à terre. En cas de réussite, une cible ne subit que la moitié des dégâts contondants et elle n'est ni repoussée ni jetée à terre."
+    ],
+    "reactions": []
+}

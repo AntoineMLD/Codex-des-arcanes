@@ -1,0 +1,204 @@
+{
+    "title": "Combat",
+    "introduction": "Le fracas d'une épée frappant contre un bouclier. Le crissement déchirant de monstrueuses griffes lacérant une armure. L'éclair lumineux d'un sort de boule de feu qui jaillit d'un magicien. L'odeur métallique du sang dans l'air, couvrant la puanteur ignoble des monstres vicieux. Rugissements de fureur, cris de triomphe, hurlements de douleur. Le combat dans D&D peut être chaotique, mortel et passionnant. Ce chapitre fournit les règles dont vous avez besoin pour que vos personnages et les monstres puissent engager le combat, qu'il s'agisse d'une brève escarmouche ou d'un conflit de plus grande envergure dans un donjon ou sur un champ de bataille. Tout au long de ce chapitre, les règles s'adressent à vous, joueur et MD. Ce dernier contrôle tous les monstres et les personnages non- joueurs impliqués dans le combat, et chaque joueur contrôle un aventurier. « Vous » peut également signifier le personnage ou le monstre que vous contrôlez.",
+    "sections": [
+        {
+            "title": "Ordre de combat",
+            "content": "Un combat typique est un choc entre deux parties, une frénésie de coups d'armes, de feintes, de parades, de jeux de jambes et de jets de sorts. Le jeu organise le chaos des combats en un cycle de rounds et de tours. Un round représente environ six secondes dans le monde du jeu. Pendant un round, chaque participant à la bataille prend un tour . L'ordre des tours est déterminé au début de la rencontre, quand chacun lance l'initiative. Une fois que chacun a joué son tour, le combat continue avec le prochain round si aucun côté n'a battu l'autre."
+        },
+        {
+            "title": "Surprise",
+            "content": "LE COMBAT, PAS À PAS 1. Déterminez la surprise . Le MD détermine quels sont parmi les participants au combat ceux qui sont surpris. 2. Établissez les positions . Le MD décide où sont les personnages et les monstres. Selon l'ordre de marche des aventuriers ou leur position dans la pièce ou autre lieu, le MD indique où se situent les adversaires - à quelle distance et dans quelle direction. 3. Lancez l'initiative . Tous les participants au combat effectuent un jet d'initiative qui détermine l'ordre des tours des combattants. 4. Jouez les tours . Chaque participant au combat joue son tour dans l'ordre établi de l'initiative. 5. Commencez le prochain round . Quand tous les participants au combat ont joué leur tour, le round prend fin. Recommencez l'étape 4 jusqu'à ce que le combat se termine."
+        },
+        {
+            "title": "Initiative",
+            "content": "L'initiative détermine l'ordre des tours pendant le combat. Quand le combat commence, chaque participant fait un jet de Dextérité pour déterminer sa place dans l'ordre d'initiative. Le MD fait un jet pour chaque groupe de créatures identiques, ce qui fait que chacune d'elles agira en même temps. Le MD liste les combattants dans l'ordre décroissant des jets de Dextérité. C'est l'ordre dans lequel ils devront agir à chaque round. L'ordre d’initiative reste le même de round en round. S'il y a égalité, c'est le MD qui décide qui parmi les monstres et les PNJ agira en premier, et les joueurs décideront entre eux de l'ordre des personnages. Le MD choisira l'ordre en cas d'égalité entre un monstre et un personnage joueur. Il est aussi possible que le MD décide que le monstre et le joueur jetteront un d20 pour déterminer qui commencera, le jet le plus haut ayant la priorité."
+        },
+        {
+            "title": "Votre tour",
+            "content": "Lors de votre tour, vous pouvez vous déplacer d'une distance égale ou inférieure à votre vitesse et entreprendre une action . Vous choisissez si vous voulez réaliser l'action ou bouger en premier. Votre vitesse (aussi appelée vitesse de marche) est marquée sur votre feuille de personnage. Les actions les plus communes que vous pouvez faire sont décrites dans la section « Actions en combat » plus loin dans ce chapitre. Certaines capacités de classes ou autres proposent plus d'options pour votre action. La section « Mouvement et position » plus loin dans ce chapitre présente les règles pour les déplacements."
+        },
+        {
+            "title": "Réactions",
+            "content": "Certaines capacités spéciales, sorts ou situations vous permettent de réaliser une action appelée réaction. Une réaction est une réponse instantanée à un déclencheur et peut se produire pendant votre tour ou celui de quelqu'un d'autre. L'attaque d'opportunité, décrite plus loin dans le chapitre, est le type de réaction le plus commun."
+        },
+        {
+            "title": "Déplacement et position",
+            "content": "En combat, les personnages et les monstres sont en mouvement constant, utilisant souvent leur position ou leur mouvement pour prendre l'avantage. À votre tour, vous pouvez avancer d'une distance équivalente à votre vitesse. Vous pouvez utiliser autant ou aussi peu de distance que vous voudrez en suivant les règles suivantes."
+        },
+        {
+            "title": "Interrompre vos mouvements",
+            "content": "Vous pouvez séparer votre mouvement durant votre tour en utilisant une partie de votre vitesse avant votre action et le reste après. Par exemple, si vous avez une vitesse de 9 mètres, vous pouvez vous déplacer de 3 mètres, faire votre action, et vous déplacer des 6 mètres restants."
+        },
+        {
+            "title": "Terrain difficile",
+            "content": "Les combats ont rarement lieu dans des pièces nues ou dans des plaines sans rien de spécial. Que ce soient dans des cavernes remplies de rochers, des forêts étouffées de bruyères ou sur des escaliers traîtres, les combats typiques se passent souvent sur des terrains difficiles. Chaque mètre sur un terrain difficile coûte un mètre supplémentaire. Cette règle ne change pas même si les obstacles se cumulent sur un terrain difficile."
+        },
+        {
+            "title": "Être à terre",
+            "content": "Les combattants se retrouvent souvent couchés au sol, soit parce qu'ils sont renversés pendant le combat ou parce qu'ils se jettent par terre. Dans le jeu, on dit qu'ils sont à terre . Vous pouvez vous jeter à terre sans utiliser votre vitesse. Vous relever demande plus d'effort, et coûte la moitié de votre vitesse. Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres pour vous lever. Vous ne pouvez pas vous relever si vous n'avez pas assez de mouvement restant ou si votre vitesse est de 0."
+        },
+        {
+            "title": "Se déplacer autour d'autres créatures",
+            "content": "Vous pouvez vous déplacer à travers l'espace occupé par une créature non hostile. En revanche, vous ne pouvez pas vous déplacer dans l'espace occupé par une créature hostile, à moins que la créature ne soit deux tailles plus grandes ou plus petites que vous. Dans tous les cas, souvenez-vous que cet espace reste un terrain difficile pour vous."
+        },
+        {
+            "title": "Déplacement en vol",
+            "content": "Les créatures volantes ont beaucoup d'avantages de mobilité, mais doivent aussi faire attention au risque de chute. Si une créature volante est mise à terre, voit sa vitesse réduite à 0 ou est privée de sa capacité à bouger, la créature tombe, à moins qu'elle n'ait la capacité Vol stationnaire ou qu'elle puisse rester en l'air par un moyen magique, comme avec le sort vol ."
+        },
+        {
+            "title": "Taille des créatures",
+            "content": "Chaque créature occupe un espace différent. Le tableau ci-dessous indique quel espace une créature contrôle en combat. Les objets utilisent parfois la même échelle de taille."
+        },
+        {
+            "title": "Actions en combat",
+            "content": "Quand vous faites des actions lors de votre tour, vous pouvez réaliser les actions qui sont présentées ici, des actions que vous gagnez grâce à votre classe ou une capacité spéciale, ou bien une action que vous improvisez. Beaucoup de monstres ont des options d'actions qui leur sont propres et qui sont décrites dans leurs caractéristiques. Quand vous décrivez une action qui n'est pas détaillée ailleurs dans les règles, le MD vous dit si cette action est possible et quel type de jets vous devrez faire, le cas échéant, pour déterminer le succès ou l’échec."
+        },
+        {
+            "title": "Aider",
+            "content": "VARIANTE : JOUER SUR UNE GRILLE Si vous jouez les combats en utilisant une grille quadrillée et des figurines ou des jetons, suivez les règles qui suivent. Cases. Chaque case de la grille représente 1,50 mètre. Vitesse. Plutôt que de bouger mètre par mètre, bougez case par case sur la grille. Cela veut dire que la vitesse est utilisée par section de 1,50 mètre. C'est très facile si vous divisez votre vitesse par 1,5. Par exemple une vitesse de 9 mètres équivaudra à 6 cases. Si vous utilisez souvent une grille, il est même pratique de noter votre vitesse en case au lieu de la noter en mètres sur votre fiche de personnage. Entrer dans une case. Pour entrer dans une case, vous devez avoir au moins une case de mouvement restante, même si la case est adjacente de manière diagonale à la vôtre (la règle du mouvement en diagonal sacrifie le réalisme dans le but de rendre le jeu plus fluide. Le Guide du Maître donnera des règles pour une approche plus réaliste). Si une case coûte un mouvement supplémentaire, comme les cases de terrain difficile, vous devez avoir assez de mouvement restant pour payer l'entrée. Par exemple, vous devez avoir au moins deux cases restantes pour entrer sur un terrain difficile. Coins. Les mouvements en diagonales ne permettent pas de traverser le coin d'un mur, d'un gros arbre ou d'autres caractéristiques qui remplissent l'espace. Distance. Pour déterminer la distance sur la grille entre deux choses, que ce soient des créatures ou des objets, il faut commencer à compter à partir de la première case vide adjacente au premier objet et arrêter de compter dans l'espace du second objet. Comptez par le chemin le plus court."
+        },
+        {
+            "title": "Attaquer",
+            "content": "L'action la plus commune que vous pouvez faire en combat est l'action Attaquer, que ce soit en faisant virevolter une épée, en décochant une flèche ou avec ses propres poings. Grâce à cette action, vous pouvez faire une attaque au corps à corps ou une attaque à distance. Voir « Effectuer une attaque » pour les règles qui s'appliquent. Certaines capacités comme l'Attaque supplémentaire du guerrier vous permettent d'attaquer plusieurs fois."
+        },
+        {
+            "title": "Chercher",
+            "content": "Quand vous utilisez l'action Chercher, vous consacrez votre attention à la recherche de quelque chose. Suivant ce que vous cherchez, le MD peut vous faire un jet de Sagesse (Perception) ou d'Intelligence (Investigation)."
+        },
+        {
+            "title": "Esquiver",
+            "content": "Quand vous choisissez l'action Esquiver, vous vous concentrez uniquement sur le fait d'éviter les attaques. Jusqu'au début de votre prochain tour, chaque jet d'attaque lancé contre vous à un désavantage si vous voyez l'attaquant, et vos jets de sauvegarde de Dextérité ont un avantage. Vous perdez cet avantage si vous êtes incapable d'agir ou si votre vitesse tombe à 0."
+        },
+        {
+            "title": "Foncer",
+            "content": "Quand vous entreprenez l'action Foncer, vous gagnez un mouvement supplémentaire pour le tour en cours. La distance supplémentaire est égale à votre vitesse à laquelle on ajoute vos éventuels modificateurs. Avec une vitesse de 9 mètres par exemple, vous pouvez vous déplacer de 18 mètres lors de votre tour si vous courez. Chaque augmentation ou diminution de votre vitesse change la distance additionnelle de la même quantité. Si votre vitesse de 9 mètres est réduite à 4,50 mètres par exemple, vous pouvez alors vous déplacer de 9 mètres en courant pour ce tour."
+        },
+        {
+            "title": "Lancer un sort",
+            "content": "Les lanceurs de sorts comme les magiciens ou les clercs, de même que de nombreux monstres, ont accès à des sorts et peuvent les utiliser pour provoquer des effets en combat. Chaque sort possède un temps d'incantation qui détermine si le lanceur doit utiliser une action, une réaction, des minutes voire même des heures pour lancer le sort. Lancer un sort n'est donc pas systématiquement une action, même si la plupart des sorts ont un temps d'incantation d'une action donc un lanceur de sorts utilise souvent son action à cet effet (voir Magie )."
+        },
+        {
+            "title": "Se cacher",
+            "content": "Quand vous décidez d'utiliser l'action Se cacher, vous devez faire un jet de Dextérité (Discrétion) pour tenter de vous cacher, suivant les règles pour se cacher . Si vous réussissez, vous gagnez certains avantages, comme décrit dans la section « Attaquants et cibles non visibles » plus loin dans ce chapitre."
+        },
+        {
+            "title": "Se désengager",
+            "content": "Si vous vous Désengagez, votre mouvement ne provoque pas d'attaques d'opportunités pour le reste du tour."
+        },
+        {
+            "title": "Se tenir prêt",
+            "content": "IMPROVISER UNE ACTION Votre personnage peut faire des choses qui ne sont pas décrites dans ces règles, comme enfoncer des portes, intimider des ennemis, chercher les faiblesses de défenses magiques ou demander à pouvoir dialoguer avec un ennemi. Les seules limites dans vos actions sont votre imagination et les capacités de votre personnage. Voir la description des caractéristiques pour vous en inspirer lorsque vous improvisez. Quand vous décrivez une action qui n'est pas décrite dans les règles, le MD vous dit si l'action est possible et le jet de dé que vous aurez besoin de faire, le cas échéant, pour en déterminer le succès ou l'échec."
+        },
+        {
+            "title": "Utiliser un objet",
+            "content": "Vous interagissez normalement avec les objets lorsque vous faites certaines actions, par exemple quand vous dégainez votre épée lors d'une attaque. Mais certains objets nécessitent que vous utilisiez l'action Utilisez un objet. Cette action est également utile si vous voulez utiliser plus d'un objet durant votre tour."
+        },
+        {
+            "title": "Effectuer une attaque",
+            "content": "Que vous frappiez avec une arme de corps à corps, que vous attaquiez à distance ou que votre jet d'attaque fasse partie d'un sort, chaque attaque à une structure simple :"
+        },
+        {
+            "title": "Jet d'attaque",
+            "content": "Quand vous faites une attaque, votre jet d'attaque détermine si l'attaque touche ou rate. Pour faire un jet d'attaque, lancez un d20 et ajoutez les modificateurs appropriés. Si le total du jet avec les modificateurs est égal ou dépasse la classe d'armure (CA) de la cible, l'attaque touche. La CA d'un personnage est déterminée lors de la création du personnage alors que la CA d'un monstre fait partie de ses statistiques."
+        },
+        {
+            "title": "Attaquants et cibles non visibles",
+            "content": "Les combattants essaient souvent de se dérober du regard de leurs ennemis en se cachant, en utilisant le sort invisibilité ou en se fondant dans l'ombre. Quand vous attaquez une cible que vous ne voyez pas, vous avez un désavantage à vos jets d'attaque. C'est le cas si vous attaquez une cible que vous entendez mais que vous ne voyez pas, ou si vous devinez l'emplacement de votre cible. Si la cible n'est pas à l'endroit que vous visez, vous ratez automatiquement, mais le MD vous dira juste que votre attaque rate, pas que vous n'avez pas trouvé la cible. Quand une créature ne peut pas vous voir, vous avez un avantage à vos jets d'attaque contre elle. Si vous êtes caché, qu'on ne vous voit pas et qu'on ne vous entend pas, votre position est dévoilée lorsque vous attaquez, que l'attaque touche ou non."
+        },
+        {
+            "title": "Attaques à distance",
+            "content": "Quand vous faites une attaque à distance, que ce soit en utilisant un arc ou une arbalète, ou en lançant une hachette, vous lancez un projectile pour toucher un ennemi à distance. Un monstre peut envoyer des épines de sa queue. Beaucoup de sorts incluent une attaque à distance."
+        },
+        {
+            "title": "Attaques au corps à corps",
+            "content": "Utilisée dans les combats de contact, une attaque au corps à corps vous autorise à attaquer un ennemi dans votre zone d'allonge. Une attaque au corps à corps utilise généralement une arme tenue en main comme une épée, un marteau ou une hache. Un monstre typique effectue une attaque au corps à corps quand il frappe avec ses griffes, ses cornes, ses dents, ses tentacules ou autre partie de son corps. Certains sorts sont aussi considérés comme des attaques au corps à corps."
+        },
+        {
+            "title": "Abri",
+            "content": "Les murs, les arbres, les créatures et autres obstacles peuvent permettre de se mettre à couvert durant un combat, rendant une cible plus difficile à blesser. Une cible peut bénéficier d'un abri seulement lorsqu'une attaque ou un autre effet a son origine du côté opposé à cet abri. Il y a trois types d'abris. Si une cible est derrière des sources multiples, c'est le type le plus élevé qui s'applique ; les types d'abris ne se cumulent pas. Par exemple, si une cible est derrière une créature qui lui donne un abri partiel et derrière un tronc d'arbre qui lui donne un abri important, la cible bénéficie de l'abri important."
+        },
+        {
+            "title": "Dégâts et guérison",
+            "content": "Les blessures et le risque de mort sont des compagnons constants de ceux qui explorent les mondes de D&D. Un coup d'épée, une flèche bien placée ou l'explosion de flammes du sort boule de feu ont le potentiel de blesser voire même tuer les créatures les plus robustes."
+        },
+        {
+            "title": "Points de vie",
+            "content": "Les points de vie représentent une combinaison de résistance physique et mentale, de volonté de vivre et de chance. Les créatures qui ont plus de points de vie sont plus difficiles à tuer. Celles avec moins de points de vie sont plus fragiles. Les points de vie actuels d’une créature (généralement appelés points de vie) se situent entre 0 et le maximum de points de vie d’une créature. Ce nombre change fréquemment quand les créatures prennent des dégâts ou se font soigner."
+        },
+        {
+            "title": "Jets de dégâts",
+            "content": "Chaque arme, sort ou capacité offensive de monstre décrit le type de dégâts qu'il inflige. Lancez le ou les dés de dégâts, ajoutez les éventuels modificateurs et appliquez les dégâts à votre cible. Des armes magiques, capacités spéciales ou autres facteurs peuvent accorder des bonus aux dégâts."
+        },
+        {
+            "title": "Résistance et vulnérabilité aux dégâts",
+            "content": "Certaines créatures et objets sont extrêmement difficiles ou inhabituellement faciles à blesser ou à détruire avec certains types de dégâts. Si une créature ou un objet possède une résistance à un type de dégât, les dégâts de ce type sont réduits de moitié contre lui. À l'inverse, si une créature ou un objet présente une vulnérabilité contre un type de dégâts, les dégâts de ce type sont doublés contre lui."
+        },
+        {
+            "title": "Guérison",
+            "content": "À moins qu'ils ne provoquent la mort, les dégâts ne sont pas permanents, et même la mort peut être vaincue à l'aide d'une magie puissante. Le repos peut restaurer des points de vie à une créature (voir Partir à l'aventure ), et des méthodes magiques comme le sort soins ou une potion de guérison peuvent soigner en un instant. Quand une créature reçoit des soins de tout type, les points de vie regagnés sont ajoutés au montant des points de vie actuels. Les points de vie d'une créature ne peuvent excéder son maximum de points de vie. Ainsi tout excès de points de vie soignés est perdu. Par exemple, un druide soigne 8 points de vie à un rôdeur. Si le rôdeur avait 14 points de vie actuels pour un maximum de 20, le rôdeur ne gagne que 6 points de vie et non 8. Une créature morte ne peut pas regagner de points de vie tant qu'elle n'a pas été ramenée à la vie."
+        },
+        {
+            "title": "Tomber à 0 point de vie",
+            "content": "Quand vous avez 0 point de vie, vous pouvez soit mourir directement, soit devenir inconscient."
+        },
+        {
+            "title": "Assommer une créature",
+            "content": "Parfois un attaquant veut handicaper un ennemi plutôt que de le tuer. Quand un attaquant réduit les points de vie d'une créature à 0 avec une attaque au corps à corps, l'attaquant peut la mettre KO. L'attaquant peut faire ce choix au moment d'appliquer les dégâts. La créature tombe alors inconsciente et stable."
+        },
+        {
+            "title": "Points de vie temporaires",
+            "content": "Certains sorts et capacités spéciales confèrent des points de vie temporaires à une créature. Ces points de vie temporaires ne sont pas les points de vie courants ; ils représentent un tampon contre les dégâts, une réserve de points de vie qui vous protègent des blessures. Lorsque vous avez des points de vie temporaires et que vous subissez des dégâts, ces points temporaires sont perdus en premier, et tous les dégâts restants sont infligés à vos points de vie normaux. Par exemple, si vous avez 5 points de vie temporaires et que vous prenez 7 points de dégâts, vous perdez tous les points temporaires et deux de vos points de vie normaux."
+        },
+        {
+            "title": "Combat monté",
+            "content": "Un chevalier qui charge sur un champ de bataille monté sur un cheval de combat, un magicien qui lance un sort depuis le dos d'un griffon ou un clerc qui traverse le ciel sur un pégase, ont des bonus de vitesse et de mobilité que seule une monture peut donner. Une créature consentante qui est au moins une taille plus grande que vous, et dont l'anatomie le permet, peut servir en tant que monture en suivant les règles qui suivent."
+        },
+        {
+            "title": "Monter et descendre d'une monture",
+            "content": "Une fois par mouvement, vous pouvez monter ou descendre d’une créature située à 1,50 mètre ou moins de vous. Cela représente un déplacement égal à la moitié de votre vitesse. Par exemple, si vous avez une vitesse de 9 mètres, vous devez utiliser 4,50 mètres pour monter à cheval. De ce fait, vous ne pouvez pas le faire s'il vous reste moins de 4,50 mètres de mouvement ou si votre vitesse est de 0."
+        },
+        {
+            "title": "Contrôler une monture",
+            "content": "Quand vous êtes en selle, vous avez deux options. Vous pouvez soit contrôler votre monture, soit l'autoriser à faire ses propres actions. Les créatures intelligentes comme les dragons agissent indépendamment."
+        },
+        {
+            "title": "Combat subaquatique",
+            "content": "Quand les aventuriers poursuivent des sahuagins jusqu'à dans leurs maisons sous l'eau, affrontent des requins dans une ancienne épave ou se trouvent dans une pièce de donjon inondée, ils doivent combattre dans un environnement hostile. Sous l'eau, les règles suivantes s'appliquent."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Taille",
+                "Espace"
+            ],
+            "rows": [
+                {
+                    "Taille": "Très Petite (TP)",
+                    "Espace": "75 cm x 75 cm"
+                },
+                {
+                    "Taille": "Petite (P)",
+                    "Espace": "1,50 m x 1,50 m"
+                },
+                {
+                    "Taille": "Moyenne (M)",
+                    "Espace": "1,50 m x 1,50 m"
+                },
+                {
+                    "Taille": "Grande (G)",
+                    "Espace": "3 m x 3 m"
+                },
+                {
+                    "Taille": "Très Grande (TG)",
+                    "Espace": "4,50 m x 4,50 m"
+                },
+                {
+                    "Taille": "Gigantesque (Gig)",
+                    "Espace": "6 m x 6 m ou plus"
+                }
+            ]
+        }
+    ]
+}

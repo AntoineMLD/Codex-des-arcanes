@@ -1,0 +1,7 @@
+{
+    "title": "Marche sur le vent",
+    "prerequisites": "Aucun",
+    "description": "Vous et jusqu'à 10 créatures consentantes que vous pouvez voir et à portée, êtes transformés en vapeur pour la durée du sort, ressemblant à de petits nuages. Tant qu'elle est sous cette forme de nuage, une créature obtient une vitesse de vol de 90 mètres ainsi que la résistance aux dégâts des armes non magiques. Les seules actions que peut effectuer une créature sous cette forme sont l'action Foncer et le retour à sa forme normale. Revenir à sa forme normale prend 1 minute, durant laquelle la créature est incapable d'agir et ne peut pas se déplacer. Jusqu'à la fin du sort, une créature peut revenir en forme nuageuse, ce qui lui prendra également 1 minute de transformation. Si une créature est sous forme nuageuse et en train de voler lorsque l'effet prend fin, la créature redescend à la vitesse de 18 mètres par round pendant 1 minute jusqu'à ce qu'elle touche terre, ce qu'elle fait sans encombre. Si elle ne touche pas le sol après 1 minute, la créature chute de la distance restante.",
+    "source": "Player´s Handbook (SRD)",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-le-vent"
+}

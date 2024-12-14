@@ -1,0 +1,46 @@
+{
+    "title": "Compagnon d'armes (niv 3)",
+    "prerequisites": "Humanoïde (toute race) de taille M, -",
+    "description": "Un comparse compagnon d'armes peut être un soldat ou un milicien.",
+    "source": "Rules (Essentials Kit)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=compagnon-d-armes-niv-3",
+    "stats": [
+        "Classe d'armure",
+        "16 (chemise de mailles, bouclier)",
+        "Points de vie",
+        "26 (4d8 + 8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "10 (+0)",
+        "Jets de sauvegarde",
+        "Con +4",
+        "Compétences",
+        "Athlétisme +4, Perception +3, Survie +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "commun, plus une de votre choix",
+        "Puissance",
+        "-"
+    ],
+    "actions": [
+        "Épée longue. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts tranchants, ou 7 (1d10 + 2) dégâts tranchants si utilisée à deux mains.",
+        "Arc long. Attaque à distance avec une arme : +3 au toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants.",
+        "Protection (défenseur seulement). Le compagnon d'armes impose un désavantage au jet d'attaque d'une créature située à 1,50 m ou moins de lui et qui ne le cible pas. Le compagnon d'armes doit pouvoir voir l'attaquant."
+    ],
+    "reactions": [
+        "Protection (défenseur seulement). Le compagnon d'armes impose un désavantage au jet d'attaque d'une créature située à 1,50 m ou moins de lui et qui ne le cible pas. Le compagnon d'armes doit pouvoir voir l'attaquant."
+    ]
+}

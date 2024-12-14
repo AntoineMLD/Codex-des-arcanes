@@ -1,0 +1,40 @@
+{
+    "title": "Cachalot",
+    "prerequisites": "Bête de taille Gig, sans alignement",
+    "description": "Le cachalot est un mammifère marin qui peut mesurer plus de 20 mètres de long.",
+    "source": "Adventures (Rime of the Frostmaiden)",
+    "image_url": "https://www.aidedd.org/dnd/images/sperm-whale.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cachalot",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "189 (14d20 + 42)",
+        "Vitesse",
+        "0 m, nage 18 m",
+        "FOR",
+        "26 (+8)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "vision aveugle 36 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le cachalot réalise deux attaques : une de morsure et une avec sa queue.",
+        "Morsures. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 21 (3d8 + 8) dégâts perforants. Si la cible est une créature de taille G ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité DD 14 ou être avalée par le chachalot. Une créature avalée a un abri totale contre les attaques et autres effets hors du cachalot, et elle subit 3 (1d6) dégâts d'acide au début de chaque tour du cachalot. Si le cachalot subit 30 dégâts ou plus en un seul tour de la part d'une créature en lui, il doit réussir un jet de sauvegarde de Constitution DD 16 à la fin de ce tour ou régurgiter toutes les créatures avalées, qui tombent à terre dans un espace à 3 mètres ou moins du cachalot. S'il meurt, une créature avalée peut s'échapper de son cadavre en utilisant 6 mètres de mouvement pour s'extirper en rampant.",
+        "Queue. Attaque au corps à corps avec une arme : +11 au toucher, allonge 4,50 m, une cible. Touché : 18 (3d6 + 8) dégâts contondants, ou 37 (6d6 + 16) dégâts contondants si la cible est un objet."
+    ],
+    "reactions": []
+}

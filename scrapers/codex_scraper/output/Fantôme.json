@@ -1,0 +1,53 @@
+{
+    "title": "Fantôme",
+    "prerequisites": "Mort-vivant de taille M, tout alignement",
+    "description": "Un fantôme est l'âme d'une créature autrefois vivante et maintenant condamnée à hanter un lieu, une créature ou un objet lié à son ancienne vie, généralement dans le but d'achever une tâche.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ghost.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=fantome",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "45 (10d8)",
+        "Vitesse",
+        "0 m, vol 12 m (stationnaire)",
+        "FOR",
+        "7 (-2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "17 (+3)",
+        "Résistances aux dégâts",
+        "acide, foudre, feu, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "froid, nécrotique, poison",
+        "Immunités aux états",
+        "à terre, charmé, empoisonné, agrippé, entravé, épuisement, paralysé, pétrifié, effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "les langues qu'il connaissait de son vivant",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Contact flétrissant. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 17 (4d6 + 3) dégâts nécrotiques.",
+        "Forme éthérée. Le fantôme pénètre dans le plan éthéré à partir du plan matériel, ou inversement. Il est visible sur le plan matériel lorsqu'il se trouve à la Frontière éthérée, et inversement, bien qu'il ne puisse affecter ou être affecté par aucune chose venant de l'autre plan.",
+        "Visage effroyable. Chaque créature non morte-vivante à 18 mètres du fantôme et pouvant le voir doit réussir un jet de sauvegarde de Sagesse DD 13 ou devenir effrayée pendant 1 minute. Si le jet est raté de 5 points ou plus, la cible vieillit aussi de 1d4 x 10 ans. Une créature effrayée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'état effrayé en cas de réussite. Si le jet de sauvegarde de la cible est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Visage effroyable du fantôme pendant les prochaines 24 heures. L'effet de vieillissement peut être annulé par un sort de restauration supérieure, mais seulement si le sort est lancé dans les 24 heures.",
+        "Possession (Recharge 6). Un humanoïde que le fantôme peut voir et se trouvant à 1,50 mètre de lui doit réussir un jet de sauvegarde de Charisme DD 13 ou être possédé par le fantôme ; le fantôme disparait alors, et la cible est incapable d'agir et perd le contrôle de son corps. Le fantôme contrôle désormais le corps de la cible, mais ne prive pas la cible de sa conscience. Le fantôme ne peut être pris pour cible par aucune attaque, sort, ou autres effets, à part ceux qui repoussent les morts-vivants, et il conserve son alignement, ses valeurs d'Intelligence, de Sagesse et de Charisme, ainsi que son immunité aux effets charmé et effrayé. Pour le reste, il utilise les statistiques de la cible, mais sans avoir accès à ses connaissances, capacités de classe et maîtrises. La possession dure jusqu'à ce que la cible tombe à 0 point de vie, que le fantôme l'annule par une action bonus, ou que le fantôme soit repoussé ou renvoyé de force par un effet similaire au sort de dissipation du mal et du bien. Lorsque la possession se termine, le fantôme réapparaît dans un espace inoccupé situé à 1,50 mètre du corps. Une cible est immunisée contre la possession du fantôme pendant 24 heures si elle réussit son jet de sauvegarde ou si la possession se termine."
+    ],
+    "actions": [
+        "Contact flétrissant. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 17 (4d6 + 3) dégâts nécrotiques.",
+        "Forme éthérée. Le fantôme pénètre dans le plan éthéré à partir du plan matériel, ou inversement. Il est visible sur le plan matériel lorsqu'il se trouve à la Frontière éthérée, et inversement, bien qu'il ne puisse affecter ou être affecté par aucune chose venant de l'autre plan.",
+        "Visage effroyable. Chaque créature non morte-vivante à 18 mètres du fantôme et pouvant le voir doit réussir un jet de sauvegarde de Sagesse DD 13 ou devenir effrayée pendant 1 minute. Si le jet est raté de 5 points ou plus, la cible vieillit aussi de 1d4 x 10 ans. Une créature effrayée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'état effrayé en cas de réussite. Si le jet de sauvegarde de la cible est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Visage effroyable du fantôme pendant les prochaines 24 heures. L'effet de vieillissement peut être annulé par un sort de restauration supérieure, mais seulement si le sort est lancé dans les 24 heures.",
+        "Possession (Recharge 6). Un humanoïde que le fantôme peut voir et se trouvant à 1,50 mètre de lui doit réussir un jet de sauvegarde de Charisme DD 13 ou être possédé par le fantôme ; le fantôme disparait alors, et la cible est incapable d'agir et perd le contrôle de son corps. Le fantôme contrôle désormais le corps de la cible, mais ne prive pas la cible de sa conscience. Le fantôme ne peut être pris pour cible par aucune attaque, sort, ou autres effets, à part ceux qui repoussent les morts-vivants, et il conserve son alignement, ses valeurs d'Intelligence, de Sagesse et de Charisme, ainsi que son immunité aux effets charmé et effrayé. Pour le reste, il utilise les statistiques de la cible, mais sans avoir accès à ses connaissances, capacités de classe et maîtrises. La possession dure jusqu'à ce que la cible tombe à 0 point de vie, que le fantôme l'annule par une action bonus, ou que le fantôme soit repoussé ou renvoyé de force par un effet similaire au sort de dissipation du mal et du bien. Lorsque la possession se termine, le fantôme réapparaît dans un espace inoccupé situé à 1,50 mètre du corps. Une cible est immunisée contre la possession du fantôme pendant 24 heures si elle réussit son jet de sauvegarde ou si la possession se termine."
+    ],
+    "reactions": []
+}

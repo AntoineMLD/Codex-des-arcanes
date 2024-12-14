@@ -1,0 +1,51 @@
+{
+    "title": "Vampirien",
+    "prerequisites": "Mort-vivant de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/vampire-spawn.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=vampirien",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "82 (11d8 + 33)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Jets de sauvegarde",
+        "Dex +6, Sag +3",
+        "Compétences",
+        "Discrétion +6, Perception +3",
+        "Résistances aux dégâts",
+        "nécrotique ; contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "les langues qu'il connaissait de son vivant",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le vampirien effectue deux attaques, mais seule l'une des deux peut être une attaque de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Plutôt que d'infliger des dégâts, le vampirien peut agripper la cible (évasion DD 13)",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature consentante ou une créature agrippée par le vampirien, incapable d'agir ou entravée. Touché : 6 (1d6 + 3) dégâts perforants + 7 (2d6) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal à la quantité de dégâts nécrotiques subis, et le vampirien récupère un nombre de points de vie équivalent. Cette réduction perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0."
+    ],
+    "actions": [
+        "Attaques multiples. Le vampirien effectue deux attaques, mais seule l'une des deux peut être une attaque de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Plutôt que d'infliger des dégâts, le vampirien peut agripper la cible (évasion DD 13)",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature consentante ou une créature agrippée par le vampirien, incapable d'agir ou entravée. Touché : 6 (1d6 + 3) dégâts perforants + 7 (2d6) dégâts nécrotiques. Le maximum de points de vie de la cible est réduit d'un montant égal à la quantité de dégâts nécrotiques subis, et le vampirien récupère un nombre de points de vie équivalent. Cette réduction perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0."
+    ],
+    "reactions": []
+}

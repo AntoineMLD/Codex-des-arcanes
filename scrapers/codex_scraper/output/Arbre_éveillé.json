@@ -1,0 +1,45 @@
+{
+    "title": "Arbre éveillé",
+    "prerequisites": "Plante de taille TG, sans alignement",
+    "description": "Un arbre éveillé est un arbre ordinaire à qui une conscience et une mobilité ont été données grâce à la magie.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=arbre-eveille",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "59 (7d12 + 14)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "6 (-2)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Vulnérabilités aux dégâts",
+        "feu",
+        "Résistances aux dégâts",
+        "contondant, perforant",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue connue par son créateur",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Coup. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 14 (3d6 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Coup. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 14 (3d6 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

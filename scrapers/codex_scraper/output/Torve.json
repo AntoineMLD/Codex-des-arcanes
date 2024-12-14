@@ -1,0 +1,45 @@
+{
+    "title": "Torve",
+    "prerequisites": "Humanoïde (torve) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/grimlock.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=torve",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Athlétisme +5, Discrétion +3, Perception +3",
+        "Immunités aux états",
+        "aveuglé",
+        "Sens",
+        "vision aveugle 9 m ou 3 m tant qu'il est assourdi (aveugle au-delà de ce rayon), Perception passive 13",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Gourdin d'os hérissé de pointes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants + 2 (1d4) dégâts perforants."
+    ],
+    "actions": [
+        "Gourdin d'os hérissé de pointes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants + 2 (1d4) dégâts perforants."
+    ],
+    "reactions": []
+}

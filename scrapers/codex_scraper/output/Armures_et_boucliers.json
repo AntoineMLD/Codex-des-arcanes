@@ -1,0 +1,195 @@
+{
+    "title": "Armures et boucliers",
+    "introduction": "Les mondes de D&D sont une vaste tapisserie composée de nombreuses cultures différentes, chacune possédant son propre niveau de technologie. Pour cette raison, les aventuriers ont accès à une variété de types d'armures, allant de l'armure de cuir au coûteux harnois en passant par la cotte de mailles et de nombreuses autres armures entre les deux. La table ci-dessous indique les types d'armures les plus couramment utilisés dans le jeu et les classe en trois catégories : armure légère, armure intermédiaire et armure lourde. De nombreux guerriers complètent leur armure avec un bouclier.",
+    "sections": [
+        {
+            "title": "Armures légères",
+            "content": "VARIANTE : TAILLE D'ÉQUIPEMENT Dans la plupart des campagnes, vous pouvez utiliser ou porter tout équipement que vous trouvez lors d'une aventure, dans les limites du bon sens. Par exemple, un imposant demi-orc ne rentrera pas dans l’armure de cuir d’un halfelin, et un gnome serait noyé dans l’élégante robe d'un géant des nuages. Le MD peut toutefois imposer plus de réalisme. Par exemple, un harnois conçu pour un humain en particulier pourrait ne pas aller à un autre sans y réaliser d’importantes modifications, et un uniforme de garde pourrait être visiblement mal ajusté si un aventurier tente de se déguiser avec. En utilisant cette variante, lorsque les aventuriers trouvent des armures, des vêtements ou tout autre article similaire qui sont faits pour être portés, ils pourraient avoir besoin de visiter un armurier, un tailleur, un cordonnier ou autre pour y faire faire les ajustements nécessaires. Le coût d’un tel travail varie de 10 à 40 % du prix de vente de l'article. Le MD peut soit lancer 1d4 x 10 ou déterminer l'augmentation du coût en se basant sur l'étendue des modifications nécessaires."
+        },
+        {
+            "title": "Armures intermédiaires",
+            "content": "Les armures intermédiaires offrent une meilleure protection que les armures légères, mais entravent quelque peu les mouvements. Si vous portez une armure intermédiaire, vous ajoutez votre modificateur de Dextérité, limité à un maximum de +2, à votre CA."
+        },
+        {
+            "title": "Armures lourdes",
+            "content": "De toutes les armures, les armures lourdes offrent la meilleure protection. Elles couvrent tout le corps et sont conçues pour arrêter une large palette d'attaques. Seuls les guerriers expérimentés peuvent manier correctement leur poids et leur grosseur. Si vous portez une armure lourde, vous ne pouvez pas ajouter votre modificateur de Dextérité à votre CA, mais un éventuel malus ne s'applique pas non plus."
+        },
+        {
+            "title": "Mettre et ôter une armure",
+            "content": "Le temps nécessaire pour mettre ou ôter une armure dépend de sa catégorie."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Armure",
+                "VO",
+                "CA",
+                "Force",
+                "Discrétion",
+                "Poids",
+                "Prix"
+            ],
+            "rows": [
+                {
+                    "Armure": "Armures légères"
+                },
+                {
+                    "Armure": "Matelassée",
+                    "VO": "Padded",
+                    "CA": "11 + Mod.Dex",
+                    "Force": "-",
+                    "Discrétion": "Désavantage",
+                    "Poids": "4 kg",
+                    "Prix": "5 po"
+                },
+                {
+                    "Armure": "Cuir",
+                    "VO": "Leather",
+                    "CA": "11 + Mod.Dex",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "5 kg",
+                    "Prix": "10 po"
+                },
+                {
+                    "Armure": "Cuir clouté",
+                    "VO": "Studded leather",
+                    "CA": "12 + Mod.Dex",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "6,5 kg",
+                    "Prix": "45 po"
+                },
+                {
+                    "Armure": "Armures intermédiaires"
+                },
+                {
+                    "Armure": "Peaux",
+                    "VO": "Hide",
+                    "CA": "12 + Mod.Dex (max +2)",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "6 kg",
+                    "Prix": "10 po"
+                },
+                {
+                    "Armure": "Chemise de mailles",
+                    "VO": "Chain shirt",
+                    "CA": "13 + Mod.Dex (max +2)",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "10 kg",
+                    "Prix": "50 po"
+                },
+                {
+                    "Armure": "Écailles",
+                    "VO": "Scale mail",
+                    "CA": "14 + Mod.Dex (max +2)",
+                    "Force": "-",
+                    "Discrétion": "Désavantage",
+                    "Poids": "22,5 kg",
+                    "Prix": "50 po"
+                },
+                {
+                    "Armure": "Cuirasse",
+                    "VO": "Breastplate",
+                    "CA": "14 + Mod.Dex (max +2)",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "10 kg",
+                    "Prix": "400 po"
+                },
+                {
+                    "Armure": "Demi-plate",
+                    "VO": "Half plate",
+                    "CA": "15 + Mod.Dex (max +2)",
+                    "Force": "-",
+                    "Discrétion": "Désavantage",
+                    "Poids": "20 kg",
+                    "Prix": "750 po"
+                },
+                {
+                    "Armure": "Armures lourdes"
+                },
+                {
+                    "Armure": "Broigne",
+                    "VO": "Ring mail",
+                    "CA": "14",
+                    "Force": "-",
+                    "Discrétion": "Désavantage",
+                    "Poids": "20 kg",
+                    "Prix": "30 po"
+                },
+                {
+                    "Armure": "Cotte de mailles",
+                    "VO": "Chain mail",
+                    "CA": "16",
+                    "Force": "For 13",
+                    "Discrétion": "Désavantage",
+                    "Poids": "27,5 kg",
+                    "Prix": "75 po"
+                },
+                {
+                    "Armure": "Clibanion",
+                    "VO": "Splint",
+                    "CA": "17",
+                    "Force": "For 15",
+                    "Discrétion": "Désavantage",
+                    "Poids": "30 kg",
+                    "Prix": "200 po"
+                },
+                {
+                    "Armure": "Harnois",
+                    "VO": "Plate",
+                    "CA": "18",
+                    "Force": "For 15",
+                    "Discrétion": "Désavantage",
+                    "Poids": "32,5 kg",
+                    "Prix": "1500 po"
+                },
+                {
+                    "Armure": "Bouclier"
+                },
+                {
+                    "Armure": "Bouclier",
+                    "VO": "Shield",
+                    "CA": "+2",
+                    "Force": "-",
+                    "Discrétion": "-",
+                    "Poids": "3 kg",
+                    "Prix": "10 po"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Catégorie",
+                "Mettre",
+                "Ôter"
+            ],
+            "rows": [
+                {
+                    "Catégorie": "Armure légère",
+                    "Mettre": "1 minute",
+                    "Ôter": "1 minute"
+                },
+                {
+                    "Catégorie": "Armure intermédiaire",
+                    "Mettre": "5 minutes",
+                    "Ôter": "1 minute"
+                },
+                {
+                    "Catégorie": "Armure lourde",
+                    "Mettre": "10 minutes",
+                    "Ôter": "5 minutes"
+                },
+                {
+                    "Catégorie": "Bouclier",
+                    "Mettre": "1 action",
+                    "Ôter": "1 action"
+                }
+            ]
+        }
+    ]
+}

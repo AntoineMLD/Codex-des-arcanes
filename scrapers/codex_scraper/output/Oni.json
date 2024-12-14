@@ -1,0 +1,51 @@
+{
+    "title": "Oni",
+    "prerequisites": "Géant de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/oni.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=oni",
+    "stats": [
+        "Classe d'armure",
+        "16 (cotte de mailles)",
+        "Points de vie",
+        "110 (13d10 + 39)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "Dex +3, Con +6, Sag +4, Cha +5",
+        "Compétences",
+        "Arcanes +5, Perception +4, Tromperie +8",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive +4",
+        "Langues",
+        "commun, géant",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'oni effectue deux attaques, avec ses griffes ou avec sa coutille.",
+        "Griffes (forme d'oni uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts tranchants.",
+        "Coutille. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts tranchants, ou 9 (1d10 + 4) dégâts tranchants sous forme de taille M ou P.",
+        "Changement de forme. L'oni se métamorphose magiquement en un humanoïde de taille P ou M, en un géant de taille G, ou bien retrouve sa forme véritable. Mise à part sa taille, ses statistiques restent les mêmes quelle que soit sa forme. La seule partie de son équipement qui est également transformée est sa coutille, qui se rétrécit avec lui et peut donc lui servir sous forme humanoïde. Si l'oni meurt, il retrouve sa forme véritable, et sa coutille retrouve sa taille normale."
+    ],
+    "actions": [
+        "Attaques multiples. L'oni effectue deux attaques, avec ses griffes ou avec sa coutille.",
+        "Griffes (forme d'oni uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d8 + 4) dégâts tranchants.",
+        "Coutille. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts tranchants, ou 9 (1d10 + 4) dégâts tranchants sous forme de taille M ou P.",
+        "Changement de forme. L'oni se métamorphose magiquement en un humanoïde de taille P ou M, en un géant de taille G, ou bien retrouve sa forme véritable. Mise à part sa taille, ses statistiques restent les mêmes quelle que soit sa forme. La seule partie de son équipement qui est également transformée est sa coutille, qui se rétrécit avec lui et peut donc lui servir sous forme humanoïde. Si l'oni meurt, il retrouve sa forme véritable, et sa coutille retrouve sa taille normale."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Feu follet",
+    "prerequisites": "Mort-vivant de taille TP, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/will-o-wisp.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=feu-follet",
+    "stats": [
+        "Classe d'armure",
+        "19",
+        "Points de vie",
+        "22 (9d4)",
+        "Vitesse",
+        "0 m, vol 15 m (stationnaire)",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "28 (+9)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Immunités aux dégâts",
+        "foudre, poison",
+        "Résistances aux dégâts",
+        "acide, feu, froid, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux états",
+        "à terre, épuisement, agrippé, paralysé, empoisonné, entravé, inconscient",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 12",
+        "Langues",
+        "les langues qu'il connaissait de son vivant",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Secousse. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d8) dégâts de foudre.",
+        "Invisibilité. Le feu follet (ainsi que son illumination) devient invisible par magie jusqu'à ce qu'il attaque, utilise son Absorption de vie, ou que sa concentration se termine (comme s'il se concentrait sur un sort)."
+    ],
+    "actions": [
+        "Secousse. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d8) dégâts de foudre.",
+        "Invisibilité. Le feu follet (ainsi que son illumination) devient invisible par magie jusqu'à ce qu'il attaque, utilise son Absorption de vie, ou que sa concentration se termine (comme s'il se concentrait sur un sort)."
+    ],
+    "reactions": []
+}

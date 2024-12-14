@@ -1,0 +1,292 @@
+{
+    "title": "Montures et véhicules",
+    "introduction": "Une bonne monture peut vous aider à traverser plus rapidement une étendue sauvage, mais son but principal est de porter l'équipage qui, autrement, vous ralentirait. La table ci-dessous indique la vitesse de chaque animal et sa capacité de charge nominale. Un animal qui tire un char, un chariot, une charrette, un carrosse ou un traîneau peut transporter un poids allant jusqu'à cinq fois sa capacité de charge nominale, poids du véhicule compris. Si plusieurs animaux tirent un même véhicule, leur capacité de charge s'ajoute.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Montures",
+                "Coût",
+                "Vitesse",
+                "Capacité de charge"
+            ],
+            "rows": [
+                {
+                    "Montures": "Âne ou mule",
+                    "Coût": "8 po",
+                    "Vitesse": "12 m",
+                    "Capacité de charge": "210 kg"
+                },
+                {
+                    "Montures": "Chameau",
+                    "Coût": "50 po",
+                    "Vitesse": "15 m",
+                    "Capacité de charge": "240 kg"
+                },
+                {
+                    "Montures": "Cheval de guerre",
+                    "Coût": "400 po",
+                    "Vitesse": "18 m",
+                    "Capacité de charge": "270 kg"
+                },
+                {
+                    "Montures": "Cheval de selle",
+                    "Coût": "75 po",
+                    "Vitesse": "18 m",
+                    "Capacité de charge": "240 kg"
+                },
+                {
+                    "Montures": "Cheval de trait",
+                    "Coût": "50 po",
+                    "Vitesse": "12 m",
+                    "Capacité de charge": "270 kg"
+                },
+                {
+                    "Montures": "Éléphant",
+                    "Coût": "200 po",
+                    "Vitesse": "12 m",
+                    "Capacité de charge": "660 kg"
+                },
+                {
+                    "Montures": "Molosse",
+                    "Coût": "25 po",
+                    "Vitesse": "12 m",
+                    "Capacité de charge": "95 kg"
+                },
+                {
+                    "Montures": "Poney",
+                    "Coût": "30 po",
+                    "Vitesse": "12 m",
+                    "Capacité de charge": "115 kg"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Équipement et véhicules",
+                "VO",
+                "Coût",
+                "Poids"
+            ],
+            "rows": [
+                {
+                    "Équipement et véhicules": "Barde",
+                    "VO": "Barding",
+                    "Coût": "x4",
+                    "Poids": "x2"
+                },
+                {
+                    "Équipement et véhicules": "Carrosse",
+                    "VO": "Carriage",
+                    "Coût": "100 po",
+                    "Poids": "300 kg"
+                },
+                {
+                    "Équipement et véhicules": "Char",
+                    "VO": "Chariot",
+                    "Coût": "250 po",
+                    "Poids": "50 kg"
+                },
+                {
+                    "Équipement et véhicules": "Chariot",
+                    "VO": "Wagon",
+                    "Coût": "35 po",
+                    "Poids": "200 kg"
+                },
+                {
+                    "Équipement et véhicules": "Charrette",
+                    "VO": "Cart",
+                    "Coût": "15 po",
+                    "Poids": "100 kg"
+                },
+                {
+                    "Équipement et véhicules": "Écurie (par jour)",
+                    "VO": "Stabling",
+                    "Coût": "5 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Équipement et véhicules": "Fontes",
+                    "VO": "Saddlebags",
+                    "Coût": "4 po",
+                    "Poids": "4 kg"
+                },
+                {
+                    "Équipement et véhicules": "Fourrage (par jour)",
+                    "VO": "Feed",
+                    "Coût": "5 pc",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Équipement et véhicules": "Mors et bride",
+                    "VO": "Bit and bridle",
+                    "Coût": "2 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Équipement et véhicules": "Selle",
+                    "VO": "",
+                    "Coût": "",
+                    "Poids": ""
+                },
+                {
+                    "Équipement et véhicules": "D'équitation",
+                    "VO": "Riding",
+                    "Coût": "10 po",
+                    "Poids": "12,5 kg"
+                },
+                {
+                    "Équipement et véhicules": "De bât",
+                    "VO": "Pack",
+                    "Coût": "5 po",
+                    "Poids": "7,5 kg"
+                },
+                {
+                    "Équipement et véhicules": "Exotique",
+                    "VO": "Exotic",
+                    "Coût": "60 po",
+                    "Poids": "20 kg"
+                },
+                {
+                    "Équipement et véhicules": "Militaire",
+                    "VO": "Military",
+                    "Coût": "20 po",
+                    "Poids": "15 kg"
+                },
+                {
+                    "Équipement et véhicules": "Traîneau",
+                    "VO": "Sled",
+                    "Coût": "20 po",
+                    "Poids": "150 kg"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Bateaux",
+                "VO",
+                "Coût",
+                "Vitesse",
+                "Équipage ¹",
+                "Passagers ¹",
+                "Notes"
+            ],
+            "rows": [
+                {
+                    "Bateaux": "Barque",
+                    "VO": "Rowboat",
+                    "Coût": "50 po",
+                    "Vitesse": "2,25 km/h",
+                    "Équipage ¹": "1",
+                    "Passagers ¹": "3",
+                    "Notes": "Rames uniquement"
+                },
+                {
+                    "Bateaux": "Bateau à fond plat",
+                    "VO": "Keelboat",
+                    "Coût": "3 000 po",
+                    "Vitesse": "1,5 km/h",
+                    "Équipage ¹": "1",
+                    "Passagers ¹": "6",
+                    "Notes": "Voiles uniquement"
+                },
+                {
+                    "Bateaux": "Bateau à voiles",
+                    "VO": "Sailing ship",
+                    "Coût": "10 000 po",
+                    "Vitesse": "3 km/h",
+                    "Équipage ¹": "20",
+                    "Passagers ¹": "20",
+                    "Notes": "Voiles uniquement"
+                },
+                {
+                    "Bateaux": "Drakkar",
+                    "VO": "Longship",
+                    "Coût": "10 000 po",
+                    "Vitesse": "4,5 km/h",
+                    "Équipage ¹": "40",
+                    "Passagers ¹": "150",
+                    "Notes": "Rames et voiles"
+                },
+                {
+                    "Bateaux": "Galère",
+                    "VO": "Galley",
+                    "Coût": "30 000 po",
+                    "Vitesse": "6 km/h",
+                    "Équipage ¹": "80",
+                    "Passagers ¹": "-",
+                    "Notes": "Rames et voiles"
+                },
+                {
+                    "Bateaux": "Navire de guerre",
+                    "VO": "Warship",
+                    "Coût": "25 000 po",
+                    "Vitesse": "3,75 km/h",
+                    "Équipage ¹": "60",
+                    "Passagers ¹": "60",
+                    "Notes": "Rames et voiles"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Coût",
+                "Biens"
+            ],
+            "rows": [
+                {
+                    "Coût": "1 pc",
+                    "Biens": "500 g de blé"
+                },
+                {
+                    "Coût": "2 pc",
+                    "Biens": "500 g de farine ou 1 poulet"
+                },
+                {
+                    "Coût": "5 pc",
+                    "Biens": "500 g de sel"
+                },
+                {
+                    "Coût": "1 pa",
+                    "Biens": "500 g de fer ou 1 m² de toile"
+                },
+                {
+                    "Coût": "5 pa",
+                    "Biens": "500 g de cuivre ou 1 m² de tissu en coton"
+                },
+                {
+                    "Coût": "1 po",
+                    "Biens": "500 g de gingembre ou 1 chèvre"
+                },
+                {
+                    "Coût": "2 po",
+                    "Biens": "500 g de cannelle ou de poivre, ou 1 mouton"
+                },
+                {
+                    "Coût": "3 po",
+                    "Biens": "500 g de clous de girofle ou 1 cochon"
+                },
+                {
+                    "Coût": "5 po",
+                    "Biens": "500 g d'argent ou 1 m² de lin"
+                },
+                {
+                    "Coût": "10 po",
+                    "Biens": "1 m² de soie ou 1 vache"
+                },
+                {
+                    "Coût": "15 po",
+                    "Biens": "500 g de safran ou 1 boeuf"
+                },
+                {
+                    "Coût": "50 po",
+                    "Biens": "500 g d'or"
+                },
+                {
+                    "Coût": "500 po",
+                    "Biens": "500 g de platine"
+                }
+            ]
+        }
+    ]
+}

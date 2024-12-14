@@ -1,0 +1,51 @@
+{
+    "title": "Chuul",
+    "prerequisites": "Aberration de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/chuul.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chuul",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "93 (11d10 + 33)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Perception +4",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "comprend le profond mais ne peut pas parler",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le chuul effectue deux attaques de pinces. Si le chuul agrippe une créature, il peut également utiliser une fois ses tentacules.",
+        "Pinces. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants. La cible est agrippée (évasion DD 14) si elle est de taille G ou plus petite et que le chuul n'a pas déjà agrippé plus d'une autre créature.",
+        "Tentacules. Une créature agrippée par le chuul doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonnée pour 1 minute. Tant que le poison est actif, la cible est paralysée. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le chuul effectue deux attaques de pinces. Si le chuul agrippe une créature, il peut également utiliser une fois ses tentacules.",
+        "Pinces. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants. La cible est agrippée (évasion DD 14) si elle est de taille G ou plus petite et que le chuul n'a pas déjà agrippé plus d'une autre créature.",
+        "Tentacules. Une créature agrippée par le chuul doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonnée pour 1 minute. Tant que le poison est actif, la cible est paralysée. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

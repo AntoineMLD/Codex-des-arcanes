@@ -1,0 +1,47 @@
+{
+    "title": "Flumph",
+    "prerequisites": "Aberration de taille P, loyal bon",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/flumph.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=flumph",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "7 (2d6)",
+        "Vitesse",
+        "1,50 m, vol 9 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Arcanes +4, Histoire +4, Religion +4",
+        "Vulnérabilités aux dégâts",
+        "psychique",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "comprend le commun des profondeurs mais ne peut pas parler, télépathie 18 m",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Vrilles. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants + 2 (1d4) dégâts d'acide. À la fin de chacun de ses tours, la cible doit effectuer un jet de sauvegarde de Constitution DD 10, subissant 2 (1d4) dégâts d'acide en cas d'échec ou mettant fin aux dégâts d'acide récurrents en cas de réussite. Un sort de restauration partielle lancé sur la cible met également fin aux dégâts d'acide récurrents.",
+        "Vaporisation nauséabonde (1/jour). Chaque créature se trouvant dans un cône de 4,50 mètres provenant du flumph doit réussir un jet de sauvegarde de Dextérité DD 10 ou être recouverte d'un liquide puant. Une créature recouverte de ce liquide dégage une odeur horrible pendant 1d4 heures. De plus, elle est empoisonnée jusqu'à ce que l'odeur disparaisse, et les autres créatures sont empoisonnées tant qu'elles se trouvent à 1,50 mètre ou moins de la créature recouverte de liquide. Une créature peut se débarrasser de l'odeur qui l'affecte en utilisant un repos court pour se nettoyer avec de l'eau, de l'alcool, ou du vinaigre."
+    ],
+    "actions": [
+        "Vrilles. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants + 2 (1d4) dégâts d'acide. À la fin de chacun de ses tours, la cible doit effectuer un jet de sauvegarde de Constitution DD 10, subissant 2 (1d4) dégâts d'acide en cas d'échec ou mettant fin aux dégâts d'acide récurrents en cas de réussite. Un sort de restauration partielle lancé sur la cible met également fin aux dégâts d'acide récurrents.",
+        "Vaporisation nauséabonde (1/jour). Chaque créature se trouvant dans un cône de 4,50 mètres provenant du flumph doit réussir un jet de sauvegarde de Dextérité DD 10 ou être recouverte d'un liquide puant. Une créature recouverte de ce liquide dégage une odeur horrible pendant 1d4 heures. De plus, elle est empoisonnée jusqu'à ce que l'odeur disparaisse, et les autres créatures sont empoisonnées tant qu'elles se trouvent à 1,50 mètre ou moins de la créature recouverte de liquide. Une créature peut se débarrasser de l'odeur qui l'affecte en utilisant un repos court pour se nettoyer avec de l'eau, de l'alcool, ou du vinaigre."
+    ],
+    "reactions": []
+}

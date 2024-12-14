@@ -1,0 +1,41 @@
+{
+    "title": "Cheval de trait",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cheval-de-trait",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "19 (3d10 + 3)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d4 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Sabots. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d4 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

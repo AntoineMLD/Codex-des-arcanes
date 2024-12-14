@@ -1,0 +1,51 @@
+{
+    "title": "Ours-garou",
+    "prerequisites": "Humanoïde (humain, métamorphe) de taille M, neutre bon",
+    "description": "Un sort de délivrance des malédictions peut libérer une créature affligée de lycanthropie, mais un lycanthrope naturel ne peut être libéré de sa malédiction qu'avec un souhait.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wereBear.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ours-garou",
+    "stats": [
+        "Classe d'armure",
+        "10 sous forme humanoïde, 11 (armure naturelle) sous forme d'ours et sous forme hybride.",
+        "Points de vie",
+        "135 (18d8 + 54)",
+        "Vitesse",
+        "9 m (12 m, escalade 9 m sous forme hybride et sous forme d'ours)",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Perception +7",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Sens",
+        "Perception passive 17",
+        "Langues",
+        "commun (ne peut pas parler sous forme d'ours)",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Sous forme d'ours, l'ours garou effectue deux attaques avec ses griffes. Sous forme humanoïde, il effectue deux attaques avec la hache à deux mains. Sous forme hybride, il peut attaquer comme un ours ou comme un humanoïde.",
+        "Morsure (forme d'ours ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 ou être atteinte de la lycanthropie d'ours-garou.",
+        "Griffes (forme d'ours ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Hache à deux mains (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Sous forme d'ours, l'ours garou effectue deux attaques avec ses griffes. Sous forme humanoïde, il effectue deux attaques avec la hache à deux mains. Sous forme hybride, il peut attaquer comme un ours ou comme un humanoïde.",
+        "Morsure (forme d'ours ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 ou être atteinte de la lycanthropie d'ours-garou.",
+        "Griffes (forme d'ours ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Hache à deux mains (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts tranchants."
+    ],
+    "reactions": []
+}

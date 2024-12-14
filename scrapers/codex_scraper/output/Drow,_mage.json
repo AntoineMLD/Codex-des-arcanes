@@ -1,0 +1,47 @@
+{
+    "title": "Drow, mage",
+    "prerequisites": "Humanoïde (elfe) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/drow-mage.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=drow-mage",
+    "stats": [
+        "Classe d'armure",
+        "12 (15 avec",
+        "armure de mage",
+        ")",
+        "Points de vie",
+        "45 (10d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "9 (-1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "17 (+3)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Arcanes +6, Discrétion +5, Perception +4, Tromperie +5",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 14",
+        "Langues",
+        "elfique, commun des profondeurs",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Bâton. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts contondants, ou 3 (1d8 - 1) dégâts contondants si utilisé à deux mains, plus 3 (1d6) dégâts de poison.",
+        "Invocation de démon (1/jour). Le drow peut magiquement invoquer un quasit, ou tenter d'invoquer un démon d'ombre avec 50 % de chance de réussite. Le démon invoqué apparaît dans un espace inoccupé dans un rayon de 18 mètres autour de son invocateur, il agit comme un allié de l'invocateur, et ne peut pas invoquer à son tour des démons. Le démon reste présent 10 minutes, jusqu'à ce que lui ou son invocateur meure, ou jusqu'à ce que l'invocateur le renvoie en utilisant une action."
+    ],
+    "actions": [
+        "Bâton. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts contondants, ou 3 (1d8 - 1) dégâts contondants si utilisé à deux mains, plus 3 (1d6) dégâts de poison.",
+        "Invocation de démon (1/jour). Le drow peut magiquement invoquer un quasit, ou tenter d'invoquer un démon d'ombre avec 50 % de chance de réussite. Le démon invoqué apparaît dans un espace inoccupé dans un rayon de 18 mètres autour de son invocateur, il agit comme un allié de l'invocateur, et ne peut pas invoquer à son tour des démons. Le démon reste présent 10 minutes, jusqu'à ce que lui ou son invocateur meure, ou jusqu'à ce que l'invocateur le renvoie en utilisant une action."
+    ],
+    "reactions": []
+}

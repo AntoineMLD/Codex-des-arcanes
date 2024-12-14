@@ -1,0 +1,47 @@
+{
+    "title": "Lémure",
+    "prerequisites": "Fiélon (diable) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/lemure.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=lemure",
+    "stats": [
+        "Classe d'armure",
+        "7",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "4,50 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "5 (-3)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Résistances aux dégâts",
+        "froid",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "charmé, effrayé, empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "comprend l'infernal mais ne peut pas parler",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Poing. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants."
+    ],
+    "actions": [
+        "Poing. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants."
+    ],
+    "reactions": []
+}

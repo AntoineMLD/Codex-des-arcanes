@@ -1,0 +1,55 @@
+{
+    "title": "Chevalier de la mort",
+    "prerequisites": "Mort-vivant de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/death-knight.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chevalier-de-la-mort",
+    "stats": [
+        "Classe d'armure",
+        "20 (harnois, bouclier)",
+        "Points de vie",
+        "180 (19d8 + 95)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "18 (+4)",
+        "Jets de sauvegarde",
+        "Dex +6, Sag +9, Cha +10",
+        "Immunités aux dégâts",
+        "nécrotique, poison",
+        "Immunités aux états",
+        "effrayé, épuisement, empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 13",
+        "Langues",
+        "abyssal, commun",
+        "Puissance",
+        "17 (18000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le chevalier de la mort effectue trois attaques avec son épée longue.",
+        "Épée longue. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts tranchants, ou 10 (1d10 + 5) dégâts tranchants si utilisée à deux mains, plus 18 (4d8) dégâts nécrotiques.",
+        "Orbe de feu infernal (1/jour). Le chevalier de la mort projette une boule de feu magique qui explose en un point qu'il peut voir situé dans un rayon de 36 mètres autour de lui. Chaque créature dans un rayon de 6 mètres autour du point d'impact doit lancer un jet de sauvegarde de Dextérité DD 18. La sphère se propage au-delà des coins. Une créature subit 35 (10d6) dégâts de feu et 35 (10d6) dégâts nécrotiques si le jet de sauvegarde est raté, ou la moitié en cas de réussite.",
+        "Parade. Le chevalier de la mort ajoute 6 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples. Le chevalier de la mort effectue trois attaques avec son épée longue.",
+        "Épée longue. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts tranchants, ou 10 (1d10 + 5) dégâts tranchants si utilisée à deux mains, plus 18 (4d8) dégâts nécrotiques.",
+        "Orbe de feu infernal (1/jour). Le chevalier de la mort projette une boule de feu magique qui explose en un point qu'il peut voir situé dans un rayon de 36 mètres autour de lui. Chaque créature dans un rayon de 6 mètres autour du point d'impact doit lancer un jet de sauvegarde de Dextérité DD 18. La sphère se propage au-delà des coins. Une créature subit 35 (10d6) dégâts de feu et 35 (10d6) dégâts nécrotiques si le jet de sauvegarde est raté, ou la moitié en cas de réussite.",
+        "Parade. Le chevalier de la mort ajoute 6 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. Le chevalier de la mort ajoute 6 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

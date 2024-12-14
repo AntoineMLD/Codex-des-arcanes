@@ -1,0 +1,51 @@
+{
+    "title": "Yuan-ti, sang-pur",
+    "prerequisites": "Humanoïde (yuan-ti) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/yuan-ti-pureblood.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=yuan-ti-sang-pur",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "40 (9d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Discrétion +3, Perception +3, Tromperie +6",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "abyssal, commun, draconique",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le yuan-ti effectue deux attaques au corps à corps.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts tranchants.",
+        "Arc court. Attaque à distance avec une arme : +3 au toucher, portée 24/96 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants + 7 (2d6) dégâts de poison."
+    ],
+    "actions": [
+        "Attaques multiples. Le yuan-ti effectue deux attaques au corps à corps.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts tranchants.",
+        "Arc court. Attaque à distance avec une arme : +3 au toucher, portée 24/96 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants + 7 (2d6) dégâts de poison."
+    ],
+    "reactions": []
+}

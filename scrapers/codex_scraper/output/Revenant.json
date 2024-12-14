@@ -1,0 +1,53 @@
+{
+    "title": "Revenant",
+    "prerequisites": "Mort-vivant de taille M, neutre",
+    "description": "Un revenant est le fruit de l'âme d'un individu qui a connu un destin cruel qu'il ne méritait pas et qui revient au monde dans son cadavre pour se venger de celui qui en est responsable.",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=revenant",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure de cuir)",
+        "Points de vie",
+        "136 (16d8 + 64)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "18 (+4)",
+        "Jets de sauvegarde",
+        "For +7, Con +7, Sag +6, Cha +7",
+        "Résistances aux dégâts",
+        "nécrotique, psychique",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, effrayé, paralysé, empoisonné, étourdi",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "les langues qu'il connaissait de son vivant",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le revenant effectue deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants. Si la cible est une créature contre laquelle le revenant a juré vengeance, la cible subit 14 (4d6) dégâts contondants supplémentaires. Plutôt que d'infliger des dégâts, le revenant peut agripper la cible (évasion DD 14) à condition que la cible soit de taille G ou inférieure.",
+        "Éblouissement vengeur. Le revenant cible une créature qu'il peut voir et se trouvant à 9 mètres ou moins de lui et contre laquelle il a juré vengeance. La cible doit effectuer un jet de sauvegarde de Sagesse DD 15. En cas d'échec, la cible est paralysée jusqu'à ce que le revenant lui inflige des dégâts, ou jusqu'à la fin du prochain tour du revenant. Lorsque la paralysie se termine, la cible est effrayée par le revenant pendant 1 minute. La cible effrayée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si elle peut voir le revenant, mettant fin à cet état en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le revenant effectue deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants. Si la cible est une créature contre laquelle le revenant a juré vengeance, la cible subit 14 (4d6) dégâts contondants supplémentaires. Plutôt que d'infliger des dégâts, le revenant peut agripper la cible (évasion DD 14) à condition que la cible soit de taille G ou inférieure.",
+        "Éblouissement vengeur. Le revenant cible une créature qu'il peut voir et se trouvant à 9 mètres ou moins de lui et contre laquelle il a juré vengeance. La cible doit effectuer un jet de sauvegarde de Sagesse DD 15. En cas d'échec, la cible est paralysée jusqu'à ce que le revenant lui inflige des dégâts, ou jusqu'à la fin du prochain tour du revenant. Lorsque la paralysie se termine, la cible est effrayée par le revenant pendant 1 minute. La cible effrayée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, avec un désavantage si elle peut voir le revenant, mettant fin à cet état en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Diable à chaînes",
+    "prerequisites": "Fiélon (diable) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/chain-devil.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=diable-a-chaines",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "85 (10d8 + 40)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Jets de sauvegarde",
+        "Con +7, Sag +4, Cha +5",
+        "Résistances aux dégâts",
+        "froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "infernal, télépathie 36 m",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le diable effectue deux attaques avec ses chaînes.",
+        "Chaine. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants. La cible se retrouve agrippée (évasion DD 14) si le diable n'a pas déjà agrippé une créature. Tant qu'elle est agrippée, la cible est entravée et subit 7 (2d6) dégâts perforants au début de chacun de ses tours.",
+        "Animation des chaînes (Recharge après un repos court ou long). Le diable peut faire éclore des barbelées coupant sur 1 à 4 chaines qu'il voit et situées dans un rayon de 18 mètres autour de lui, les animant et les contrôlant, à condition qu'elles ne soient ni portées ni transportées par quelqu'un. Chaque chaine animée est un objet ayant une CA de 20, 20 pv, une résistance aux dégâts perforants et l'immunité aux dégâts psychiques et de tonnerre. Lorsque le diable utilise ses Attaques multiples durant son tour, il peut utiliser chaque chaîne animée pour faire une attaque supplémentaire. Une chaine animée peut agripper une créature de son choix, mais ne peut plus attaquer tant qu'elle agrippe. Une chaîne animée redevient inanimée si ses points de vie tombent à zéro ou si le diable est incapable d'agir ou meurt.",
+        "Masque déstabilisant. Quand une créature débute son tour à 9 mètres ou moins du diable et que celui-ci peut la voir, le diable peut donner l'illusion d'être un être décédé, qui était très aimé ou détesté par cette créature. Si la créature peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 ou être effrayée jusqu'à la fin de son tour."
+    ],
+    "actions": [
+        "Attaques multiples. Le diable effectue deux attaques avec ses chaînes.",
+        "Chaine. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants. La cible se retrouve agrippée (évasion DD 14) si le diable n'a pas déjà agrippé une créature. Tant qu'elle est agrippée, la cible est entravée et subit 7 (2d6) dégâts perforants au début de chacun de ses tours.",
+        "Animation des chaînes (Recharge après un repos court ou long). Le diable peut faire éclore des barbelées coupant sur 1 à 4 chaines qu'il voit et situées dans un rayon de 18 mètres autour de lui, les animant et les contrôlant, à condition qu'elles ne soient ni portées ni transportées par quelqu'un. Chaque chaine animée est un objet ayant une CA de 20, 20 pv, une résistance aux dégâts perforants et l'immunité aux dégâts psychiques et de tonnerre. Lorsque le diable utilise ses Attaques multiples durant son tour, il peut utiliser chaque chaîne animée pour faire une attaque supplémentaire. Une chaine animée peut agripper une créature de son choix, mais ne peut plus attaquer tant qu'elle agrippe. Une chaîne animée redevient inanimée si ses points de vie tombent à zéro ou si le diable est incapable d'agir ou meurt.",
+        "Masque déstabilisant. Quand une créature débute son tour à 9 mètres ou moins du diable et que celui-ci peut la voir, le diable peut donner l'illusion d'être un être décédé, qui était très aimé ou détesté par cette créature. Si la créature peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 ou être effrayée jusqu'à la fin de son tour."
+    ],
+    "reactions": [
+        "Masque déstabilisant. Quand une créature débute son tour à 9 mètres ou moins du diable et que celui-ci peut la voir, le diable peut donner l'illusion d'être un être décédé, qui était très aimé ou détesté par cette créature. Si la créature peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 ou être effrayée jusqu'à la fin de son tour."
+    ]
+}

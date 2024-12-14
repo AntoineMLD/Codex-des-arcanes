@@ -1,0 +1,260 @@
+{
+    "title": "Créer une rencontre de combat",
+    "introduction": "Lorsque vous créez une rencontre de combat, laissez courir votre imagination et construisez quelque chose que vos joueurs apprécieront. Une fois que vous aurez défini les détails, utilisez cette section pour ajuster la difficulté de la rencontre.",
+    "sections": [
+        {
+            "title": "Modifier la difficulté d'une rencontre",
+            "content": "Une rencontre peut être plus facile ou plus difficile suivant l'endroit où elle a lieu et la situation. Augmentez la difficulté de la rencontre d'un cran (de facile à moyenne, par exemple) si les personnages ont un handicape que leurs ennemis n'ont pas. Réduire la difficulté d'un cran si les personnages ont un avantage que leurs ennemis n'ont pas. Toute avantage ou handicape supplémentaire pousse la rencontre d'un cran dans la direction appropriée. Si les personnages ont à la fois un avantage et un handicape, les deux s'annulent. L'ensemble du groupe est surpris,mais l'ennemi ne l'est pas. L'ennemi est à couvert, mais le groupe ne l'est pas. Les personnages sont incapables de voir l'ennemi. Les personnages prennent des dégâts à chaque round à cause d'un effet environnemental ou d'une source magique, mais pas l'ennemi. Les personnages sont suspendus à une corde, au milieu de l’ascension d'un mur ou d'une falaise, cloués sur place, ou toute autre situation qui entrave considérablement leur mobilité et en fait des cibles faciles."
+        },
+        {
+            "title": "Rencontres de combat sympas",
+            "content": "Les exemples suivants peuvent ajouter plus de plaisir et de suspense à une rencontre de combat : Des éléments de terrain qui ajoutent des risques inhérents à la fois aux personnages et à leurs ennemis, comme un pont de corde effilochée ou une mare de boue verte. Des éléments de terrain qui offrent un changement d'élévation, comme un puits, des piles de caisses vides, une corniche ou un balcon. Des éléments qui permettent ou forcent les personnages et leurs ennemis à se déplacer, comme des lustres, des barils de poudre ou d'huile, ou un piège à lames tourbillonantes. Des ennemis situés dans des endroits difficiles à atteindre ou dans des positions défensives, de sorte que les personnages qui attaquent normalement à distance soient obligés de se déplacer sur le champ de bataille. Différents types de monstres qui travaillent ensemble."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Niveau",
+                "Facile",
+                "Moyenne",
+                "Difficile",
+                "Mortelle"
+            ],
+            "rows": [
+                {
+                    "Niveau": "1",
+                    "Facile": "25",
+                    "Moyenne": "50",
+                    "Difficile": "75",
+                    "Mortelle": "100"
+                },
+                {
+                    "Niveau": "2",
+                    "Facile": "50",
+                    "Moyenne": "100",
+                    "Difficile": "150",
+                    "Mortelle": "200"
+                },
+                {
+                    "Niveau": "3",
+                    "Facile": "75",
+                    "Moyenne": "150",
+                    "Difficile": "225",
+                    "Mortelle": "400"
+                },
+                {
+                    "Niveau": "4",
+                    "Facile": "125",
+                    "Moyenne": "250",
+                    "Difficile": "375",
+                    "Mortelle": "500"
+                },
+                {
+                    "Niveau": "5",
+                    "Facile": "250",
+                    "Moyenne": "500",
+                    "Difficile": "750",
+                    "Mortelle": "1 100"
+                },
+                {
+                    "Niveau": "6",
+                    "Facile": "300",
+                    "Moyenne": "600",
+                    "Difficile": "900",
+                    "Mortelle": "1 400"
+                },
+                {
+                    "Niveau": "7",
+                    "Facile": "350",
+                    "Moyenne": "750",
+                    "Difficile": "1 100",
+                    "Mortelle": "1 700"
+                },
+                {
+                    "Niveau": "8",
+                    "Facile": "450",
+                    "Moyenne": "900",
+                    "Difficile": "1 400",
+                    "Mortelle": "2 100"
+                },
+                {
+                    "Niveau": "9",
+                    "Facile": "550",
+                    "Moyenne": "1 100",
+                    "Difficile": "1 600",
+                    "Mortelle": "2 400"
+                },
+                {
+                    "Niveau": "10",
+                    "Facile": "600",
+                    "Moyenne": "1 200",
+                    "Difficile": "1 900",
+                    "Mortelle": "2 800"
+                },
+                {
+                    "Niveau": "11",
+                    "Facile": "800",
+                    "Moyenne": "1 600",
+                    "Difficile": "2 400",
+                    "Mortelle": "3 600"
+                },
+                {
+                    "Niveau": "12",
+                    "Facile": "1 000",
+                    "Moyenne": "2 000",
+                    "Difficile": "3 000",
+                    "Mortelle": "4 500"
+                },
+                {
+                    "Niveau": "13",
+                    "Facile": "1 100",
+                    "Moyenne": "2 200",
+                    "Difficile": "3 400",
+                    "Mortelle": "5 100"
+                },
+                {
+                    "Niveau": "14",
+                    "Facile": "1 250",
+                    "Moyenne": "2 500",
+                    "Difficile": "3 800",
+                    "Mortelle": "5 700"
+                },
+                {
+                    "Niveau": "15",
+                    "Facile": "1 400",
+                    "Moyenne": "2 800",
+                    "Difficile": "4 300",
+                    "Mortelle": "6 400"
+                },
+                {
+                    "Niveau": "16",
+                    "Facile": "1 600",
+                    "Moyenne": "3 200",
+                    "Difficile": "4 800",
+                    "Mortelle": "7 200"
+                },
+                {
+                    "Niveau": "17",
+                    "Facile": "2 000",
+                    "Moyenne": "3 900",
+                    "Difficile": "5 900",
+                    "Mortelle": "8 800"
+                },
+                {
+                    "Niveau": "18",
+                    "Facile": "2 100",
+                    "Moyenne": "4 200",
+                    "Difficile": "6 300",
+                    "Mortelle": "9 500"
+                },
+                {
+                    "Niveau": "19",
+                    "Facile": "2 400",
+                    "Moyenne": "4 900",
+                    "Difficile": "7 300",
+                    "Mortelle": "10 900"
+                },
+                {
+                    "Niveau": "20",
+                    "Facile": "2 800",
+                    "Moyenne": "5 700",
+                    "Difficile": "8 500",
+                    "Mortelle": "12 700"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Nombre demonstres",
+                "Multiplicateur"
+            ],
+            "rows": [
+                {
+                    "Nombre demonstres": "1",
+                    "Multiplicateur": "x 1"
+                },
+                {
+                    "Nombre demonstres": "2",
+                    "Multiplicateur": "x 1,5"
+                },
+                {
+                    "Nombre demonstres": "3-6",
+                    "Multiplicateur": "x 2"
+                },
+                {
+                    "Nombre demonstres": "7-10",
+                    "Multiplicateur": "x 2,5"
+                },
+                {
+                    "Nombre demonstres": "11-14",
+                    "Multiplicateur": "x 3"
+                },
+                {
+                    "Nombre demonstres": "15 ou plus",
+                    "Multiplicateur": "x 4"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau",
+                "PXpar jourpar PJ",
+                "",
+                "Niveau",
+                "PXpar jourpar PJ"
+            ],
+            "rows": [
+                {
+                    "Niveau": "11",
+                    "PXpar jourpar PJ": "10 500",
+                    "": ""
+                },
+                {
+                    "Niveau": "12",
+                    "PXpar jourpar PJ": "11 500",
+                    "": ""
+                },
+                {
+                    "Niveau": "13",
+                    "PXpar jourpar PJ": "13 500",
+                    "": ""
+                },
+                {
+                    "Niveau": "14",
+                    "PXpar jourpar PJ": "15 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "15",
+                    "PXpar jourpar PJ": "18 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "16",
+                    "PXpar jourpar PJ": "20 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "17",
+                    "PXpar jourpar PJ": "25 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "18",
+                    "PXpar jourpar PJ": "27 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "19",
+                    "PXpar jourpar PJ": "30 000",
+                    "": ""
+                },
+                {
+                    "Niveau": "20",
+                    "PXpar jourpar PJ": "40 000",
+                    "": ""
+                }
+            ]
+        }
+    ]
+}

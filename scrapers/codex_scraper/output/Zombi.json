@@ -1,0 +1,47 @@
+{
+    "title": "Zombi",
+    "prerequisites": "Mort-vivant de taille M, neutre mauvais",
+    "description": "Un zombi est le résultat obéissant d'une magie nécromantique lancée dans le but de réanimer un cadavre le plus souvent humanoïde. Parfois un zombi se relève aussi tout seul s'il se trouve dans un lieu fortement imprégné d'une aura de mort ou d'énergie nécromantique. Les zombis se déplacent d'une démarche saccadée et inégale, vêtus des habits maintenant moisis qu'ils portaient lors de leur mort. Ils sécrètent une puanteur nauséabonde.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/zombie.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=zombi",
+    "stats": [
+        "Classe d'armure",
+        "8",
+        "Points de vie",
+        "22 (3d8 + 9)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "6 (-2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "5 (-3)",
+        "Jets de sauvegarde",
+        "Sag +0",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "comprend les langues qu'il connaissait de son vivant mais ne peut pas parler",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Coup. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants."
+    ],
+    "actions": [
+        "Coup. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants."
+    ],
+    "reactions": []
+}

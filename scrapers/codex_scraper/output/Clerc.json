@@ -1,0 +1,860 @@
+{
+    "title": "Clerc",
+    "introduction": "Les bras et les yeux levés en direction du soleil, une prière sur les lèvres, un elfe commence à briller d'une lumière intérieure qui s'en va guérir ses compagnons usés par le combat. Chantant une chanson de gloire, un nain fait osciller sa hache en de larges mouvements circulaires afin de couper les rangs orcs face à lui, criant des louanges aux dieux à chaque ennemi qui tombe. Jetant une malédiction sur les morts-vivants qui s'avancent, un humain brandit son symbole sacré alors qu'une lumière se libère de celui-ci pour repousser les zombis qui se pressaient sur ses compagnons.",
+    "sections": [
+        {
+            "title": "Guérisseurs et combattants",
+            "content": "La magie divine, comme son nom le suggère, est le pouvoir des dieux, coulant d'eux dans le monde. Les clercs sont des conduits pour ce pouvoir qui se manifeste tels des effets miraculeux. Les dieux n'accordent pas ce pouvoir à tous ceux qui le cherchent, mais seulement à ceux choisis pour accomplir cette haute mission. L'utilisation de la magie divine ne repose pas sur l'étude ou la formation. Un clerc pourrait apprendre des prières conventionnelles et des rites antiques, mais la capacité de lancer des sorts des clercs repose sur la dévotion et un sens intuitif de la volonté divine. Les clercs combinent la magie utile de guérison et d'inspiration de leurs alliés avec des sorts néfastes ou gênants pour les adversaires. Ils peuvent provoquer la crainte et l'effroi, invoquer les malédictions de peste ou de poison et même faire s'abattre des flammes célestes pour consumer leurs ennemis. Pour les scélérats qui seront plus sensibles à un coup de masse en pleine tête, les clercs utiliseront leur entrainement au combat pour avancer dans la mêlée avec le pouvoir des dieux à leurs côtés. (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Agents divins",
+            "content": "Tous les acolytes ou officiants des temples ou des lieux saints ne sont pas clercs. Quelques-uns sont appelés à une vie simple au service de leur temple, suivant la volonté de leurs dieux par la prière et le sacrifice, et non par la magie et la force des armes. Dans quelques villes, le sacerdoce conduit aux fonctions politiques, comme un tremplin pour atteindre les plus hautes fonctions d'autorité et n'impliquent aucune communion avec aucun dieu. Les vrais clercs sont rares dans la plupart des hiérarchies. Quand un clerc choisit une vie d'aventurier, c'est habituellement parce que son dieu l'exige. La poursuite des buts des dieux implique souvent de braver des dangers au-delà des limites de la civilisation, de frapper le mal ou de rechercher des reliques saintes dans des tombeaux antiques. On attend aussi de beaucoup de clercs qu'ils protègent les adorateurs de leurs dieux, ce qui peut impliquer de combattre des orcs déchaînés, négocier la paix entre des nations en guerre, ou sceller un portail qui permettrait à un prince démon d'entrer dans le monde. La plupart des clercs aventuriers maintiennent quelques rapports avec les temples établis et les ordres de leurs fois. Un temple pourrait demander l'aide d'un clerc, ou un grand prêtre pourrait être en position de l'exiger. (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Créer un clerc",
+            "content": "Lorsque vous créez un clerc, la question la plus importante à considérer est quelle divinité servir et quels sont les principes que vous voulez que votre personnage incarne. Vérifiez auprès de votre MD quels sont les dieux permis dans votre campagne. Une fois que vous avez choisi une divinité, pensez à la relation entre votre clerc et ce dieu. Êtes-vous entré à son service volontairement ? Ou bien est-ce le dieu qui vous a choisi, vous poussant à son service sans prendre en compte vos souhaits ? Comment les prêtres du temple de votre foi vous considèrent-ils : comme un champion ou comme un fauteur de troubles ? Quels sont vos objectifs ? Est-ce que votre divinité a en tête une tâche spéciale pour vous ? Ou vous efforcez-vous de prouver que vous êtes digne d'une grande quête ? (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Création rapide",
+            "content": "Vous pouvez concevoir rapidement un clerc en suivant ces quelques suggestions. En premier lieu, la Sagesse devrait être votre plus haute valeur de caractéristique, suivie par la Force ou la Constitution. Ensuite, choisissez l'historique acolyte . (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Capacités de classe",
+            "content": "DV : 1d8 par niveau de clerc pv au niveau 1 : 8 + votre modificateur de Constitution pv aux niveaux suivants : 1d8 (ou 5) + votre modificateur de Constitution (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Points de vie",
+            "content": "DV : 1d8 par niveau de clerc pv au niveau 1 : 8 + votre modificateur de Constitution pv aux niveaux suivants : 1d8 (ou 5) + votre modificateur de Constitution (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Armures : armures légères et intermédiaires, boucliers Armes : armes courantes Outils : aucun Jets de sauvegarde : Sagesse, Charisme Compétences : choisissez deux compétences parmi Histoire, Intuition, Médecine, Persuasion et Religion (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Équipement",
+            "content": "Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique : (a) une masse d'armes ou (b) un marteau de guerre (si vous le maîtrisez) (a) une armure d'écailles ou (b) une armure de cuir ou (c) une cotte de mailles (si vous la maîtrisez) (a) une arbalète légère et 20 carreaux ou (b) une arme courante (a) un sac d'ecclésiastique ou (b) un sac d'explorateur un bouclier et un symbole sacré"
+        },
+        {
+            "title": "Incantation",
+            "content": "En tant que conduit de la puissance divine, vous pouvez lancer des sorts de clerc. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts mineurs",
+            "content": "Au niveau 1, vous connaissez trois sorts mineurs de clerc de votre choix. Vous apprendrez des sorts mineurs supplémentaires de votre choix aux niveaux supérieurs, comme indiqué dans la colonne Sorts mineurs connus de la table ci-dessus. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Préparer et lancer des sorts",
+            "content": "La table du clerc montre combien d'emplacements de sorts vous avez pour lancer vos sorts de clerc de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Caractéristique d'incantation",
+            "content": "La Sagesse est votre caractéristique d'incantation pour vos sorts de clerc. La puissance de vos sorts vient de votre dévotion à votre dieu. Vous utilisez votre Sagesse chaque fois qu'un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur de Sagesse pour définir le DD du jet de sauvegarde d'un sort de clerc que vous lancez ainsi que pour le jet d'attaque de celui-ci. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Rituel",
+            "content": "Vous pouvez lancer un sort de clerc en tant que rituel si ce sort possède l'étiquette rituel et si vous avez préparé le sort. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Focaliseur d'incantation",
+            "content": "Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de clerc. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine divin",
+            "content": "Choisissez un domaine lié à votre divinité : duperie, guerre, lumière, nature, savoir, tempête ou vie. Votre choix vous accorde des sorts de domaine et des capacités spéciales dès le niveau 1, puis de nouvelles aux niveaux 6, 8 et 17. Il vous octroie également des manières supplémentaires pour utiliser le Conduit divin du niveau 2. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Chaque domaine possède une liste de sorts, les sorts de domaine, que vous gagnez au niveau de clerc indiqué dans la description du domaine. Une fois que vous gagnez un sort de domaine, il est toujours préparé, et ne compte pas dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous gagnez un sort de domaine qui ne figure pas sur la liste de sorts de clerc, le sort est néanmoins un sort de clerc pour vous. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin",
+            "content": "Au niveau 2, vous gagnez la possibilité de canaliser l'énergie divine directement depuis votre divinité et d'utiliser cette énergie pour alimenter des effets magiques. Vous commencez avec deux effets : Renvoi des morts-vivants et un effet déterminé par votre domaine. Certains domaines vous accordent des effets supplémentaires lorsque vous montez de niveau, comme indiqué dans la description du domaine. Lorsque vous utilisez votre Conduit divin, vous choisissez quel effet créer. Vous devez ensuite terminer un repos court ou long pour pouvoir utiliser votre Conduit divin de nouveau. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : renvoi des morts-vivants",
+            "content": "Au prix d'une action, vous présentez votre symbole sacré en psalmodiant une prière contre les morts-vivants. Chaque mort-vivant qui peut vous voir ou vous entendre et qui se trouve à 9 mètres ou moins de vous doit effectuer un jet de sauvegarde de Sagesse. Si la créature rate son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Destruction des morts-vivants",
+            "content": "À partir du niveau 5, quand un mort-vivant rate son jet de sauvegarde contre votre capacité de Renvoi des morts-vivants, la créature est immédiatement détruite si son FP est égal ou inférieur à un certain seuil, comme indiqué dans le tableau ci-dessous. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Intervention divine",
+            "content": "À partir du niveau 10, vous pouvez faire appel à votre divinité pour qu'elle intervienne en cas de besoin réel. Implorer l'aide de votre divinité vous oblige à utiliser votre action. Décrivez l'aide que vous recherchez, et lancez 1d100. Si vous obtenez un nombre égal ou inférieur à votre niveau de clerc, votre divinité intervient. Le MD choisit la nature de l'intervention ; l'effet d'un sort de clerc ou d'un sort de domaine est approprié. Si votre divinité intervient, vous ne pouvez plus utiliser cette capacité durant les 7 prochains jours. Dans le cas contraire, vous pouvez l'utiliser à nouveau après avoir terminé un repos long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaines divins",
+            "content": "Dans un panthéon, chaque divinité exerce une influence sur différents aspects de la vie et la civilisation des mortels ; c'est le domaine d'une divinité. Tous les domaines sur lesquels une divinité exerce une influence sont appelés le portefeuille de la divinité. Par exemple, le portefeuille du dieu grec Apollon comprend les domaines du Savoir, de la Vie et de la Lumière. En tant que clerc, vous choisissez un aspect du portefeuille de votre divinité à représenter, et vous êtes doté de pouvoirs liés à ce domaine. Votre choix peut correspondre à une secte particulière dédiée à votre divinité, ou tout simplement répondre à une question de préférence personnelle, l'aspect de la divinité qui vous plaît le plus. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la duperie",
+            "content": "Les dieux de la duperie (comme Tymora, Beshaba, Olidammara, le Voyageur, Garl Brilledor et Loki) sont des fauteurs de troubles et des instigateurs qui représentent un défi constant à l'ordre accepté parmi les dieux et les mortels. Ils sont les patrons des voleurs, des canailles, des joueurs, des rebelles et des libérateurs. Leurs clercs sont une force perturbatrice, se moquant de tyrans, volant les riches, libérant les captifs, et bafouant les traditions. Ils préfèrent le subterfuge, les farces, la tromperie et le vol plutôt qu'une confrontation directe. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "À partir du niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante (autre que vous-même) et lui donner un avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure pendant 1 heure, ou jusqu'à ce que vous utilisiez cette capacité à nouveau. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Bénédiction de l'escroc",
+            "content": "À partir du niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante (autre que vous-même) et lui donner un avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure pendant 1 heure, ou jusqu'à ce que vous utilisiez cette capacité à nouveau. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : invocation de réplique",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour créer une copie illusoire de vous-même. Par une action, vous créez une illusion parfaite de vous-même qui dure pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (comme si vous étiez concentré sur un sort). L'illusion apparaît dans un espace inoccupé que vous pouvez voir dans un rayon de 9 mètres autour de vous. Par une action bonus à votre tour, vous pouvez déplacer l'illusion jusqu'à 9 mètres, dans un espace que vous pouvez voir, et sans l'éloigner de plus de 36 mètres de vous. Durant ce temps, vous pouvez lancer des sorts comme si vous étiez dans l'espace de l'illusion, mais vous devez utiliser vos propres sens. En outre, lorsque vous et votre illusion êtes à 1,50 mètre ou moins d'une créature qui peut voir l'illusion, vous avez un avantage aux jets d'attaque contre cette créature, l'illusion distrayant la cible. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : linceul d'ombre",
+            "content": "À partir du niveau 6, vous pouvez utiliser votre Conduit divin pour disparaître. Par une action, vous devenez invisible jusqu'à la fin de votre prochain tour. Vous redevenez visible si vous attaquez ou lancez un sort. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "Au niveau 8, vous gagnez la possibilité d’imprégner votre arme de poison, un cadeau de votre divinité. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque d'arme, vous pouvez infliger 1d8 dégâts de poison supplémentaires. Lorsque vous atteignez le niveau 14, les dégâts supplémentaires passent à 2d8. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Réplique améliorée",
+            "content": "Au niveau 17, vous pouvez créer jusqu'à quatre doublons de vous-même, au lieu d'un, lorsque vous utilisez Invocation de duplicata. Par une action bonus à votre tour, vous pouvez déplacer un certain nombre d'entre eux jusqu'à 9 mètres, et sans les éloigner de plus de 36 mètres de vous. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la guerre",
+            "content": "La guerre se manifeste de plusieurs façons. Elle peut transformer des personnes ordinaires en héros. Elle peut être horrible et désespérée, avec des actes de cruautés et de couardises éclipsant les instants d’excellence et de courage. Dans tous les cas, les dieux de la guerre observent les guerriers et les récompensent pour leurs actes glorieux. Les clercs de ces dieux excellent au combat et sont source d’inspiration pour participer à de bons combats ou pour offrir des actes de violence en tant que prières. Les dieux de la guerre sont des champions de l’honneur et de la chevalerie (comme par exemple Torm , Heironeous et Kiri-Jolith), les dieux de la destruction ou du pillage (comme Erythnul, la Furie, Gruumsh et Ares) et les dieux de la conquête ou de la domination (comme Baine , Hector et Maglubiyet ). D’autres dieux de la guerre (comme Tempus , Nike et Nuada) observent une plus grande neutralité, promouvant la guerre dans toutes ces manifestations et supportant les guerriers dans toutes les circonstances. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armes de guerres et des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maîtrises supplémentaires",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armes de guerres et des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Prêtre de guerre",
+            "content": "À partir du niveau 1, votre dieu vous inspire lors des combats. Lorsque vous utilisez l’action Attaquer, vous pouvez faire une attaque avec une arme en tant qu’action bonus. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez les attaques utilisées à la fin d’un repos long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : frappe guidée",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour frapper avec une grande précision. Lorsque vous faites un jet d’attaque, vous pouvez utilisez votre Conduit divin pour gagner un bonus de +10 au jet. Vous pouvez décider d’utiliser cette capacité après avoir vu le résultat du jet, mais avant que le MD ne vous en donne le résultat. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : bénédiction du dieu de la guerre",
+            "content": "Au niveau 6, lorsqu'une créature dans un rayon de 9 mètres autour de vous fait un jet d’attaque, vous pouvez utiliser votre réaction pour faire bénéficier cette créature d’un bonus de +10 à son jet, en utilisant votre Conduit divin. Vous pouvez choisir d’utiliser cette compétence après avoir vu le résultat du jet, mais vous devez le faire avant que le MD ne dise si l’attaque a réussi ou échoué. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "Au niveau 8, vous gagnez la possibilité d’imprégner votre arme d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque d'arme, vous pouvez infliger 1d8 dégâts supplémentaires du même type que celui de votre arme. Lorsque vous atteignez le niveau 14, les dégâts supplémentaires passent à 2d8. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Avatar de bataille",
+            "content": "Au niveau 17, vous obtenez la résistance aux dégâts contondants, perforants et tranchants d'attaques non magiques. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la lumière",
+            "content": "Les dieux de la lumière (y compris Helm, Lathandre , Pholtus, Branchala, la Flamme d'argent, Bélénus, Apollo et Ré-Horakhty) promeuvent les idéaux de renaissance et de renouveau, de vérité, de vigilance et de beauté, souvent en utilisant le symbole du soleil. Certains de ces dieux sont dépeints comme le soleil lui-même ou comme le conducteur du char qui guide le soleil à travers le ciel. D'autres sont d'inlassables sentinelles dont les yeux percent chaque ombre et voient à travers toutes les tromperies. Certains sont des divinités de la beauté et des artistes, qui enseignent que l'art est un véhicule ou l'amélioration de l'âme. Les clercs d'un dieu de la lumière sont des âmes éclairées infusés par l'éclat et la puissance de la vision perspicace de leurs dieux, et chargés de chasser les mensonges et de brûler les ténèbres. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le sort mineur lumière si vous ne le connaissez pas déjà. Ce sort mineur ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sort mineur supplémentaire",
+            "content": "Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le sort mineur lumière si vous ne le connaissez pas déjà. Ce sort mineur ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Illumination protectrice",
+            "content": "Au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui attaque. Lorsque vous êtes attaqué par une créature située à 9 mètres ou moins de vous et que vous pouvez voir, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque, en faisant éclater une lumière avant qu'il touche ou rate. Un attaquant qui ne peut pas être aveuglé est immunisé face à cette capacité. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum une fois). Vous en retrouver toutes les utilisations dépensées lorsque vous terminez un repos long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : radiance de l'aube",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour exploiter la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis. Par une action, vous présentez votre symbole sacré et toutes les ténèbres magiques dans un rayon de 9 mètres autour de vous sont dissipées. En outre, chaque créature hostile dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Constitution. Une créature prend 2d10 + votre niveau de clerc dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui dispose d'une couverture totale vis à vis de vous n'est pas affectée. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Illumination améliorée",
+            "content": "À partir du niveau 6, vous pouvez également utiliser votre capacité de Illumination protectrice quand une créature que vous pouvez voir et située à 9 mètres ou moins de vous attaque une créature autre que vous-même. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Incantation puissante",
+            "content": "À partir du niveau 8, vous ajoutez votre modificateur de Sagesse aux dégâts que vous infligez avec n'importe quel sort mineur de clerc. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Halo de lumière",
+            "content": "À partir du niveau 17, vous pouvez utiliser votre action pour activer une aura de lumière du soleil qui dure pendant 1 minute, ou jusqu'à ce que vous la rejetiez à l'aide d'une autre action. Vous émettez une lumière vive dans un rayon de 18 mètres, et une lumière faible sur 9 mètres supplémentaires. Vos ennemis dans la zone de lumière vive ont un désavantage aux jets de sauvegarde contre tout sort qui inflige des dégâts de feu ou des dégâts radiants. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la nature",
+            "content": "Les dieux de la nature sont aussi variés que le monde naturel lui-même, qu'ils soient d'impénétrables dieux des forêts profondes (comme Sylvanus , Obad-Hai, Kislev, Balinor et Pan) ou des divinités amicales associées à des sources ou des bosquets (comme Eldath) particuliers. Les druides vénèrent la nature dans son ensemble et peuvent servir l'une de ces divinités, pratiquant des rites mystérieux et récitant des prières anciennes dans leur propre langue secrète. Mais beaucoup de ces dieux ont aussi des clercs, des champions qui prennent un rôle plus actif dans la promotion des intérêts d'un dieu de la nature en particulier. Ces clercs peuvent chasser les monstres maléfiques qui dépouillent les forêts, bénir la récolte des fidèles, ou dépérir les cultures de ceux qui mettent en colère leurs dieux. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Au niveau 1, vous apprenez un sort mineur de druide de votre choix. Ce sort mineur compte comme un sort mineur de clerc pour vous, mais il ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez. Vous gagnez également la maîtrise d'une des compétences suivantes de votre choix : Dressage, Nature ou Survie. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Acolyte de la nature",
+            "content": "Au niveau 1, vous apprenez un sort mineur de druide de votre choix. Ce sort mineur compte comme un sort mineur de clerc pour vous, mais il ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez. Vous gagnez également la maîtrise d'une des compétences suivantes de votre choix : Dressage, Nature ou Survie. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maîtrise supplémentaire",
+            "content": "Au niveau 1 également, vous gagnez la maîtrise des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : charme des animaux et des plantes",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour charmer des animaux et de plantes. Par une action, vous présentez votre symbole sacré et invoquez le nom de votre divinité. Chaque créature du type bête ou plante qui peut vous voir et qui se situe dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Sagesse. Si la créature rate son jet de sauvegarde, vous la charmez pendant 1 minute, ou jusqu'à ce qu'elle subisse des dégâts. Tant que vous la charmez, elle est amicale envers vous et toutes autres créatures que vous désignez. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Atténuation des éléments",
+            "content": "À partir du niveau 6, lorsque vous ou une créature située à 9 mètres ou moins de vous prend des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour accorder à la créature une résistance à ce type de dégâts. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "Au niveau 8, vous gagnez la possibilité d’imprégner votre arme d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque d'arme, vous pouvez infliger 1d8 dégâts supplémentaires de froid, de feu ou de foudre (selon votre choix) à la cible. Lorsque vous atteignez le niveau 14, les dégâts supplémentaires passent à 2d8. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maître de la nature",
+            "content": "Au niveau 17, vous gagnez la possibilité de commander les animaux et les créatures végétales. Lorsque des créatures sont charmées par votre capacité de Charme des animaux et des plantes, vous pouvez utiliser une action bonus à votre tour pour commander verbalement ces créatures et leur indiquer ce qu'elles doivent faire durant leur prochain tour. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine du savoir",
+            "content": "Les dieux du savoir (comme Oghma , Boccob, Giléan, Auréon et Thoth) estiment l’apprentissage et la compréhension au-dessus de tout. Certains enseignent que le savoir doit être regroupé et partagé dans des bibliothèques ou des universités, ou encouragent la pratique de la fabrication et l'inventivité. Certaines divinités accumulent les savoirs et les garde secrètes pour elles-mêmes. D'autres promettent à leurs suivants qu’ils obtiendront une puissance phénoménale en découvrant les secrets du multivers. Les suivants de ces dieux étudient les traditions, collectent de vieux ouvrages, s’aventurent dans les lieux les plus secrets et apprennent tout ce qu’ils peuvent. Certains dieux du savoir qui encouragent la pratique de la fabrication et de l’invention incluent certaines divinités des forgerons telles que Gond , Réorx, Onatar, Moradin , Hephaestus et Goibhniu. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Au niveau 1, vous apprenez deux langues de votre choix. Vous obtenez aussi la maîtrise de deux compétences de votre choix parmi les suivantes : Arcanes, Histoire, Nature ou Religion. Votre bonus de maîtrise est doublé pour les jets de caractéristique utilisant une de ces compétences. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Bénédictions du savoir",
+            "content": "Au niveau 1, vous apprenez deux langues de votre choix. Vous obtenez aussi la maîtrise de deux compétences de votre choix parmi les suivantes : Arcanes, Histoire, Nature ou Religion. Votre bonus de maîtrise est doublé pour les jets de caractéristique utilisant une de ces compétences. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : savoir ancestral",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour tirer profit d'un puits de connaissance divine. Au prix d’une action, vous choisissez une compétence ou un outil. Pendant 10 minutes, vous obtenez la maîtrise de la compétence ou de l'outil choisi. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : lecture des pensées",
+            "content": "Au niveau 6, vous pouvez utiliser votre Conduit divin pour lire les pensées d’une créature. Vous pouvez ensuite avoir accès à l’esprit de la créature et la commander. Par une action, choisissez une créature que vous pouvez voir située à 18 mètres ou moins de vous. La créature doit effectuer un jet de sauvegarde de Sagesse. Si la créature le réussi, vous ne pouvez réutiliser cette capacité sur la créature qu’après avoir terminé un repos long. Si la créature échoue, vous pouvez lire la surface de ses pensées (celles les plus en vue dans son esprit, représentant ses émotions et ce à quoi elle pense actuellement) lorsqu’elle est à 18 mètres ou moins de vous. Cet effet dure une minute. Pendant cette durée, vous pouvez utiliser votre action pour mettre fin à cet effet et lancer le sort suggestion à la créature sans consommer d’emplacement de sort. La créature échoue automatiquement son jet de sauvegarde contre ce sort. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Incantation puissante",
+            "content": "À partir du niveau 8, vous ajoutez votre modificateur de Sagesse aux dégâts que vous infligez avec tous sorts mineurs de clerc. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Visions du passé",
+            "content": "À partir du niveau 17, vous pouvez rappeler les visions du passé en relation avec un objet que vous tenez, ou proche de vous. Vous passez au moins une minute à prier et à méditer, puis vous recevez sous forme de rêve de vagues aperçus des événements récents. Vous pouvez méditer de cette manière un nombre de minutes égal votre valeur de Sagesse et devez maintenir votre concentration comme pour lancer un sort. Une fois que vous avez utilisé cette capacité, vous ne pouvez plus l’utiliser avant d'avoir terminé un repos court ou long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la tempête",
+            "content": "Les dieux dont les domaines incluent celui de la tempête (comme Talos , Umberlie , Kord, Zéboim, le Dévoreur, Zeus et Thor) gouvernent les orages, la mer et le ciel. Parmi eux, on compte les dieux de la foudre et du tonnerre, les dieux des tremblements de terre, quelques dieux du feu et certains dieux de la violence, de la force physique et du courage. Dans le panthéon des marins, les dieux de ce domaine sont les divinités des océans ainsi que les saints patrons des marins. Les dieux des tempêtes envoient leurs clercs pour insuffler la peur parmi la populace, pour les maintenir dans le chemin de la vertu ou pour les encourager à offrir des sacrifices afin d’apaiser la colère divine. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armes de guerres et des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maîtrises supplémentaires",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armes de guerres et des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Fureur de l'ouragan",
+            "content": "Au niveau 1 également, vous pouvez réprimander vos attaquants avec la puissance du tonnerre. Lorsqu’une créature que vous pouvez voir dans un rayon de 1,50 mètre autour de vous vous touche, vous pouvez utiliser votre réaction pour obliger l’attaquant à effectuer un jet de sauvegarde de Dextérité. En cas d’échec, la créature subit 2d8 dégâts de foudre ou de tonnerre (selon votre choix), ou la moitié en cas de réussite. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes vos charges après un repos long. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : fureur destructrice",
+            "content": "A partir du niveau 2, vous pouvez utiliser votre Conduit divin pour manier la puissance de la tempête avec une férocité incontrôlée. Lorsque vous infligez des dégâts de foudre ou de tonnerre, vous pouvez utiliser votre Conduit divin pour effectuer des dégâts maximum au lieu de lancer des dés. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe de l'éclair",
+            "content": "Au niveau 6, lorsque vous infligez des dégâts de foudre à une créature de taille G ou inférieure, vous pouvez également la repousser à 3 mètres de vous. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "Au niveau 8, vous gagnez la possibilité d’imprégner votre arme d’énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque d'arme, vous pouvez infliger 1d8 dégâts de tonnerre supplémentaires. Lorsque vous atteignez le niveau 14, les dégâts supplémentaires passent à 2d8. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Enfant de la tempête",
+            "content": "Au niveau 17, vous obtenez une vitesse de vol égale à votre vitesse de déplacement tant que vous n’êtes ni sous terre, ni dans un intérieur. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la vie",
+            "content": "Le domaine de la vie se concentre sur l'énergie positive vibrante, une des forces fondamentales de l'univers, qui soutient toute vie. Les dieux de la vie promeuvent la vitalité et la santé, soignent les malades et les blessés, prennent soin des personnes dans le besoin, et chassent les forces de la mort et les morts-vivants. Presque toute divinité non mauvaise peut prétendre avoir une influence sur ce domaine, en particulier les divinités agricoles (comme Chauntéa , Arawai et Déméter), les dieux du soleil (comme Lathandre , Pelor et Re-Horakhty), de la guérison ou de l'endurance (comme Ilmater , Mishakal, Apollo et Diancecht), ou bien encore les dieux du foyer ou de la communauté (comme Hestia, Hathor et Boldrei). Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Lorsque vous choisissez ce domaine, au niveau 1, vous gagnez la maîtrise des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maîtrise supplémentaire",
+            "content": "Lorsque vous choisissez ce domaine, au niveau 1, vous gagnez la maîtrise des armures lourdes. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Disciple de la vie",
+            "content": "À partir du niveau 1, vos sorts de guérison sont plus efficaces. Chaque fois que vous utilisez un sort de niveau 1 ou supérieur pour redonner des points de vie à une créature, la créature regagne un nombre de points de vie additionnel égal à 2 + le niveau du sort. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : préservation de la vie",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour soigner des blessures graves. Au prix d'une action, vous présentez votre symbole sacré et invoquez une énergie curative qui redonne un montant de points de vie égal à 5 fois votre niveau de clerc. Choisissez une ou plusieurs créatures à 9 mètres ou moins de vous, et divisez ces points entre elles. Cette capacité ne peut pas ramener une créature à plus de la moitié de son maximum des points de vie, et elle n'a pas d'effet sur les morts-vivants et les artificiels. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Guérisseur béni",
+            "content": "À partir du niveau 6, les sorts de guérison que vous lancez sur les autres vous guérissent aussi. Lorsque vous lancez un sort de niveau 1 ou supérieur pour redonner des points de vie à une créature autre que vous-même, vous regagnez un nombre de points de vie égal à 2 + le niveau du sort. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "À partir du niveau 8, vous gagnez la possibilité d’imprégner votre arme d'énergie divine. Une fois par tour, lorsque vous touchez une créature avec une attaque armée, vous pouvez infliger 1d8 dégâts radiants supplémentaires à la cible. Lorsque vous atteignez le niveau 14, les dégâts supplémentaires passent à 2d8. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Guérison suprême",
+            "content": "À partir du niveau 17, quand vous auriez normalement dû lancer un ou plusieurs dés pour redonner des points de vie avec un sort, appliquez directement le maximum de chaque dé. Par exemple, au lieu de restaurer 2d6 points de vie à une créature, vous restaurez 12. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Domaine de la forge",
+            "content": "Version officielle du Xanathar's Guide to Everything de cette sous-classe mise en ligne par WotC lors de l'Extra Life 2017. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Sorts de domaine",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armures lourdes et des outils de forgeron. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Maîtrises supplémentaires",
+            "content": "Au niveau 1, vous gagnez la maîtrise des armures lourdes et des outils de forgeron. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Bénédiction de la forge",
+            "content": "Au niveau 1, vous gagnez la capacité d'imprégner une part de magie dans votre arme ou votre armure. À la fin d'un repos long, vous pouvez toucher un objet non magique qui est une armure ou une arme courante ou de guerre. Jusqu'à la fin de votre prochain repos long, si vous ne mourrez pas avant, l'objet devient un objet magique, accordant un bonus de +1 à la CA s'il s'agit d'une armure, ou +1 à l'attaque et aux dégâts si l'objet est une arme. Vous ne pouvez utiliser cette aptitude qu'une fois entre deux repos longs. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Conduit divin : bénédiction de l'artisan",
+            "content": "À partir du niveau 2, vous pouvez utiliser votre capacité de Conduit divin pour créer des objets simples. Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Âme de la forge",
+            "content": "À partir du niveau 6, votre maîtrise de la forge vous octroie un certain nombre de capacités : Vous gagnez la résistance aux dégâts de feu Vous gagnez un bonus de +1 à la CA lorsque vous portez une armure lourde"
+        },
+        {
+            "title": "Frappe divine",
+            "content": "Au niveau 8, vous gagnez la capacité d'imprégner votre arme de la puissance ardente de la forge. À chacun de vos tours, lorsque vous touchez une créature lors d'une attaque avec une arme, vous pouvez ajouter 1d8 dégâts de feu supplémentaires. À partir du niveau 14, ces dégâts supplémentaires passent à 2d8. Vous gagnez l'immunité aux dégâts de feu Tant que vous portez une armure lourde, vous gagnez la résistance aux dégâts contondants, perforants et tranchants provoqués par des attaques non magiques."
+        },
+        {
+            "title": "Saint de la forge et du feu",
+            "content": "Au niveau 17, votre affinité pour le feu et le métal devient plus profonde : Vous gagnez l'immunité aux dégâts de feu Tant que vous portez une armure lourde, vous gagnez la résistance aux dégâts contondants, perforants et tranchants provoqués par des attaques non magiques."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "",
+                "sorts",
+                ""
+            ],
+            "rows": [
+                {},
+                {},
+                {
+                    "": "Incantation, Domaine divin",
+                    "sorts": "+2",
+                    "col_3": "3",
+                    "col_4": "2",
+                    "col_5": "-",
+                    "col_6": "-",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Conduit divin (1/repos), Capacité de domaine divin",
+                    "sorts": "+2",
+                    "col_3": "3",
+                    "col_4": "3",
+                    "col_5": "-",
+                    "col_6": "-",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "-",
+                    "sorts": "+2",
+                    "col_3": "3",
+                    "col_4": "4",
+                    "col_5": "2",
+                    "col_6": "-",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Amélioration de caractéristiques",
+                    "sorts": "+2",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "-",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Destruction des morts-vivants (FP 1/2)",
+                    "sorts": "+3",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "2",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Conduit divin (2/repos), Capacité de domaine divin",
+                    "sorts": "+3",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "-",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "-",
+                    "sorts": "+3",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "1",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Amélioration de caractéristiques, Capacité de domaine divin,  Destruction des morts-vivants (FP 1)",
+                    "sorts": "+3",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "2",
+                    "col_8": "-",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "-",
+                    "sorts": "+4",
+                    "col_3": "4",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "1",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Intervention divine",
+                    "sorts": "+4",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "-",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Destruction des morts-vivants (FP 2)",
+                    "sorts": "+4",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Amélioration de caractéristiques",
+                    "sorts": "+4",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "-",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "-",
+                    "sorts": "+5",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "Destruction des morts-vivants (FP 3)",
+                    "sorts": "+5",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "-",
+                    "col_12": "-"
+                },
+                {
+                    "": "-",
+                    "sorts": "+5",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "1",
+                    "col_12": "-"
+                },
+                {
+                    "": "Amélioration de caractéristiques",
+                    "sorts": "+5",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "1",
+                    "col_12": "-"
+                },
+                {
+                    "": "Destruction des morts-vivants (FP 4), Capacité de domaine divin",
+                    "sorts": "+6",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "2",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "1",
+                    "col_12": "1"
+                },
+                {
+                    "": "Conduit divin (3/repos)",
+                    "sorts": "+6",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "3",
+                    "col_9": "1",
+                    "col_10": "1",
+                    "col_11": "1",
+                    "col_12": "1"
+                },
+                {
+                    "": "Amélioration de caractéristiques",
+                    "sorts": "+6",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "3",
+                    "col_9": "2",
+                    "col_10": "1",
+                    "col_11": "1",
+                    "col_12": "1"
+                },
+                {
+                    "": "Intervention divine supérieure",
+                    "sorts": "+6",
+                    "col_3": "5",
+                    "col_4": "4",
+                    "col_5": "3",
+                    "col_6": "3",
+                    "col_7": "3",
+                    "col_8": "3",
+                    "col_9": "2",
+                    "col_10": "2",
+                    "col_11": "1",
+                    "col_12": "1"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "5",
+                    "col_1": "1/2 ou moins"
+                },
+                {
+                    "col_0": "8",
+                    "col_1": "1 ou moins"
+                },
+                {
+                    "col_0": "11",
+                    "col_1": "2 ou moins"
+                },
+                {
+                    "col_0": "14",
+                    "col_1": "3 ou moins"
+                },
+                {
+                    "col_0": "17",
+                    "col_1": "4 ou moins"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "charme-personne ,  déguisement"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "image miroir ,  passage sans trace"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "clignotement ,  dissipation de la magie"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "métamorphose ,  porte dimensionnelle"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "domination de personne ,  modification de mémoire"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "bouclier de la foi ,  faveur divine"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "arme magique ,  arme spirituelle"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "aura du croisé ,  esprits gardiens"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "liberté de mouvement ,  peau de pierre"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "colonne de flamme ,  immobilisation de monstre"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "lueurs féeriques ,  mains brûlantes"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "rayon ardent ,  sphère de feu"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "boule de feu ,  lumière du jour"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "gardien de la foi ,  mur de feu"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "colonne de flamme ,  scrutation"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "amitié avec les animaux ,  communication avec les animaux"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "croissance d'épines ,  peau d'écorce"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "croissance végétale ,  mur de vent"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "domination de bête ,  liane avide"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "fléau d'insectes ,  passage par les arbres"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "identification ,  injonction"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "augure ,  suggestion"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "antidétection ,  communication avec les morts"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "confusion ,  œil magique"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "mythes et légendes ,  scrutation"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "nappe de brouillard ,  vague tonnante"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "bourrasque ,  fracassement"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "appel de la foudre ,  tempête de neige"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "contrôle de l’eau ,  tempête de grêle"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "fléau d’insectes ,  vague destructrice"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "bénédiction ,  soins"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "arme spirituelle ,  restauration partielle"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "lueur d'espoir ,  retour à la vie"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "gardien de la foi ,  protection contre la mort"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "rappel à la vie ,  soins de groupe"
+                }
+            ]
+        },
+        {
+            "headers": [],
+            "rows": [
+                {
+                    "col_0": "1",
+                    "col_1": "châtiment calcinant ,  identification"
+                },
+                {
+                    "col_0": "3",
+                    "col_1": "arme magique ,  métal brûlant"
+                },
+                {
+                    "col_0": "5",
+                    "col_1": "arme élémentaire ,  protection contre une énergie"
+                },
+                {
+                    "col_0": "7",
+                    "col_1": "fabrication ,  mur de feu"
+                },
+                {
+                    "col_0": "9",
+                    "col_1": "animation d'objets ,  création"
+                }
+            ]
+        }
+    ]
+}

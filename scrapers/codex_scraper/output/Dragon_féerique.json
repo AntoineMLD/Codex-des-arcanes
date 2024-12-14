@@ -1,0 +1,49 @@
+{
+    "title": "Dragon féerique",
+    "prerequisites": "Dragon de taille TP, chaotique bon",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/faerie-dragon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dragon-feerique",
+    "stats": [
+        "Classe d'armure",
+        "15",
+        "Points de vie",
+        "14 (4d4 + 4)",
+        "Vitesse",
+        "3 m, vol 18 m",
+        "FOR",
+        "3 (-4)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Arcanes +4, Discrétion +7, Perception +3",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "draconique, sylvestre",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 1 dégât perforant.",
+        "Souffle d'euphorie (Recharge 5-6). Le dragon souffle une bouffée de gaz euphorisant sur une créature se trouvant à 1,50 mètre de lui. La cible doit réussir un jet de sauvegarde de Sagesse DD 11, sinon, pendant 1 minute, la cible ne peut plus utiliser de réaction et doit lancer 1d6 au début de chacun de ses tours pour déterminer comment elle va se comporter pendant ce tour :",
+        "1-4. La cible n'utilise aucune action ni action bonus et utilise tout son mouvement pour se déplacer dans une direction aléatoire.",
+        "5-6. La cible ne se déplace pas, et la seule chose qu'elle peut effectuer pendant son tour est un jet de sauvegarde de Sagesse DD 11, qui met fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une créature. Touché : 1 dégât perforant.",
+        "Souffle d'euphorie (Recharge 5-6). Le dragon souffle une bouffée de gaz euphorisant sur une créature se trouvant à 1,50 mètre de lui. La cible doit réussir un jet de sauvegarde de Sagesse DD 11, sinon, pendant 1 minute, la cible ne peut plus utiliser de réaction et doit lancer 1d6 au début de chacun de ses tours pour déterminer comment elle va se comporter pendant ce tour :",
+        "1-4. La cible n'utilise aucune action ni action bonus et utilise tout son mouvement pour se déplacer dans une direction aléatoire.",
+        "5-6. La cible ne se déplace pas, et la seule chose qu'elle peut effectuer pendant son tour est un jet de sauvegarde de Sagesse DD 11, qui met fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Créer un objet magique",
+    "introduction": "Les objets magiques présentés dans les règles ne sont que quelques-uns des trésors magiques que les personnages peuvent découvrir au cours de leurs aventures. Si vos joueurs sont des vétérans aguerris et que vous voulez les surprendre, vous pouvez soit modifier un élément existant, soit créer quelque chose de totalement nouveau.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Rareté",
+                "Niveau de sort max.",
+                "Bonusmax."
+            ],
+            "rows": [
+                {
+                    "Rareté": "Commun",
+                    "Niveau de sort max.": "1",
+                    "Bonusmax.": "-"
+                },
+                {
+                    "Rareté": "Peu commun",
+                    "Niveau de sort max.": "3",
+                    "Bonusmax.": "+1"
+                },
+                {
+                    "Rareté": "Rare",
+                    "Niveau de sort max.": "6",
+                    "Bonusmax.": "+2"
+                },
+                {
+                    "Rareté": "Très rare",
+                    "Niveau de sort max.": "8",
+                    "Bonusmax.": "+3"
+                },
+                {
+                    "Rareté": "Légendaire",
+                    "Niveau de sort max.": "9",
+                    "Bonusmax.": "+4"
+                }
+            ]
+        }
+    ]
+}

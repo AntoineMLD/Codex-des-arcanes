@@ -1,0 +1,49 @@
+{
+    "title": "Esprit follet",
+    "prerequisites": "Fée de taille TP, neutre bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/sprite.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=esprit-follet",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure de cuir)",
+        "Points de vie",
+        "2 (1d4)",
+        "Vitesse",
+        "3 m, vol 12 m",
+        "FOR",
+        "3 (-4)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Discrétion +8, Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "commun, elfique, sylvestre",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Épée longue. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât tranchant.",
+        "Arc court. Attaque à distance avec une arme : +6 au toucher, portée 12/48 m, une cible. Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou être empoisonnée pendant 1 minute. Si le jet de sauvegarde échoue de 5 ou plus, la cible empoisonnée tombe inconsciente pour la durée de l'empoisonnement, ou jusqu'à ce qu'elle subisse des dégâts, ou jusqu'à ce qu'une autre créature utilise son action pour la secouer et la réveiller.",
+        "Perception du for intérieur. L'esprit follet touche une créature et en apprend magiquement l'état émotionnel. Si la cible échoue à un jet de sauvegarde de Charisme DD 10, alors l'esprit follet connaît également l'alignement de la créature. Les célestes, les fiélons, et les morts-vivants échouent automatiquement leur jet de sauvegarde.",
+        "Invisibilité. L'esprit follet devient invisible par magie jusqu'à ce qu'il attaque, lance un sort, ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement que l'esprit follet porte ou transporte est également invisible."
+    ],
+    "actions": [
+        "Épée longue. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât tranchant.",
+        "Arc court. Attaque à distance avec une arme : +6 au toucher, portée 12/48 m, une cible. Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou être empoisonnée pendant 1 minute. Si le jet de sauvegarde échoue de 5 ou plus, la cible empoisonnée tombe inconsciente pour la durée de l'empoisonnement, ou jusqu'à ce qu'elle subisse des dégâts, ou jusqu'à ce qu'une autre créature utilise son action pour la secouer et la réveiller.",
+        "Perception du for intérieur. L'esprit follet touche une créature et en apprend magiquement l'état émotionnel. Si la cible échoue à un jet de sauvegarde de Charisme DD 10, alors l'esprit follet connaît également l'alignement de la créature. Les célestes, les fiélons, et les morts-vivants échouent automatiquement leur jet de sauvegarde.",
+        "Invisibilité. L'esprit follet devient invisible par magie jusqu'à ce qu'il attaque, lance un sort, ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement que l'esprit follet porte ou transporte est également invisible."
+    ],
+    "reactions": []
+}

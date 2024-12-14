@@ -1,0 +1,47 @@
+{
+    "title": "Compagnon Drake",
+    "prerequisites": "Dragon de taille P, -",
+    "description": "Non spécifié",
+    "source": "Fizban´s Treasury of Dragons",
+    "image_url": "https://www.aidedd.org/dnd/images/drake-companion.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=compagnon-drake",
+    "stats": [
+        "Classe d'armure",
+        "14 + BM (armure naturelle)",
+        "Points de vie",
+        "5 + cinq fois votre niveau de rôdeur (le drake a un nombre de dés de vie [d10] égal à votre niveau de rôdeur)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "8 (-1)",
+        "Jets de sauvegarde",
+        "Dex +1 plus BM, Sag +2 plus BM",
+        "Immunités aux dégâts",
+        "déterminés par le trait Essence draconique du drake",
+        "Sens",
+        "darkvision vision dans le noir 12 m, Perception passive 12",
+        "Langues",
+        "draconique",
+        "Puissance",
+        "-",
+        "Bonus de maîtrise",
+        "égal à votre bonus"
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 plus BM au toucher, allonge 1,50 m, une cible. Touché : 1d6 plus BM dégâts perforants.",
+        "Attaques imprégnées. Quand une autre créature dans un rayon de 9 m du drake et qu'il peut voir touche une cible lors d'une attaque avec une arme, le drake imprègne l'attaque de son essence, qui inflige alors 1d6 dégâts supplémentaires du type déterminé par son Essence draconique."
+    ],
+    "reactions": [
+        "Attaques imprégnées. Quand une autre créature dans un rayon de 9 m du drake et qu'il peut voir touche une cible lors d'une attaque avec une arme, le drake imprègne l'attaque de son essence, qui inflige alors 1d6 dégâts supplémentaires du type déterminé par son Essence draconique."
+    ]
+}

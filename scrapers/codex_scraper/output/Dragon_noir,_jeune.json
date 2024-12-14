@@ -1,0 +1,53 @@
+{
+    "title": "Dragon noir, jeune",
+    "prerequisites": "Dragon (chromatique) de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/black-dragon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dragon-noir-jeune",
+    "stats": [
+        "Classe d'armure",
+        "18 (armure naturelle)",
+        "Points de vie",
+        "127 (15d10 + 45)",
+        "Vitesse",
+        "12 m, nage 12 m, vol 24 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "15 (+2)",
+        "Jets de sauvegarde",
+        "Dex +5, Con +6, Sag +3, Cha +5",
+        "Compétences",
+        "Discrétion +5, Perception +6",
+        "Immunités aux dégâts",
+        "acide",
+        "Sens",
+        "vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le dragon peut effectuer trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants + 4 (1d8) dégâts d'acide.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Souffle d'acide (Recharge 5-6). Le dragon crache un jet d'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 14, subissant 49 (11d8) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le dragon peut effectuer trois attaques : une de morsure et deux avec ses griffes.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 3 m, une cible. Touché : 15 (2d10 + 4) dégâts perforants + 4 (1d8) dégâts d'acide.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts tranchants.",
+        "Souffle d'acide (Recharge 5-6). Le dragon crache un jet d'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 14, subissant 49 (11d8) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

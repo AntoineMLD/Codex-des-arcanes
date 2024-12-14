@@ -1,0 +1,47 @@
+{
+    "title": "Géant des collines",
+    "prerequisites": "Géant de taille TG, chaotique mauvais",
+    "description": "Les géants des collines sont des brutes égoïstes et sans-cervelles qui chassent et pillent en permanence afin de trouver de la nourriture. Leur peau est bronzée du fait qu'ils passent leur vie sous le soleil, et leurs armes sont des arbres déracinés et des rochers arrachés du sol.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hill-giant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=geant-des-collines",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "105 (10d12 + 40)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "21 (+5)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "9 (-1)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Perception +2",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "géant",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le géant effectue deux attaques avec sa massue.",
+        "Massue. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 18 (3d8 + 5) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +8 au toucher, portée 18/72 m, une cible. Touché : 21 (3d10 + 5) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le géant effectue deux attaques avec sa massue.",
+        "Massue. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 18 (3d8 + 5) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +8 au toucher, portée 18/72 m, une cible. Touché : 21 (3d10 + 5) dégâts contondants."
+    ],
+    "reactions": []
+}

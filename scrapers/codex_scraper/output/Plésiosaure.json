@@ -1,0 +1,43 @@
+{
+    "title": "Plésiosaure",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "Ce prédateur marin, reptile cousin des dinosaures, attaque toute créature qu'il rencontre. Son long cou flexible peut se balancer dans toutes les directions et infliger une puissante morsure.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/plesiosaurus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=plesiosaure",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "68 (8d10 + 24)",
+        "Vitesse",
+        "6 m, nage 12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Discrétion +4, Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 14 (3d6 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 14 (3d6 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

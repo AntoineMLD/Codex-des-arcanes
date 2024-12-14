@@ -1,0 +1,49 @@
+{
+    "title": "Lamie",
+    "prerequisites": "Monstruosité de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/lamia.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=lamie",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "97 (13d10 + 26)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Discrétion +3, Intuition +4, Tromperie +7",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "abyssal, commun",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La lamie effectue deux attaques : une avec ses griffes et une avec sa dague ou Contact enivrant.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d10 + 3) dégâts tranchants.",
+        "Dague. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Contact enivrant. Attaque au corps à corps avec un sort : +5 au toucher, allonge 1,50 m, une créature. Touché : la cible est maudite par magie pendant 1 heure. Jusqu'à ce que la malédiction prenne fin, la cible a un désavantage aux jets de sauvegarde de Sagesse et à tous les jets de caractéristique."
+    ],
+    "actions": [
+        "Attaques multiples. La lamie effectue deux attaques : une avec ses griffes et une avec sa dague ou Contact enivrant.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d10 + 3) dégâts tranchants.",
+        "Dague. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants.",
+        "Contact enivrant. Attaque au corps à corps avec un sort : +5 au toucher, allonge 1,50 m, une créature. Touché : la cible est maudite par magie pendant 1 heure. Jusqu'à ce que la malédiction prenne fin, la cible a un désavantage aux jets de sauvegarde de Sagesse et à tous les jets de caractéristique."
+    ],
+    "reactions": []
+}

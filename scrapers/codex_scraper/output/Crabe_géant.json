@@ -1,0 +1,43 @@
+{
+    "title": "Crabe géant",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=crabe-geant",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "9 (-1)",
+        "CHA",
+        "3 (-4)",
+        "Compétences",
+        "Discrétion +4",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Pinces. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants, et la cible est agrippée (DD 11 pour s'échapper). Le crabe a deux pinces, chacune lui permettant d'agripper une cible."
+    ],
+    "actions": [
+        "Pinces. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants, et la cible est agrippée (DD 11 pour s'échapper). Le crabe a deux pinces, chacune lui permettant d'agripper une cible."
+    ],
+    "reactions": []
+}

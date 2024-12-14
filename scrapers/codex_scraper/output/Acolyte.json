@@ -1,0 +1,43 @@
+{
+    "title": "Acolyte",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les acolytes sont de jeunes membres d'un clergé, généralement responsables devant un prêtre. Ils effectuent une variété de fonctions au sein d'un temple et leur divinité leur accorde des sorts de faible puissance.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=acolyte",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "9 (2d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Médecine +4, Religion +2",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Gourdin. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants."
+    ],
+    "actions": [
+        "Gourdin. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants."
+    ],
+    "reactions": []
+}

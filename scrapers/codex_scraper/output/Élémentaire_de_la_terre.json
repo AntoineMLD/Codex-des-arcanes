@@ -1,0 +1,51 @@
+{
+    "title": "Élémentaire de la terre",
+    "prerequisites": "Élémentaire de taille G, neutre",
+    "description": "Un élémentaire de la terre avance lourdement tel une colline humaine, balançant ses bras tels des massues. Sa tête et son corps sont fait de terre et de pierre, occasionnellement sertis de gros morceaux de métal, de gemmes et de minéraux luisants.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/earth-elemental.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=elementaire-de-la-terre",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "126 (12d10 + 60)",
+        "Vitesse",
+        "9 m, creusement 9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Vulnérabilités aux dégâts",
+        "tonnerre",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, paralysé, pétrifié, empoisonné, inconscient",
+        "Sens",
+        "vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10",
+        "Langues",
+        "terreux",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 14 (2d8 + 5) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une cible. Touché : 14 (2d8 + 5) dégâts contondants."
+    ],
+    "reactions": []
+}

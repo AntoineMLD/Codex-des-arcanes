@@ -1,0 +1,43 @@
+{
+    "title": "Chacal",
+    "prerequisites": "Bête de taille P, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chacal",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "3 (1d6)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 - 1) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 - 1) dégâts perforants."
+    ],
+    "reactions": []
+}

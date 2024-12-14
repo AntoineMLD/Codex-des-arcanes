@@ -1,0 +1,47 @@
+{
+    "title": "Mâne",
+    "prerequisites": "Fiélon (démon) de taille P, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/demon-manes.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mane",
+    "stats": [
+        "Classe d'armure",
+        "9",
+        "Points de vie",
+        "9 (2d6 + 2)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "4 (-3)",
+        "Résistances aux dégâts",
+        "froid, feu, foudre",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, effrayé, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "comprend l'abyssal mais ne peut pas parler",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 5 (2d4) dégâts tranchants."
+    ],
+    "reactions": []
+}

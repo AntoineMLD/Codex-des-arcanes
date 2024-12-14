@@ -1,0 +1,51 @@
+{
+    "title": "Serviteur homoncule",
+    "prerequisites": "Artificiel de taille TP, -",
+    "description": "Voir l'imprégation d'artificier Serviteur homoncule.",
+    "source": "Rules (Tasha´s Cauldron of Everything)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=serviteur-homoncule",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "1 + votre modificateur d'Intelligence + votre niveau d'artificier (l'homoncule a un nombre de Dés de vie [d4] égal à votre niveau d'artificier)",
+        "Vitesse",
+        "6 m, vol 9 m",
+        "FOR",
+        "4 (-3)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Jets de sauvegarde",
+        "Dex +2 plus BM",
+        "Compétences",
+        "Perception +0 plus BM x 2, Discrétion +2 plus BM",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné, épuisement",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10 + (BM x 2)",
+        "Langues",
+        "comprend les langues que vous parlez",
+        "Puissance",
+        "-",
+        "Bonus de maîtrise",
+        "égal à votre bonus"
+    ],
+    "actions": [
+        "Frappe de force. Attaque à distance avec une arme : votre modificateur d'attaque avec un sort au toucher, portée 9 m, une cible que vous pouvez voir. Touché : 1d4 + BM dégâts de force.",
+        "Conduit magique. L'homoncule délivre un sort que vous lancez et qui a une portée de contact. L'homoncule doit être dans un rayon de 36 mètres autour de vous."
+    ],
+    "reactions": [
+        "Conduit magique. L'homoncule délivre un sort que vous lancez et qui a une portée de contact. L'homoncule doit être dans un rayon de 36 mètres autour de vous."
+    ]
+}

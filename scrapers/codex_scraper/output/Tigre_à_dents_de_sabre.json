@@ -1,0 +1,45 @@
+{
+    "title": "Tigre à dents de sabre",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tigre-a-dents-de-sabre",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "52 (7d10 + 14)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Discrétion +6, Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d10 + 5) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d10 + 5) dégâts perforants."
+    ],
+    "reactions": []
+}

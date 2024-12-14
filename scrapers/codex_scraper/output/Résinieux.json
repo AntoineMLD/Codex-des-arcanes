@@ -1,0 +1,45 @@
+{
+    "title": "Résinieux",
+    "prerequisites": "Plante de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/blight.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=resinieux",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "3 (-4)",
+        "Immunités aux états",
+        "aveuglé, assourdi",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9",
+        "Langues",
+        "comprend le commun mais ne peut pas parler",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts perforants.",
+        "Épines. Attaque à distance avec une arme : +3 au toucher, portée 9/18 m, une cible. Touché : 8 (2d6 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts perforants.",
+        "Épines. Attaque à distance avec une arme : +3 au toucher, portée 9/18 m, une cible. Touché : 8 (2d6 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

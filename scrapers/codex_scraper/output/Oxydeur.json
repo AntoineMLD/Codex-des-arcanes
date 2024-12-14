@@ -1,0 +1,43 @@
+{
+    "title": "Oxydeur",
+    "prerequisites": "Monstruosité de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/rust-monster.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=oxydeur",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants.",
+        "Antennes. L'oxydeur corrode un objet ferreux non magique qu'il peut voir se trouvant à 1,50 de lui. Si l'objet n'est pas porté ou transporté, le contact de ses antennes détruit 30 cm cube de celui-ci. Si l'objet est porté ou transporté par une créature, celle-ci peut effectuer un jet de sauvegarde de Dextérité DD 11 pour éviter le contact de l'oxydeur. Si l'objet touché est une armure ou un bouclier de métal porté ou transporté, il subit une pénalité permanente et cumulative de -1 à la CA qu'il offre. Une armure réduite à une CA de 10 ou un bouclier qui offre un bonus de +0 est détruit. Si l'objet touché est une arme métallique tenue en main, elle rouille comme décrit dans le trait Oxydation."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants.",
+        "Antennes. L'oxydeur corrode un objet ferreux non magique qu'il peut voir se trouvant à 1,50 de lui. Si l'objet n'est pas porté ou transporté, le contact de ses antennes détruit 30 cm cube de celui-ci. Si l'objet est porté ou transporté par une créature, celle-ci peut effectuer un jet de sauvegarde de Dextérité DD 11 pour éviter le contact de l'oxydeur. Si l'objet touché est une armure ou un bouclier de métal porté ou transporté, il subit une pénalité permanente et cumulative de -1 à la CA qu'il offre. Une armure réduite à une CA de 10 ou un bouclier qui offre un bonus de +0 est détruit. Si l'objet touché est une arme métallique tenue en main, elle rouille comme décrit dans le trait Oxydation."
+    ],
+    "reactions": []
+}

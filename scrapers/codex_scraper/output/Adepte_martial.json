@@ -1,0 +1,7 @@
+{
+    "title": "Adepte martial",
+    "prerequisites": "Aucun",
+    "description": "Vous avez une formation martiale qui vous permet d'effectuer des manœuvres de combat spéciales. Vous obtenez les avantages suivants : Vous apprenez deux manœuvres de votre choix parmi celles disponibles pour l'archétype de guerrier du maître de bataille. Si une manœuvre que vous utilisez nécessite que la cible fasse un jet de sauvegarde pour résister aux effets de la manœuvre, le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Force ou de Dextérité (selon votre choix). Vous gagnez un dé de supériorité, qui est un d6 (ce dé s'ajoute à tous autres dés de supériorité que vous pourriez avoir gagnés d'une autre source). Ce dé est utilisé pour alimenter vos manœuvres. Un dé de supériorité est dépensé lorsque vous l'utilisez. Vous regagnez vos dés de supériorité dépensés lorsque vous terminez un repos court ou long.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=adepte-martial"
+}

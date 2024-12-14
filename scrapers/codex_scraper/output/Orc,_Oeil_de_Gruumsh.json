@@ -1,0 +1,43 @@
+{
+    "title": "Orc, Oeil de Gruumsh",
+    "prerequisites": "Humanoïde (orc) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=orc-oeil-de-gruumsh",
+    "stats": [
+        "Classe d'armure",
+        "16 (broigne, bouclier)",
+        "Points de vie",
+        "45 (6d8 + 18)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Intimidation +3, Religion +1",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "commun, orc",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (1d6 + 3 + 1d8) dégâts perforants, ou 12 (2d8 + 3) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "actions": [
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 11 (1d6 + 3 + 1d8) dégâts perforants, ou 12 (2d8 + 3) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "reactions": []
+}

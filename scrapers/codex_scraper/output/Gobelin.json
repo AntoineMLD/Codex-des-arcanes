@@ -1,0 +1,45 @@
+{
+    "title": "Gobelin",
+    "prerequisites": "Humanoïde (gobelinoïde) de taille P, neutre mauvais",
+    "description": "Les gobelins sont de petits humanoïdes malveillants qui vivent dans des donjons abandonnés ou dans des taudis lugubres. Individuellement faibles, ils se rassemblent en grand nombre pour tourmenter les autres créatures.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/goblin.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gobelin",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure de cuir, bouclier)",
+        "Points de vie",
+        "7 (2d6)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Discrétion +6",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "commun, gobelin",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Cimeterre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Arc court. Attaque à distance avec une arme : +4 au toucher, portée 24/96 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Cimeterre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Arc court. Attaque à distance avec une arme : +4 au toucher, portée 24/96 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

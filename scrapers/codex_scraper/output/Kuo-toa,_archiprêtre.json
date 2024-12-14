@@ -1,0 +1,47 @@
+{
+    "title": "Kuo-toa, archiprêtre",
+    "prerequisites": "Humanoïde (kuo-toa) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/kuo-toa-archpriest.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kuo-toa-archipretre",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "97 (13d8 + 39)",
+        "Vitesse",
+        "9 m, nage 9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Perception +9, Religion +6",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 19",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le kuo-toa effectue deux attaques au corps à corps.",
+        "Sceptre. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants + 14 (4d6) dégâts de foudre.",
+        "Attaque à mains nues. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le kuo-toa effectue deux attaques au corps à corps.",
+        "Sceptre. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants + 14 (4d6) dégâts de foudre.",
+        "Attaque à mains nues. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts contondants."
+    ],
+    "reactions": []
+}

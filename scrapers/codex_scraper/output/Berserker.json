@@ -1,0 +1,41 @@
+{
+    "title": "Berserker",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement chaotique",
+    "description": "Originaires de terres non civilisées, les imprévisibles berserkers se réunissent au sein de groupes de guerre et cherchent le conflit partout où ils peuvent en trouver.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=berserker",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure de peaux)",
+        "Points de vie",
+        "67 (9d8 + 27)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

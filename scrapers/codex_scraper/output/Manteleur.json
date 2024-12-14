@@ -1,0 +1,51 @@
+{
+    "title": "Manteleur",
+    "prerequisites": "Aberration de taille G, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/cloaker.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=manteleur",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "78 (12d10 + 12)",
+        "Vitesse",
+        "3 m, vol 12 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Discrétion +5",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 11",
+        "Langues",
+        "profond, commun des profondeurs",
+        "Puissance",
+        "8 (3900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La manteleur effectue deux attaques : une de morsure et une avec sa queue.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 10 (2d6 + 3) dégâts perforants, et si la cible est de taille G ou inférieure, la manteleur s'attache à elle. Si le manteleur a un avantage à son jet d'attaque, il s'attache à la cible en avalant sa tête, ainsi la cible est également aveuglée et incapable de respirer tant que le manteleur est attaché. Tant qu'il est attaché à la cible, le manteleur ne peut effectuer cette attaque que contre cette cible, mais il obtient un avantage aux jets d'attaque contre cette créature. Une créature, dont la cible, peut détacher le manteleur par une action en réussissant un jet de Force DD 16. Lors de son tour, le manteleur peut se détacher de lui-même de la cible en utilisant 1,50 mètre de son mouvement.",
+        "Queue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une créature. Touché : 7 (1d8 + 3) dégâts tranchants.",
+        "Gémissement. Toute créature située dans un rayon de 18 mètres autour du manteleur, qui peut l'entendre et qui n'est pas une aberration, doit réussir un jet de sauvegarde de Sagesse DD 13 ou être effrayée jusqu'à la fin du prochain tour du manteleur. Si une créature réussit son jet de sauvegarde, elle devient immunisée au gémissement du manteleur pour les prochaines 24 heures.",
+        "Fantasmes (Recharge après un repos court ou long). Le manteleur crée magiquement trois copies illusoires de lui-même s'il n'est pas dans une zone de lumière vive. Les copies se déplacent avec lui et imitent ses actions, modifiant leurs positions de sorte que chaque copie paraisse être le véritable manteleur. Si le manteleur pénètre une zone de lumière vive, les copies disparaissent. Chaque fois qu'une créature cible le manteleur avec une attaque ou un sort nuisible alors qu'il reste des copies, la créature fait un jet aléatoire pour déterminer si elle cible le manteleur ou l'une de ses copies. Une créature n'est pas affectée par cet effet si elle ne peut pas voir ou si elle se sert d'un autre sens que la vue. Une copie a la même CA que le manteleur et utilise ses modificateurs de sauvegarde. Si une attaque touche une copie, ou si une copie échoue son jet de sauvegarde contre un effet qui inflige des dégâts, la copie disparaît."
+    ],
+    "actions": [
+        "Attaques multiples. La manteleur effectue deux attaques : une de morsure et une avec sa queue.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 10 (2d6 + 3) dégâts perforants, et si la cible est de taille G ou inférieure, la manteleur s'attache à elle. Si le manteleur a un avantage à son jet d'attaque, il s'attache à la cible en avalant sa tête, ainsi la cible est également aveuglée et incapable de respirer tant que le manteleur est attaché. Tant qu'il est attaché à la cible, le manteleur ne peut effectuer cette attaque que contre cette cible, mais il obtient un avantage aux jets d'attaque contre cette créature. Une créature, dont la cible, peut détacher le manteleur par une action en réussissant un jet de Force DD 16. Lors de son tour, le manteleur peut se détacher de lui-même de la cible en utilisant 1,50 mètre de son mouvement.",
+        "Queue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une créature. Touché : 7 (1d8 + 3) dégâts tranchants.",
+        "Gémissement. Toute créature située dans un rayon de 18 mètres autour du manteleur, qui peut l'entendre et qui n'est pas une aberration, doit réussir un jet de sauvegarde de Sagesse DD 13 ou être effrayée jusqu'à la fin du prochain tour du manteleur. Si une créature réussit son jet de sauvegarde, elle devient immunisée au gémissement du manteleur pour les prochaines 24 heures.",
+        "Fantasmes (Recharge après un repos court ou long). Le manteleur crée magiquement trois copies illusoires de lui-même s'il n'est pas dans une zone de lumière vive. Les copies se déplacent avec lui et imitent ses actions, modifiant leurs positions de sorte que chaque copie paraisse être le véritable manteleur. Si le manteleur pénètre une zone de lumière vive, les copies disparaissent. Chaque fois qu'une créature cible le manteleur avec une attaque ou un sort nuisible alors qu'il reste des copies, la créature fait un jet aléatoire pour déterminer si elle cible le manteleur ou l'une de ses copies. Une créature n'est pas affectée par cet effet si elle ne peut pas voir ou si elle se sert d'un autre sens que la vue. Une copie a la même CA que le manteleur et utilise ses modificateurs de sauvegarde. Si une attaque touche une copie, ou si une copie échoue son jet de sauvegarde contre un effet qui inflige des dégâts, la copie disparaît."
+    ],
+    "reactions": []
+}

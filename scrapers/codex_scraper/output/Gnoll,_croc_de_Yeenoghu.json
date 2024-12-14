@@ -1,0 +1,47 @@
+{
+    "title": "Gnoll, croc de Yeenoghu",
+    "prerequisites": "Fiélon (gnoll) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gnoll-croc-de-yeenoghu",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure de peaux)",
+        "Points de vie",
+        "65 (10d8 + 20)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "Con +4, Sag +2, Cha +3",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "abyssal, gnoll",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le gnoll effectue trois attaques : deux avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 7 (2d6) dégâts de poison."
+    ],
+    "actions": [
+        "Attaques multiples. Le gnoll effectue trois attaques : deux avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 7 (2d6) dégâts de poison."
+    ],
+    "reactions": []
+}

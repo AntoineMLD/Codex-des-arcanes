@@ -1,0 +1,375 @@
+{
+    "title": "Temps morts",
+    "introduction": "Une campagne permet aux personnages de se livrer à d'autres activités entre deux aventures. Laisser des jours, des semaines ou des mois entre les aventures étend la campagne sur une période de temps plus longue et permet de gérer la progression de niveau des personnages, les empêchant de prendre trop de puissance trop rapidement. Autoriser les personnages à poursuivre des intérêts secondaires entre les aventures les encourage également à plus s'investir dans le monde de la campagne. Quand un personnage est propriétaire d'une taverne dans un village ou passe du temps à faire la fête avec les habitants, le joueur de ce personnage est plus susceptible de réagir face aux menaces pesant sur le village et ses habitants.",
+    "sections": [
+        {
+            "title": "Plus d'activités de temps morts",
+            "content": "Le chapitre Partir à l'aventure du Manuel des Joueurs décrit quelques activités de temps morts pour combler le vide entre les aventures. Selon le style de votre campagne, les backgrounds et les intérêts particuliers des aventuriers, vous pouvez ajouter une partie ou la totalité des activités suivantes, en tant qu'option. Une activité ne doit jamais annuler la nécessité ou le désir des personnages de partir à l'aventure. Les activités qui ont un coût monétaire associé donnent des opportunités aux personnages de dépenser leur trésor durement gagné. Les activités qui révèlent de nouvelles accroches d'aventure et des faits précédemment inconnus sur votre campagne peuvent vous aider à préfigurer les événements et les conflits futurs. Pour une activité qu'un personnage peut répéter avec des degrés variables de succès, envisagez la création d'une table de résultat aléatoire, sur le modèle de celles décrites dans ce chapitre. Si un personnage appartient à une classe ou possède une maîtrise ou un historique qui se prête particulièrement à une activité spécifique, envisagez d'accorder un bonus aux jets de compétences effectués pour compléter cette activité avec succès."
+        },
+        {
+            "title": "Création d'activités de temps morts",
+            "content": "Vos joueurs pourraient être intéressés par poursuivre des activités de temps morts qui ne sont pas abordés dans ce chapitre ou dans le Manuel des Joueurs . Si vous inventez de nouvelles activités de temps morts, rappelez-vous ce qui suit : Une activité ne doit jamais annuler la nécessité ou le désir des personnages de partir à l'aventure. Les activités qui ont un coût monétaire associé donnent des opportunités aux personnages de dépenser leur trésor durement gagné. Les activités qui révèlent de nouvelles accroches d'aventure et des faits précédemment inconnus sur votre campagne peuvent vous aider à préfigurer les événements et les conflits futurs. Pour une activité qu'un personnage peut répéter avec des degrés variables de succès, envisagez la création d'une table de résultat aléatoire, sur le modèle de celles décrites dans ce chapitre. Si un personnage appartient à une classe ou possède une maîtrise ou un historique qui se prête particulièrement à une activité spécifique, envisagez d'accorder un bonus aux jets de compétences effectués pour compléter cette activité avec succès."
+        },
+        {
+            "title": "Dépenses récurrentes",
+            "content": "Outre les dépenses associées au maintien d'un train de vie particulier, les aventuriers peuvent avoir à régler des frais supplémentaires qui seront pris sur les revenus de leurs aventures. Les personnages joueurs qui entrent en possession de biens, possèdent des commerces et/ou des employés doivent couvrir les dépenses qui les accompagnent."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Place forte",
+                "Coût",
+                "Temps deconstruction",
+                "Abbaye",
+                "50 000 po",
+                "400 jours"
+            ],
+            "rows": [
+                {
+                    "Place forte": "Siège de guilde, ville ou cité",
+                    "Coût": "5 000 po",
+                    "Temps deconstruction": "60 jours"
+                },
+                {
+                    "Place forte": "Donjon ou petit château",
+                    "Coût": "50 000 po",
+                    "Temps deconstruction": "400 jours"
+                },
+                {
+                    "Place forte": "Propriété de noble avec manoir",
+                    "Coût": "25 000 po",
+                    "Temps deconstruction": "150 jours"
+                },
+                {
+                    "Place forte": "Avant poste ou fort",
+                    "Coût": "15 000 po",
+                    "Temps deconstruction": "100 jours"
+                },
+                {
+                    "Place forte": "Palace ou grand chateau",
+                    "Coût": "500 000 po",
+                    "Temps deconstruction": "1200 jours"
+                },
+                {
+                    "Place forte": "Temple",
+                    "Coût": "50 000 po",
+                    "Temps deconstruction": "400 jours"
+                },
+                {
+                    "Place forte": "Tour fortifiée",
+                    "Coût": "15 000 po",
+                    "Temps deconstruction": "100 jours"
+                },
+                {
+                    "Place forte": "Comptoir commercial",
+                    "Coût": "5 000 po",
+                    "Temps deconstruction": "60 jours"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d100+ niveau",
+                "Résultat",
+                "01-10",
+                "Vous êtes jeté en prison pour 1d4 jours à la fin du temps mort, accusé de trouble à l'ordre public et tapage. Vous pouvez payer une amende de 10 po pour éviter l'emprisonnement, ou tenter de résister."
+            ],
+            "rows": [
+                {
+                    "d100+ niveau": "11-20",
+                    "Résultat": "Vous reprenez conscience dans un endroit étrange sans savoir comment vous êtes arrivé là, et on vous a volé 3d6 x 5 po."
+                },
+                {
+                    "d100+ niveau": "21-30",
+                    "Résultat": "Vous vous êtes fait un ennemi. Cette personne, guilde ou organisation vous est maintenant hostile. Le MD détermine qui est offensé. Vous décidez ce que vous lui avait fait."
+                },
+                {
+                    "d100+ niveau": "31-40",
+                    "Résultat": "Vous êtes pris dans une romance passionnée. Jetez un d20. De 1 à 5, la romance se finit mal. De 6 à 10, elle se finie amicalement. De 11 à 20, elle est en cours. Vous déterminez l'identité de l'amoureux(se) transi(e), avec l'approbation de votre MD. Si la romance se finit mal, vous pouvez obtenir un nouveau défaut. Sinon, votre nouvel amour peut définir un nouveau lien."
+                },
+                {
+                    "d100+ niveau": "41-80",
+                    "Résultat": "Vous gagnez des gains modestes au jeu et récupérez les dépenses de votre style de vie pour le temps passé à faire la fête."
+                },
+                {
+                    "d100+ niveau": "81-90",
+                    "Résultat": "Vous gagnez des gains modestes au jeu. Vous récupérez les dépenses de votre style de vie pour le temps passé à faire la fête ainsi que 1d20 x 4 po."
+                },
+                {
+                    "d100+ niveau": "91 et plus",
+                    "Résultat": "Vous gagnez une petite fortune au jeu. Vous récupérez les dépenses de votre style de vie pour le temps passé à faire la fête ainsi que 4d6 x 10 po. Votre réussite devient une légende locale."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Rareté",
+                "Coût decréation",
+                "Niveauminimum",
+                "Commun",
+                "100 po",
+                "3"
+            ],
+            "rows": [
+                {
+                    "Rareté": "Peu commun",
+                    "Coût decréation": "500 po",
+                    "Niveauminimum": "3"
+                },
+                {
+                    "Rareté": "Rare",
+                    "Coût decréation": "5 000 po",
+                    "Niveauminimum": "6"
+                },
+                {
+                    "Rareté": "Très rare",
+                    "Coût decréation": "50 000 po",
+                    "Niveauminimum": "11"
+                },
+                {
+                    "Rareté": "Légendaire",
+                    "Coût decréation": "500 000 po",
+                    "Niveauminimum": "17"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d100+jours",
+                "Résultat",
+                "01-20",
+                "Vous devez payer une fois et demi les coûts d'entretien de l'entreprise pour chacun des jours."
+            ],
+            "rows": [
+                {
+                    "d100+jours": "21-30",
+                    "Résultat": "Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours."
+                },
+                {
+                    "d100+jours": "31-40",
+                    "Résultat": "Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié."
+                },
+                {
+                    "d100+jours": "41-60",
+                    "Résultat": "L'entreprise couvre ses propres frais d'entretien pour chacun des jours."
+                },
+                {
+                    "d100+jours": "61-80",
+                    "Résultat": "L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 1d6 x 5 po."
+                },
+                {
+                    "d100+jours": "81-90",
+                    "Résultat": "L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 2d8 x 5 po."
+                },
+                {
+                    "d100+jours": "91 ou +",
+                    "Résultat": "L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 3d10 x 5 po."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Rareté",
+                "Prix de base",
+                "Jour pour trouver un acheteur",
+                "Modificateur aujet du d100 *",
+                "Commun",
+                "100 po",
+                "1d4",
+                "+10"
+            ],
+            "rows": [
+                {
+                    "Rareté": "Peu commun",
+                    "Prix de base": "500 po",
+                    "Jour pour trouver un acheteur": "1d6",
+                    "Modificateur aujet du d100 *": "+0"
+                },
+                {
+                    "Rareté": "Rare",
+                    "Prix de base": "5 000 po",
+                    "Jour pour trouver un acheteur": "1d8",
+                    "Modificateur aujet du d100 *": "-10"
+                },
+                {
+                    "Rareté": "Très rare",
+                    "Prix de base": "50 000 po",
+                    "Jour pour trouver un acheteur": "1d10",
+                    "Modificateur aujet du d100 *": "-20"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d100+modificateur",
+                "Vous trouvez ...",
+                "20 ou moins",
+                "Un acheteur vous offrant un dixième du prix de base"
+            ],
+            "rows": [
+                {
+                    "d100+modificateur": "21-40",
+                    "Vous trouvez ...": "Un acheteur vous offrant un quart du prix de base, et un acheteur louche vous offrant la moitié du prix de base"
+                },
+                {
+                    "d100+modificateur": "41-80",
+                    "Vous trouvez ...": "Un acheteur vous offrant la moitié du prix de base, et un acheteur louche vous offrant le prix de base"
+                },
+                {
+                    "d100+modificateur": "81-90",
+                    "Vous trouvez ...": "Un acheteur vous offrant le prix de base"
+                },
+                {
+                    "d100+modificateur": "91 ou plus",
+                    "Vous trouvez ...": "Un acheteur louche vous offrant une fois et demi le prix de base, sans poser de question"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Taille de lacommunauté",
+                "Temps requis",
+                "Village",
+                "2d6 jours"
+            ],
+            "rows": [
+                {
+                    "Taille de lacommunauté": "Ville",
+                    "Temps requis": "4d6 jours"
+                },
+                {
+                    "Taille de lacommunauté": "Cité",
+                    "Temps requis": "6d6 jours"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau atteint",
+                "Temps de formation",
+                "Coût deformation",
+                "2 - 4",
+                "10 jours",
+                "20 po"
+            ],
+            "rows": [
+                {
+                    "Niveau atteint": "5 - 10",
+                    "Temps de formation": "20 jours",
+                    "Coût deformation": "40 po"
+                },
+                {
+                    "Niveau atteint": "11 - 16",
+                    "Temps de formation": "30 jours",
+                    "Coût deformation": "60 po"
+                },
+                {
+                    "Niveau atteint": "17 - 20",
+                    "Temps de formation": "40 jours",
+                    "Coût deformation": "80 po"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Propriété",
+                "Coût totalpar jour",
+                "Employésqualifiés",
+                "Employésnon qualifiés"
+            ],
+            "rows": [
+                {
+                    "Propriété": "Abbaye",
+                    "Coût totalpar jour": "20 po",
+                    "Employésqualifiés": "5",
+                    "Employésnon qualifiés": "25"
+                },
+                {
+                    "Propriété": "Ferme",
+                    "Coût totalpar jour": "5 pa",
+                    "Employésqualifiés": "1",
+                    "Employésnon qualifiés": "2"
+                },
+                {
+                    "Propriété": "Guilde en ville ou village",
+                    "Coût totalpar jour": "5 po",
+                    "Employésqualifiés": "5",
+                    "Employésnon qualifiés": "3"
+                },
+                {
+                    "Propriété": "Auberge en campagne",
+                    "Coût totalpar jour": "10 po",
+                    "Employésqualifiés": "5",
+                    "Employésnon qualifiés": "10"
+                },
+                {
+                    "Propriété": "Auberge en ville",
+                    "Coût totalpar jour": "5 po",
+                    "Employésqualifiés": "1",
+                    "Employésnon qualifiés": "5"
+                },
+                {
+                    "Propriété": "Place forte ou petit château",
+                    "Coût totalpar jour": "100 po",
+                    "Employésqualifiés": "50",
+                    "Employésnon qualifiés": "50"
+                },
+                {
+                    "Propriété": "Pavillon de chasse",
+                    "Coût totalpar jour": "5 pa",
+                    "Employésqualifiés": "1",
+                    "Employésnon qualifiés": "-"
+                },
+                {
+                    "Propriété": "Propriété de noble",
+                    "Coût totalpar jour": "10 po",
+                    "Employésqualifiés": "3",
+                    "Employésnon qualifiés": "15"
+                },
+                {
+                    "Propriété": "Avant-poste ou fortin",
+                    "Coût totalpar jour": "50 po",
+                    "Employésqualifiés": "20",
+                    "Employésnon qualifiés": "40"
+                },
+                {
+                    "Propriété": "Palais ou grand château",
+                    "Coût totalpar jour": "400 po",
+                    "Employésqualifiés": "200",
+                    "Employésnon qualifiés": "100"
+                },
+                {
+                    "Propriété": "Commerce",
+                    "Coût totalpar jour": "2 po",
+                    "Employésqualifiés": "1",
+                    "Employésnon qualifiés": "-"
+                },
+                {
+                    "Propriété": "Temple, grand",
+                    "Coût totalpar jour": "25 po",
+                    "Employésqualifiés": "10",
+                    "Employésnon qualifiés": "10"
+                },
+                {
+                    "Propriété": "Temple, petit",
+                    "Coût totalpar jour": "1 po",
+                    "Employésqualifiés": "2",
+                    "Employésnon qualifiés": "-"
+                },
+                {
+                    "Propriété": "Tour fortifiée",
+                    "Coût totalpar jour": "25 po",
+                    "Employésqualifiés": "10",
+                    "Employésnon qualifiés": "-"
+                },
+                {
+                    "Propriété": "Comptoir commercial",
+                    "Coût totalpar jour": "10 po",
+                    "Employésqualifiés": "4",
+                    "Employésnon qualifiés": "2"
+                }
+            ]
+        }
+    ]
+}

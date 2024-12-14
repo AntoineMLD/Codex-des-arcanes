@@ -1,0 +1,53 @@
+{
+    "title": "Tertre errant",
+    "prerequisites": "Plante de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/shambling-mound.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tertre-errant",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "136 (16d10 + 48)",
+        "Vitesse",
+        "6 m, nage 6 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Discrétion +2",
+        "Résistances aux dégâts",
+        "froid, feu",
+        "Immunités aux dégâts",
+        "foudre",
+        "Immunités aux états",
+        "aveuglé, assourdi, épuisement",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le tertre errant effectue deux attaques de coup. Si ces deux attaques touchent une cible de taille M ou inférieure, la cible est agrippée (évasion DD 14) et le tertre errant utilise son Engloutissement sur la cible.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Engloutissement. Le tertre errant engloutit une créature de taille M ou inférieure qu'il a agrippée. La cible engloutie est aveuglée, entravée, incapable de respirer, et elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant ou subir 13 (2d8 + 4) dégâts contondants. Si le tertre errant se déplace, la cible engloutie se déplace avec lui. Le tertre errant ne peut contenir qu'une seule créature engloutie à la fois."
+    ],
+    "actions": [
+        "Attaques multiples. Le tertre errant effectue deux attaques de coup. Si ces deux attaques touchent une cible de taille M ou inférieure, la cible est agrippée (évasion DD 14) et le tertre errant utilise son Engloutissement sur la cible.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Engloutissement. Le tertre errant engloutit une créature de taille M ou inférieure qu'il a agrippée. La cible engloutie est aveuglée, entravée, incapable de respirer, et elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant ou subir 13 (2d8 + 4) dégâts contondants. Si le tertre errant se déplace, la cible engloutie se déplace avec lui. Le tertre errant ne peut contenir qu'une seule créature engloutie à la fois."
+    ],
+    "reactions": []
+}

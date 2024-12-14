@@ -1,0 +1,47 @@
+{
+    "title": "Zombi ogre",
+    "prerequisites": "Mort-vivant de taille G, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ogre-zombie.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=zombi-ogre",
+    "stats": [
+        "Classe d'armure",
+        "8",
+        "Points de vie",
+        "85 (9d10 + 36)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "6 (-2)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "5 (-3)",
+        "Jets de sauvegarde",
+        "Sag +0",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "comprend le commun et le géant mais ne peut pas parler",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Morgenstern. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants."
+    ],
+    "actions": [
+        "Morgenstern. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants."
+    ],
+    "reactions": []
+}

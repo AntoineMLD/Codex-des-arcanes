@@ -1,0 +1,208 @@
+{
+    "title": "Dépenses",
+    "introduction": "Quand ils ne descendent pas dans les profondeurs de la terre, n'explorent pas des ruines à la recherche de trésors perdus, ou ne font pas la guerre contre les ténèbres envahissantes, les aventuriers sont confrontés à des réalités plus terre à terre. Même dans un monde fantastique, les gens ont des besoins de première nécessité tels que le logement, la subsistance et les vêtements. Ces choses coûtent de l'argent, même si certains trains de vie coûtent plus cher que d'autres.",
+    "sections": [
+        {
+            "title": "Train de vie",
+            "content": "Le train de vie vous offre un moyen simple de prendre en compte le coût de la vie dans un monde de fantastique. Il couvre l'hébergement, la nourriture, la boisson et tout autre besoin. En outre, ces frais couvrent le coût d'entretien de votre équipement afin d'être prêt pour de nouvelles aventures. Au début de chaque semaine ou chaque mois (selon votre choix), choisissez un train de vie à partir de la table ci-dessous et payer le prix pour le maintenir. Les prix indiqués sont par jour, donc si vous souhaitez calculer le coût de votre train vie pour une période de trente jours, multipliez le prix par 30. Votre vie peut changer d'une période à l'autre, en fonction des fonds que vous avez à votre disposition, ou vous pouvez maintenir le même train de vie tout au long de la carrière de votre personnage."
+        },
+        {
+            "title": "Nourriture, boissons et hébergement",
+            "content": "La table suivante donne les prix de certains produits alimentaires et du logement pour une seule nuit. Ces prix sont inclus dans le coût total du train de vie."
+        },
+        {
+            "title": "Services",
+            "content": "AUTO SUFFISANCE Les dépenses et les trains de vie décrits dans ce chapitre supposent que vous passez votre temps entre deux aventures en ville, ce qui vous permet d'avoir accès à tous les services que vous pouvez vous payer - nourriture, logement, payer des citadins pour aiguiser votre épée ou réparer votre armure, et ainsi de suite. Certains personnages, cependant, peuvent préférer passer leur temps loin de la civilisation, se maintenant au sein de la nature par la chasse, la recherche de nourriture, et réparant eux-mêmes leur propre équipement. Maintenir ce genre de vie n'exige pas de dépenser de l'argent, mais demande du temps. Si vous passez votre temps entre deux aventures à exercer une profession, comme décrit dans le chapitre Partir à l'aventure , vous pouvez gagner l'équivalent d'un train de vie pauvre. Maîtriser la compétence Survie vous permet de maintenir l'équivalent d'un train de vie confortable."
+        },
+        {
+            "title": "Services magiques",
+            "content": "Les personnes qui sont en mesure de lancer des sorts ne tombent pas dans la catégorie des services ordinaires. Car, bien qu'il soit possible de trouver quelqu'un prêt à lancer un sort contre monnaies sonnantes et trébuchantes ou des faveurs, ceci est rare et aucune référence de prix n’existe. En règle générale, plus le niveau du sort désiré est élevé, plus il est difficile de trouver quelqu'un qui peut le lancer, et plus cela coûte cher."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Train de vie",
+                "Coût/jour"
+            ],
+            "rows": [
+                {
+                    "Train de vie": "Misérable",
+                    "Coût/jour": "-"
+                },
+                {
+                    "Train de vie": "Sordide",
+                    "Coût/jour": "1 pa"
+                },
+                {
+                    "Train de vie": "Pauvre",
+                    "Coût/jour": "2 pa"
+                },
+                {
+                    "Train de vie": "Modeste",
+                    "Coût/jour": "1 po"
+                },
+                {
+                    "Train de vie": "Confortable",
+                    "Coût/jour": "2 po"
+                },
+                {
+                    "Train de vie": "Riche",
+                    "Coût/jour": "4 po"
+                },
+                {
+                    "Train de vie": "Aristocratique",
+                    "Coût/jour": "10 po min"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Objet",
+                "Prix"
+            ],
+            "rows": [
+                {
+                    "Objet": "Auberge (par jour)",
+                    "Prix": ""
+                },
+                {
+                    "Objet": "Sordide",
+                    "Prix": "7 pc"
+                },
+                {
+                    "Objet": "Pauvre",
+                    "Prix": "1 pa"
+                },
+                {
+                    "Objet": "Modeste",
+                    "Prix": "5 pa"
+                },
+                {
+                    "Objet": "Confortable",
+                    "Prix": "8 pa"
+                },
+                {
+                    "Objet": "Riche",
+                    "Prix": "2 po"
+                },
+                {
+                    "Objet": "Aristocratique",
+                    "Prix": "4 po"
+                },
+                {
+                    "Objet": "Banquet (par personne)",
+                    "Prix": "10 po"
+                },
+                {
+                    "Objet": "Bière",
+                    "Prix": ""
+                },
+                {
+                    "Objet": "Chope",
+                    "Prix": "4 pc"
+                },
+                {
+                    "Objet": "Cruche",
+                    "Prix": "2 pa"
+                },
+                {
+                    "Objet": "Fromage, gros morceau",
+                    "Prix": "1 pa"
+                },
+                {
+                    "Objet": "Pain, miche",
+                    "Prix": "2 pc"
+                },
+                {
+                    "Objet": "Repas (par jour)",
+                    "Prix": ""
+                },
+                {
+                    "Objet": "Sordide",
+                    "Prix": "3 pc"
+                },
+                {
+                    "Objet": "Pauvre",
+                    "Prix": "6 pc"
+                },
+                {
+                    "Objet": "Modeste",
+                    "Prix": "3 pa"
+                },
+                {
+                    "Objet": "Confortable",
+                    "Prix": "5 pa"
+                },
+                {
+                    "Objet": "Riche",
+                    "Prix": "8 pa"
+                },
+                {
+                    "Objet": "Aristocratique",
+                    "Prix": "2 po"
+                },
+                {
+                    "Objet": "Viande, gros morceau",
+                    "Prix": "3 pa"
+                },
+                {
+                    "Objet": "Vin",
+                    "Prix": ""
+                },
+                {
+                    "Objet": "Ordinaire (pichet)",
+                    "Prix": "2 pa"
+                },
+                {
+                    "Objet": "Fin (bouteille)",
+                    "Prix": "10 po"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Service",
+                "Prix"
+            ],
+            "rows": [
+                {
+                    "Service": "Embauche",
+                    "Prix": ""
+                },
+                {
+                    "Service": "Non qualifié",
+                    "Prix": "2 pa par jour"
+                },
+                {
+                    "Service": "Qualifié",
+                    "Prix": "2 po par jour"
+                },
+                {
+                    "Service": "Messager",
+                    "Prix": "2 pc par 1,5 kilomètre"
+                },
+                {
+                    "Service": "Péage routier ou porte",
+                    "Prix": "1 pc"
+                },
+                {
+                    "Service": "Transport",
+                    "Prix": ""
+                },
+                {
+                    "Service": "En ville",
+                    "Prix": "1 pc"
+                },
+                {
+                    "Service": "Entre deux villes",
+                    "Prix": "3 pc par 1,5 kilomètre"
+                },
+                {
+                    "Service": "Voyage en bateau",
+                    "Prix": "1 pa par 1,5 kilomètre"
+                }
+            ]
+        }
+    ]
+}

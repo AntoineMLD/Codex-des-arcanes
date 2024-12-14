@@ -1,0 +1,42 @@
+{
+    "title": "Serviteur miniature",
+    "prerequisites": "Artificiel de taille TP, sans alignement",
+    "description": "Voir le sort",
+    "source": "Rules (Xanathar´s Guide to Everything)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=serviteur-miniature",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "10 (4d4)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "4 (-3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison, psychique",
+        "Immunités aux états",
+        "aveuglé, charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, empoisonné",
+        "Sens",
+        "blindsight 60 ft. (blind beyond this radius), passive Perception 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "-"
+    ],
+    "actions": [
+        "Coup. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4) dégâts contondants."
+    ],
+    "reactions": []
+}

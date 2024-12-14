@@ -1,0 +1,41 @@
+{
+    "title": "Scarabée de feu géant",
+    "prerequisites": "Bête de taille P, sans alignement",
+    "description": "La scarabée de feu géant est une créature nocturne possédant deux glandes au-dessus des yeux, qui produisent de la lumière pendant encore 1d6 jours après que celle-ci soit morte.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/giant-fire-beetle.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=scarabee-de-feu-geant",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "4 (1d6 + 1)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "3 (-4)",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts tranchants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d6 - 1) dégâts tranchants."
+    ],
+    "reactions": []
+}

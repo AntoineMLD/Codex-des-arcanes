@@ -1,0 +1,49 @@
+{
+    "title": "Blême",
+    "prerequisites": "Mort-vivant de taille M, chaotique mauvais",
+    "description": "Les blêmes sont des goules auxquelles le prince démon Orcus imprègne plus d'énergie abyssale, ce qui entre autres les rend plus rusées.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ghast.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=bleme",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "36 (8d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Résistances aux dégâts",
+        "nécrotique",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10 ou être paralysée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 12 (2d8 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10 ou être paralysée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 12 (2d8 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

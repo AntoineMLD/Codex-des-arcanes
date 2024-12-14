@@ -1,0 +1,47 @@
+{
+    "title": "Quaggoth, serviteur des spores",
+    "prerequisites": "Plante de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=quaggoth-serviteur-des-spores",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "45 (6d8 + 18)",
+        "Vitesse",
+        "6 m, escalade 6 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "aveuglé, charmé, effrayé, paralysé, empoisonné",
+        "Sens",
+        "vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le serviteur des spores effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Le serviteur des spores effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

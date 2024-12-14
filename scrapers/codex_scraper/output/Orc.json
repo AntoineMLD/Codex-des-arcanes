@@ -1,0 +1,45 @@
+{
+    "title": "Orc",
+    "prerequisites": "Humanoïde (orc) de taille M, chaotique mauvais",
+    "description": "Les orcs sont des humanoïdes sauvages qui ont une posture voûtée, des visages grossiers et des dents proéminentes qui ressemblent à des défenses. Ils se rassemblent en tribus qui étanchent leur soif de sang en attaquant tous les humanoïdes qu'ils croisent.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/orc.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=orc",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure de peaux)",
+        "Points de vie",
+        "15 (2d8 + 6)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Intimidation +2",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, orc",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +5 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

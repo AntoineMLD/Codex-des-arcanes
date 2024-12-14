@@ -1,0 +1,53 @@
+{
+    "title": "Cambion",
+    "prerequisites": "Fiélon de taille M, tout alignement mauvais",
+    "description": "Un cambion est la progéniture d'un démon (généralement une succube ou un incube) et d'un humanoïde (généralement un humain).",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/cambion.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cambion",
+    "stats": [
+        "Classe d'armure",
+        "19 (armure d'écailles)",
+        "Points de vie",
+        "82 (11d8 + 33)",
+        "Vitesse",
+        "9 m, vol 18 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "18 (+4)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "For +7, Con +6, Int +5, Cha +6",
+        "Compétences",
+        "Discrétion +7, Intimidation +6, Perception +4, Tromperie +6",
+        "Résistances aux dégâts",
+        "foudre, feu, froid, poison ; contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "abyssal, commun, infernal",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le cambion effectue deux attaques au corps à corps, ou utilise deux fois son Rayon de feu.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/12 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants, ou 8 (1d8 + 4) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps, plus 3 (1d6) dégâts de feu.",
+        "Rayon de feu. Attaque à distance avec un sort : +7 au toucher, portée 36 m, une cible. Touché : 10 (3d6) dégâts de feu.",
+        "Charme satanique. Un humanoïde situé à 9 mètres ou moins du cambion et qu'il peut voir doit réussir un jet de sauvegarde de Sagesse DD 14 ou être charmé par magie pendant 1 journée. La cible charmée obéit aux paroles du cambion. Si la cible subit des dégâts de la part du cambion ou d'une autre créature, ou reçoit un ordre suicidaire de la part du cambion, elle peut retenter le jet de sauvegarde, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Charme satanique du cambion pendant les prochaines 24 heures."
+    ],
+    "actions": [
+        "Attaques multiples. Le cambion effectue deux attaques au corps à corps, ou utilise deux fois son Rayon de feu.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/12 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants, ou 8 (1d8 + 4) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps, plus 3 (1d6) dégâts de feu.",
+        "Rayon de feu. Attaque à distance avec un sort : +7 au toucher, portée 36 m, une cible. Touché : 10 (3d6) dégâts de feu.",
+        "Charme satanique. Un humanoïde situé à 9 mètres ou moins du cambion et qu'il peut voir doit réussir un jet de sauvegarde de Sagesse DD 14 ou être charmé par magie pendant 1 journée. La cible charmée obéit aux paroles du cambion. Si la cible subit des dégâts de la part du cambion ou d'une autre créature, ou reçoit un ordre suicidaire de la part du cambion, elle peut retenter le jet de sauvegarde, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Charme satanique du cambion pendant les prochaines 24 heures."
+    ],
+    "reactions": []
+}

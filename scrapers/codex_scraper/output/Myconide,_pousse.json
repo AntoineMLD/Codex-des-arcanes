@@ -1,0 +1,43 @@
+{
+    "title": "Myconide, pousse",
+    "prerequisites": "Plante de taille P, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=myconide-pousse",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "7 (2d6)",
+        "Vitesse",
+        "3 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Poing. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 - 1) dégâts contondants + 2 (1d4) dégâts de poison.",
+        "Spores de communication (3/jour). Des spores sont envoyées dans toutes les directions dans un rayon de 3 mètres autour du myconide. Ces spores contournent les angles de mur et n'affectent que les créatures possédant une valeur d'Intelligence de 2 ou supérieure et qui ne sont ni des morts-vivants, ni des artificiels, ni des élémentaires. Les créatures affectées peuvent communiquer par télépathie avec une autre créature affectée tant qu'elles se trouvent à 9 mètres ou moins l'une de l'autre. Cet effet reste effectif pendant 1 heure."
+    ],
+    "actions": [
+        "Poing. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 - 1) dégâts contondants + 2 (1d4) dégâts de poison.",
+        "Spores de communication (3/jour). Des spores sont envoyées dans toutes les directions dans un rayon de 3 mètres autour du myconide. Ces spores contournent les angles de mur et n'affectent que les créatures possédant une valeur d'Intelligence de 2 ou supérieure et qui ne sont ni des morts-vivants, ni des artificiels, ni des élémentaires. Les créatures affectées peuvent communiquer par télépathie avec une autre créature affectée tant qu'elles se trouvent à 9 mètres ou moins l'une de l'autre. Cet effet reste effectif pendant 1 heure."
+    ],
+    "reactions": []
+}

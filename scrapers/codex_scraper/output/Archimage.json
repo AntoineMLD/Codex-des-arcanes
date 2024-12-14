@@ -1,0 +1,51 @@
+{
+    "title": "Archimage",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les archimages sont de puissants (et généralement assez âgés) lanceurs de sorts qui consacrent leur vie à l'étude des arcanes. Les plus bienveillants d'entre eux conseillent les rois et les reines, tandis que les malveillants règnent en tyrans et cherchent à devenir des liches. Ceux qui ne tendent ni vers le bien, ni vers le mal, s'enferment dans des tours isolées afin de pratiquer leur magie sans risque d'être dérangés.Un archimage a généralement un ou plusieurs apprentis, et sa demeure possède de nombreux gardiens et protections magiques destinés à décourager les intrus.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/archmage.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=archimage",
+    "stats": [
+        "Classe d'armure",
+        "12 (15 avec",
+        "armure de mage",
+        ")",
+        "Points de vie",
+        "99 (18d8 + 18)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "20 (+5)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "Int +9, Sag +6",
+        "Compétences",
+        "Arcanes +13, Histoire +13",
+        "Résistances aux dégâts",
+        "dégâts des sorts ; contondant, perforant et tranchant non magiques (sort",
+        "peau de pierre",
+        ")",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "six langues au choix",
+        "Puissance",
+        "12 (8400 PX)"
+    ],
+    "skills": [
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,190 @@
+{
+    "title": "Autres récompenses",
+    "etats": [
+        {
+            "etat": "Bénédictions",
+            "description": [
+                "Restaurer le sanctuaire le plus sacré d'un dieu",
+                "Déjouer un extraordinaire complot élaboré par les ennemis d'un dieu",
+                "Aider le serviteur élu d'un dieu à terminer une quête sainte"
+            ]
+        },
+        {
+            "etat": "Charmes",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Lettres de recommandation",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Médailles",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Terres",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Faveurs spéciales",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Droits spéciaux",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Forteresses",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Titres",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Entraînements",
+            "description": [
+                "Le personnage gagne une inspiration tous les soirs durant 1d4+6 jours.",
+                "Le personnage obtient la maîtrise d'une compétence.",
+                "Le personnage gagne un don."
+            ]
+        },
+        {
+            "etat": "Avantage d'attaque irrésistible",
+            "description": []
+        },
+        {
+            "etat": "Avantage d'immortalité",
+            "description": []
+        },
+        {
+            "etat": "Avantage d'incantation rapide",
+            "description": []
+        },
+        {
+            "etat": "Avantage d'invincibilité",
+            "description": []
+        },
+        {
+            "etat": "Avantage de chance",
+            "description": []
+        },
+        {
+            "etat": "Avantage de déplacement dimensionnel",
+            "description": []
+        },
+        {
+            "etat": "Avantage de discrétion suprême",
+            "description": []
+        },
+        {
+            "etat": "Avantage de haute magie",
+            "description": []
+        },
+        {
+            "etat": "Avantage de l'insaisissable",
+            "description": []
+        },
+        {
+            "etat": "Avantage de l'âme ardente",
+            "description": []
+        },
+        {
+            "etat": "Avantage de l'élu des tempêtes",
+            "description": []
+        },
+        {
+            "etat": "Avantage de l'esprit nocturne",
+            "description": []
+        },
+        {
+            "etat": "Avantage de maîtrise des compétences",
+            "description": []
+        },
+        {
+            "etat": "Avantage de maîtrise des sorts",
+            "description": []
+        },
+        {
+            "etat": "Avantage de mémoire des sorts",
+            "description": []
+        },
+        {
+            "etat": "Avantage de parfaite santé",
+            "description": []
+        },
+        {
+            "etat": "Avantage de prouesse au combat",
+            "description": []
+        },
+        {
+            "etat": "Avantage de récupération",
+            "description": []
+        },
+        {
+            "etat": "Avantage de résistance",
+            "description": []
+        },
+        {
+            "etat": "Avantage de résistance à la magie",
+            "description": []
+        },
+        {
+            "etat": "Avantage de tir infaillible",
+            "description": []
+        },
+        {
+            "etat": "Avantage de vigueur",
+            "description": []
+        },
+        {
+            "etat": "Avantage de vision véritable",
+            "description": []
+        },
+        {
+            "etat": "Avantage de vitesse",
+            "description": []
+        },
+        {
+            "etat": "Avantage de voyage planaire",
+            "description": []
+        },
+        {
+            "etat": "Avantage du destin",
+            "description": []
+        }
+    ],
+    "exhaustion": null
+}

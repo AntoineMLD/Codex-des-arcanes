@@ -1,0 +1,51 @@
+{
+    "title": "Golem de fer",
+    "prerequisites": "Artificiel de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/iron-golem.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=golem-de-fer",
+    "stats": [
+        "Classe d'armure",
+        "20 (armure naturelle)",
+        "Points de vie",
+        "210 (20d10 + 100)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "24 (+7)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "feu, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium",
+        "Immunités aux états",
+        "charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "comprend les langues de son créateur mais ne peut pas parler",
+        "Puissance",
+        "16 (15000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le golem effectue deux attaques au corps à corps.",
+        "Coup. Attaque au corps à corps avec une arme : +13 au toucher, allonge 1,50 m, une cible. Touché : 20 (3d8 + 7) dégâts contondants.",
+        "Épée. Attaque au corps à corps avec une arme : +13 au toucher, allonge 3 m, une cible. Touché : 23 (3d10 + 7) dégâts tranchants.",
+        "Souffle empoisonné (Recharge 6). Le golem crache un gaz empoisonné dans un cône de 4,50 mètres. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 19, subissant 45 (10d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le golem effectue deux attaques au corps à corps.",
+        "Coup. Attaque au corps à corps avec une arme : +13 au toucher, allonge 1,50 m, une cible. Touché : 20 (3d8 + 7) dégâts contondants.",
+        "Épée. Attaque au corps à corps avec une arme : +13 au toucher, allonge 3 m, une cible. Touché : 23 (3d10 + 7) dégâts tranchants.",
+        "Souffle empoisonné (Recharge 6). Le golem crache un gaz empoisonné dans un cône de 4,50 mètres. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 19, subissant 45 (10d8) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Faucon",
+    "prerequisites": "Bête de taille TP, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hawk.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=faucon",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "1 (1d4 - 1)",
+        "Vitesse",
+        "3 m, vol 18 m",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "8 (-1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât tranchant."
+    ],
+    "actions": [
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât tranchant."
+    ],
+    "reactions": []
+}

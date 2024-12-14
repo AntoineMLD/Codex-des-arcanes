@@ -1,0 +1,53 @@
+{
+    "title": "Arcanaloth",
+    "prerequisites": "Fiélon (yugoloth) de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/arcanaloth.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=arcanaloth",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "104 (16d8 + 32)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "20 (+5)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "17 (+3)",
+        "Jets de sauvegarde",
+        "Dex +5, Int +9, Sag +7, Cha +7",
+        "Compétences",
+        "Arcanes +13, Intuition +9, Perception +7, Tromperie +9",
+        "Résistances aux dégâts",
+        "froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "acide, poison",
+        "Immunités aux états",
+        "charmé, empoisonné",
+        "Sens",
+        "vision véritable 36 m, Perception passive 17",
+        "Langues",
+        "toutes, télépathie 36 m",
+        "Puissance",
+        "12 (8400 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts tranchants. La cible doit effectuer un jet de sauvegarde de Constitution DD 14, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Téléportation. L'arcanaloth se téléporte magiquement, avec tout l'équipement qu'il porte ou transporte, vers un espace inoccupé qu'il peut voir et situé dans un rayon de 18 mètres autour de lui."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 8 (2d4 + 3) dégâts tranchants. La cible doit effectuer un jet de sauvegarde de Constitution DD 14, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Téléportation. L'arcanaloth se téléporte magiquement, avec tout l'équipement qu'il porte ou transporte, vers un espace inoccupé qu'il peut voir et situé dans un rayon de 18 mètres autour de lui."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Thri-kreen",
+    "prerequisites": "Humanoïde (thri-kreen) de taille M, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/thri-kreen.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=thri-kreen",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Discrétion +4, Perception +3, Survie +3",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "thri-kreen",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le thri-kreen effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 11 ou être empoisonnée pendant 1 minute. Si le jet de sauvegarde est raté de 5 points ou plus, la cible est aussi paralysée pendant la même durée. La cible empoisonnée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le thri-kreen effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 6 (2d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 11 ou être empoisonnée pendant 1 minute. Si le jet de sauvegarde est raté de 5 points ou plus, la cible est aussi paralysée pendant la même durée. La cible empoisonnée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet en cas de réussite."
+    ],
+    "reactions": []
+}

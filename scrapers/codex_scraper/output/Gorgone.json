@@ -1,0 +1,49 @@
+{
+    "title": "Gorgone",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/gorgon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gorgone",
+    "stats": [
+        "Classe d'armure",
+        "19 (armure naturelle)",
+        "Points de vie",
+        "114 (12d10 + 48)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +4",
+        "Immunités aux états",
+        "pétrifiée",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "—",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Corne. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 18 (2d12 + 5) dégâts perforants.",
+        "Sabots. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants.",
+        "Souffle pétrifiant (Recharge 5-6). La gorgone exhale un gaz pétrifiant dans un cône de 9 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, la cible commence à se transformer en pierre et est entravée. La cible entravée doit réitérer le jet de sauvegarde à la fin de son tour suivant. En cas de réussite, l'effet se termine pour la cible. En cas d'échec, la cible est pétrifiée jusqu'à ce qu'elle soit libérée par un sort de restauration supérieure ou par une magie similaire."
+    ],
+    "actions": [
+        "Corne. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 18 (2d12 + 5) dégâts perforants.",
+        "Sabots. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 16 (2d10 + 5) dégâts contondants.",
+        "Souffle pétrifiant (Recharge 5-6). La gorgone exhale un gaz pétrifiant dans un cône de 9 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, la cible commence à se transformer en pierre et est entravée. La cible entravée doit réitérer le jet de sauvegarde à la fin de son tour suivant. En cas de réussite, l'effet se termine pour la cible. En cas d'échec, la cible est pétrifiée jusqu'à ce qu'elle soit libérée par un sort de restauration supérieure ou par une magie similaire."
+    ],
+    "reactions": []
+}

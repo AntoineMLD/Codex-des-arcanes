@@ -1,0 +1,72 @@
+{
+    "title": "Objets",
+    "introduction": "Lorsque les personnages ont besoin de trancher des cordes, de briser une vitre ou de fracasser le cercueil d'un vampire, la seule règle absolue est la suivante : s'ils disposent de suffisamment de temps et des bons outils, les personnages peuvent détruire tout objet destructible. Utilisez votre bon sens lorsque vous déterminez si un personnage parvient à endommager un objet. Est-ce qu'un guerrier peut se tailler à coups d'épée un passage dans un mur de pierre ? Non, l'épée se brisera vraisemblablement avant le mur. Pour qu'il soit concerné par les règles suivantes, un objet doit être individualisable et inanimé, comme une fenêtre, une porte, une épée, un livre, une table, une chaise, ou de la pierre, mais pas un bâtiment ou un véhicule qui sont composés de nombreux autres objets.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Matériau",
+                "CA"
+            ],
+            "rows": [
+                {
+                    "Matériau": "Tissu, papier, corde",
+                    "CA": "11"
+                },
+                {
+                    "Matériau": "Cristal, verre, glace",
+                    "CA": "13"
+                },
+                {
+                    "Matériau": "Bois, os",
+                    "CA": "15"
+                },
+                {
+                    "Matériau": "Pierre",
+                    "CA": "17"
+                },
+                {
+                    "Matériau": "Fer, acier",
+                    "CA": "19"
+                },
+                {
+                    "Matériau": "Mithral",
+                    "CA": "21"
+                },
+                {
+                    "Matériau": "Adamantium",
+                    "CA": "23"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Taille",
+                "Fragile",
+                "Résistant"
+            ],
+            "rows": [
+                {
+                    "Taille": "Très Petite (bouteille, serrure)",
+                    "Fragile": "2 (1d4)",
+                    "Résistant": "5 (2d4)"
+                },
+                {
+                    "Taille": "Petite (coffre, luth)",
+                    "Fragile": "3 (1d6)",
+                    "Résistant": "10 (3d6)"
+                },
+                {
+                    "Taille": "Moyenne (tonneau, chandelier)",
+                    "Fragile": "4 (1d8)",
+                    "Résistant": "18 (4d8)"
+                },
+                {
+                    "Taille": "Grande (charriot, fenêtre de 3 m x 3 m)",
+                    "Fragile": "5 (1d10)",
+                    "Résistant": "27 (5d10)"
+                }
+            ]
+        }
+    ]
+}

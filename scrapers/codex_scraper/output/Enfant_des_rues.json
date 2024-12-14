@@ -1,0 +1,143 @@
+{
+    "title": "Enfant des rues",
+    "introduction": "Vous avez grandi seul dans la rue, orphelin et pauvre. Vous n'aviez personne pour vous surveiller ni pour subvenir à vos besoins, vous avez donc tout appris par vous-même. Vous vous êtes battu férocement pour obtenir votre nourriture et gardiez constamment un œil sur d'autres âmes abandonnées comme vous qui n'espéraient qu'un bon moment pour vous voler. Vous dormiez sur des toits ou dans des rues, exposé aux intempéries, et vous avez vaincu la maladie à de nombreuses reprises, sans aucune médecine ni aucun endroit pour vous récupérer. Vous avez survécu en dépit de tous les pronostiques, ce qui vous a rendu rusé, fort ou rapide, voire un peu tout cela à la fois.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je cache des restes de nourriture et des babioles dans mes poches."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je pose beaucoup de questions."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "J'aime me glisser dans des espaces étroits, là où personne ne peut m'atteindre."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je dors le dos contre un mur ou un arbre, avec tout ce que je possède empaqueté entre mes bras."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je mange comme un cochon et j'ai de mauvaises manières."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Je pense que tous ceux qui sont gentils avec moi ont en réalité une mauvaise intention."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Je n'aime pas me laver."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Je dis crûment ce que les autres insinuent ou cachent."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Respect. Tout le monde, pauvre ou riche, mérite d'être respecté (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Communauté. Nous devons prendre soin les uns des autres, parce que personne d'autre ne le fera (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Changement. Les faibles doivent s'élever, et les élites et les puissants doivent être mis à terre. Le changement est dans la nature des choses (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Châtiment Les riches ont besoin qu'on leur montre que la vie et la mort ne font pas de différence avec ceux qui vivent dans le caniveau (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Peuple. J'aide ceux qui m'aident, c'est ce qui nous permet de rester en vie (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Aspiration. Je vais leur montrer que je mérite une vie meilleure (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Ma ville, ou ma cité, est ma maison, et je me battrai pour la défendre."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Je finance un orphelinat pour éviter que d'autres subissent la même chose que moi."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Je dois ma survie à un autre enfant des rues qui m'a appris à vivre sans abris."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "J'ai une dette que je ne pourrai jamais rembourser envers la personne qui m'a prise en pitié."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "J'ai échappé à mon sort en volant une personne très importante, et je suis recherché pour cela."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Personne d'autre ne peut endurer les épreuves que j'ai surmontées."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Si je suis en infériorité numérique, je fuis le combat."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "L'or me paraît être une énorme quantité d'argent, et je ferai n'importe quoi pour en obtenir toujours plus."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Je ne ferai jamais pleinement confiance à quelqu'un d'autre qu'à moi-même."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Je préfère tuer quelqu'un dans son sommeil plutôt que de combattre à la loyale."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Ce n'est pas du vol si j'en ai plus besoin que quelqu'un d'autre."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Les gens qui ne peuvent pas prendre soin d'eux-même n'ont que ce qu'ils méritent."
+                }
+            ]
+        }
+    ]
+}

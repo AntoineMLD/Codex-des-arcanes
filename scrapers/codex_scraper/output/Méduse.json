@@ -1,0 +1,49 @@
+{
+    "title": "Méduse",
+    "prerequisites": "Monstruosité de taille M, loyal mauvais",
+    "description": "Victime d'une terrible malédiction, la méduse à la chevelure venimeuse pétrifie tous ceux qui posent le regard sur elle, et les transforme en statues de pierre à la gloire de sa dépravation.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/medusa.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=meduse",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "127 (17d8 + 51)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "15 (+2)",
+        "Compétences",
+        "Discrétion +5, Intuition +4, Perception +4, Tromperie +5",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "commun",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La méduse effectue soit trois attaques au corps à corps (une avec sa chevelure venimeuse et deux avec son épée courte), soit deux attaques à distance avec son arc long.",
+        "Chevelure venimeuse. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants + 14 (4d6) de poison.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arc Long. Attaque à distance avec une arme : +5 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants + 7 (2d6) de poison."
+    ],
+    "actions": [
+        "Attaques multiples. La méduse effectue soit trois attaques au corps à corps (une avec sa chevelure venimeuse et deux avec son épée courte), soit deux attaques à distance avec son arc long.",
+        "Chevelure venimeuse. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants + 14 (4d6) de poison.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arc Long. Attaque à distance avec une arme : +5 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants + 7 (2d6) de poison."
+    ],
+    "reactions": []
+}

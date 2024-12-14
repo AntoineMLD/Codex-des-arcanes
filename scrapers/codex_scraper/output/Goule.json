@@ -1,0 +1,47 @@
+{
+    "title": "Goule",
+    "prerequisites": "Mort-vivant de taille M, chaotique mauvais",
+    "description": "Avec leurs crocs aiguisés et leurs griffes dentelées, les goules errent en meute dans la nuit, poussées par un insatiable appétit de chair humanoïde. Les premières goules ont été créées dans les Abysses par le prince-démon Orcus.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ghoul.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=goule",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "6 (-2)",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, empoisonné, épuisement",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, celle-ci doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être paralysée pendant 1 minute. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, celle-ci doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être paralysée pendant 1 minute. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite.",
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

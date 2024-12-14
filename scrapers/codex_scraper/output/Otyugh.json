@@ -1,0 +1,49 @@
+{
+    "title": "Otyugh",
+    "prerequisites": "Aberration de taille G, neutre",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/otyugh.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=otyugh",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "114 (12d10 + 48)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "19 (+4)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Jets de sauvegarde",
+        "Con +7",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "otyugh",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'otyugh effectue trois attaques : une de morsure et deux avec ses tentacules.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d8 + 3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 15 contre la maladie ou être empoisonnée jusqu'à ce que la maladie soit soignée. Chaque fois que 24 heures viennent de s'écouler, la cible doit relancer ce jet de sauvegarde, réduisant son maximum de points de vie de 5 (1d10) en cas d'échec. Cette maladie est soignée en cas de réussite. La cible meurt si la maladie réduit son maximum de points de vie à 0. Cette réduction du maximum de points de vie de la cible est effective jusqu'à ce que la maladie soit soignée.",
+        "Tentacule. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants + 4 (1d8) dégâts perforants. Si la cible est de taille M ou inférieure, elle est agrippée (évasion DD 13) et entravée jusqu'à ce qu'elle ne soit plus agrippée. L'otyugh a deux tentacules, chacune d'elle peut agripper une cible.",
+        "Frappe tentaculaire. L'otyugh frappe les créatures agrippées entre elles ou sur une surface solide. Chaque créature doit réussir un jet de sauvegarde de Constitution DD 14, ou subir 10 (2d6 + 3) dégâts contondants et être étourdie jusqu'à la fin du prochain tour de l'otyugh. En cas de jet de sauvegarde réussi, les cibles ne subissent que la moitié des dégâts contondants et ne sont pas étourdies."
+    ],
+    "actions": [
+        "Attaques multiples. L'otyugh effectue trois attaques : une de morsure et deux avec ses tentacules.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d8 + 3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 15 contre la maladie ou être empoisonnée jusqu'à ce que la maladie soit soignée. Chaque fois que 24 heures viennent de s'écouler, la cible doit relancer ce jet de sauvegarde, réduisant son maximum de points de vie de 5 (1d10) en cas d'échec. Cette maladie est soignée en cas de réussite. La cible meurt si la maladie réduit son maximum de points de vie à 0. Cette réduction du maximum de points de vie de la cible est effective jusqu'à ce que la maladie soit soignée.",
+        "Tentacule. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 7 (1d8 + 3) dégâts contondants + 4 (1d8) dégâts perforants. Si la cible est de taille M ou inférieure, elle est agrippée (évasion DD 13) et entravée jusqu'à ce qu'elle ne soit plus agrippée. L'otyugh a deux tentacules, chacune d'elle peut agripper une cible.",
+        "Frappe tentaculaire. L'otyugh frappe les créatures agrippées entre elles ou sur une surface solide. Chaque créature doit réussir un jet de sauvegarde de Constitution DD 14, ou subir 10 (2d6 + 3) dégâts contondants et être étourdie jusqu'à la fin du prochain tour de l'otyugh. En cas de jet de sauvegarde réussi, les cibles ne subissent que la moitié des dégâts contondants et ne sont pas étourdies."
+    ],
+    "reactions": []
+}

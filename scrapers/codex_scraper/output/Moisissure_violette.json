@@ -1,0 +1,45 @@
+{
+    "title": "Moisissure violette",
+    "prerequisites": "Plante de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/violet-fungus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=moisissure-violette",
+    "stats": [
+        "Classe d'armure",
+        "5",
+        "Points de vie",
+        "18 (4d8)",
+        "Vitesse",
+        "1,50 m",
+        "FOR",
+        "3 (-4)",
+        "DEX",
+        "1 (-5)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "3 (-4)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux états",
+        "aveuglé, assourdi, effrayé",
+        "Sens",
+        "vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La moisissure effectue 1d4 attaques de Contact pourrissant.",
+        "Contact pourrissant. Attaque au corps à corps avec une arme : +2 au toucher, allonge 3 m, une créature. Touché : 4 (1d8) dégâts nécrotiques."
+    ],
+    "actions": [
+        "Attaques multiples. La moisissure effectue 1d4 attaques de Contact pourrissant.",
+        "Contact pourrissant. Attaque au corps à corps avec une arme : +2 au toucher, allonge 3 m, une créature. Touché : 4 (1d8) dégâts nécrotiques."
+    ],
+    "reactions": []
+}

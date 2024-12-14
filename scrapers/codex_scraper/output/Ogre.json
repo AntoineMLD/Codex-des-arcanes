@@ -1,0 +1,43 @@
+{
+    "title": "Ogre",
+    "prerequisites": "Géant de taille G, chaotique mauvais",
+    "description": "Les ogres ressemblent à des géants et sont connus pour leur caractère irritable. Lorsque sa rage est titillée, un ogre se déchaîne dans un accès de colère frustrée jusqu'à ne plus avoir d'objets ou de créatures à écraser.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ogre.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ogre",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure de peaux)",
+        "Points de vie",
+        "59 (7d10 + 21)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "19 (+4)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "commun, géant",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Massue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Massue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 11 (2d6 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

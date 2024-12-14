@@ -1,0 +1,47 @@
+{
+    "title": "Sahuagin, prêtresse",
+    "prerequisites": "Humanoïde (sahuagin) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sahuagin-pretresse",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "9 m, nage 12 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "13 (+1)",
+        "Compétences",
+        "Perception +6, Religion +3",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "sahuagin",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le sahuagin effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le sahuagin effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

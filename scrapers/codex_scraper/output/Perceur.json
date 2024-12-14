@@ -1,0 +1,43 @@
+{
+    "title": "Perceur",
+    "prerequisites": "Monstruosité de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/piercer.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=perceur",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "22 (3d8 + 9)",
+        "Vitesse",
+        "1,50 m, escalade 1,50 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "7 (-2)",
+        "CHA",
+        "3 (-4)",
+        "Compétences",
+        "Discrétion +5",
+        "Sens",
+        "vision aveugle 9 m, vision dans le noir 18 m, Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Plongeon. Attaque au corps à corps avec une arme : +3 au toucher, une créature située directement au-dessous du perceur. Touché : 3 (1d6) dégâts perforants tous les 3 mètres de chute, jusqu'à 21 (6d6). Échec : le perceur subit la moitié des dégâts normaux qu'une créature devrait subir pour une distance de chute équivalente."
+    ],
+    "actions": [
+        "Plongeon. Attaque au corps à corps avec une arme : +3 au toucher, une créature située directement au-dessous du perceur. Touché : 3 (1d6) dégâts perforants tous les 3 mètres de chute, jusqu'à 21 (6d6). Échec : le perceur subit la moitié des dégâts normaux qu'une créature devrait subir pour une distance de chute équivalente."
+    ],
+    "reactions": []
+}

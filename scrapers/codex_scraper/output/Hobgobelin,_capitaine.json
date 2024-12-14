@@ -1,0 +1,47 @@
+{
+    "title": "Hobgobelin, capitaine",
+    "prerequisites": "Humanoïde (gobelinoïde) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hobgobelin-capitaine",
+    "stats": [
+        "Classe d'armure",
+        "17 (demi-plate)",
+        "Points de vie",
+        "39 (6d8 + 12)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, gobelin",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'hobgobelin effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Commandement (Recharge après un repos court ou long). Pendant 1 minute, l'hobgobelin peut lancer un avertissement ou un ordre spécial chaque fois qu'une créature non-hostile qu'il peut voir dans un rayon de 9 mètres autour de lui effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet à condition qu'elle puisse entendre et comprendre l'hobgobelin. Une créature ne peut bénéficier que d'un seul dé de Commandement à la fois. Cet effet prend fin si l'hobgobelin est incapable d'agir."
+    ],
+    "actions": [
+        "Attaques multiples. L'hobgobelin effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Commandement (Recharge après un repos court ou long). Pendant 1 minute, l'hobgobelin peut lancer un avertissement ou un ordre spécial chaque fois qu'une créature non-hostile qu'il peut voir dans un rayon de 9 mètres autour de lui effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet à condition qu'elle puisse entendre et comprendre l'hobgobelin. Une créature ne peut bénéficier que d'un seul dé de Commandement à la fois. Cet effet prend fin si l'hobgobelin est incapable d'agir."
+    ],
+    "reactions": []
+}

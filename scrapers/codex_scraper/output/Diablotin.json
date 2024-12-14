@@ -1,0 +1,51 @@
+{
+    "title": "Diablotin",
+    "prerequisites": "Fiélon (diable, métamorphe) de taille TP, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/imp.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=diablotin",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "10 (3d4 + 3)",
+        "Vitesse",
+        "6 m, vol 12 m",
+        "FOR",
+        "6 (-2)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Discrétion +5, Intuition +3, Persuasion +4, Tromperie +4",
+        "Résistances aux dégâts",
+        "froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "infernal, commun",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Dard (Morsure sous forme de bête). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Invisibilité. Le diablotin devient invisible par magie jusqu'à ce qu'il attaque ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement que le diablotin porte ou transporte est également invisible."
+    ],
+    "actions": [
+        "Dard (Morsure sous forme de bête). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d4 + 3) dégâts perforants, et la cible doit effectuer un jet de sauvegarde de Constitution DD 11, subissant 10 (3d6) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Invisibilité. Le diablotin devient invisible par magie jusqu'à ce qu'il attaque ou que sa concentration se termine (comme s'il se concentrait sur un sort). Tout l'équipement que le diablotin porte ou transporte est également invisible."
+    ],
+    "reactions": []
+}

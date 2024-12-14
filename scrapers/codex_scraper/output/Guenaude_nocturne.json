@@ -1,0 +1,53 @@
+{
+    "title": "Guenaude nocturne",
+    "prerequisites": "Fiélon de taille M, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/night-hag.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=guenaude-nocturne",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "112 (15d8 + 45)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "16 (+3)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Discrétion +6, Intuition +6, Perception +6, Tromperie +7",
+        "Résistances aux dégâts",
+        "froid, feu ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Immunités aux états",
+        "charmé",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 16",
+        "Langues",
+        "abyssal, commun, infernal, primordial",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Griffes (forme de guenaude uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Changement de forme. La guenaude se métamorphose magiquement en une femelle humanoïde de taille M ou P, ou bien retrouve sa forme véritable. Ses statistiques sont les mêmes quelle que soit sa forme. L'équipement qu'elle porte ou transporte n'est pas transformé. Elle retrouve sa forme véritable si elle meurt.",
+        "Passage dans l'éther. La guenaude passe du plan éthéré au plan matériel, ou vice versa. Pour ce faire, la guenaude doit avoir en sa possession une cardioline.",
+        "Invasion cauchemardesque (1/jour). Tant qu'elle se trouve dans le plan éthéré, la guenaude touche par magie un humanoïde en train de dormir dans le plan matériel. Un sort de protection contre le mal et le bien lancé sur la cible empêche ce contact, comme le ferait un cercle magique. Tant qu'elle reste en contact, la créature a des visions d'épouvante. Si ces visions durent pendant au moins 1 heure, la cible ne gagne aucun bénéfice de son repos, et son maximum de points de vie est réduit de 5 (1d10). Si cet effet réduit le maximum de points de vie de la cible à 0, la cible meurt, et si la cible était mauvaise, son âme est piégée dans la besace aux âmes de la guenaude. La réduction du maximum de points de vie de la cible perdure jusqu'à ce qu'elle soit annulée par un sort de restauration supérieure ou toute autre magie similaire."
+    ],
+    "actions": [
+        "Griffes (forme de guenaude uniquement). Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts tranchants.",
+        "Changement de forme. La guenaude se métamorphose magiquement en une femelle humanoïde de taille M ou P, ou bien retrouve sa forme véritable. Ses statistiques sont les mêmes quelle que soit sa forme. L'équipement qu'elle porte ou transporte n'est pas transformé. Elle retrouve sa forme véritable si elle meurt.",
+        "Passage dans l'éther. La guenaude passe du plan éthéré au plan matériel, ou vice versa. Pour ce faire, la guenaude doit avoir en sa possession une cardioline.",
+        "Invasion cauchemardesque (1/jour). Tant qu'elle se trouve dans le plan éthéré, la guenaude touche par magie un humanoïde en train de dormir dans le plan matériel. Un sort de protection contre le mal et le bien lancé sur la cible empêche ce contact, comme le ferait un cercle magique. Tant qu'elle reste en contact, la créature a des visions d'épouvante. Si ces visions durent pendant au moins 1 heure, la cible ne gagne aucun bénéfice de son repos, et son maximum de points de vie est réduit de 5 (1d10). Si cet effet réduit le maximum de points de vie de la cible à 0, la cible meurt, et si la cible était mauvaise, son âme est piégée dans la besace aux âmes de la guenaude. La réduction du maximum de points de vie de la cible perdure jusqu'à ce qu'elle soit annulée par un sort de restauration supérieure ou toute autre magie similaire."
+    ],
+    "reactions": []
+}

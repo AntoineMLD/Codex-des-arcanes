@@ -1,0 +1,53 @@
+{
+    "title": "Béhir",
+    "prerequisites": "Monstruosité de taille TG, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/behir.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=behir",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "168 (16d12 + 64)",
+        "Vitesse",
+        "15 m, escalade 12 m",
+        "FOR",
+        "23 (+6)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Discrétion +7, Perception +6",
+        "Immunités aux dégâts",
+        "foudre",
+        "Sens",
+        "vision dans le noir 27 m, Perception passive 16",
+        "Langues",
+        "draconique",
+        "Puissance",
+        "11 (7200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le béhir effectue deux attaques : une de morsure et une de constriction.",
+        "Morsure. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 22 (3d10 + 6) dégâts perforants.",
+        "Constriction. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une créature de taille G ou inférieure. Touché : 17 (2d10 + 6) dégâts contondants + 17 (2d10 + 6) dégâts tranchants. La cible est agrippée (DD 16 pour s'échapper) si le béhir n'est pas déjà en train d'étreindre une créature, et la cible est entravée tant qu'elle est agrippée.",
+        "Souffle de foudre (Recharge 5-6). Le béhir crache un jet de foudre sur une ligne de 6 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16, subissant 66 (12d10) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Engloutissement. Le béhir effectue une attaque de morsure contre une créature de taille M ou inférieure qu'il agrippe. Si l'attaque réussit, la créature est avalée, et elle n'est plus agrippée. Une fois avalée, la créature est aveuglée et entravée, bénéficie d'un abri total contre les attaques et effets provenant de l'extérieur du béhir, et subit 21 (6d6) dégâts d'acide au début de chaque tour du béhir. Un béhir ne peut avoir en lui qu'une seule créature engloutie à la fois. Si le béhir subit 30 points de dégâts ou plus en un seul tour de la part de la créature avalée, il doit réussir un jet de sauvegarde de Constitution DD 14 à la fin du tour ou régurgiter la créature qu'il a avalée, qui se retrouve alors à terre, à 3 mètres ou moins du béhir. Si le béhir meurt, une créature avalée n'est plus entravée et peut s'échapper du cadavre en utilisant 4,50 mètres de mouvement pour se retrouver à l'extérieur et à terre."
+    ],
+    "actions": [
+        "Attaques multiples. Le béhir effectue deux attaques : une de morsure et une de constriction.",
+        "Morsure. Attaque au corps à corps avec une arme : +10 au toucher, allonge 3 m, une cible. Touché : 22 (3d10 + 6) dégâts perforants.",
+        "Constriction. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une créature de taille G ou inférieure. Touché : 17 (2d10 + 6) dégâts contondants + 17 (2d10 + 6) dégâts tranchants. La cible est agrippée (DD 16 pour s'échapper) si le béhir n'est pas déjà en train d'étreindre une créature, et la cible est entravée tant qu'elle est agrippée.",
+        "Souffle de foudre (Recharge 5-6). Le béhir crache un jet de foudre sur une ligne de 6 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 16, subissant 66 (12d10) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Engloutissement. Le béhir effectue une attaque de morsure contre une créature de taille M ou inférieure qu'il agrippe. Si l'attaque réussit, la créature est avalée, et elle n'est plus agrippée. Une fois avalée, la créature est aveuglée et entravée, bénéficie d'un abri total contre les attaques et effets provenant de l'extérieur du béhir, et subit 21 (6d6) dégâts d'acide au début de chaque tour du béhir. Un béhir ne peut avoir en lui qu'une seule créature engloutie à la fois. Si le béhir subit 30 points de dégâts ou plus en un seul tour de la part de la créature avalée, il doit réussir un jet de sauvegarde de Constitution DD 14 à la fin du tour ou régurgiter la créature qu'il a avalée, qui se retrouve alors à terre, à 3 mètres ou moins du béhir. Si le béhir meurt, une créature avalée n'est plus entravée et peut s'échapper du cadavre en utilisant 4,50 mètres de mouvement pour se retrouver à l'extérieur et à terre."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Noble",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les nobles disposent d'une grande autorité et influence en tant que membre de la haute société, possédant richesse et contacts qui peuvent faire d'eux de puissants monarques ou généraux. Un noble voyage souvent en compagnie de gardes, ainsi que de serviteurs qui sont des roturiers.Les statistiques du noble peuvent également être utilisées pour représenter des membres de la cour qui ne sont pas d'ascendance nobiliaire.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/noble.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=noble",
+    "stats": [
+        "Classe d'armure",
+        "15 (cuirasse)",
+        "Points de vie",
+        "9 (2d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Intuition +4, Persuasion +5, Tromperie +5",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "deux langues au choix",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Rapière. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants.",
+        "Parade. Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "actions": [
+        "Rapière. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants.",
+        "Parade. Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ],
+    "reactions": [
+        "Parade. Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui le toucherait. Pour ce faire, il doit voir l'attaquant et avoir en main une arme de corps à corps."
+    ]
+}

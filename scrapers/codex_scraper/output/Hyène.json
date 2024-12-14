@@ -1,0 +1,43 @@
+{
+    "title": "Hyène",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hyena.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hyene",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "5 (1d8 + 1)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants."
+    ],
+    "reactions": []
+}

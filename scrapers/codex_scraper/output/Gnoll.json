@@ -1,0 +1,45 @@
+{
+    "title": "Gnoll",
+    "prerequisites": "Humanoïde (gnoll) de taille M, chaotique mauvais",
+    "description": "Les gnolls sont de sauvages humanoïdes à tête de hyène, attaquant sans prévenir et massacrant leurs victimes pour ensuite les dévorer.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/gnoll.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gnoll",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure de peaux, bouclier)",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "gnoll",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 6 (1d8 + 2) si utilisée à deux mains pour faire une attaque au corps à corps.",
+        "Arc long. Attaque à distance avec une arme : +3 au toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 6 (1d8 + 2) si utilisée à deux mains pour faire une attaque au corps à corps.",
+        "Arc long. Attaque à distance avec une arme : +3 au toucher, portée 45/180 m, une cible. Touché : 5 (1d8 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

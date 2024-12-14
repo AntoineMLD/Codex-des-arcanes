@@ -1,0 +1,183 @@
+{
+    "title": "Soldat",
+    "introduction": "La guerre a été votre vie aussi loin que remontent vos souvenirs. Vous avez été formé dès votre jeunesse, avez étudié l'utilisation des armes et des armures, appris des techniques de base de survie, y compris la façon de rester en vie sur un champ de bataille. Vous pourriez avoir fait partie de l'armée d'un royaume ou d'une compagnie de mercenaires, ou peut-être avoir été membre d'une milice locale qui s'est fait connaître au cours d'une guerre récente. Lorsque vous choisissez cet historique, travaillez avec votre MD pour déterminer de quelle organisation militaire vous faisiez partie, jusqu'où avez-vous progressé dans ses grades, et quelles expériences avez-vous vécues au cours de votre carrière militaire. Était-ce une armée régulière, la garde d'une ville ou une milice de village ? Ou était-ce l'armée privée d'un noble ou d'un marchand, ou bien une compagnie de mercenaires ?",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d8",
+                "Spécialité"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Spécialité": "Officier"
+                },
+                {
+                    "d8": "2",
+                    "Spécialité": "Éclaireur"
+                },
+                {
+                    "d8": "3",
+                    "Spécialité": "Infanterie"
+                },
+                {
+                    "d8": "4",
+                    "Spécialité": "Cavalerie"
+                },
+                {
+                    "d8": "5",
+                    "Spécialité": "Soigneur"
+                },
+                {
+                    "d8": "6",
+                    "Spécialité": "Intendant"
+                },
+                {
+                    "d8": "7",
+                    "Spécialité": "Porte-étendard"
+                },
+                {
+                    "d8": "8",
+                    "Spécialité": "Soutien (cuisinier, forgeron, etc.)"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je suis toujours poli et respectueux."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je suis hanté par les souvenirs de la guerre. Je ne peux pas sortir les images de violence de ma tête."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "J'ai perdu beaucoup d'amis, et je suis lent à m'en faire de nouveaux."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je connais plein d'histoires inspirantes et effrayantes de mon expérience militaire qui se révèlent pertinentes dans de nombreuses situations de combat."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je peux faire baisser le regard d'un chien des enfers sans broncher."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "J'aime être fort et casser des choses."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "J'ai un sens de l'humour brut."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "J'affronte les problèmes de front. Une solution simple et directe est le meilleur chemin vers le succès."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Bonté. Notre sort est de donner notre vie pour la défense des autres (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Responsabilité. Je fais ce que je dois faire et j'obéis aux autorités quand elles sont justes (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Indépendance. Quand les gens suivent les ordres aveuglément, ils embrassent une sorte de tyrannie (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Puissance. Dans la vie comme à la guerre, le plus fort gagne (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Vivre et laisser vivre. Les idéaux ne méritent pas qu'on tue ou qu'on fasse la guerre pour eux (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Nation. Ma ville, mon pays ou les miens sont tout ce qui importe (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Je voudrais pouvoir encore donner ma vie pour les gens avec qui j'ai servi."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Quelqu'un m'a sauvé la vie sur le champ de bataille. À ce jour, je ne pourrais jamais laisser un ami derrière."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Mon honneur est ma vie."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je n'oublierai jamais la défaite écrasante que ma compagnie a subie ni les ennemis qui nous l'ont infligée."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Ceux qui se battent à mes côtés sont ceux pour qui cela vaut la peine de mourir."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Je me bats pour ceux qui ne peuvent pas se battre pour eux-mêmes."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "L'ennemi monstrueux que nous avons affronté dans la bataille me fait encore frémir de peur."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "J'ai peu de respect pour celui qui n'est pas un réel guerrier."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "J'ai commis une terrible erreur durant une bataille qui a coûté la vie à de nombreuses personnes et je ferais n'importe quoi pour garder cette erreur secrète."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Ma haine pour mes ennemis est aveugle et irraisonnée."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "J'obéis à la loi, même si elle provoque la misère."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Je préfère manger mon armure plutôt qu'admettre que je me suis trompé."
+                }
+            ]
+        }
+    ]
+}

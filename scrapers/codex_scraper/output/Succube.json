@@ -1,0 +1,51 @@
+{
+    "title": "Succube",
+    "prerequisites": "Fiélon (métamorphe) de taille M, neutre mauvais",
+    "description": "Les succubes et les incubes habitent les plans inférieurs. Asmodée, souverain des Neuf Enfers, utilise ces fiélons pour inciter les mortels à commettre des actes maléfiques. N'importe quelle succube (femelle) peut devenir un incube (mâle), et vice versa, mais la plupart de ces fiélons ont une préférence pour l'une ou l'autre forme.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/succubus.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=succube",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "66 (12d8 + 12)",
+        "Vitesse",
+        "9 m, vol 18 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "20 (+5)",
+        "Compétences",
+        "Discrétion +7, Intuition +5, Perception +5, Persuasion +9, Tromperie +9",
+        "Résistances aux dégâts",
+        "froid, feu, foudre, poison ; contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 15",
+        "Langues",
+        "abyssal, commun, infernal, télépathie 18 m",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Griffes (forme fiélone uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Charme. Un humanoïde que le fiélon peut voir et situé à 9 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 15 ou être charmé par magie pendant 1 journée. La cible charmée obéit aux ordres verbaux ou télépathiques du fiélon. Si la cible subit des dégâts ou reçoit un ordre suicidaire, celle-ci peut retenter le jet de sauvegarde, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde de la créature est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Charme du fiélon pendant les prochaines 24 heures. Le fiélon ne peut avoir qu'une cible charmée à la fois. S'il charme une autre cible, l'effet se termine.",
+        "Baiser corrupteur. Le fiélon embrasse une créature qu'il a charmée ou une créature consentante. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie, subissant 32 (5d10 + 5) dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le maximum de points de vie de la cible est diminué d'un montant égal aux dégâts subis. Cette diminution perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.",
+        "Forme éthérée. Le fiélon pénètre dans le plan éthéré à partir du plan matériel, ou inversement."
+    ],
+    "actions": [
+        "Griffes (forme fiélone uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants.",
+        "Charme. Un humanoïde que le fiélon peut voir et situé à 9 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 15 ou être charmé par magie pendant 1 journée. La cible charmée obéit aux ordres verbaux ou télépathiques du fiélon. Si la cible subit des dégâts ou reçoit un ordre suicidaire, celle-ci peut retenter le jet de sauvegarde, mettant fin à l'effet en cas de réussite. Si le jet de sauvegarde de la créature est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée au Charme du fiélon pendant les prochaines 24 heures. Le fiélon ne peut avoir qu'une cible charmée à la fois. S'il charme une autre cible, l'effet se termine.",
+        "Baiser corrupteur. Le fiélon embrasse une créature qu'il a charmée ou une créature consentante. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie, subissant 32 (5d10 + 5) dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le maximum de points de vie de la cible est diminué d'un montant égal aux dégâts subis. Cette diminution perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.",
+        "Forme éthérée. Le fiélon pénètre dans le plan éthéré à partir du plan matériel, ou inversement."
+    ],
+    "reactions": []
+}

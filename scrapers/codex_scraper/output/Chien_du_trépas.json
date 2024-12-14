@@ -1,0 +1,45 @@
+{
+    "title": "Chien du trépas",
+    "prerequisites": "Monstruosité de taille M, neutre mauvais",
+    "description": "Un chien du trépas est un affreux chien de chasse à deux têtes parcourant les plaines, les déserts et l'Outreterre.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/death-dog.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=chien-du-trepas",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "39 (6d8 + 12)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Compétences",
+        "Discrétion +4, Perception +5",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 15",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le chien effectue deux attaques de morsure.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être empoisonnée, et ce jusqu'à ce que la maladie soit soignée. Toutes les 24 heures, la créature doit refaire le jet de sauvegarde, et réduire son maximum de points de vie de 5 (1d10) en cas d'échec. Cette réduction dure jusqu'à ce que la maladie soit soignée. La créature meurt si la maladie réduit ses points de vie à 0."
+    ],
+    "actions": [
+        "Attaques multiples. Le chien effectue deux attaques de morsure.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être empoisonnée, et ce jusqu'à ce que la maladie soit soignée. Toutes les 24 heures, la créature doit refaire le jet de sauvegarde, et réduire son maximum de points de vie de 5 (1d10) en cas d'échec. Cette réduction dure jusqu'à ce que la maladie soit soignée. La créature meurt si la maladie réduit ses points de vie à 0."
+    ],
+    "reactions": []
+}

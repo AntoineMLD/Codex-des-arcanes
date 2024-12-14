@@ -1,0 +1,45 @@
+{
+    "title": "Griffe rampante",
+    "prerequisites": "Mort-vivant de taille TP, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/crawling-claw.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=griffe-rampante",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "2 (1d4)",
+        "Vitesse",
+        "6 m, escalade 6 m",
+        "FOR",
+        "13 (+1)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "4 (-3)",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, empoisonné",
+        "Sens",
+        "vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 10",
+        "Langues",
+        "comprend le commun mais ne peut pas parler",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 +1) dégâts contondants ou tranchants (au choix de la griffe)."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 +1) dégâts contondants ou tranchants (au choix de la griffe)."
+    ],
+    "reactions": []
+}

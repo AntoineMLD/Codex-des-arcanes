@@ -1,0 +1,49 @@
+{
+    "title": "Sanglier-garou",
+    "prerequisites": "Humanoïde (humain, métamorphe) de taille M, neutre mauvais",
+    "description": "Un sort de délivrance des malédictions peut libérer une créature affligée de lycanthropie, mais un lycanthrope naturel ne peut être libéré de sa malédiction qu'avec un souhait.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wereBoar.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sanglier-garou",
+    "stats": [
+        "Classe d'armure",
+        "10 sous forme humanoïde, 11 (armure naturelle) sous forme de sanglier ou sous forme hybride",
+        "Points de vie",
+        "78 (12d8 + 24)",
+        "Vitesse",
+        "9 m (12 m sous forme de sanglier)",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "15 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Perception +2",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "commun (ne peut pas parler sous forme de sanglier)",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le sanglier-garou effectue deux attaques, mais une seule des deux peut être une attaque avec ses défenses.",
+        "Maillet (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants.",
+        "Défenses (forme de sanglier ou hybride uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 ou être atteinte de la lycanthropie de sanglier-garou."
+    ],
+    "actions": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le sanglier-garou effectue deux attaques, mais une seule des deux peut être une attaque avec ses défenses.",
+        "Maillet (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts contondants.",
+        "Défenses (forme de sanglier ou hybride uniquement). Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 ou être atteinte de la lycanthropie de sanglier-garou."
+    ],
+    "reactions": []
+}

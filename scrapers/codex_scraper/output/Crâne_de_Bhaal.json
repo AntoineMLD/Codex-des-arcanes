@@ -1,0 +1,45 @@
+{
+    "title": "Crâne de Bhaal",
+    "prerequisites": "Humanoïde (humain) de taille M, chaotique mauvais",
+    "description": "Les crânes sont le rang le plus élevé parmi les cultistes de Bhaal. Ils peuvent prendre l'apparence du crâne de leur divinité pour terrifier leurs proies.",
+    "source": "Adventures (Descent into Avernus)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=crane-de-bhaal",
+    "stats": [
+        "Classe d'armure",
+        "15",
+        "Points de vie",
+        "76 (8d8 + 40)",
+        "Vitesse",
+        "15 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "16 (+3)",
+        "Compétences",
+        "Intimidation +6, Perception +4, Persuasion +6, Discrétion +11",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "commun",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "actions": [
+        "Attaques multiples. Le crâne utilise et effectue deux attaques avec des dagues.",
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +7 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 7 (1d4 + 5) dégâts perforants.",
+        "Regard étourdissant. Le crâne cible une créature qu'il peut voir dans un rayon de 9 mètres autour de lui. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 ou être étourdie jusqu'à la fin de son prochain tour.",
+        "Inarrêtable (3/jour). Le crâne réduit à 0 les dégâts qu'il subit d'une attaque."
+    ],
+    "reactions": [
+        "Inarrêtable (3/jour). Le crâne réduit à 0 les dégâts qu'il subit d'une attaque."
+    ]
+}

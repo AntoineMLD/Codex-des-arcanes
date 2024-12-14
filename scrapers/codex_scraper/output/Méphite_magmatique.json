@@ -1,0 +1,51 @@
+{
+    "title": "Méphite magmatique",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/magma-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-magmatique",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "22 (5d6 + 5)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "8 (-1)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +3",
+        "Vulnérabilités aux dégâts",
+        "froid",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "igné, terreux",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts tranchants + 2 (1d4) dégâts de feu.",
+        "Souffle de feu (Recharge 6). Le méphite crache un cône de 4,50 mètres de flammes. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 11, subissant 7 (2d6) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts tranchants + 2 (1d4) dégâts de feu.",
+        "Souffle de feu (Recharge 6). Le méphite crache un cône de 4,50 mètres de flammes. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 11, subissant 7 (2d6) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

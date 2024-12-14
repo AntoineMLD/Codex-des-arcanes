@@ -1,0 +1,231 @@
+{
+    "title": "Artisan de guilde",
+    "introduction": "Vous êtes le membre d'une guilde d'artisans, compétent dans un domaine particulier et en relation étroite avec d'autres artisans. Vous êtes au fait du monde des marchés, libéré des contraintes d'un ordre social féodal grâce à votre talent et à votre richesse. Vous avez appris votre savoir-faire en tant qu'apprenti auprès d'un maître artisan, sous l'égide de votre guilde, jusqu'à ce que vous deveniez à votre tour un maître dans votre branche.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d20",
+                "Affaires de la guilde"
+            ],
+            "rows": [
+                {
+                    "d20": "1",
+                    "Affaires de la guilde": "Alchimistes et apothicaires"
+                },
+                {
+                    "d20": "2",
+                    "Affaires de la guilde": "Armuriers, serruriers, orfèvres"
+                },
+                {
+                    "d20": "3",
+                    "Affaires de la guilde": "Brasseurs, distillateurs, vignerons"
+                },
+                {
+                    "d20": "4",
+                    "Affaires de la guilde": "Calligraphes, scribes, copistes"
+                },
+                {
+                    "d20": "5",
+                    "Affaires de la guilde": "Cartographes, géomètres, architectes"
+                },
+                {
+                    "d20": "6",
+                    "Affaires de la guilde": "Charrons"
+                },
+                {
+                    "d20": "7",
+                    "Affaires de la guilde": "Charpentiers, couvreurs, plâtriers"
+                },
+                {
+                    "d20": "8",
+                    "Affaires de la guilde": "Charpentiers de marine, fabricants de voile"
+                },
+                {
+                    "d20": "9",
+                    "Affaires de la guilde": "Cuisiniers, boulangers"
+                },
+                {
+                    "d20": "10",
+                    "Affaires de la guilde": "Forgerons"
+                },
+                {
+                    "d20": "11",
+                    "Affaires de la guilde": "Joailliers, tailleurs de gemmes"
+                },
+                {
+                    "d20": "12",
+                    "Affaires de la guilde": "Maçons et tailleurs de pierres"
+                },
+                {
+                    "d20": "13",
+                    "Affaires de la guilde": "Maroquiniers, peaussiers, tanneurs"
+                },
+                {
+                    "d20": "14",
+                    "Affaires de la guilde": "Menuisiers, tonneliers, fabricants d'arcs"
+                },
+                {
+                    "d20": "15",
+                    "Affaires de la guilde": "Peintres, enlumineurs, fabricants d'enseignes"
+                },
+                {
+                    "d20": "16",
+                    "Affaires de la guilde": "Potiers et tuiliers"
+                },
+                {
+                    "d20": "17",
+                    "Affaires de la guilde": "Rétameurs, faiseurs d'étain, fondeurs"
+                },
+                {
+                    "d20": "18",
+                    "Affaires de la guilde": "Savetiers, cordonniers"
+                },
+                {
+                    "d20": "19",
+                    "Affaires de la guilde": "Souffleurs de verre, vitriers"
+                },
+                {
+                    "d20": "20",
+                    "Affaires de la guilde": "Tisserands et teinturiers"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je crois que si quelque chose doit être fait, il doit l'être correctement. Je n'y peux rien, je suis un perfectionniste."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je suis un snob qui regarde de haut ceux qui ne peuvent apprécier les arts de qualité."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "Je veux tout le temps savoir comment les choses fonctionnent et ce qui pousse les gens à avancer."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je lance plein d'aphorismes spirituels et ai un proverbe pour chaque occasion."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je suis grossier envers ceux qui n'ont pas mon engagement pour le travail bien fait et mon fair-play."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "J'aime parler de longues heures de ma profession."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Je ne me sépare pas de mon or facilement et marchande sans relâche pour faire la meilleure affaire possible."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Je suis reconnu pour mon travail, et je veux m'assurer que tout le monde l'apprécie. Je suis toujours pris au dépourvu lorsque quelqu'un n'a pas entendu parlé de moi."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Communauté. Il est du devoir de tout peuple civilisé de renforcer les liens qui unissent sa communauté ainsi que d'assurer la sécurité de sa civilisation (Loyal)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Générosité. Mes talents m'ont été donnés pour que je les utilise pour le plus grand nombre (Bon)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Liberté. Chacun devrait être libre d'exercer son propre gagne-pain (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Avarice. Je ne suis là que pour l'argent (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Peuple. Je m'engage pour des personnes que j'apprécie, pas pour des idées (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Aspiration. Je travaille dur pour être le meilleur dans mon domaine (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "L'atelier où j'ai appris mon métier est l'endroit le plus important au monde pour moi."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "J'ai créé un travail remarquable pour certaines personnes, puis les ai trouvées indignes de le recevoir. Je suis encore à la recherche d'une personne qui le méritera."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "J'ai une énorme dette envers ma guilde, car elle a fait de moi ce que je suis aujourd'hui."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je cherche à être riche pour m'assurer l'amour d'une personne."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Un jour je retournerai à ma guilde et leur prouverai que je suis un bien plus grand artisan qu'eux."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Je vais prendre ma revanche sur les forces maléfiques qui ont détruit mon atelier et anéanti mon gagne-pain."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je ferais n'importe quoi pour mettre la main sur quelque chose de rare ou d'inestimable."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Je me persuade très vite que les gens cherchent à me rouler dans la farine."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Personne ne doit savoir que j'ai un jour dérobé l'or des coffres d'une guilde."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Je ne suis jamais satisfait de ce que j'ai, je veux toujours plus."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Je tuerai pour obtenir un titre de noblesse."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Je suis horriblement jaloux de tous ceux qui peuvent surpasser mes créations. Partout où je vais, je suis entouré de rivaux."
+                }
+            ]
+        }
+    ]
+}

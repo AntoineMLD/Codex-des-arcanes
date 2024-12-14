@@ -1,0 +1,43 @@
+{
+    "title": "Monodrone",
+    "prerequisites": "Artificiel de taille M, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/monodrone.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=monodrone",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "5 (1d8 + 1)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "5 (-3)",
+        "Sens",
+        "vision véritable 36 m, Perception passive 10",
+        "Langues",
+        "modron",
+        "Puissance",
+        "1/8 (25 PX)"
+    ],
+    "skills": [
+        "Dague. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 3 (1d6) dégâts perforants."
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 3 (1d4 + 1) dégâts perforants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 3 (1d6) dégâts perforants."
+    ],
+    "reactions": []
+}

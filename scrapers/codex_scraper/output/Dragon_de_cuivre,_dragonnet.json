@@ -1,0 +1,53 @@
+{
+    "title": "Dragon de cuivre, dragonnet",
+    "prerequisites": "Dragon (métallique) de taille M, chaotique bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=dragon-de-cuivre-dragonnet",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "22 (4d8 + 4)",
+        "Vitesse",
+        "9 m, escalade 9 m, vol 18 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "14 (+2)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "13 (+1)",
+        "Jets de sauvegarde",
+        "Dex +3, Con +3, Sag +2, Cha +3",
+        "Compétences",
+        "Discrétion +3, Perception +4",
+        "Immunités aux dégâts",
+        "acide",
+        "Sens",
+        "vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14",
+        "Langues",
+        "draconique",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d10 + 2) dégâts perforants.",
+        "Souffles (Recharge 5-6). Le dragon utilise l'un des souffles de combat présentés ci-dessous.",
+        "Souffle d'acide. Le dragon crache un jet d'acide une ligne de 6 mètres de long et de 1,50 mètre de large. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 11, subissant 18 (4d8) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Souffle de ralentissement. Le dragon exhale un gaz dans un cône de 4,50 mètres. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 11. En cas d'échec, la créature ne peut plus utiliser de réaction, sa vitesse est réduite de moitié, et elle ne peut plus faire qu'une seule attaque par tour. De plus, la créature ne peut utiliser qu'une action ou une action bonus, mais pas les deux, pendant son tour. Cet effet reste effectif pendant 1 minute. La créature peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite à ce nouveau jet de sauvegarde."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d10 + 2) dégâts perforants.",
+        "Souffles (Recharge 5-6). Le dragon utilise l'un des souffles de combat présentés ci-dessous.",
+        "Souffle d'acide. Le dragon crache un jet d'acide une ligne de 6 mètres de long et de 1,50 mètre de large. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 11, subissant 18 (4d8) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite.",
+        "Souffle de ralentissement. Le dragon exhale un gaz dans un cône de 4,50 mètres. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 11. En cas d'échec, la créature ne peut plus utiliser de réaction, sa vitesse est réduite de moitié, et elle ne peut plus faire qu'une seule attaque par tour. De plus, la créature ne peut utiliser qu'une action ou une action bonus, mais pas les deux, pendant son tour. Cet effet reste effectif pendant 1 minute. La créature peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite à ce nouveau jet de sauvegarde."
+    ],
+    "reactions": []
+}

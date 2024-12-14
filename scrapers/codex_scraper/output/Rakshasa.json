@@ -1,0 +1,49 @@
+{
+    "title": "Rakshasa",
+    "prerequisites": "Fiélon de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/rakshasa.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=rakshasa",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "110 (13d8 + 52)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "20 (+5)",
+        "Compétences",
+        "Intuition +8, Tromperie +10",
+        "Vulnérabilités aux dégâts",
+        "perforant d'armes magiques maniées par une créature bonne",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "commun, infernal",
+        "Puissance",
+        "13 (10000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le rakshasa effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants, et si la cible est une créature elle est maudite. La malédiction magique prend effet chaque fois que la cible effectue un repos court ou long, remplissant les pensées de la cible de visions et de songes horrifiques. La cible maudite ne tire aucun bénéfice à l'issue de son repos court ou long. La malédiction perdure jusqu'à ce qu'elle soit levée par un sort de délivrance des malédictions ou une magie équivalente."
+    ],
+    "actions": [
+        "Attaques multiples. Le rakshasa effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants, et si la cible est une créature elle est maudite. La malédiction magique prend effet chaque fois que la cible effectue un repos court ou long, remplissant les pensées de la cible de visions et de songes horrifiques. La cible maudite ne tire aucun bénéfice à l'issue de son repos court ou long. La malédiction perdure jusqu'à ce qu'elle soit levée par un sort de délivrance des malédictions ou une magie équivalente."
+    ],
+    "reactions": []
+}

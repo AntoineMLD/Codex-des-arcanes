@@ -1,0 +1,43 @@
+{
+    "title": "Pixie",
+    "prerequisites": "Fée de taille TP, neutre bon",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/pixie.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=pixie",
+    "stats": [
+        "Classe d'armure",
+        "15",
+        "Points de vie",
+        "1 (1d4 - 1)",
+        "Vitesse",
+        "3 m, vol 9 m",
+        "FOR",
+        "2 (-4)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "8 (-1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "15 (+2)",
+        "Compétences",
+        "Discrétion +7, Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "sylvestre",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Invisibilité supérieure. La pixie devient invisible par magie jusqu'à ce que sa concentration s'arrête (comme si elle se concentrait sur un sort). Tout l'équipement que la pixie porte ou transporte est également invisible."
+    ],
+    "actions": [
+        "Invisibilité supérieure. La pixie devient invisible par magie jusqu'à ce que sa concentration s'arrête (comme si elle se concentrait sur un sort). Tout l'équipement que la pixie porte ou transporte est également invisible."
+    ],
+    "reactions": []
+}

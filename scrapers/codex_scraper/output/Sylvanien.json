@@ -1,0 +1,51 @@
+{
+    "title": "Sylvanien",
+    "prerequisites": "Plante de taille TG, chaotique bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/treant.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=sylvanien",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure naturelle)",
+        "Points de vie",
+        "138 (12d12 + 60)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "23 (+6)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "21 (+5)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "16 (+3)",
+        "CHA",
+        "12 (+1)",
+        "Résistances aux dégâts",
+        "contondant, perforant",
+        "Vulnérabilités aux dégâts",
+        "feu",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "commun, druidique, elfique, sylvestre",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le sylvanien effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 16 (3d6 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +10 au toucher, portée 18/54 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants.",
+        "Animation des arbres (1/jour). Le sylvanien anime magiquement un ou deux arbres qu'il peut voir à 18 m de lui. Ces arbres ont les mêmes statistiques que le sylvanien, hormis qu'ils ont une Intelligence et un Charisme de 1, qu'ils ne peuvent pas parler, et qu'ils ne disposent que de l'action Coup. Un arbre animé agit comme un allié du sylvanien. L'arbre reste animé pendant 1 jour ou jusqu'à ce qu'il meure ; jusqu'à ce que le sylvanien meure ou qu'il soit à plus de 36 mètres de l'arbre ; ou jusqu'à ce que le sylvanien utilise une action bonus pour le transformer à nouveau en arbre inanimé. Dans ce cas l'arbre s'enracine s'il en a la possibilité."
+    ],
+    "actions": [
+        "Attaques multiples. Le sylvanien effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 16 (3d6 + 6) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +10 au toucher, portée 18/54 m, une cible. Touché : 28 (4d10 + 6) dégâts contondants.",
+        "Animation des arbres (1/jour). Le sylvanien anime magiquement un ou deux arbres qu'il peut voir à 18 m de lui. Ces arbres ont les mêmes statistiques que le sylvanien, hormis qu'ils ont une Intelligence et un Charisme de 1, qu'ils ne peuvent pas parler, et qu'ils ne disposent que de l'action Coup. Un arbre animé agit comme un allié du sylvanien. L'arbre reste animé pendant 1 jour ou jusqu'à ce qu'il meure ; jusqu'à ce que le sylvanien meure ou qu'il soit à plus de 36 mètres de l'arbre ; ou jusqu'à ce que le sylvanien utilise une action bonus pour le transformer à nouveau en arbre inanimé. Dans ce cas l'arbre s'enracine s'il en a la possibilité."
+    ],
+    "reactions": []
+}

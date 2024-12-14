@@ -1,0 +1,45 @@
+{
+    "title": "Gnome des profondeurs (svirfnebelin)",
+    "prerequisites": "Humanoïde (gnome) de taille P, neutre bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/deep-gnome.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gnome-des-profondeurs-svirfnebelin",
+    "stats": [
+        "Classe d'armure",
+        "15 (chemise de mailles)",
+        "Points de vie",
+        "16 (3d6 + 6)",
+        "Vitesse",
+        "6 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Discrétion +4, Investigation +3, Perception +2",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 12",
+        "Langues",
+        "gnome, terreux, commun des profondeurs",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Pic de guerre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.",
+        "Dard empoisonné. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou être empoisonnée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Pic de guerre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.",
+        "Dard empoisonné. Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une créature. Touché : 4 (1d4 + 2) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou être empoisonnée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

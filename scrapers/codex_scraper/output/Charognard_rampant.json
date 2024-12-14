@@ -1,0 +1,47 @@
+{
+    "title": "Charognard rampant",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/carrion-crawler.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=charognard-rampant",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "51 (6d10 + 18)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "5 (-3)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le charognard rampant effectue deux attaques : une avec ses tentacules et une de morsure.",
+        "Tentacules. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une créature. Touché : 4 (1d4 + 2) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonné pendant 1 minute. Jusqu'à ce que ce poison prenne fin, la cible est paralysée. La cible peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant fin au poison qui l'affecte.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le charognard rampant effectue deux attaques : une avec ses tentacules et une de morsure.",
+        "Tentacules. Attaque au corps à corps avec une arme : +8 au toucher, allonge 3 m, une créature. Touché : 4 (1d4 + 2) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être empoisonné pendant 1 minute. Jusqu'à ce que ce poison prenne fin, la cible est paralysée. La cible peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant fin au poison qui l'affecte.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 7 (2d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

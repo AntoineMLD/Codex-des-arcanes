@@ -1,0 +1,45 @@
+{
+    "title": "Nuée de chauves-souris",
+    "prerequisites": "Nuée de bêtes TP de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/swarm-bats.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=nuee-de-chauves-souris",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "0 m, vol 9 m",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "4 (-3)",
+        "Résistances aux dégâts",
+        "contondant, perforant, tranchant",
+        "Immunités aux états",
+        "à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié",
+        "Sens",
+        "vision aveugle 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Morsures. Attaque au corps à corps avec une arme : +4 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 5 (2d4) dégâts perforants, ou 2 (1d4) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "actions": [
+        "Morsures. Attaque au corps à corps avec une arme : +4 au toucher, allonge 0 m, une créature dans l'espace de la nuée. Touché : 5 (2d4) dégâts perforants, ou 2 (1d4) dégâts perforants si la nuée ne possède plus que la moitié ou moins de ses points de vie."
+    ],
+    "reactions": []
+}

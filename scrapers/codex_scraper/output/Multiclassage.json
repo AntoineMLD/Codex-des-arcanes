@@ -1,0 +1,400 @@
+{
+    "title": "Multiclassage",
+    "introduction": "Le multiclassage permet de gagner des niveaux dans des classes différentes. Cela permet ainsi d'associer les capacités de ces classes, de manière à réaliser un concept de personnage qu'on ne pourrait pas réaliser avec les options d'une classe standard. Avec cette règle, vous avez l'option d'ajouter un niveau dans une nouvelle classe chaque fois que vous montez de niveau, au lieu de gagner un niveau dans votre classe actuelle. Les niveaux de toutes vos classes sont additionnés ensemble pour déterminer le niveau de votre personnage. Par exemple, si vous avez trois niveaux de magicien et deux niveaux de guerrier, vous êtes un personnage de niveau 5.",
+    "sections": [
+        {
+            "title": "Prérequis",
+            "content": "EXEMPLE DE MULTICLASSAGE Gary joue un guerrier de niveau 4. Lorsque son personnage gagne assez de points d'expérience pour parvenir au niveau 5, Gary décide que son personnage va se multiclasser au lieu de continuer à progresser dans sa classe de guerrier. Le guerrier de Gary a passé beaucoup de temps avec le roublard de Dave, et a même déjà travaillé pour la guilde des voleurs locale en tant qu'homme de main. Gary décide que son personnage se multiclasse avec la classe de roublard, et donc que son personnage devient un guerrier de niveau 4 et un roublard de niveau 1 (noté guerrier 4/roublard 1). Quand son personnage gagne assez de points d'expérience pour parvenir au niveau 6, il peut décider d'ajouter un niveau de guerrier (devenant alors un guerrier 5/roublard 1), un niveau de roublard (devenant alors un guerrier 4/roublard 2), ou un niveau dans une troisième classe, peut-être en s'essayant à la magie grâce au mystérieux tome dont il a récemment fait acquisition (devenant alors un guerrier 4/roublard 1/magicien 1)."
+        },
+        {
+            "title": "Points d'expérience",
+            "content": "Le coût en points d'expérience (PX) pour monter de niveau est toujours basé sur la somme de vos niveaux de personnage (voir Au-delà du niveau 1 ), et non pas en fonction de votre niveau dans une classe spécifique. Donc, si vous êtes un clerc 6/guerrier 1, vous devez gagner assez de PX pour atteindre le niveau 8 avant de pouvoir prendre votre second niveau de guerrier ou votre septième niveau de clerc."
+        },
+        {
+            "title": "Points de vie et dés de vie",
+            "content": "Vous gagnez les points de vie de votre nouvelle classe comme cela est décrit pour les niveaux au-delà du premier. Vous gagnez les points de vie du niveau 1 seulement quand vous êtes un personnage de niveau 1. Vous additionnez les dés de vie conférés par toutes vos classes pour calculer votre réservoir de dés de vie. Si les dés de vie sont du même type, vous pouvez tout simplement les additionner ensemble. Par exemple, le guerrier et le paladin tirent des d10, donc si vous êtes un paladin 5/guerrier 5, vous avez 10 dés de vie. Si vos classes vous donnent des dés de vie de types différents, vous devez les noter séparément. Si vous êtes un paladin 5/clerc 5 par exemple, vous avez cinq d10 dés de vie et cinq d8 dés de vie."
+        },
+        {
+            "title": "Bonus de maîtrise",
+            "content": "Votre bonus de maîtrise est toujours basé sur la somme de vos niveaux de personnage (voir Au-delà du niveau 1 ), et non pas en fonction de votre niveau dans une classe spécifique. Par exemple, si vous êtes un guerrier 3/voleur 2, vous avez le bonus de maîtrise d'un personnage de niveau 5, qui est donc égal à +3."
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Quand vous gagnez un niveau dans une classe autre que votre première classe, vous ne recevez qu'une partie des maîtrises de départ de cette nouvelle classe, ainsi que le montre le tableau ci-dessous."
+        },
+        {
+            "title": "Capacités de classe",
+            "content": "Lorsque vous gagnez un nouveau niveau dans une classe, vous bénéficiez des nouvelles capacités acquises à ce niveau. En revanche, vous ne recevez pas l'équipement de départ de la classe et certaines capacités sont modifiées par des règles additionnelles lors d'un multiclassage : Attaque supplémentaire, Conduit divin, Défense sans armure et Incantation."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Classe",
+                "Valeur minimum de caractéristique"
+            ],
+            "rows": [
+                {
+                    "Classe": "Barbare",
+                    "Valeur minimum de caractéristique": "Force 13"
+                },
+                {
+                    "Classe": "Barde",
+                    "Valeur minimum de caractéristique": "Charisme 13"
+                },
+                {
+                    "Classe": "Clerc",
+                    "Valeur minimum de caractéristique": "Sagesse 13"
+                },
+                {
+                    "Classe": "Druide",
+                    "Valeur minimum de caractéristique": "Sagesse 13"
+                },
+                {
+                    "Classe": "Ensorceleur",
+                    "Valeur minimum de caractéristique": "Charisme 13"
+                },
+                {
+                    "Classe": "Guerrier",
+                    "Valeur minimum de caractéristique": "Force 13 ou Dextérité 13"
+                },
+                {
+                    "Classe": "Magicien",
+                    "Valeur minimum de caractéristique": "Intelligence 13"
+                },
+                {
+                    "Classe": "Moine",
+                    "Valeur minimum de caractéristique": "Dextérité 13 et Sagesse 13"
+                },
+                {
+                    "Classe": "Occultiste",
+                    "Valeur minimum de caractéristique": "Charisme 13"
+                },
+                {
+                    "Classe": "Paladin",
+                    "Valeur minimum de caractéristique": "Force 13 et Charisme 13"
+                },
+                {
+                    "Classe": "Rôdeur",
+                    "Valeur minimum de caractéristique": "Dextérité 13 et Sagesse 13"
+                },
+                {
+                    "Classe": "Roublard",
+                    "Valeur minimum de caractéristique": "Dextérité 13"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Classe",
+                "Maîtrises gagnées"
+            ],
+            "rows": [
+                {
+                    "Classe": "Barbare",
+                    "Maîtrises gagnées": "Boucliers, armes courantes, armes de guerre"
+                },
+                {
+                    "Classe": "Barde",
+                    "Maîtrises gagnées": "Armure légère, une compétence de votre choix, un instrument de musique de votre choix"
+                },
+                {
+                    "Classe": "Clerc",
+                    "Maîtrises gagnées": "Armure légère, armure intermédiaire, boucliers"
+                },
+                {
+                    "Classe": "Druide",
+                    "Maîtrises gagnées": "Armure légère, armure intermédiaire, boucliers (un druide n'utilise pas d'armure ou de bouclier en métal)"
+                },
+                {
+                    "Classe": "Ensorceleur",
+                    "Maîtrises gagnées": "—"
+                },
+                {
+                    "Classe": "Guerrier",
+                    "Maîtrises gagnées": "Armure légère, armure intermédiaire, boucliers, armes courantes, armes de guerre"
+                },
+                {
+                    "Classe": "Magicien",
+                    "Maîtrises gagnées": "—"
+                },
+                {
+                    "Classe": "Moine",
+                    "Maîtrises gagnées": "Armes courantes, épée courte"
+                },
+                {
+                    "Classe": "Occultiste",
+                    "Maîtrises gagnées": "Armure légère, armes courantes"
+                },
+                {
+                    "Classe": "Paladin",
+                    "Maîtrises gagnées": "Armure légère, armure intermédiaire, boucliers, armes courantes, armes de guerre"
+                },
+                {
+                    "Classe": "Rôdeur",
+                    "Maîtrises gagnées": "Armure légère, armure intermédiaire, boucliers, armes courantes, armes de guerre, une compétence choisie dans la liste de la classe"
+                },
+                {
+                    "Classe": "Roublard",
+                    "Maîtrises gagnées": "Armure légère, une compétence choisie dans la liste de la classe, outils de voleur"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niv",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "rows": [
+                {
+                    "Niv": "1",
+                    "1": "2",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "2",
+                    "1": "3",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "3",
+                    "1": "4",
+                    "2": "2",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "4",
+                    "1": "4",
+                    "2": "3",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "5",
+                    "1": "4",
+                    "2": "3",
+                    "3": "2",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "6",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "-",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "7",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "1",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "8",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "2",
+                    "5": "-",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "9",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "1",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "10",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "-",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "11",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "12",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "-",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "13",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "1",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "14",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "1",
+                    "8": "-",
+                    "9": "-"
+                },
+                {
+                    "Niv": "15",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "1",
+                    "8": "1",
+                    "9": "-"
+                },
+                {
+                    "Niv": "16",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "1",
+                    "8": "1",
+                    "9": "-"
+                },
+                {
+                    "Niv": "17",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2",
+                    "6": "1",
+                    "7": "1",
+                    "8": "1",
+                    "9": "1"
+                },
+                {
+                    "Niv": "18",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "3",
+                    "6": "1",
+                    "7": "1",
+                    "8": "1",
+                    "9": "1"
+                },
+                {
+                    "Niv": "19",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "3",
+                    "6": "2",
+                    "7": "1",
+                    "8": "1",
+                    "9": "1"
+                },
+                {
+                    "Niv": "20",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "3",
+                    "6": "2",
+                    "7": "2",
+                    "8": "1",
+                    "9": "1"
+                }
+            ]
+        }
+    ]
+}

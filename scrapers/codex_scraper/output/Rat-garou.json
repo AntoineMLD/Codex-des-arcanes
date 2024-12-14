@@ -1,0 +1,51 @@
+{
+    "title": "Rat-garou",
+    "prerequisites": "Humanoïde (humain, métamorphe) de taille M, loyal mauvais",
+    "description": "Un sort de délivrance des malédictions peut libérer une créature affligée de lycanthropie, mais un lycanthrope naturel ne peut être libéré de sa malédiction qu'avec un souhait.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wereRat.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=rat-garou",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "33 (6d8 + 6)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Discrétion +4, Perception +2",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Sens",
+        "vision dans le noir 18 m (forme de rat uniquement), Perception passive 12",
+        "Langues",
+        "commun (ne peut pas parler sous forme de rat)",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le rat-garou effectue deux attaques, une seule des deux peut être une attaque de morsure.",
+        "Morsure (forme de rat ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11 ou être atteinte de la lycanthropie de rat-garou.",
+        "Épée courte (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arbalète de poing (forme humanoïde ou hybride uniquement). Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le rat-garou effectue deux attaques, une seule des deux peut être une attaque de morsure.",
+        "Morsure (forme de rat ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11 ou être atteinte de la lycanthropie de rat-garou.",
+        "Épée courte (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arbalète de poing (forme humanoïde ou hybride uniquement). Attaque à distance avec une arme : +4 au toucher, portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

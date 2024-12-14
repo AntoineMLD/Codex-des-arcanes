@@ -1,0 +1,47 @@
+{
+    "title": "Spectre",
+    "prerequisites": "Mort-vivant de taille M, chaotique mauvais",
+    "description": "Un spectre est l'esprit d'une créature dont l'âme n'a pas pu rejoindre sa destination au moment de sa mort, souvent à cause d'une magie moire. Il est alors condamné à errer à tout jamais sur le plan matériel, sans but.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/specter.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=spectre",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "22 (5d8)",
+        "Vitesse",
+        "0 m, vol 15 m (stationnaire)",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "11 (+0)",
+        "Résistances aux dégâts",
+        "acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "nécrotique, poison",
+        "Immunités aux états",
+        "charmé, épuisement, entravé, paralysé, pétrifié, empoisonné, à terre, agrippé, inconscient",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "comprend les langues qu'il connaissait de son vivant mais ne peut pas parler",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Absorption de vie. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une créature. Touché : 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. Cette réduction perdure jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0."
+    ],
+    "actions": [
+        "Absorption de vie. Attaque au corps à corps avec un sort : +4 au toucher, allonge 1,50 m, une créature. Touché : 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir une diminution de son maximum de points de vie égale aux dégâts subis. Cette réduction perdure jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0."
+    ],
+    "reactions": []
+}

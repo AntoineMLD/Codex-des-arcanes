@@ -1,0 +1,47 @@
+{
+    "title": "Ours polaire",
+    "prerequisites": "Bête de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ours-polaire",
+    "stats": [
+        "Classe d'armure",
+        "12 (armure naturelle)",
+        "Points de vie",
+        "42 (5d10 + 15)",
+        "Vitesse",
+        "12 m, nage 9 m",
+        "FOR",
+        "20 (+5)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'ours réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'ours réalise deux attaques : une avec ses griffes et une de morsure.",
+        "Griffes. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts perforants."
+    ],
+    "reactions": []
+}

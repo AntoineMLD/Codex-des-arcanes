@@ -1,0 +1,180 @@
+{
+    "title": "Pièges (XGtE)",
+    "introduction": "Règles officielles issues du Xanathar's Guide to Everything , publiées initialement dans la rubrique Unearthed Arcana .",
+    "sections": [
+        {
+            "title": "Pièges simples",
+            "content": "Un piège simple s'active puis devient inoffensif. Une fosse cachée creusée à l'entrée d'un repaire de gobelins, une aiguille de poison qui sort d'une serrure et une arbalète préparée pour tirer quand un intrus marche sur une plaque sont tous des pièges simples. une plaque de pression qui, lorsque l'on marche dessus, active un piège un fil de fer qui, quand il est cassé, active un piège, généralement quand quelqu'un marche dessus une poignée qui active un piège quand elle est tournée dans le mauvais sens une porte ou un coffre qui déclenche un piège lorsqu'il est ouvert"
+        },
+        {
+            "title": "Exemples de pièges simples",
+            "content": "Voici des exemples de pièges simples que vous pouvez utiliser pour remplir vos aventures ou prendre comme modèles pour vos créations. une plaque de pression qui, lorsque l'on marche dessus, active un piège un fil de fer qui, quand il est cassé, active un piège, généralement quand quelqu'un marche dessus une poignée qui active un piège quand elle est tournée dans le mauvais sens une porte ou un coffre qui déclenche un piège lorsqu'il est ouvert"
+        },
+        {
+            "title": "Concevoir des pièges simples",
+            "content": "Vous pouvez créer un piège simple en utilisant les conseils suivants. Vous pouvez également adapter les exemples de pièges en modifiant les DD et les valeurs des dégâts en fonction du niveau et de la menace voulus pour le piège. une plaque de pression qui, lorsque l'on marche dessus, active un piège un fil de fer qui, quand il est cassé, active un piège, généralement quand quelqu'un marche dessus une poignée qui active un piège quand elle est tournée dans le mauvais sens une porte ou un coffre qui déclenche un piège lorsqu'il est ouvert"
+        },
+        {
+            "title": "Pièges complexes",
+            "content": "Un piège complexe présente de multiples dangers pour les aventuriers. Une fois qu'un piège complexe s'active, il reste dangereux tour après tour jusqu'à ce que les personnages l'évite ou le désactive. Certains pièges complexes deviennent plus dangereux au fil du temps, accumulant de l'énergie ou gagnant en vitesse. Les pièges complexes sont également plus difficiles à désactiver que les pièges simples. Un seul jet ne suffit pas à en désactiver un. Au lieu de cela, plusieurs jets sont nécessaires pour désactiver un à un chaque élément. Le piège se dégrade à chaque jet, jusqu'à ce que les personnages le désactivent. Les pièges les plus complexes sont conçus de telle sorte qu'ils ne peuvent être désarmés que si vous êtes prêt à risquer les effets du piège. Par exemple, dans un couloir rempli de lames de scie, le mécanisme qui les contrôle est situé à l'opposé de l'entrée, ou une statue qui baigne une zone d'énergie nécrotique ne peut être désactivée qu'en entrant dans la zone d'énergie émise."
+        },
+        {
+            "title": "Exemples de pièges complexes",
+            "content": "Voici des exemples de pièges complexes pour inspirer vos propres créations."
+        },
+        {
+            "title": "Concevoir des pièges complexes",
+            "content": "Créer un piège complexe demande plus de travail que pour un piège simple, mais avec un peu de pratique vous dominerez le processus cela sera plus rapide. Familiarisez-vous avec les conseils pour la conception d'un piège simple avant de suivre ceux pour les pièges complexes."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Dangerosité du piège",
+                "DD de sauvegarde",
+                "Bonus à l'attaque"
+            ],
+            "rows": [
+                {
+                    "Dangerosité du piège": "Modéré",
+                    "DD de sauvegarde": "10",
+                    "Bonus à l'attaque": "+5"
+                },
+                {
+                    "Dangerosité du piège": "Dangereux",
+                    "DD de sauvegarde": "15",
+                    "Bonus à l'attaque": "+8"
+                },
+                {
+                    "Dangerosité du piège": "Mortel",
+                    "DD de sauvegarde": "20",
+                    "Bonus à l'attaque": "+12"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau de personnage",
+                "Modéré",
+                "Dangereux",
+                "Mortel"
+            ],
+            "rows": [
+                {
+                    "Niveau de personnage": "1 - 4",
+                    "Modéré": "5 (1d10)",
+                    "Dangereux": "11 (2d10)",
+                    "Mortel": "22 (4d10)"
+                },
+                {
+                    "Niveau de personnage": "5 - 10",
+                    "Modéré": "11 (2d10)",
+                    "Dangereux": "22 (4d10)",
+                    "Mortel": "55 (10d10)"
+                },
+                {
+                    "Niveau de personnage": "11 - 16",
+                    "Modéré": "22 (4d10)",
+                    "Dangereux": "55 (10d10)",
+                    "Mortel": "99 (18d10)"
+                },
+                {
+                    "Niveau de personnage": "17 - 20",
+                    "Modéré": "55 (10d10)",
+                    "Dangereux": "99 (18d10)",
+                    "Mortel": "132 (24d10)"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau de personnage",
+                "Modéré",
+                "Dangereux",
+                "Mortel"
+            ],
+            "rows": [
+                {
+                    "Niveau de personnage": "1 - 4",
+                    "Modéré": "Sort mineur",
+                    "Dangereux": "1",
+                    "Mortel": "2"
+                },
+                {
+                    "Niveau de personnage": "5 - 10",
+                    "Modéré": "1",
+                    "Dangereux": "3",
+                    "Mortel": "6"
+                },
+                {
+                    "Niveau de personnage": "11 - 16",
+                    "Modéré": "3",
+                    "Dangereux": "6",
+                    "Mortel": "9"
+                },
+                {
+                    "Niveau de personnage": "17 - 20",
+                    "Modéré": "6",
+                    "Dangereux": "9",
+                    "Mortel": "9 + 5"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau du piège",
+                "PX"
+            ],
+            "rows": [
+                {
+                    "Niveau du piège": "1 - 4",
+                    "PX": "650"
+                },
+                {
+                    "Niveau du piège": "5 - 10",
+                    "PX": "3850"
+                },
+                {
+                    "Niveau du piège": "11 - 16",
+                    "PX": "11 100"
+                },
+                {
+                    "Niveau du piège": "17 -20",
+                    "PX": "21 500"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Effet"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Effet": "Un gaz hallucinatoire brouille l'esprit et les sens. Tous les jets d'Intelligence et de Sagesse effectués dans la salle ont un désavantage jusqu'à ce que l'élément Tempête se déclenche à nouveau."
+                },
+                {
+                    "d6": "2",
+                    "Effet": "Un gaz explosif remplit la zone. Si quelqu'un tient une flamme nue, le gaz explose et inflige 22 (4d10) points de dégâts de feu à tout le monde dans la salle (jet de sauvegarde de Dextérité DD 20 pour ne prendre que la moitié des dégâts). Les flammes nues sont alors éteintes."
+                },
+                {
+                    "d6": "3",
+                    "Effet": "Un gaz affaiblissant remplit la pièce. Tous les jets de Force et de Dextérité effectués dans la salle ont un désavantage jusqu'à ce que l'élément Tempête se déclenche à nouveau."
+                },
+                {
+                    "d6": "4",
+                    "Effet": "Des vents ravageurs forcent tout le monde dans la salle à réussir un jet de sauvegarde de Force DD 20 Force pour ne pas être mis à terre."
+                },
+                {
+                    "d6": "5",
+                    "Effet": "De la fumée remplit la pièce. La visibilité est réduite à 30 cm jusqu'à la prochaine activation de l'élément Tempête."
+                },
+                {
+                    "d6": "6",
+                    "Effet": "Un poison supplémentaire inonde la pièce, comme dans l'élément Gaz empoisonné."
+                }
+            ]
+        }
+    ]
+}

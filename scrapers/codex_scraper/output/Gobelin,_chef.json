@@ -1,0 +1,51 @@
+{
+    "title": "Gobelin, chef",
+    "prerequisites": "Humanoïde (gobelinoïde) de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/goblin.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gobelin-chef",
+    "stats": [
+        "Classe d'armure",
+        "17 (chemise de mailles, bouclier)",
+        "Points de vie",
+        "21 (6d6)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +6",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 9",
+        "Langues",
+        "commun, gobelin",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le gobelin effectue deux attaques avec le cimeterre. La deuxième attaque a un désavantage.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Attaque redirigée. Lorsqu'une créature, que le gobelin peut voir, le cible avec une attaque, le gobelin choisit un autre gobelin situé à 1,50 mètre ou moins de lui. Les deux gobelins échangent leur place et le gobelin choisi devient la nouvelle cible de l'attaque."
+    ],
+    "actions": [
+        "Attaques multiples. Le gobelin effectue deux attaques avec le cimeterre. La deuxième attaque a un désavantage.",
+        "Cimeterre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +2 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 3 (1d6) dégâts perforants.",
+        "Attaque redirigée. Lorsqu'une créature, que le gobelin peut voir, le cible avec une attaque, le gobelin choisit un autre gobelin situé à 1,50 mètre ou moins de lui. Les deux gobelins échangent leur place et le gobelin choisi devient la nouvelle cible de l'attaque."
+    ],
+    "reactions": [
+        "Attaque redirigée. Lorsqu'une créature, que le gobelin peut voir, le cible avec une attaque, le gobelin choisit un autre gobelin situé à 1,50 mètre ou moins de lui. Les deux gobelins échangent leur place et le gobelin choisi devient la nouvelle cible de l'attaque."
+    ]
+}

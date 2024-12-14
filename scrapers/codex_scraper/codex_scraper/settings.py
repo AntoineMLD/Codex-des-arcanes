@@ -3,9 +3,8 @@ import sys
 import django
 
 # Ajoute le chemin de base du projet Django
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-# Configure le module Django
-os.environ["DJANGO_SETTINGS_MODULE"] = "codex_des_arcanes.settings"
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../.."))
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "codex_des_arcanes.settings")
 django.setup()
 
 

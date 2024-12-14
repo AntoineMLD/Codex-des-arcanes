@@ -1,0 +1,70 @@
+{
+    "title": "Objets magiques",
+    "introduction": "Les objets magiques sont glanés dans le butin des monstres vaincus ou découverts dans des caveaux perdus depuis longtemps. Ces objets accordent des capacités qu'un personnage ne peut que rarement obtenir autrement, ou complètent les capacités de leur propriétaire d'une manière merveilleuse.",
+    "sections": [
+        {
+            "title": "Rareté",
+            "content": "Tout objet magique possède une rareté : commun, peu commun, rare, très rare ou légendaire. Les objets magiques communs, comme une potion de guérison , sont les plus abondants. Certains objets légendaires, tels que le submersible de Kwalish , sont uniques. Le jeu suppose que les secrets de la création des objets les plus puissants sont apparus il y a des siècles puis ont été progressivement perdus à la suite de guerres, de cataclysmes et de mésaventures. Même les objets rares ne peuvent plus être facilement créés. Ainsi, de nombreux objets magiques sont maintenant des antiquités bien conservées."
+        },
+        {
+            "title": "Acheter et vendre",
+            "content": "À moins que vous ne décidiez que votre campagne fonctionne autrement, la plupart des objets magiques sont si rares qu'ils ne sont pas disponibles à l'achat. Les objets communs, comme les potions de guérisons , peuvent être obtenus auprès d'un alchimiste, d'un herboriste ou d'un lanceur de sorts. Ce faisant, cela n'est pas aussi simple que d'entrer dans un magasin et de sélectionner un article sur une étagère. Le vendeur pourrait demander en échange un service, plutôt que des pièces de monnaie."
+        },
+        {
+            "title": "Identifier un objet magique",
+            "content": "Certains objets magiques sont indiscernables de leurs homologues non-magiques, alors que d'autres objets magiques affichent clairement leur nature magique. Quel que soit l'aspect d'un objet magique, il suffit de manipuler l'objet pour donner à un personnage l'impression qu'il a dans les mains quelque chose d'extraordinaire. Cependant, la découverte des propriétés d'un objet magique n'est pas automatique."
+        },
+        {
+            "title": "Lien",
+            "content": "Certains objets magiques nécessitent qu'une créature se lie à eux pour que leurs propriétés magiques puissent être utilisées. On appelle cela se lier à l'objet, et certains objets ont une condition préalable pour cela. Si la condition est une classe, une créature doit être membre de cette classe pour pouvoir se lier à l'objet (si la classe est une classe de lanceur de sorts, un monstre peut se lier s'il possède des emplacements de sorts et utilise la liste de sorts de cette classe). Si la condition est d'être un lanceur de sorts, une créature peut se lier si elle peut lancer au moins un sort en utilisant ses traits ou ses capacités (mais pas en utilisant un objet magique ou autre chose similaire)."
+        },
+        {
+            "title": "Catégorie d'objet magique",
+            "content": "Tout objet magique appartient à une catégorie : anneaux, armes, armures, baguettes, bâtons, objets merveilleux, parchemins, potions ou sceptres."
+        },
+        {
+            "title": "Porter et manier des objets",
+            "content": "Utiliser les propriétés d'un objet magique signifie le porter ou le manier. Un objet magique destiné à être porté doit l'être de manière logique : les bottes vont sur les pieds, les gants sur les mains, les chapeaux et les casques sur la tête, et les anneaux sur les doigts. Une armure magique doit être enfilée, un bouclier attaché au bras, un manteau fixé sur les épaules. Une arme doit être tenue en main."
+        },
+        {
+            "title": "Activer un objet",
+            "content": "L'activation de certains objets magiques nécessite que l'utilisateur entreprenne une action spéciale, comme le tenir ou prononcer un mot de commande. La description de chaque type d'objet ou d'un objet en particulier indique sa méthode d'activation. Certains objets utilisent une ou plusieurs des règles suivantes pour leur activation."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Rareté",
+                "Niveau du personnage",
+                "Valeur"
+            ],
+            "rows": [
+                {
+                    "Rareté": "Commun",
+                    "Niveau du personnage": "1 ou supérieur",
+                    "Valeur": "50 - 100 po"
+                },
+                {
+                    "Rareté": "Peu commun",
+                    "Niveau du personnage": "1 ou supérieur",
+                    "Valeur": "101 - 500 po"
+                },
+                {
+                    "Rareté": "Rare",
+                    "Niveau du personnage": "5 ou supérieur",
+                    "Valeur": "501 - 5 000 po"
+                },
+                {
+                    "Rareté": "Très rare",
+                    "Niveau du personnage": "11 ou supérieur",
+                    "Valeur": "5 001 - 50 000 po"
+                },
+                {
+                    "Rareté": "Légendaire",
+                    "Niveau du personnage": "17 ou supérieur",
+                    "Valeur": "50 001 po ou plus"
+                }
+            ]
+        }
+    ]
+}

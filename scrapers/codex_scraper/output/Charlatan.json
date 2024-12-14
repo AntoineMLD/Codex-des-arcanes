@@ -1,0 +1,175 @@
+{
+    "title": "Charlatan",
+    "introduction": "Vous avez toujours eu un bon feeling avec les gens. Vous savez comment les accrocher, vous pouvez percevoir leurs plus profonds désirs après quelques minutes de conversations, et avec quelques questions précises vous pouvez lire en eux comme dans un livre ouvert. C'est un talent très utile, et vous savez exactement comment l'utiliser à votre avantage.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d6",
+                "Combine"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Combine": "Je truque un jeu de chance."
+                },
+                {
+                    "d6": "2",
+                    "Combine": "Je rogne les pièces de monnaie ou contrefait des documents."
+                },
+                {
+                    "d6": "3",
+                    "Combine": "Je m'introduis dans la vie des gens pour jouer de leurs faiblesses et récupérer leur fortune."
+                },
+                {
+                    "d6": "4",
+                    "Combine": "Je change d'identité comme de chemise."
+                },
+                {
+                    "d6": "5",
+                    "Combine": "J'exécute des tours de passe-passe aux coins de rues."
+                },
+                {
+                    "d6": "6",
+                    "Combine": "Je convaincs les gens qu'une camelote sans valeur vaut largement l'argent qu'ils ont obtenu en travaillant durement."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je tombe facilement amoureux, mais passe rapidement à une autre personne. Je suis toujours en train de faire la cour à quelqu'un."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "J'ai une blague pour n'importe quelle occasion, en particulier pour les situations où l'humour n'est pas approprié."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "La flatterie est mon astuce préférée pour obtenir ce que je veux."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je suis un joueur né qui ne peut s'empêcher de prendre des risques pour un gain potentiel."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je mens sur à peu près tout, même s'il n'y a aucune bonne raison pour le faire."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Les sarcasmes et les insultes sont mes armes favorites."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Je conserve tout un tas de symboles sacrés sur moi et prie toute divinité qui pourrait me venir en aide à un moment."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Je mets dans mes poches tout ce que je vois et qui pourrait avoir une quelconque valeur."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Indépendance. Je suis un esprit libre, personne ne me dit ce que je dois faire (Chaotique)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Justice. Je ne cible jamais une personne qui ne peut pas se permettre de perdre quelques pièces (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Charité. Je distribue l'argent que j'obtiens à ceux qui en ont vraiment besoin (Bon)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Créativité. Je ne fais jamais deux fois la même arnaque (Chaotique)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Amitié. Les biens matériels vont et viennent. Les liens d'amitié qui se tissent durent éternellement (Bon)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Aspiration. Je suis déterminé à faire quelque chose de ma vie (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "J'ai floué la mauvaise personne et ai intérêt à tout faire pour qu'elle ne recroise plus jamais mon chemin ou celui d'un de mes proches."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Je dois tout à mon maître, une horrible personne qui est probablement en train de pourrir en prison."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Dehors, quelque part, j'ai un enfant qui ne me connaît pas. Je cherche à rendre le monde meilleur pour lui/elle."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je viens d'une famille noble, et un jour je viendrai leur réclamer mes terres et mon titre qu'ils m'ont lâchement dérobés."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Une personne très puissante a tué quelqu'un que j'aimais. Un jour prochain, j'aurai ma revanche."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "J'ai escroqué et ruiné une personne qui ne le méritait pas. Je cherche à expier mon erreur, mais je ne pourrai jamais me le pardonner."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je ne peux pas résister à un joli minois."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "J'ai toujours des dettes. Je dépense mon argent sale dans des produits de luxe plus rapidement que je ne le gagne."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Je suis persuadé que jamais personne ne pourra me rouler de la manière dont je roule les autres."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Je suis trop gourmand lorsqu'il s'agit de profit. Je ne peux pas m'empêcher de prendre des risques lorsque de l'argent est en jeu."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Je ne peux pas m'empêcher d'escroquer ceux qui sont plus puissants que moi."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Je déteste l'admettre et je vais me détester pour cela, mais je prendrai mes jambes à mon cou et sauverai avant tout ma vie si la situation devient critique."
+                }
+            ]
+        }
+    ]
+}

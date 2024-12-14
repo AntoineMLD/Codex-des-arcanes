@@ -1,0 +1,47 @@
+{
+    "title": "Méphite vaporeux",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/steam-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-vaporeux",
+    "stats": [
+        "Classe d'armure",
+        "10",
+        "Points de vie",
+        "21 (6d6)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Immunités aux dégâts",
+        "feu, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "aquatique, igné",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts tranchants + 2 (1d4) dégâts de feu.",
+        "Souffle vaporeux (Recharge 6). Le méphite crache un cône de 4,50 mètres de vapeur brûlante. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 10, subissant 4 (1d8) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts tranchants + 2 (1d4) dégâts de feu.",
+        "Souffle vaporeux (Recharge 6). Le méphite crache un cône de 4,50 mètres de vapeur brûlante. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 10, subissant 4 (1d8) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

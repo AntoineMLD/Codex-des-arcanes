@@ -1,0 +1,45 @@
+{
+    "title": "Duodrone",
+    "prerequisites": "Artificiel de taille M, loyal neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/duodrone.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=duodrone",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Sens",
+        "vision véritable 36 m, Perception passive 10",
+        "Langues",
+        "modron",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le duodrone effectue deux attaques de coup ou deux attaques avec la javeline.",
+        "Poing. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le duodrone effectue deux attaques de coup ou deux attaques avec la javeline.",
+        "Poing. Attaque au corps à corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts contondants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +3 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

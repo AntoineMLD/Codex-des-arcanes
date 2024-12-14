@@ -1,0 +1,51 @@
+{
+    "title": "Orc, chef de guerre",
+    "prerequisites": "Humanoïde (orc) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/orc.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=orc-chef-de-guerre",
+    "stats": [
+        "Classe d'armure",
+        "16 (cotte de mailles)",
+        "Points de vie",
+        "93 (11d8 + 44)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "16 (+3)",
+        "Jets de sauvegarde",
+        "For +6, Con +6, Sag +2",
+        "Compétences",
+        "Intimidation +5",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, orc",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'orc effectue deux attaques avec la hache à deux mains ou la lance.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 15 (1d12 + 4 plus 1d8) dégâts tranchants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 6/18 m une cible. Touché : 12 (1d6 + 4 plus 1d8) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisée à deux mains pour effectuer une attaque au corps à corps.",
+        "Cri de guerre (1/jour). Chaque créature que le chef de guerre choisie et qui se trouve à 9 mètres ou moins de lui, qui peut l'entendre, et qui n'est pas déjà affectée par un Cri de guerre, gagne un avantage aux jets d'attaque jusqu'au début du prochain tour du chef de guerre. Le chef de guerre peut ensuite effectuer une attaque en utilisant son action bonus."
+    ],
+    "actions": [
+        "Attaques multiples. L'orc effectue deux attaques avec la hache à deux mains ou la lance.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 15 (1d12 + 4 plus 1d8) dégâts tranchants.",
+        "Lance. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 6/18 m une cible. Touché : 12 (1d6 + 4 plus 1d8) dégâts perforants, ou 13 (2d8 + 4) dégâts perforants si utilisée à deux mains pour effectuer une attaque au corps à corps.",
+        "Cri de guerre (1/jour). Chaque créature que le chef de guerre choisie et qui se trouve à 9 mètres ou moins de lui, qui peut l'entendre, et qui n'est pas déjà affectée par un Cri de guerre, gagne un avantage aux jets d'attaque jusqu'au début du prochain tour du chef de guerre. Le chef de guerre peut ensuite effectuer une attaque en utilisant son action bonus."
+    ],
+    "reactions": []
+}

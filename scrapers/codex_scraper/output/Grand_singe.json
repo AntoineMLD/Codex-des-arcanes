@@ -1,0 +1,47 @@
+{
+    "title": "Grand singe",
+    "prerequisites": "Bête de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=grand-singe",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "19 (3d8 + 6)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Athlétisme +5, Perception +3",
+        "Sens",
+        "Perception passive 13",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le grand singe réalise deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +5 au toucher, portée 7,50/15 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants."
+    ],
+    "actions": [
+        "Attaques multiples. Le grand singe réalise deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants.",
+        "Rocher. Attaque à distance avec une arme : +5 au toucher, portée 7,50/15 m, une cible. Touché : 6 (1d6 + 3) dégâts contondants."
+    ],
+    "reactions": []
+}

@@ -1,0 +1,191 @@
+{
+    "title": "Héros du peuple",
+    "introduction": "Vous venez d'un milieu social humble, mais êtes destiné à beaucoup plus. Déjà, les gens de votre village natal vous considèrent comme leur champion, et votre destin vous appelle à vous dresser face aux tyrans et aux monstres qui menacent les gens du commun un peu partout.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d10",
+                "Événement déterminant"
+            ],
+            "rows": [
+                {
+                    "d10": "1",
+                    "Événement déterminant": "J'ai résisté aux agents d'un tyran."
+                },
+                {
+                    "d10": "2",
+                    "Événement déterminant": "J'ai sauvé des gens lors d'une catastrophe naturelle."
+                },
+                {
+                    "d10": "3",
+                    "Événement déterminant": "Je suis resté seul face à un terrible monstre."
+                },
+                {
+                    "d10": "4",
+                    "Événement déterminant": "J'ai volé un marchand corrompu pour aider les pauvres."
+                },
+                {
+                    "d10": "5",
+                    "Événement déterminant": "J'ai dirigé une milice pour combattre une armée d'invasion."
+                },
+                {
+                    "d10": "6",
+                    "Événement déterminant": "Je me suis introduit dans le château d'un tyran pour y voler des armes et armer les gens du peuple."
+                },
+                {
+                    "d10": "7",
+                    "Événement déterminant": "J'ai entraîné les paysans à utiliser les outils des champs comme des armes contre les soldats d'un tyran."
+                },
+                {
+                    "d10": "8",
+                    "Événement déterminant": "Un seigneur a annulé un décret impopulaire après que j'ai mené une action symbolique de protestation contre celui-ci."
+                },
+                {
+                    "d10": "9",
+                    "Événement déterminant": "Une créature céleste, une fée ou une créature similaire m'a donné une bénédiction ou m'a révélé mon origine secrète."
+                },
+                {
+                    "d10": "10",
+                    "Événement déterminant": "Recruté dans l'armée d'un seigneur, je suis devenu un leader et j'ai été félicité pour mon héroïsme."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je juge les gens sur leurs actions, pas sur leurs paroles."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Si quelqu'un est en difficulté, je suis toujours prêt à lui apporter de l'aide."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "Quand je me fixe sur quelque chose, je fonce, peu importe ce qui sera sur ma route."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "J'ai un fort sentiment de justice et j'essaye toujours de trouver la solution la plus équitable aux différends."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "J'ai confiance en mes capacités et je fais ce que je peux pour inspirer la confiance aux autres."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "La pensée est pour les autres. Moi je préfère l'action."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "J'utilise mal les mots longs lorsque j'essaye de paraître intelligent."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Je m'ennuie facilement. Quand vais-je suivre mon destin ?"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Respect. Les gens méritent d'être traités avec dignité et respect (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Équité. Personne ne devrait obtenir un traitement préférentiel devant la loi, et nul n'est au-dessus de la loi (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Liberté. On ne doit pas permettre aux tyrans d'opprimer le peuple (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Puissance. Si je deviens fort, je peux prendre ce que je veux, ce que je mérite (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Sincérité. Il n'est pas bon de faire semblant d'être ce que l'on n'est pas (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Destin. Rien ni personne ne peut me détourner de mon destin (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "J'ai une famille, mais je ne sais pas où ils sont. Un jour, j'espère les revoir."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "J'ai travaillé la terre, j'aime la terre, et je vais protéger la terre."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Un noble orgueilleux m'a un jour passé une horrible raclée. Je vais prendre ma revanche sur le premier tyran que je rencontre."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Mes outils sont le symbole de ma vie passée, et je les porte pour ne jamais oublier mes racines."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Je protège ceux qui sont sans défense."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Je souhaite que ma petite amie lorsque j'étais enfant vienne avec moi pour poursuivre mon destin."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Le tyran qui gouverne ma terre ne reculera devant rien pour me voir mort."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Je suis convaincu de l'importance de mon destin, et aveugle devant mes lacunes et les risques d'échec."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Les gens qui m'ont connu plus jeune connaissent mon secret honteux. Pour cette raison je ne pourrais jamais revenir chez moi."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "J'ai un faible pour les vices de la ville, en particulier pour les alcools forts."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Secrètement, je crois que les choses iraient mieux si j'étais un tyran gouvernant ce territoire."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "J'ai du mal à faire confiance à mes alliés."
+                }
+            ]
+        }
+    ]
+}

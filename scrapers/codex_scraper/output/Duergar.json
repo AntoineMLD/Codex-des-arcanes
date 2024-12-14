@@ -1,0 +1,49 @@
+{
+    "title": "Duergar",
+    "prerequisites": "Humanoïde (nain) de taille M, loyal mauvais",
+    "description": "Les tyranniques duergars, également connus sous le nom de nains gris, vivent dans des villes fantastiques au fond de l'Outreterre. Utilisant d'anciennes connaissances naines et une myriade d'esclaves, ils travaillent sans relâche pour étendre leurs royaumes souterrains.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/duergar.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=duergar",
+    "stats": [
+        "Classe d'armure",
+        "16 (armure d'écailles, bouclier)",
+        "Points de vie",
+        "26 (4d8 + 8)",
+        "Vitesse",
+        "7,50 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "9 (-1)",
+        "Résistances aux dégâts",
+        "poison",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "nain, commun des profondeurs",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Agrandissement (Recharge après un repos court ou long). Pour 1 minute, le duergar augmente magiquement sa taille, ainsi que celle de tout ce qu'il porte ou transporte. Tant qu'il est agrandi, le duergar est de taille G, double les dés de dégâts de ses attaques avec une arme basées sur la Force (inclus dans les attaques ci-dessous), et effectue les jets de Force et les jets de sauvegarde de Force avec un avantage. Si le duergar n'a pas assez de place pour atteindre la taille G, il grandit jusqu'à atteindre la taille maximum possible dans l'espace qu'il occupe.",
+        "Pic de guerre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants, ou 11 (2d8 + 2) dégâts perforants s'il est agrandi.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 9 (2d6 + 2) dégâts perforants s'il est agrandi.",
+        "Invisibilité (Recharge après un repos court ou long). Le duergar devient invisible par magie jusqu'à ce qu'il attaque, lance un sort, utilise son action Agrandissement, ou que sa concentration soit brisée, pendant 1 heure maximum (comme s'il se concentrait sur un sort). Tout l'équipement que le duergar porte ou transporte est également invisible."
+    ],
+    "actions": [
+        "Agrandissement (Recharge après un repos court ou long). Pour 1 minute, le duergar augmente magiquement sa taille, ainsi que celle de tout ce qu'il porte ou transporte. Tant qu'il est agrandi, le duergar est de taille G, double les dés de dégâts de ses attaques avec une arme basées sur la Force (inclus dans les attaques ci-dessous), et effectue les jets de Force et les jets de sauvegarde de Force avec un avantage. Si le duergar n'a pas assez de place pour atteindre la taille G, il grandit jusqu'à atteindre la taille maximum possible dans l'espace qu'il occupe.",
+        "Pic de guerre. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants, ou 11 (2d8 + 2) dégâts perforants s'il est agrandi.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants, ou 9 (2d6 + 2) dégâts perforants s'il est agrandi.",
+        "Invisibilité (Recharge après un repos court ou long). Le duergar devient invisible par magie jusqu'à ce qu'il attaque, lance un sort, utilise son action Agrandissement, ou que sa concentration soit brisée, pendant 1 heure maximum (comme s'il se concentrait sur un sort). Tout l'équipement que le duergar porte ou transporte est également invisible."
+    ],
+    "reactions": []
+}

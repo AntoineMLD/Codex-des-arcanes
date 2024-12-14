@@ -1,0 +1,51 @@
+{
+    "title": "Élémentaire de l'eau",
+    "prerequisites": "Élémentaire de taille G, neutre",
+    "description": "Êtres natifs du plan Élémentaire de l'eau et convoqués dans le monde, les élémentaires de l'eau ressemblent aux crêtes des vagues qui roulent sur le sol. Un élémentaire de l'eau engloutit toutes les créatures qui se dressent contre lui.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/water-elemental.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=elementaire-de-l-eau",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle)",
+        "Points de vie",
+        "114 (12d10 + 48)",
+        "Vitesse",
+        "9 m, nage 27 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "5 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "8 (-1)",
+        "Résistances aux dégâts",
+        "acide ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "aquatique",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Submersion (Recharge 4-6). Chaque créature dans l'espace de l'élémentaire doit faire un jet de sauvegarde de Force DD 15. En cas d'échec, une cible subit 13 (2d8 + 4) dégâts contondants. Si elle est de taille G ou plus petite, elle est également agrippée (évasion DD 14). Tant qu'elle est agrippée, la cible est entravée et incapable de respirer à moins qu'elle puisse respirer sous l'eau. Si le jet de sauvegarde est réussi, la cible est poussée hors de l'espace de l'élémentaire. L'élémentaire peut agripper une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites à la fois. Au début de chaque tour de l'élémentaire, chaque cible agrippée par l'élémentaire prend 13 (2d8 + 4) dégâts contondants. Une créature dans un rayon de 1,50 mètre autour de l'élémentaire peut lui retirer une créature ou un objet en prenant une action pour faire un jet de Force DD 14 et en le réussissant."
+    ],
+    "actions": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 13 (2d8 + 4) dégâts contondants.",
+        "Submersion (Recharge 4-6). Chaque créature dans l'espace de l'élémentaire doit faire un jet de sauvegarde de Force DD 15. En cas d'échec, une cible subit 13 (2d8 + 4) dégâts contondants. Si elle est de taille G ou plus petite, elle est également agrippée (évasion DD 14). Tant qu'elle est agrippée, la cible est entravée et incapable de respirer à moins qu'elle puisse respirer sous l'eau. Si le jet de sauvegarde est réussi, la cible est poussée hors de l'espace de l'élémentaire. L'élémentaire peut agripper une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites à la fois. Au début de chaque tour de l'élémentaire, chaque cible agrippée par l'élémentaire prend 13 (2d8 + 4) dégâts contondants. Une créature dans un rayon de 1,50 mètre autour de l'élémentaire peut lui retirer une créature ou un objet en prenant une action pour faire un jet de Force DD 14 et en le réussissant."
+    ],
+    "reactions": []
+}

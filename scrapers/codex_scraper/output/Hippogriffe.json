@@ -1,0 +1,47 @@
+{
+    "title": "Hippogriffe",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "Un hippogriffe est une créature magique composée des ailes et des membres antérieurs d'un aigle, de l'arrière-train d'un cheval, et d'une tête combinant les particularités de ces deux animaux.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/hippogriff.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=hippogriffe",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "19 (3d10 + 3)",
+        "Vitesse",
+        "12 m, vol 18 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "2 (-4)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "8 (-1)",
+        "Compétences",
+        "Perception +5",
+        "Sens",
+        "Perception passive 15",
+        "Langues",
+        "—",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'hippogriffe effectue deux attaques : une avec son bec et une avec ses griffes.",
+        "Bec. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. L'hippogriffe effectue deux attaques : une avec son bec et une avec ses griffes.",
+        "Bec. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts perforants.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

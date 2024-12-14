@@ -1,0 +1,43 @@
+{
+    "title": "Ankheg",
+    "prerequisites": "Monstruosité de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ankheg.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=ankheg",
+    "stats": [
+        "Classe d'armure",
+        "14 (armure naturelle), 11 lorsqu'il est à terre",
+        "Points de vie",
+        "39 (6d10 + 6)",
+        "Vitesse",
+        "9 m, creusement 3 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "6 (-2)",
+        "Sens",
+        "vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants + 3 (1d6) dégâts d'acide. Si la cible est de taille G ou inférieure, elle est agrippée (évasion DD 13). Tant qu'elle est agrippée, l'ankheg ne peut mordre que cette créature et a un avantage aux jets d'attaque pour cela.",
+        "Vaporisation d'acide (Recharge 6). L'ankheg crache de l'acide sur une ligne de 9 mètres de long et 1,50 mètre de large, à conditions qu'il n'agrippe aucune créature. Chaque créature présente sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 13, subissant 10 (3d6) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants + 3 (1d6) dégâts d'acide. Si la cible est de taille G ou inférieure, elle est agrippée (évasion DD 13). Tant qu'elle est agrippée, l'ankheg ne peut mordre que cette créature et a un avantage aux jets d'attaque pour cela.",
+        "Vaporisation d'acide (Recharge 6). L'ankheg crache de l'acide sur une ligne de 9 mètres de long et 1,50 mètre de large, à conditions qu'il n'agrippe aucune créature. Chaque créature présente sur cette ligne doit effectuer un jet de sauvegarde de Dextérité DD 13, subissant 10 (3d6) dégâts d'acide en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

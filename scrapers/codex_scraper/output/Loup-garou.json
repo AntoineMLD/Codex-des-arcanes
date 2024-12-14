@@ -1,0 +1,51 @@
+{
+    "title": "Loup-garou",
+    "prerequisites": "Humanoïde (humain, métamorphe) de taille M, chaotique mauvais",
+    "description": "Un loup-garou est un prédateur sauvage qui peut prendre la forme d'un humanoïde, d'un loup ou d'un terrifiant hybride qui ressemble à un humanoïde très musclé au corps recouvert de poils mais dont la tête est celle d'un loup vorace.Un sort de délivrance des malédictions peut libérer une créature affligée de lycanthropie, mais un lycanthrope naturel ne peut être libéré de sa malédiction qu'avec un souhait.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/wereWolf.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=loup-garou",
+    "stats": [
+        "Classe d'armure",
+        "11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou sous forme hybride",
+        "Points de vie",
+        "58 (9d8 + 18)",
+        "Vitesse",
+        "9 m (12 m sous forme de loup)",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +3, Perception +4",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "commun (ne peut pas parler sous forme de loup)",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le loup-garou effectue deux attaques : deux avec sa lance (forme humanoïde) ou une de morsure et une avec ses griffes (forme hybride).",
+        "Morsure (forme de loup ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 ou être atteinte de la lycanthropie du loup-garou.",
+        "Griffes (forme hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 7 (2d4 + 2) dégâts tranchants.",
+        "Lance (forme humanoïde uniquement). Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 5 (1d6 + 2) dégâts perforants, ou 6 (1d8 + 2) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "actions": [
+        "Attaques multiples (forme humanoïde ou hybride uniquement). Le loup-garou effectue deux attaques : deux avec sa lance (forme humanoïde) ou une de morsure et une avec ses griffes (forme hybride).",
+        "Morsure (forme de loup ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 ou être atteinte de la lycanthropie du loup-garou.",
+        "Griffes (forme hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 7 (2d4 + 2) dégâts tranchants.",
+        "Lance (forme humanoïde uniquement). Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 5 (1d6 + 2) dégâts perforants, ou 6 (1d8 + 2) dégâts perforants si utilisée à deux mains pour faire une attaque au corps à corps."
+    ],
+    "reactions": []
+}

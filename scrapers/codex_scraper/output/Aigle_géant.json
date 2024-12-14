@@ -1,0 +1,47 @@
+{
+    "title": "Aigle géant",
+    "prerequisites": "Bête de taille G, neutre bon",
+    "description": "L'aigle géant est une noble créature qui parle son propre langage et en comprend certains autres.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=aigle-geant",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "26 (4d10 + 4)",
+        "Vitesse",
+        "3 m, vol 24 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "8 (-1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "Un aigle géant comprend le commun et l'aérien mais ne peut pas les parler",
+        "Puissance",
+        "1 (200 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'aigle réalise deux attaques : une avec son bec et une avec ses serres.",
+        "Bec. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. L'aigle réalise deux attaques : une avec son bec et une avec ses serres.",
+        "Bec. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Serres. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

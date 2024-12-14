@@ -1,0 +1,51 @@
+{
+    "title": "Élémentaire de l'air",
+    "prerequisites": "Élémentaire de taille G, neutre",
+    "description": "Un élémentaire de l'air est une masse d'air tourbillonnante prenant la vague apparence d'un visage. Il peut se transformer en un tourbillon hurlant, créant alors un cyclone destructeur qui éjecte tout sur son passage.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/air-elemental.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=elementaire-de-l-air",
+    "stats": [
+        "Classe d'armure",
+        "15",
+        "Points de vie",
+        "90 (12d10 + 24)",
+        "Vitesse",
+        "0 m, vol 27 m (stationnaire)",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "6 (-2)",
+        "Résistances aux dégâts",
+        "foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "à terre, empoisonné, agrippé, entravé, épuisement, inconscient, paralysé, pétrifié",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "aérien",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d8 + 5) dégâts contondants.",
+        "Cyclone (Recharge 4-6). Chaque créature se trouvant dans l'espace de l'élémentaire doit effectuer un jet de sauvegarde de Force DD 13. En cas d'échec, la cible subit 15 (3d8 + 2) dégâts contondants, est projetée à 6 mètres de l'élémentaire dans une direction aléatoire, et se retrouve à terre. Si la cible frappe dans un obstacle, tel un mur, elle subit 3 (1d6) dégâts contondants pour chaque tranche de 3 mètres de distance qu'elle a parcourue. Si la cible est projetée vers une autre créature, celle-ci doit réussir un jet de sauvegarde de Dextérité DD 13 ou subir les mêmes dégâts et se retrouver à terre. Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts contondants et ne se retrouve ni projetée, ni à terre."
+    ],
+    "actions": [
+        "Attaques multiples. L'élémentaire effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d8 + 5) dégâts contondants.",
+        "Cyclone (Recharge 4-6). Chaque créature se trouvant dans l'espace de l'élémentaire doit effectuer un jet de sauvegarde de Force DD 13. En cas d'échec, la cible subit 15 (3d8 + 2) dégâts contondants, est projetée à 6 mètres de l'élémentaire dans une direction aléatoire, et se retrouve à terre. Si la cible frappe dans un obstacle, tel un mur, elle subit 3 (1d6) dégâts contondants pour chaque tranche de 3 mètres de distance qu'elle a parcourue. Si la cible est projetée vers une autre créature, celle-ci doit réussir un jet de sauvegarde de Dextérité DD 13 ou subir les mêmes dégâts et se retrouver à terre. Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts contondants et ne se retrouve ni projetée, ni à terre."
+    ],
+    "reactions": []
+}

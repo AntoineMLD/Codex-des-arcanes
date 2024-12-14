@@ -1,0 +1,49 @@
+{
+    "title": "Vétéran",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les vétérans sont des combattants professionnels qui s'enrôlent contre rémunération ou pour protéger quelque chose en laquelle ils croient ou qui a de la valeur à leurs yeux. Leurs rangs comportent des soldats retirés après avoir longtemps servis ainsi que des guerriers n'ayant jamais servi quelqu'un d'autre qu'eux-mêmes.",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=veteran",
+    "stats": [
+        "Classe d'armure",
+        "17 (clibanion)",
+        "Points de vie",
+        "58 (9d8 + 18)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Athlétisme +5, Perception +2",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le vétéran effectue deux attaques à l'épée longue. S'il a dégainé son épée courte, il peut également effectuer une attaque avec cette dernière.",
+        "Épée longue. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +3 au toucher, portée 30/120 m, une cible. Touché : 6 (1d10 + 1) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le vétéran effectue deux attaques à l'épée longue. S'il a dégainé son épée courte, il peut également effectuer une attaque avec cette dernière.",
+        "Épée longue. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +3 au toucher, portée 30/120 m, une cible. Touché : 6 (1d10 + 1) dégâts perforants."
+    ],
+    "reactions": []
+}

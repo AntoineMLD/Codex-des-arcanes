@@ -1,0 +1,51 @@
+{
+    "title": "Crânefeu",
+    "prerequisites": "Mort-vivant de taille TP, neutre mauvais",
+    "description": "Un flamboiement verdâtre et un rire dément annoncent l'arrivée d'un crânefeu. Ce crâne désincarné foudroie ses adversaires avec des rayons ardents qui jaillissent de ses orbites et d'atroces sorts sortis tout droit des sombres tréfonds de sa mémoire.",
+    "source": "Monster Manual (BR)",
+    "image_url": "https://www.aidedd.org/dnd/images/flameskull.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=cranefeu",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "40 (9d4 + 18)",
+        "Vitesse",
+        "0 m, vol 12 m (stationnaire)",
+        "FOR",
+        "1 (-5)",
+        "DEX",
+        "17 (+3)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "16 (+3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Arcanes +5, Perception +2",
+        "Résistances aux dégâts",
+        "foudre, nécrotique, perforant",
+        "Immunités aux dégâts",
+        "feu, froid, poison",
+        "Immunités aux états",
+        "à terre, charmé, empoisonné, paralysé, effrayé",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "commun",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le crânefeu effectue deux attaques de Rayon de feu.",
+        "Rayon de feu. Attaque à distance avec un sort : +5 au toucher, portée 9 m, une cible. Touché : 10 (3d6) dégâts de feu."
+    ],
+    "actions": [
+        "Attaques multiples. Le crânefeu effectue deux attaques de Rayon de feu.",
+        "Rayon de feu. Attaque à distance avec un sort : +5 au toucher, portée 9 m, une cible. Touché : 10 (3d6) dégâts de feu."
+    ],
+    "reactions": []
+}

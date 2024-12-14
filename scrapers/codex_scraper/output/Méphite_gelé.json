@@ -1,0 +1,51 @@
+{
+    "title": "Méphite gelé",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/ice-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-gele",
+    "stats": [
+        "Classe d'armure",
+        "11",
+        "Points de vie",
+        "21 (6d6)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "7 (-2)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Discrétion +3, Perception +2",
+        "Vulnérabilités aux dégâts",
+        "contondant, feu",
+        "Immunités aux dégâts",
+        "froid, poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "aérien, aquatique",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts tranchants + 2 (1d4) dégâts de froid.",
+        "Souffle de givre (Recharge 6). Le méphite crache un cône de 4,50 mètres d'air glacial. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 10, subissant 5 (2d4) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une créature. Touché : 3 (1d4 + 1) dégâts tranchants + 2 (1d4) dégâts de froid.",
+        "Souffle de givre (Recharge 6). Le méphite crache un cône de 4,50 mètres d'air glacial. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 10, subissant 5 (2d4) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

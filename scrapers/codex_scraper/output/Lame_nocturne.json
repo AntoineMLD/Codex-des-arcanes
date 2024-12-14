@@ -1,0 +1,40 @@
+{
+    "title": "Lame nocturne",
+    "prerequisites": "Humanoïde (humain) de taille M, chaotique mauvais",
+    "description": "Dotées par leur divinité de la vision dans le noir et d'une discrétion supérieure, les lames de nuit sont le rang le plus bas parmi les cultistes de Bhaal.",
+    "source": "Adventures (Descent into Avernus)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=lame-nocturne",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "11 (2d8 + 2)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "14 (+2)",
+        "Compétences",
+        "Intimidation +4, Discrétion +6",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "actions": [
+        "Dague. Attaque au corps à corps ou à distance avec une arme : +4 au toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

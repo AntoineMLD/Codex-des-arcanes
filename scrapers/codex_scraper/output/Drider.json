@@ -1,0 +1,49 @@
+{
+    "title": "Drider",
+    "prerequisites": "Monstruosité de taille G, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/drider.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=drider",
+    "stats": [
+        "Classe d'armure",
+        "19 (armure naturelle)",
+        "Points de vie",
+        "123 (13d10 + 52)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "14 (+2)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Discrétion +9, Perception +5",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 15",
+        "Langues",
+        "elfique, commun des profondeurs",
+        "Puissance",
+        "6 (2300 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le drider effectue trois attaques, soit avec son épée longue, soit avec son arc long. Il peut remplacer l'une de ses attaques par une attaque de morsure.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts perforants + 9 (2d8) dégâts de poison.",
+        "Épée longue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Arc long. Attaque à distance avec une arme : +6 au toucher, portée 45/180 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 4 (1d8) dégâts de poison."
+    ],
+    "actions": [
+        "Attaques multiples. Le drider effectue trois attaques, soit avec son épée longue, soit avec son arc long. Il peut remplacer l'une de ses attaques par une attaque de morsure.",
+        "Morsure. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts perforants + 9 (2d8) dégâts de poison.",
+        "Épée longue. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Arc long. Attaque à distance avec une arme : +6 au toucher, portée 45/180 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants + 4 (1d8) dégâts de poison."
+    ],
+    "reactions": []
+}

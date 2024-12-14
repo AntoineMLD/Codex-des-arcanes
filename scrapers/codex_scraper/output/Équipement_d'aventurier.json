@@ -1,0 +1,697 @@
+{
+    "title": "Équipement d'aventurier",
+    "introduction": "Cette section décrit les objets qui ont des règles spéciales ou nécessitent de plus amples explications.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "Objet",
+                "VO",
+                "Prix",
+                "Poids"
+            ],
+            "rows": [
+                {
+                    "Objet": "Acide (fiole)",
+                    "VO": "Acid",
+                    "Prix": "25 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Antidote (fiole)",
+                    "VO": "Antitoxin",
+                    "Prix": "50 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Balance de marchand",
+                    "VO": "Scale, Merchant’s",
+                    "Prix": "5 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Bélier portable",
+                    "VO": "Ram, Portable",
+                    "Prix": "4 po",
+                    "Poids": "17,5 kg"
+                },
+                {
+                    "Objet": "Billes (sac de 1000)",
+                    "VO": "Ball Bearings",
+                    "Prix": "1 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Boite d'allume-feu",
+                    "VO": "Tinderbox",
+                    "Prix": "5 pa",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Bougie",
+                    "VO": "Candle",
+                    "Prix": "1 pc",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Boulier",
+                    "VO": "Abacus",
+                    "Prix": "2 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Bouteille en verre",
+                    "VO": "Bottle, glass",
+                    "Prix": "2 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Cadenas",
+                    "VO": "Lock",
+                    "Prix": "10 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Carquois",
+                    "VO": "Quiver",
+                    "Prix": "1 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Chaîne (3 m)",
+                    "VO": "Chain",
+                    "Prix": "5 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Chausse-trappes (sac de 20)",
+                    "VO": "Caltrops",
+                    "Prix": "1 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Chevalière",
+                    "VO": "Signet ring",
+                    "Prix": "5 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Cire à cacheter",
+                    "VO": "Sealing wax",
+                    "Prix": "5 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Cloche",
+                    "VO": "Bell",
+                    "Prix": "1 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Coffre",
+                    "VO": "Chest",
+                    "Prix": "5 po",
+                    "Poids": "12,5 kg"
+                },
+                {
+                    "Objet": "Corde en chanvre (15 m)",
+                    "VO": "Rope, hempen",
+                    "Prix": "1 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Corde en soie (15 m)",
+                    "VO": "Rope, silk",
+                    "Prix": "10 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Couverture",
+                    "VO": "Blanket",
+                    "Prix": "5 pa",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Craie (un morceau)",
+                    "VO": "Chalk",
+                    "Prix": "1 pc",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Cruche ou pichet",
+                    "VO": "Jug or pitcher",
+                    "Prix": "2 pc",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Eau bénite (flasque)",
+                    "VO": "Holy Water",
+                    "Prix": "25 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Échelle (3 m)",
+                    "VO": "Ladder",
+                    "Prix": "1 pa",
+                    "Poids": "12,5 kg"
+                },
+                {
+                    "Objet": "Encre (bouteille de 30 ml)",
+                    "VO": "Ink",
+                    "Prix": "10 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Étui à carreaux",
+                    "VO": "Case, Crossbow Bolt",
+                    "Prix": "1 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Étui à cartes ou parchemins",
+                    "VO": "Case, Map or Scroll",
+                    "Prix": "1 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Feu grégeois (flasque)",
+                    "VO": "Alchemist’s Fire",
+                    "Prix": "50 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Fiole (10 cl)",
+                    "VO": "Vial",
+                    "Prix": "1 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Flasque ou chope (50 cl)",
+                    "VO": "Flask",
+                    "Prix": "2 pc",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Focaliseur arcanique"
+                },
+                {
+                    "Objet": "Baguette",
+                    "VO": "Wand",
+                    "Prix": "10 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Bâton",
+                    "VO": "Staff",
+                    "Prix": "5 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Boule de cristal",
+                    "VO": "Crystal",
+                    "Prix": "10 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Orbe",
+                    "VO": "Orb",
+                    "Prix": "20 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Sceptre",
+                    "VO": "Rod",
+                    "Prix": "10 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Focaliseur druidique"
+                },
+                {
+                    "Objet": "Baguette d'if",
+                    "VO": "Yew wand",
+                    "Prix": "10 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Bâton",
+                    "VO": "Wooden staff",
+                    "Prix": "5 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Branche de gui",
+                    "VO": "Sprig of mistletoe",
+                    "Prix": "1 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Totem",
+                    "VO": "Totem",
+                    "Prix": "1 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Gamelle",
+                    "VO": "Mess Kit",
+                    "Prix": "2 pa",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Gourde (pleine)",
+                    "VO": "Waterskin",
+                    "Prix": "2 pa",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Grappin",
+                    "VO": "Grappling hook",
+                    "Prix": "2 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Grimoire",
+                    "VO": "Spellbook",
+                    "Prix": "50 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Huile (flasque)",
+                    "VO": "Oil",
+                    "Prix": "1 pa",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Kit d’escalade",
+                    "VO": "Climber’s Kit",
+                    "Prix": "25 po",
+                    "Poids": "6 kg"
+                },
+                {
+                    "Objet": "Lampe",
+                    "VO": "Lamp",
+                    "Prix": "5 pa",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Lanterne à capote",
+                    "VO": "Lantern, hooded",
+                    "Prix": "5 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Lanterne sourde",
+                    "VO": "Lantern, bullseye",
+                    "Prix": "10 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Livre",
+                    "VO": "Book",
+                    "Prix": "25 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Longue-vue",
+                    "VO": "Spyglass",
+                    "Prix": "1000 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Loupe",
+                    "VO": "Magnifying Glass",
+                    "Prix": "100 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Marteau",
+                    "VO": "Hammer",
+                    "Prix": "1 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Marteau de forgeron",
+                    "VO": "Hammer, sledge",
+                    "Prix": "2 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Matériel de pêche",
+                    "VO": "Fishing Tackle",
+                    "Prix": "1 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Menottes",
+                    "VO": "Manacles",
+                    "Prix": "2 po",
+                    "Poids": "3 kg"
+                },
+                {
+                    "Objet": "Miroir en acier",
+                    "VO": "Mirror, steel",
+                    "Prix": "5 po",
+                    "Poids": "250 g"
+                },
+                {
+                    "Objet": "Munitions"
+                },
+                {
+                    "Objet": "Aiguilles de sarbacane (50)",
+                    "VO": "Blowgun needles",
+                    "Prix": "1 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Billes de fronde (20)",
+                    "VO": "Sling bullets",
+                    "Prix": "4 pc",
+                    "Poids": "750 g"
+                },
+                {
+                    "Objet": "Carreaux d'arbalète (20)",
+                    "VO": "Crossbow bolts",
+                    "Prix": "1 po",
+                    "Poids": "750 g"
+                },
+                {
+                    "Objet": "Flèches (20)",
+                    "VO": "Arrows",
+                    "Prix": "1 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Palan",
+                    "VO": "Block and tackle",
+                    "Prix": "1 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Panier",
+                    "VO": "Basket",
+                    "Prix": "4 pa",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Papier (une feuille)",
+                    "VO": "Paper",
+                    "Prix": "2 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Parchemin (une feuille)",
+                    "VO": "Parchment",
+                    "Prix": "1 pa",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Parfum (fiole)",
+                    "VO": "Perfum",
+                    "Prix": "5 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Pelle",
+                    "VO": "Shovel",
+                    "Prix": "2 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Perche (3 m)",
+                    "VO": "Pole",
+                    "Prix": "5 pc",
+                    "Poids": "3,5 kg"
+                },
+                {
+                    "Objet": "Pied-de-biche",
+                    "VO": "Crowbar",
+                    "Prix": "2 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Piège à mâchoires",
+                    "VO": "Hunting Trap",
+                    "Prix": "5 po",
+                    "Poids": "12,5 kg"
+                },
+                {
+                    "Objet": "Pierre à aiguiser",
+                    "VO": "Whetstone",
+                    "Prix": "1 pc",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Pioche de mineur",
+                    "VO": "Pick, miner's",
+                    "Prix": "2 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Piton",
+                    "VO": "Piton",
+                    "Prix": "5 pc",
+                    "Poids": "125 g"
+                },
+                {
+                    "Objet": "Plume d’écriture",
+                    "VO": "Ink pen",
+                    "Prix": "2 pc",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Pointes en fer (10)",
+                    "VO": "Spikes, iron",
+                    "Prix": "1 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Poison (fiole)",
+                    "VO": "Poison",
+                    "Prix": "100 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Pot en fer",
+                    "VO": "Pot, iron",
+                    "Prix": "2 po",
+                    "Poids": "5 kg"
+                },
+                {
+                    "Objet": "Potion de guérison",
+                    "VO": "Potion of Healing",
+                    "Prix": "50 po",
+                    "Poids": "250 g"
+                },
+                {
+                    "Objet": "Rations (1 jour)",
+                    "VO": "Rations",
+                    "Prix": "5 pa",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Robes",
+                    "VO": "Robes",
+                    "Prix": "1 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Sablier",
+                    "VO": "Hourglass",
+                    "Prix": "25 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Sac",
+                    "VO": "Sack",
+                    "Prix": "1 pc",
+                    "Poids": "250 g"
+                },
+                {
+                    "Objet": "Sac à dos",
+                    "VO": "Backpack",
+                    "Prix": "2 po",
+                    "Poids": "2,5 kg"
+                },
+                {
+                    "Objet": "Sac de couchage",
+                    "VO": "Bedroll",
+                    "Prix": "1 po",
+                    "Poids": "3,5 kg"
+                },
+                {
+                    "Objet": "Sacoche",
+                    "VO": "Pouch",
+                    "Prix": "5 pa",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Sacoche à composantes",
+                    "VO": "Component Pouch",
+                    "Prix": "25 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Savon",
+                    "VO": "Soap",
+                    "Prix": "2 pc",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Seau",
+                    "VO": "Bucket",
+                    "Prix": "5 pc",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Sifflet",
+                    "VO": "Signal whistle",
+                    "Prix": "5 pc",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Symbole sacré"
+                },
+                {
+                    "Objet": "Amulette",
+                    "VO": "Amulet",
+                    "Prix": "5 po",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Emblème",
+                    "VO": "Emblem",
+                    "Prix": "5 po",
+                    "Poids": "-"
+                },
+                {
+                    "Objet": "Reliquaire",
+                    "VO": "Reliquary",
+                    "Prix": "5 po",
+                    "Poids": "1 kg"
+                },
+                {
+                    "Objet": "Tente",
+                    "VO": "Tent",
+                    "Prix": "2 po",
+                    "Poids": "10 kg"
+                },
+                {
+                    "Objet": "Tonneau",
+                    "VO": "Barrel",
+                    "Prix": "2 po",
+                    "Poids": "35 kg"
+                },
+                {
+                    "Objet": "Torche",
+                    "VO": "Torch",
+                    "Prix": "1 pc",
+                    "Poids": "500 g"
+                },
+                {
+                    "Objet": "Trousse de soins",
+                    "VO": "Healer’s Kit",
+                    "Prix": "5 po",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Vêtements, communs",
+                    "VO": "Clothes, common",
+                    "Prix": "5 pa",
+                    "Poids": "1,5 kg"
+                },
+                {
+                    "Objet": "Vêtements, costume",
+                    "VO": "Clothes, costume",
+                    "Prix": "5 po",
+                    "Poids": "2 kg"
+                },
+                {
+                    "Objet": "Vêtements, fins",
+                    "VO": "Clothes, fine",
+                    "Prix": "15 po",
+                    "Poids": "3 kg"
+                },
+                {
+                    "Objet": "Vêtements, voyage",
+                    "VO": "Clothes, traveler’s",
+                    "Prix": "2 po",
+                    "Poids": "2 kg"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Contenant",
+                "VO",
+                "Capacité"
+            ],
+            "rows": [
+                {
+                    "Contenant": "Bouteille",
+                    "VO": "Bottle",
+                    "Capacité": "75 cl"
+                },
+                {
+                    "Contenant": "Coffre",
+                    "VO": "Chest",
+                    "Capacité": "330 l / 150 kg de matériel"
+                },
+                {
+                    "Contenant": "Cruche ou pichet",
+                    "VO": "Jug or pitcher",
+                    "Capacité": "3,7 l"
+                },
+                {
+                    "Contenant": "Fiole",
+                    "VO": "Vial",
+                    "Capacité": "100 g"
+                },
+                {
+                    "Contenant": "Flasque ou chope",
+                    "VO": "Flask or tankard",
+                    "Capacité": "50 cl"
+                },
+                {
+                    "Contenant": "Gourde",
+                    "VO": "Waterskin",
+                    "Capacité": "2 l"
+                },
+                {
+                    "Contenant": "Panier",
+                    "VO": "Basket",
+                    "Capacité": "50 l / 20 kg de matériel"
+                },
+                {
+                    "Contenant": "Pot en fer",
+                    "VO": "Pot, iron",
+                    "Capacité": "3,7 l"
+                },
+                {
+                    "Contenant": "Sac",
+                    "VO": "Sack",
+                    "Capacité": "30 l / 15 kg de matériel"
+                },
+                {
+                    "Contenant": "Sac à dos *",
+                    "VO": "Backpack",
+                    "Capacité": "30 l / 15 kg de matériel"
+                },
+                {
+                    "Contenant": "Sacoche",
+                    "VO": "Pouch",
+                    "Capacité": "5 l / 3 kg de matériel"
+                },
+                {
+                    "Contenant": "Seau",
+                    "VO": "Bucket",
+                    "Capacité": "11 l"
+                },
+                {
+                    "Contenant": "Tonneau",
+                    "VO": "Barrel",
+                    "Capacité": "150 l"
+                }
+            ]
+        }
+    ]
+}

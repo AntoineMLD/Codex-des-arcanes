@@ -1,0 +1,47 @@
+{
+    "title": "Épée volante",
+    "prerequisites": "Artificiel de taille P, sans alignement",
+    "description": "Une épée volante animée par la magie danse dans les airs, combattant tel un guerrier qui ne peut être blessé.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/flying-sword.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=epee-volante",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "17 (5d6)",
+        "Vitesse",
+        "0 m, vol 15 m (stationnaire)",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "5 (-3)",
+        "CHA",
+        "1 (-5)",
+        "Jets de sauvegarde",
+        "Dex +4",
+        "Immunités aux dégâts",
+        "poison, psychique",
+        "Immunités aux états",
+        "assourdi, aveuglé, charmé, effrayé, empoisonné, paralysé, pétrifié",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 7",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Épée longue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts tranchants."
+    ],
+    "actions": [
+        "Épée longue. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d8 + 1) dégâts tranchants."
+    ],
+    "reactions": []
+}

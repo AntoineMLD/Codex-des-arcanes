@@ -1,0 +1,52 @@
+{
+    "title": "Défenseur d'acier",
+    "prerequisites": "Artificiel de taille M, -",
+    "description": "Voir la sous-classe d'artificier de Forgeron de guerre.",
+    "source": "Rules (Tasha´s Cauldron of Everything)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=defenseur-d-acier",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "2 + votre modificateur d'Intelligence + cinq fois votre niveau d'artificier (le défenseur a un nombre de Dés de vie [d8] égal à votre niveau d'artificier)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "14 (+2)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "4 (-3)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "6 (-2)",
+        "Jets de sauvegarde",
+        "Dex +1 plus BM, Con +2 plus BM",
+        "Compétences",
+        "Athlétisme +2 plus BM, Perception +0 plus BM x 2",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, empoisonné, épuisement",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10 + (BM x 2)",
+        "Langues",
+        "comprend les langues que vous parlez",
+        "Puissance",
+        "-",
+        "Bonus de maîtrise",
+        "égal à votre bonus"
+    ],
+    "actions": [
+        "Morsure de force. Attaque au corps à corps avec une arme : votre modificateur d'attaque avec un sort au toucher, allonge 1,50 m, une cible que vous pouvez voir. Touché : 1d8 + BM de dégâts de force.",
+        "Réparation (3/jour). Les mécanismes magiques à l'intérieur du défenseur restaurent 2d8 + BM points de vie sur lui-même ou sur un artificiel ou un objet dans un rayon de 1,50 mètre.",
+        "Parade d'attaque. Le défenseur impose un désavantage au jet d'attaque d'une créature qu'il peut voir et qui se trouve à 1,50 mètre ou moins de lui, à condition que le jet d'attaque soit contre une créature autre que le défenseur."
+    ],
+    "reactions": [
+        "Parade d'attaque. Le défenseur impose un désavantage au jet d'attaque d'une créature qu'il peut voir et qui se trouve à 1,50 mètre ou moins de lui, à condition que le jet d'attaque soit contre une créature autre que le défenseur."
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Demi-dragon rouge, vétéran",
+    "prerequisites": "Humanoïde (humain) de taille M, tout alignement",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/half-red-dragon.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=demi-dragon-rouge-veteran",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "65 (10d8 + 20)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "13 (+1)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Athlétisme +5, Perception +2",
+        "Résistances aux dégâts",
+        "feu",
+        "Sens",
+        "vision aveugle 3 m, vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "commun, draconique",
+        "Puissance",
+        "5 (1800 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le vétéran effectue deux attaques à l'épée longue. S'il a dégainé son épée courte, il peut également effectuer une attaque avec cette dernière.",
+        "Épée longue. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +3 au toucher, portée 30/120 m, une cible. Touché : 6 (1d10 + 1) dégâts perforants.",
+        "Souffle de feu (Recharge 5-6). Le vétéran exhale des flammes dans un cône de 4,50 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 15, subissant 24 (7d6) dégâts de feu si le jet de sauvegarde est raté, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le vétéran effectue deux attaques à l'épée longue. S'il a dégainé son épée courte, il peut également effectuer une attaque avec cette dernière.",
+        "Épée longue. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si utilisée à deux mains.",
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +3 au toucher, portée 30/120 m, une cible. Touché : 6 (1d10 + 1) dégâts perforants.",
+        "Souffle de feu (Recharge 5-6). Le vétéran exhale des flammes dans un cône de 4,50 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 15, subissant 24 (7d6) dégâts de feu si le jet de sauvegarde est raté, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

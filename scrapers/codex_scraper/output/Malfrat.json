@@ -1,0 +1,47 @@
+{
+    "title": "Malfrat",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement non bon",
+    "description": "Les malfrats sont d'impitoyables hommes de main doués pour l'intimidation et la violence. Ils travaillent pour l'argent et ont peu de scrupules.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/thug.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=malfrat",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure de cuir)",
+        "Points de vie",
+        "32 (5d8 + 10)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "14 (+2)",
+        "INT",
+        "10 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Intimidation +2",
+        "Sens",
+        "Perception passive 10",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le malfrat effectue deux attaques au corps à corps.",
+        "Masse d'armes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +2 au toucher, portée 30/120 m, une cible. Touché : 5 (1d10) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. Le malfrat effectue deux attaques au corps à corps.",
+        "Masse d'armes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.",
+        "Arbalète lourde. Attaque à distance avec une arme : +2 au toucher, portée 30/120 m, une cible. Touché : 5 (1d10) dégâts perforants."
+    ],
+    "reactions": []
+}

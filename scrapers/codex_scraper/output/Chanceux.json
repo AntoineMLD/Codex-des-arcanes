@@ -1,0 +1,7 @@
+{
+    "title": "Chanceux",
+    "prerequisites": "Aucun",
+    "description": "Vous avez une chance inexplicable qui semble tomber juste au bon moment. Vous avez 3 points de chance. Chaque fois que vous faites un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez dépenser un point de chance pour lancer un d20 supplémentaire. Vous pouvez choisir de dépenser un de vos points de chance après avoir lancé le dé mais avant que son effet soit déterminé. Vous choisissez quel d20 utiliser pour le jet d'attaque, de caractéristique ou de sauvegarde. Vous pouvez également dépenser un point de chance quand un jet d'attaque est fait contre vous. Lancez un d20, et choisissez quel jet l'attaquant doit utiliser. Si plus d'une créature dépense un point de chance pour influencer le résultat d'un jet, les points s'annulent ; aucun dé supplémentaire n'est lancé. Vous regagnez vos points de chance dépensés lorsque vous terminez un repos long.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=chanceux"
+}

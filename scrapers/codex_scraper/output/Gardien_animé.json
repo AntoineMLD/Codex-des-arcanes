@@ -1,0 +1,51 @@
+{
+    "title": "Gardien animé",
+    "prerequisites": "Artificiel de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/shield-guardian.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gardien-anime",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "142 (15d10 + 60)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "8 (-1)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "7 (-2)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "3 (-4)",
+        "Sens",
+        "vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, effrayé, paralysé, empoisonné",
+        "Langues",
+        "comprend les ordres donnés dans toutes les langues mais ne peut pas parler",
+        "Puissance",
+        "7 (2900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le gardien animé effectue deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Bouclier. Lorsqu'une créature effectue une attaque contre le porteur de l'amulette, le gardien animé confère au porteur de l'amulette un bonus de +2 à la CA s'ils se trouvent à 1,50 mètre ou moins l'un de l'autre."
+    ],
+    "actions": [
+        "Attaques multiples. Le gardien animé effectue deux attaques avec ses poings.",
+        "Poing. Attaque au corps à corps avec une arme : +7 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d6 + 4) dégâts contondants.",
+        "Bouclier. Lorsqu'une créature effectue une attaque contre le porteur de l'amulette, le gardien animé confère au porteur de l'amulette un bonus de +2 à la CA s'ils se trouvent à 1,50 mètre ou moins l'un de l'autre."
+    ],
+    "reactions": [
+        "Bouclier. Lorsqu'une créature effectue une attaque contre le porteur de l'amulette, le gardien animé confère au porteur de l'amulette un bonus de +2 à la CA s'ils se trouvent à 1,50 mètre ou moins l'un de l'autre."
+    ]
+}

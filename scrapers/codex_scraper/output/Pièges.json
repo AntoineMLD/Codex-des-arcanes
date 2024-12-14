@@ -1,0 +1,74 @@
+{
+    "title": "Pièges",
+    "introduction": "On trouve des pièges à peu près n'importe où. Un pas malheureux au fin fond d'un ancien tombeau pourrait déclencher toute une série de faux tranchantes qui pourfendent armures et os. Les lianes, apparemment inoffensives, qui pendent à l'entrée d'une grotte pourraient agripper et étrangler quiconque cherche à les traverser. Un filet dissimulé parmi les arbres pourrait s'abattre sur les voyageurs qui passent au-dessous. Dans un jeu d'heroic fantasy, les aventuriers imprudents courent à leur perte, qu'ils soient brûlés vifs ou qu'ils trépassent sous une pluie de dards empoisonnés.",
+    "sections": [
+        {
+            "title": "Les pièges dans le jeu",
+            "content": "Lorsque les aventuriers rencontrent un piège, vous avez besoin de savoir ce qui peut le déclencher et ce que cela entraîne le cas échéant, de même que les différentes façons pour les personnages de repérer ce piège et de le désactiver, ou de l'éviter."
+        },
+        {
+            "title": "Exemples de pièges",
+            "content": "Les pièges magiques et mécaniques présentés ci-dessous sont plus ou moins meurtriers."
+        }
+    ],
+    "tables": [
+        {
+            "headers": [
+                "Dangerosité du piège",
+                "DD de sauvegarde",
+                "Bonus à l'attaque"
+            ],
+            "rows": [
+                {
+                    "Dangerosité du piège": "Gênant",
+                    "DD de sauvegarde": "10 - 11",
+                    "Bonus à l'attaque": "+3 à +5"
+                },
+                {
+                    "Dangerosité du piège": "Dangereux",
+                    "DD de sauvegarde": "12 - 15",
+                    "Bonus à l'attaque": "+6 à +8"
+                },
+                {
+                    "Dangerosité du piège": "Mortel",
+                    "DD de sauvegarde": "16 - 20",
+                    "Bonus à l'attaque": "+9 à +12"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "Niveau de personnage",
+                "Gênant",
+                "Dangereux",
+                "Mortel"
+            ],
+            "rows": [
+                {
+                    "Niveau de personnage": "1 - 4",
+                    "Gênant": "1d10",
+                    "Dangereux": "2d10",
+                    "Mortel": "4d10"
+                },
+                {
+                    "Niveau de personnage": "5 - 10",
+                    "Gênant": "2d10",
+                    "Dangereux": "4d10",
+                    "Mortel": "10d10"
+                },
+                {
+                    "Niveau de personnage": "11 - 16",
+                    "Gênant": "4d10",
+                    "Dangereux": "10d10",
+                    "Mortel": "18d10"
+                },
+                {
+                    "Niveau de personnage": "17 - 20",
+                    "Gênant": "10d10",
+                    "Dangereux": "18d10",
+                    "Mortel": "24d10"
+                }
+            ]
+        }
+    ]
+}

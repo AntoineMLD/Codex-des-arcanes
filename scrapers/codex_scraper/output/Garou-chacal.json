@@ -1,0 +1,49 @@
+{
+    "title": "Garou-chacal",
+    "prerequisites": "Humanoïde (métamorphe) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/jackalwere.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=garou-chacal",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "18 (4d8)",
+        "Vitesse",
+        "12 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "15 (+2)",
+        "CON",
+        "11 (+0)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +4, Perception +2, Tromperie +4",
+        "Immunités aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "commun (ne peut pas parler sous forme de chacal)",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Morsure (forme de chacal ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Cimeterre (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Regard soporifique. Le garou-chacal fixe du regard une créature qu'il peut voir et située dans un rayon de 9 mètres autour de lui. La cible doit effectuer un jet de sauvegarde de Sagesse DD 10. Si elle l'échoue, la cible succombe à un sommeil magique, tombant inconsciente pour 10 minutes ou jusqu'à ce que quelqu'un utilise une action pour la secouer et ainsi la réveiller. Une créature qui réussit son jet de sauvegarde contre cet effet devient immunisée au regard soporifique de ce garou-chacal pour les prochaines 24 heures. Les morts-vivants et les créatures immunisées aux charmes ne sont pas affectées par cet effet."
+    ],
+    "actions": [
+        "Morsure (forme de chacal ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d4 + 2) dégâts perforants.",
+        "Cimeterre (forme humanoïde ou hybride uniquement). Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Regard soporifique. Le garou-chacal fixe du regard une créature qu'il peut voir et située dans un rayon de 9 mètres autour de lui. La cible doit effectuer un jet de sauvegarde de Sagesse DD 10. Si elle l'échoue, la cible succombe à un sommeil magique, tombant inconsciente pour 10 minutes ou jusqu'à ce que quelqu'un utilise une action pour la secouer et ainsi la réveiller. Une créature qui réussit son jet de sauvegarde contre cet effet devient immunisée au regard soporifique de ce garou-chacal pour les prochaines 24 heures. Les morts-vivants et les créatures immunisées aux charmes ne sont pas affectées par cet effet."
+    ],
+    "reactions": []
+}

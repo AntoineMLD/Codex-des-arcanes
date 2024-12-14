@@ -1,0 +1,45 @@
+{
+    "title": "Naga osseux",
+    "prerequisites": "Mort-vivant de taille G, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/bone-naga.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=naga-osseux",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "58 (9d10 + 9)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "15 (+2)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "16 (+3)",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "charmé, épuisement, paralysé, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "commun, plus une autre langue",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une créature. Touché : 10 (2d6 + 3) dégâts perforants + 10 (3d6) dégâts de poison."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 3 m, une créature. Touché : 10 (2d6 + 3) dégâts perforants + 10 (3d6) dégâts de poison."
+    ],
+    "reactions": []
+}

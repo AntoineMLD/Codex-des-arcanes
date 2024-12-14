@@ -1,0 +1,45 @@
+{
+    "title": "Tapis étouffant",
+    "prerequisites": "Artificiel de taille G, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/rug-smothering.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=tapis-etouffant",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "33 (6d10)",
+        "Vitesse",
+        "3 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "3 (-4)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison, psychique",
+        "Immunités aux états",
+        "aveuglé, charmé, assourdi, effrayé, paralysé, pétrifié, empoisonné",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 6",
+        "Langues",
+        "—",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Étouffement. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature de taille M ou inférieure. Touché : la créature est agrippée (évasion DD 13). Tant qu'elle est agrippée, la cible est entravée, aveuglée, a un risque d'asphyxie, et le tapis ne peut pas tenter d'étouffer une autre cible. De plus, au début de chacun des tours de la cible, la cible subit 10 (2d6 + 3) dégâts contondants."
+    ],
+    "actions": [
+        "Étouffement. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une créature de taille M ou inférieure. Touché : la créature est agrippée (évasion DD 13). Tant qu'elle est agrippée, la cible est entravée, aveuglée, a un risque d'asphyxie, et le tapis ne peut pas tenter d'étouffer une autre cible. De plus, au début de chacun des tours de la cible, la cible subit 10 (2d6 + 3) dégâts contondants."
+    ],
+    "reactions": []
+}

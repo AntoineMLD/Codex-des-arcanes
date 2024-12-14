@@ -1,0 +1,45 @@
+{
+    "title": "Druide",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les druides demeurent dans des forêts ou d'autres lieux sauvages isolés, où ils protègent le monde naturel contre les monstres et les empiétements de la civilisation. Certains sont des chamanes tribaux qui soignent les malades, vénèrent les esprits animaux, et apportent des conseils spirituels.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/druid.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=druide",
+    "stats": [
+        "Classe d'armure",
+        "11 (16 avec",
+        "peau d'écorce",
+        ")",
+        "Points de vie",
+        "27 (5d8 + 5)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "13 (+1)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "15 (+2)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Médecine +4, Nature +3, Perception +4",
+        "Sens",
+        "Perception passive 14",
+        "Langues",
+        "druidique plus deux langues au choix",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Bâton. Attaque au corps à corps avec une arme : +2 au toucher (+4 au toucher avec gourdin magique), allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants si utilisé avec les deux mains, ou 6 (1d8 + 2) dégâts contondants avec gourdin magique."
+    ],
+    "actions": [
+        "Bâton. Attaque au corps à corps avec une arme : +2 au toucher (+4 au toucher avec gourdin magique), allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants si utilisé avec les deux mains, ou 6 (1d8 + 2) dégâts contondants avec gourdin magique."
+    ],
+    "reactions": []
+}

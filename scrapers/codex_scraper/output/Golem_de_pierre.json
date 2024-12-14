@@ -1,0 +1,49 @@
+{
+    "title": "Golem de pierre",
+    "prerequisites": "Artificiel de taille G, sans alignement",
+    "description": "Les golems de pierre sont des artificiels magiques taillées et ciselées dans la pierre pour apparaître comme de grandes statues impressionnantes. Comme d'autres golems, ils sont presque imperméables aux sorts et aux armes ordinaires.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/stone-golem.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=golem-de-pierre",
+    "stats": [
+        "Classe d'armure",
+        "17 (armure naturelle)",
+        "Points de vie",
+        "178 (17d10 + 85)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "22 (+6)",
+        "DEX",
+        "9 (-1)",
+        "CON",
+        "20 (+5)",
+        "INT",
+        "3 (-4)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "1 (-5)",
+        "Immunités aux dégâts",
+        "poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium",
+        "Immunités aux états",
+        "charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 10",
+        "Langues",
+        "comprend les langues de son créateur mais ne peut pas parler",
+        "Puissance",
+        "10 (5900 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Lenteur (Recharge 5-6). Le golem cible une ou plusieurs créatures qu'il peut voir dans un rayon de 3 mètres autour de lui. Chaque cible doit faire un jet de sauvegarde de Sagesse DD 17 contre cette magie. En cas d'échec, une cible ne peut pas utiliser de réaction, sa vitesse est réduite de moitié, et elle ne peut pas faire plus d'une attaque à son tour. En outre, la cible peut à son tour prendre une action normale ou une action bonus, mais pas les deux. Ces effets durent pendant 1 minute. Une cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, l'effet se terminant en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le golem effectue deux attaques de coup.",
+        "Coup. Attaque au corps à corps avec une arme : +10 au toucher, allonge 1,50 m, une cible. Touché : 19 (3d8 + 6) dégâts contondants.",
+        "Lenteur (Recharge 5-6). Le golem cible une ou plusieurs créatures qu'il peut voir dans un rayon de 3 mètres autour de lui. Chaque cible doit faire un jet de sauvegarde de Sagesse DD 17 contre cette magie. En cas d'échec, une cible ne peut pas utiliser de réaction, sa vitesse est réduite de moitié, et elle ne peut pas faire plus d'une attaque à son tour. En outre, la cible peut à son tour prendre une action normale ou une action bonus, mais pas les deux. Ces effets durent pendant 1 minute. Une cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, l'effet se terminant en cas de réussite."
+    ],
+    "reactions": []
+}

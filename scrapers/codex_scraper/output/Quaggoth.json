@@ -1,0 +1,49 @@
+{
+    "title": "Quaggoth",
+    "prerequisites": "Humanoïde (quaggoth) de taille M, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/quaggoth.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=quaggoth",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure naturelle)",
+        "Points de vie",
+        "45 (6d8 + 18)",
+        "Vitesse",
+        "9 m, escalade 9 m",
+        "FOR",
+        "17 (+3)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "12 (+1)",
+        "CHA",
+        "7 (-2)",
+        "Compétences",
+        "Athlétisme +5",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 36 m, Perception passive 11",
+        "Langues",
+        "commun des profondeurs",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le quaggoth effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants."
+    ],
+    "actions": [
+        "Attaques multiples. Le quaggoth effectue deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts tranchants."
+    ],
+    "reactions": []
+}

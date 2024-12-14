@@ -1,0 +1,45 @@
+{
+    "title": "Kenku",
+    "prerequisites": "Humanoïde (kenku) de taille M, chaotique neutre",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/kenku.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=kenku",
+    "stats": [
+        "Classe d'armure",
+        "13",
+        "Points de vie",
+        "13 (3d8)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "10 (+0)",
+        "DEX",
+        "16 (+3)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "10 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +5, Perception +2, Tromperie +4",
+        "Sens",
+        "Perception passive 12",
+        "Langues",
+        "comprend l'aérien et le commun mais ne peut parler qu'en utilisant son trait Imitation des sons",
+        "Puissance",
+        "1/4 (50 PX)"
+    ],
+    "skills": [
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arc court. Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "actions": [
+        "Épée courte. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants.",
+        "Arc court. Attaque à distance avec une arme : +5 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+    ],
+    "reactions": []
+}

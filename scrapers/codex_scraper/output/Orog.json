@@ -1,0 +1,47 @@
+{
+    "title": "Orog",
+    "prerequisites": "Humanoïde (orc) de taille M, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual (BR+)",
+    "image_url": "https://www.aidedd.org/dnd/images/orog.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=orog",
+    "stats": [
+        "Classe d'armure",
+        "18 (harnois)",
+        "Points de vie",
+        "42 (5d8 + 20)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "18 (+4)",
+        "DEX",
+        "12 (+1)",
+        "CON",
+        "18 (+4)",
+        "INT",
+        "12 (+1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "12 (+1)",
+        "Compétences",
+        "Intimidation +5, Survie +2",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "commun, orc",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'orog effectue deux attaques avec la hache à deux mains.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'orog effectue deux attaques avec la hache à deux mains.",
+        "Hache à deux mains. Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 10 (1d12 + 4) dégâts tranchants.",
+        "Javeline. Attaque au corps à corps ou à distance avec une arme : +6 au toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants."
+    ],
+    "reactions": []
+}

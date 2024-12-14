@@ -1,0 +1,7 @@
+{
+    "title": "Peur du dragon",
+    "prerequisites": "Prérequis : Drakéide",
+    "description": "Lorsque vous êtes en colère vous irradiez le danger. Vous obtenez les avantages suivants : Augmentez votre valeur de Force, de Constitution ou de Charisme de 1, pour un maximum de 20. Plutôt que d'avoir un souffle basé sur une énergie destructrice, vous pouvez rugir et dépenser une utilisation de votre Arme de souffle pour forcer chaque créature de votre choix qui se trouve dans un rayon de 9 mètres autour de vous à effectuer un jet de sauvegarde de Sagesse (DD 8 + votre bonus de maîtrise + votre modificateur de Charisme). Une cible réussit automatiquement son jet de sauvegarde si elle ne peut ni vous voir ni vous entendre. En cas d'échec, vous effrayez la cible pendant 1 minute. Si une cible effrayée subit des dégâts, elle peut retenter son jet de sauvegarde, mettant un terme à l'effet qui l'affecte en cas de réussite.",
+    "source": "Xanathar´s Guide to Everything",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=peur-du-dragon"
+}

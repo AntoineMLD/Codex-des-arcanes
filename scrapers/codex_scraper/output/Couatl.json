@@ -1,0 +1,51 @@
+{
+    "title": "Couatl",
+    "prerequisites": "Céleste de taille M, loyal bon",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/couatl.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=couatl",
+    "stats": [
+        "Classe d'armure",
+        "19 (armure naturelle)",
+        "Points de vie",
+        "97 (13d8 + 39)",
+        "Vitesse",
+        "9 m, vol 27 m",
+        "FOR",
+        "16 (+3)",
+        "DEX",
+        "20 (+5)",
+        "CON",
+        "17 (+3)",
+        "INT",
+        "18 (+4)",
+        "SAG",
+        "20 (+5)",
+        "CHA",
+        "18 (+4)",
+        "Jets de sauvegarde",
+        "Con +5, Sag +7, Cha +6",
+        "Résistances aux dégâts",
+        "radiant",
+        "Immunités aux dégâts",
+        "psychique ; contondant, perforant et tranchant d'attaques non magiques",
+        "Sens",
+        "vision véritable 36 m, Perception passive 15",
+        "Langues",
+        "toutes, télépathie 36 m",
+        "Puissance",
+        "4 (1100 PX)"
+    ],
+    "skills": [
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d6 + 5) dégâts perforants, et la cible doit réussir un jet de Constitution DD 13 ou être empoisonnée pendant 24 heures. Jusqu'à ce que l'empoisonnement se termine, la cible est inconsciente. Une autre créature peut utiliser une action pour secouer la cible et la réveiller.",
+        "Constriction. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une créature de taille M ou inférieure. Touché : 10 (2d6 + 3) dégâts contondants, et la cible est agrippée (DD 15 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et le couatl ne peut pas étreindre une autre cible.",
+        "Changement de forme. Le couatl se métamorphose magiquement en un humanoïde ou en une bête ayant un facteur de puissance égal ou inférieur au sien, ou bien retrouve sa forme véritable. Il retrouve sa forme originale s'il meurt. L'équipement qu'il porte ou transporte est absorbé ou porté par la nouvelle forme (au choix du couatl). Dans sa nouvelle forme, le couatl garde ses statistiques de jeu et sa capacité à parler, mais sa CA, son mode de déplacement, sa Force, sa Dextérité et ses autres actions sont remplacés par ceux de la nouvelle forme, et il gagne les statistiques et capacités (sauf les capacités de classe, les actions légendaires et les actions de repère) que possède la nouvelle forme et qui lui font défaut. Si la nouvelle forme possède une attaque de morsure, le couatl peut utiliser à la place sa propre attaque de morsure."
+    ],
+    "actions": [
+        "Morsure. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d6 + 5) dégâts perforants, et la cible doit réussir un jet de Constitution DD 13 ou être empoisonnée pendant 24 heures. Jusqu'à ce que l'empoisonnement se termine, la cible est inconsciente. Une autre créature peut utiliser une action pour secouer la cible et la réveiller.",
+        "Constriction. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une créature de taille M ou inférieure. Touché : 10 (2d6 + 3) dégâts contondants, et la cible est agrippée (DD 15 pour s'échapper). Tant qu'elle est agrippée, la cible est entravée, et le couatl ne peut pas étreindre une autre cible.",
+        "Changement de forme. Le couatl se métamorphose magiquement en un humanoïde ou en une bête ayant un facteur de puissance égal ou inférieur au sien, ou bien retrouve sa forme véritable. Il retrouve sa forme originale s'il meurt. L'équipement qu'il porte ou transporte est absorbé ou porté par la nouvelle forme (au choix du couatl). Dans sa nouvelle forme, le couatl garde ses statistiques de jeu et sa capacité à parler, mais sa CA, son mode de déplacement, sa Force, sa Dextérité et ses autres actions sont remplacés par ceux de la nouvelle forme, et il gagne les statistiques et capacités (sauf les capacités de classe, les actions légendaires et les actions de repère) que possède la nouvelle forme et qui lui font défaut. Si la nouvelle forme possède une attaque de morsure, le couatl peut utiliser à la place sa propre attaque de morsure."
+    ],
+    "reactions": []
+}

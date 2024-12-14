@@ -1,0 +1,51 @@
+{
+    "title": "Yéti abominable",
+    "prerequisites": "Monstruosité de taille TG, chaotique mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/yeti.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=yeti-abominable",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "137 (11d12 + 66)",
+        "Vitesse",
+        "12 m, escalade 12 m",
+        "FOR",
+        "24 (+7)",
+        "DEX",
+        "10 (+0)",
+        "CON",
+        "22 (+6)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "9 (-1)",
+        "Compétences",
+        "Discrétion +4, Perception +5",
+        "Immunités aux dégâts",
+        "froid",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 15",
+        "Langues",
+        "yéti",
+        "Puissance",
+        "9 (5000 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le yéti peut utiliser son Regard givrant et effectuer deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d6 + 7) dégâts tranchants + 7 (2d6) dégâts de froid.",
+        "Regard glaçant. Le yéti prend pour cible une créature qu'il peut voir et qui se trouve à 9 mètres ou moins de lui. Si la cible peut voir le yéti, elle doit réussir un jet de sauvegarde de Constitution DD 18 ou subir 21 (6d6) dégâts de froid et être paralysée pendant 1 minute, à moins d'être immunisée aux dégâts de froid. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite. Si le jet de sauvegarde est réussi, ou si l'effet se termine, la cible devient immunisée au Regard givrant de ce yéti pendant 1 heure.",
+        "Souffle de froid (Recharge 6). Le yéti exhale de l'air glacial dans un cône de 9 mètres. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Constitution DD 18, subissant 45 (10d8) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "actions": [
+        "Attaques multiples. Le yéti peut utiliser son Regard givrant et effectuer deux attaques avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 14 (2d6 + 7) dégâts tranchants + 7 (2d6) dégâts de froid.",
+        "Regard glaçant. Le yéti prend pour cible une créature qu'il peut voir et qui se trouve à 9 mètres ou moins de lui. Si la cible peut voir le yéti, elle doit réussir un jet de sauvegarde de Constitution DD 18 ou subir 21 (6d6) dégâts de froid et être paralysée pendant 1 minute, à moins d'être immunisée aux dégâts de froid. La cible peut relancer le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite. Si le jet de sauvegarde est réussi, ou si l'effet se termine, la cible devient immunisée au Regard givrant de ce yéti pendant 1 heure.",
+        "Souffle de froid (Recharge 6). Le yéti exhale de l'air glacial dans un cône de 9 mètres. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Constitution DD 18, subissant 45 (10d8) dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+    ],
+    "reactions": []
+}

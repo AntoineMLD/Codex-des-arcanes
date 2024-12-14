@@ -1,0 +1,51 @@
+{
+    "title": "Méphite poussiéreux",
+    "prerequisites": "Élémentaire de taille P, neutre mauvais",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/dust-mephit.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=mephite-poussiereux",
+    "stats": [
+        "Classe d'armure",
+        "12",
+        "Points de vie",
+        "17 (5d6)",
+        "Vitesse",
+        "9 m, vol 9 m",
+        "FOR",
+        "5 (-3)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "9 (-1)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "10 (+0)",
+        "Compétences",
+        "Discrétion +4, Perception +2",
+        "Vulnérabilités aux dégâts",
+        "feu",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 12",
+        "Langues",
+        "aérien, terreux",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Souffle aveuglant (Recharge 6). Le méphite crache un cône de 4,50 mètres de poussière aveuglante. Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité DD 10 ou être aveuglée pendant 1 minute. Une créature aveuglée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet que l'affecte en cas de réussite."
+    ],
+    "actions": [
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 4 (1d4 + 2) dégâts tranchants.",
+        "Souffle aveuglant (Recharge 6). Le méphite crache un cône de 4,50 mètres de poussière aveuglante. Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité DD 10 ou être aveuglée pendant 1 minute. Une créature aveuglée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet que l'affecte en cas de réussite."
+    ],
+    "reactions": []
+}

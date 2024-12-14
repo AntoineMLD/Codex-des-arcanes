@@ -1,0 +1,51 @@
+{
+    "title": "Gargouille",
+    "prerequisites": "Élémentaire de taille M, chaotique mauvais",
+    "description": "Ces créatures malveillantes de terre élémentaire ont l'apparence de statues grotesques et démoniaques. Une gargouille aime rôder dans les maisons en ruines pour se délecter de la terreur qu'elle produit lorsqu'elle rompt sa pose.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/gargoyle.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=gargouille",
+    "stats": [
+        "Classe d'armure",
+        "15 (armure naturelle)",
+        "Points de vie",
+        "52 (7d8 + 21)",
+        "Vitesse",
+        "9 m, vol 18 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "6 (-2)",
+        "SAG",
+        "11 (+0)",
+        "CHA",
+        "7 (-2)",
+        "Résistances aux dégâts",
+        "contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium",
+        "Immunités aux dégâts",
+        "poison",
+        "Immunités aux états",
+        "épuisement, pétrifié, empoisonné",
+        "Sens",
+        "vision dans le noir 18 m, Perception passive 10",
+        "Langues",
+        "terreux",
+        "Puissance",
+        "2 (450 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. La gargouille effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. La gargouille effectue deux attaques : une de morsure et une avec ses griffes.",
+        "Griffes. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts tranchants.",
+        "Morsure. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

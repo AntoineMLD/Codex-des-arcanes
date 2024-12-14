@@ -1,0 +1,47 @@
+{
+    "title": "Vase grise",
+    "prerequisites": "Vase de taille M, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/gray-ooze.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=vase-grise",
+    "stats": [
+        "Classe d'armure",
+        "8",
+        "Points de vie",
+        "22 (3d8 + 9)",
+        "Vitesse",
+        "3 m, escalade 3 m",
+        "FOR",
+        "12 (+1)",
+        "DEX",
+        "6 (-2)",
+        "CON",
+        "16 (+3)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "6 (-2)",
+        "CHA",
+        "2 (-4)",
+        "Compétences",
+        "Discrétion +2",
+        "Résistances aux dégâts",
+        "acide, froid, feu",
+        "Immunités aux états",
+        "aveuglé, charmé, assourdi, épuisement, effrayé, à terre",
+        "Sens",
+        "vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8",
+        "Langues",
+        "—",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants + 7 (2d6) dégâts d'acide, et si la cible porte une armure métallique non magique, cette armure est en partie corrodée et subit une pénalité permanente et cumulable de -1 à la CA qu'elle confère. L'armure est détruite si les pénalités réduisent la CA de l'armure à 10."
+    ],
+    "actions": [
+        "Pseudopode. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants + 7 (2d6) dégâts d'acide, et si la cible porte une armure métallique non magique, cette armure est en partie corrodée et subit une pénalité permanente et cumulable de -1 à la CA qu'elle confère. L'armure est détruite si les pénalités réduisent la CA de l'armure à 10."
+    ],
+    "reactions": []
+}

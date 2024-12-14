@@ -1,0 +1,7 @@
+{
+    "title": "Mur de sable",
+    "prerequisites": "Aucun",
+    "description": "Vous créez un mur de sable tourbillonnant sur le sol à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 3 mètres d'épaisseur, qui disparaîtra à la fin du sort. Il bloque la ligne de vue, mais pas le déplacement. Une créature est aveuglée tant qu'elle se trouve dans l'espace occupé par le mur et doit dépenser 3 mètres de mouvement pour 1 mètre parcouru dans celui-ci.",
+    "source": "Xanathar´s Guide to Everything",
+    "url": "https://www.aidedd.org/dnd/sorts.php?vf=mur-de-sable"
+}

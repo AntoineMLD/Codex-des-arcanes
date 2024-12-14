@@ -1,0 +1,47 @@
+{
+    "title": "Éclaireur",
+    "prerequisites": "Humanoïde (toute race) de taille M, tout alignement",
+    "description": "Les éclaireurs sont des chasseurs et pisteurs entraînés qui proposent leurs services contre rémunération. La majorité chasse le gibier sauvage mais quelques-uns travaillent comme chasseurs de primes, servent de guides, ou effectuent des reconnaissances militaires.",
+    "source": "Monster Manual (SRD)",
+    "image_url": "https://www.aidedd.org/dnd/images/scout.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=eclaireur",
+    "stats": [
+        "Classe d'armure",
+        "13 (armure de cuir)",
+        "Points de vie",
+        "16 (3d8 + 3)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "11 (+0)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "11 (+0)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "11 (+0)",
+        "Compétences",
+        "Discrétion +6, Nature +4, Perception +5, Survie +5",
+        "Sens",
+        "Perception passive 15",
+        "Langues",
+        "une langue au choix (généralement le commun)",
+        "Puissance",
+        "1/2 (100 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance.",
+        "Épée courte. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants."
+    ],
+    "actions": [
+        "Attaques multiples. L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance.",
+        "Épée courte. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.",
+        "Arc long. Attaque à distance avec une arme : +4 au toucher, portée 45/180 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants."
+    ],
+    "reactions": []
+}

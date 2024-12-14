@@ -21,6 +21,10 @@ class OccultisteSpider(scrapy.Spider):
             "//div[@class='content']//h3 | "
             "//div[@class='content']//h4"
         )
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev
         section_data = []
 
         for section in sections:

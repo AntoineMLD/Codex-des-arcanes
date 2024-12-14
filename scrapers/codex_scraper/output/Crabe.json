@@ -1,0 +1,43 @@
+{
+    "title": "Crabe",
+    "prerequisites": "Bête de taille TP, sans alignement",
+    "description": "",
+    "source": "Monster Manual (SRD)",
+    "image_url": null,
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=crabe",
+    "stats": [
+        "Classe d'armure",
+        "11 (armure naturelle)",
+        "Points de vie",
+        "2 (1d4)",
+        "Vitesse",
+        "6 m, nage 6 m",
+        "FOR",
+        "2 (-4)",
+        "DEX",
+        "11 (+0)",
+        "CON",
+        "10 (+0)",
+        "INT",
+        "1 (-5)",
+        "SAG",
+        "8 (-1)",
+        "CHA",
+        "2 (-4)",
+        "Compétences",
+        "Discrétion +2",
+        "Sens",
+        "vision aveugle 9 m, Perception passive 9",
+        "Langues",
+        "—",
+        "Puissance",
+        "0 (10 PX)"
+    ],
+    "skills": [
+        "Pinces. Attaque au corps à corps avec une arme : +0 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât contondant."
+    ],
+    "actions": [
+        "Pinces. Attaque au corps à corps avec une arme : +0 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât contondant."
+    ],
+    "reactions": []
+}

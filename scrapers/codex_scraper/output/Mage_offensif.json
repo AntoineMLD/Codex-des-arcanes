@@ -1,0 +1,7 @@
+{
+    "title": "Mage offensif",
+    "prerequisites": "Prérequis : Capacité de lancer au moins un sort",
+    "description": "Vous avez appris des techniques pour améliorer vos attaques avec certains types de sorts, et vous obtenez les avantages suivants : Lorsque vous lancez un sort qui vous oblige à faire un jet d'attaque, la portée du sort est doublée. Vos attaques à distance avec un sort ignorent les abris partiels et les abris importants. Vous apprenez un sort mineur qui nécessite un jet d'attaque. Choisissez un sort mineur de la liste de sorts de barde, clerc, druide, ensorceleur, magicien ou occultiste. Votre caractéristique d'incantation pour ce sort mineur dépend de la liste de sorts que vous avez choisie : Charisme pour barde, ensorceleur ou occultiste ; Sagesse pour clerc ou druide ; Intelligence pour magicien.",
+    "source": "Player´s Handbook",
+    "url": "https://www.aidedd.org/dnd/dons.php?vf=mage-offensif"
+}

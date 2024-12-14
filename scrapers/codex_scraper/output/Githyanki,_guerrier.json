@@ -1,0 +1,45 @@
+{
+    "title": "Githyanki, guerrier",
+    "prerequisites": "Humanoïde (gith) de taille M, loyal mauvais",
+    "description": "",
+    "source": "Monster Manual",
+    "image_url": "https://www.aidedd.org/dnd/images/githyanki.jpg",
+    "url": "https://www.aidedd.org/dnd/monstres.php?vf=githyanki-guerrier",
+    "stats": [
+        "Classe d'armure",
+        "17 (demi-plate)",
+        "Points de vie",
+        "49 (9d8 + 9)",
+        "Vitesse",
+        "9 m",
+        "FOR",
+        "15 (+2)",
+        "DEX",
+        "14 (+2)",
+        "CON",
+        "12 (+1)",
+        "INT",
+        "13 (+1)",
+        "SAG",
+        "13 (+1)",
+        "CHA",
+        "10 (+0)",
+        "Jets de sauvegarde",
+        "Con +3, Int +3, Sag +3",
+        "Sens",
+        "Perception passive 11",
+        "Langues",
+        "gith",
+        "Puissance",
+        "3 (700 PX)"
+    ],
+    "skills": [
+        "Attaques multiples. Le githyanki effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants + 7 (2d6) dégâts psychiques."
+    ],
+    "actions": [
+        "Attaques multiples. Le githyanki effectue deux attaques d'épée à deux mains.",
+        "Épée à deux mains. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 9 (2d6 + 2) dégâts tranchants + 7 (2d6) dégâts psychiques."
+    ],
+    "reactions": []
+}
