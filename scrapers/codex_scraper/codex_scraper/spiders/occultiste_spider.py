@@ -30,9 +30,7 @@ class OccultisteSpider(scrapy.Spider):
                 [content.strip() for content in section_content if content.strip()]
             )
             if section_title and section_content:
-                section_data.append(
-                    {"title": section_title.strip(), "content": section_content}
-                )
+                section_data.append({"title": section_title.strip(), "content": section_content})
 
         # Extraire le tableau
         tables = response.xpath("//table")
@@ -53,16 +51,12 @@ class OccultisteSpider(scrapy.Spider):
         # Extraire les liens présents dans le contenu
         links = response.xpath("//div[@class='content']//a/@href").getall()
         links = [
-            "https://www.aidedd.org" + link if link.startswith("/") else link
-            for link in links
+            "https://www.aidedd.org" + link if link.startswith("/") else link for link in links
         ]
 
         # Extraire les images
         images = response.xpath("//div[@class='content']//img/@src").getall()
-        images = [
-            "https://www.aidedd.org" + img if img.startswith("/") else img
-            for img in images
-        ]
+        images = ["https://www.aidedd.org" + img if img.startswith("/") else img for img in images]
 
         # Structurer les données
         yield {

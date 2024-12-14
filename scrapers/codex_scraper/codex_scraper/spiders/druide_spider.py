@@ -31,9 +31,7 @@ class DruideSpider(scrapy.Spider):
                 [content.strip() for content in section_content if content.strip()]
             )
             if section_title and section_content:
-                section_data.append(
-                    {"title": section_title.strip(), "content": section_content}
-                )
+                section_data.append({"title": section_title.strip(), "content": section_content})
 
         # Extraire les tables spécifiques aux cercles
         tables = response.xpath("//table[caption]")

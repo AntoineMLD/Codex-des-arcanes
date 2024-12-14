@@ -14,9 +14,7 @@ class MoineSpider(scrapy.Spider):
         introduction = " ".join([text.strip() for text in introduction])
 
         # Extraire les sections (H3 et H4) avec leur contenu
-        sections = response.xpath(
-            "//div[@class='content']//h3 | //div[@class='content']//h4"
-        )
+        sections = response.xpath("//div[@class='content']//h3 | //div[@class='content']//h4")
         section_data = []
         for section in sections:
             section_title = section.xpath(".//text()").get(default="").strip()
@@ -27,9 +25,7 @@ class MoineSpider(scrapy.Spider):
                 section_data.append(
                     {
                         "title": section_title,
-                        "content": " ".join(
-                            [content.strip() for content in section_content]
-                        ),
+                        "content": " ".join([content.strip() for content in section_content]),
                     }
                 )
 
