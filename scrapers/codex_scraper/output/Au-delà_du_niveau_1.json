@@ -1,0 +1,165 @@
+{
+    "url": "https://www.aidedd.org/regles/creation-de-perso/suite/",
+    "title": "Au-delà du niveau 1",
+    "sections": [
+        {
+            "headers": [],
+            "paragraphs": [
+                "Quand votre personnage participe à des aventures et remporte des défis, il gagne de l'expérience, qui est représentée par les points d'expériences (PX). Un personnage qui atteint un total spécifique de points d'expérience progresse en capacités. Cette progression s'appelle ",
+                ".",
+                "Lorsque votre personnage gagne un niveau, de nouvelles aptitudes de classes s'offrent à lui, comme indiqué dans les descriptions des classes. Certaines de ces aptitudes vous permettent d'augmenter vos valeurs de caractéristiques, soit en en augmentant deux de +1, soit en en augmentant une de +2. Vous ne pouvez pas augmenter une valeur de caractéristique au-delà de 20. De plus, les bonus de maîtrise progressent à certains niveaux.",
+                "Chaque fois que vous gagnez un niveau, vous ajoutez un dé de vie à votre total. Lancez ce dé, ajoutez-y votre bonus de Constitution, et ajoutez le total obtenu (minimum 1) à votre maximum de points de vie. Vous pouvez aussi choisir d'utiliser la valeur fixe indiquée dans la description de votre classe, qui se trouve être la valeur moyenne (arrondie au supérieur) du dé.",
+                "Lorsque votre modificateur de Constitution augmente de 1, votre maximum de points de vie augmente de 1 pour chaque niveau que vous avez atteint. Par exemple, lorsque Bruenor atteint le niveau 8 en tant que guerrier, sa constitution passe de 17 à 18, son modificateur passant ainsi de +3 à +4. Son maximum de points de vie augmente alors de 8.",
+                "La table ci-dessous indique le total de PX nécessaire pour progresser du niveau 1 au niveau 20, ainsi que le bonus de maîtrise pour le niveau concerné. Vérifiez la description de votre classe de personnage pour voir quelles sont les autres progressions obtenues.",
+                "D&D distingue quatre paliers du jeu. Ces paliers n'ont pas de règle spécifique associée, c'est juste une description générale des changements de niveau d'expérience de jeu en fonction du niveau des personnages.",
+                "Dans le ",
+                " (niveaux 1 à 4), les personnages sont des apprentis aventuriers. Ils apprennent les aptitudes qui définissent leur appartenance à une classe, et font le choix majeur de leur spécialisation au sein de leur classe, ce qui leur apportera certaines spécificités (comme la Tradition arcanique d'un magicien ou l'Archétype martial d'un guerrier). Les dangers qu'ils affrontent sont relativement faibles, du niveau d'un danger pour une ferme locale ou un village.",
+                "Au ",
+                "(niveaux 5 à 10), les personnages s'affermissent. La plupart des lanceurs de sorts accèdent aux sorts de niveau 3 en démarrant ce palier, découvrant un nouveau seuil de puissance magique avec des sorts comme ",
+                " ou ",
+                ". À cette étape, la plupart des classes combattantes gagnent la capacité d'attaquer plusieurs fois en 1 round. Ces personnages sont devenus importants, s'opposant aux dangers pouvant menacer des villes ou des royaumes.",
+                "Au ",
+                "(niveaux 11-16), les personnages ont atteint une puissance qui les place très au-dessus de la populace, et ils se distinguent parmi les aventuriers. Au niveau 11, les lanceurs de sorts ont accès au niveau 6 de sorts, leur offrant un pouvoir inimaginable auparavant. Les autres classes accèdent à des aptitudes leur permettant de faire encore plus d'attaques et d'être encore plus impressionnantes. Ces puissants aventuriers affrontent des menaces au niveau de toute une région, voire d'un continent.",
+                "Au ",
+                "(niveaux 17-20), les personnages atteignent le summum de leur art, devenant des icônes héroïques ou maléfiques. Le destin des mondes ou même l'ordre fondamental du multivers sont bousculés par leurs aventures.",
+                "Traduit par Papyrolf"
+            ]
+        }
+    ],
+    "special_boxes": [],
+    "internal_links": [
+        "/regles/",
+        "/regles/creation-de-perso/",
+        "/regles/creation-de-perso/suite/",
+        "/regles/races/",
+        "/regles/classes/",
+        "/regles/historiques/",
+        "/regles/equipement/",
+        "/regles/personnalisation/",
+        "/regles/caracteristiques/",
+        "/regles/aventure/",
+        "/regles/combat/",
+        "/regles/magie/",
+        "/regles/sorts/",
+        "/regles/etats/",
+        "/regles/monstres/",
+        "/regles/liste-monstres/",
+        "/regles/rencontres/",
+        "/regles/objets-magiques/",
+        "/regles/liste-objets-magiques/",
+        "/regles/pieges/",
+        "/regles/temps-morts/",
+        "/regles/objets/",
+        "/regles/maladies/",
+        "/regles/poisons/",
+        "/regles/folie/",
+        "/regles/pieges-xgte/",
+        "/regles/temps-morts-xgte/",
+        "/regles/comparses/",
+        "/regles/creation-de-perso/suite/#paliers",
+        "/regles/",
+        "/regles/creation-de-perso/"
+    ],
+    "table": [
+        {
+            "points_experience": "0",
+            "niveau": "1",
+            "bonus_maitrise": "+2"
+        },
+        {
+            "points_experience": "300",
+            "niveau": "2",
+            "bonus_maitrise": "+2"
+        },
+        {
+            "points_experience": "900",
+            "niveau": "3",
+            "bonus_maitrise": "+2"
+        },
+        {
+            "points_experience": "2 700",
+            "niveau": "4",
+            "bonus_maitrise": "+2"
+        },
+        {
+            "points_experience": "6 500",
+            "niveau": "5",
+            "bonus_maitrise": "+3"
+        },
+        {
+            "points_experience": "14 000",
+            "niveau": "6",
+            "bonus_maitrise": "+3"
+        },
+        {
+            "points_experience": "23 000",
+            "niveau": "7",
+            "bonus_maitrise": "+3"
+        },
+        {
+            "points_experience": "34 000",
+            "niveau": "8",
+            "bonus_maitrise": "+3"
+        },
+        {
+            "points_experience": "48 000",
+            "niveau": "9",
+            "bonus_maitrise": "+4"
+        },
+        {
+            "points_experience": "64 000",
+            "niveau": "10",
+            "bonus_maitrise": "+4"
+        },
+        {
+            "points_experience": "85 000",
+            "niveau": "11",
+            "bonus_maitrise": "+4"
+        },
+        {
+            "points_experience": "100 000",
+            "niveau": "12",
+            "bonus_maitrise": "+4"
+        },
+        {
+            "points_experience": "120 000",
+            "niveau": "13",
+            "bonus_maitrise": "+5"
+        },
+        {
+            "points_experience": "140 000",
+            "niveau": "14",
+            "bonus_maitrise": "+5"
+        },
+        {
+            "points_experience": "165 000",
+            "niveau": "15",
+            "bonus_maitrise": "+5"
+        },
+        {
+            "points_experience": "195 000",
+            "niveau": "16",
+            "bonus_maitrise": "+5"
+        },
+        {
+            "points_experience": "225 000",
+            "niveau": "17",
+            "bonus_maitrise": "+6"
+        },
+        {
+            "points_experience": "265 000",
+            "niveau": "18",
+            "bonus_maitrise": "+6"
+        },
+        {
+            "points_experience": "305 000",
+            "niveau": "19",
+            "bonus_maitrise": "+6"
+        },
+        {
+            "points_experience": "355 000",
+            "niveau": "20",
+            "bonus_maitrise": "+6"
+        }
+    ]
+}

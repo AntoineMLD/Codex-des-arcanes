@@ -1,0 +1,423 @@
+{
+    "title": "Paladin",
+    "introduction": "Vêtue d'une armure étincelante sous le soleil, malgré la poussière et la crasse accumulées durant ce long voyage, une humaine pose à terre son épée et son bouclier, puis, sur le corps d'un homme mortellement blessé, elle appose ses mains. Un rayonnement divin s'en échappe, refermant les blessures de l'homme qui ouvre alors les yeux, stupéfait. Accroupis derrière un affleurement rocheux, son manteau noir le rendant quasi invisible dans la nuit, un nain observe une troupe d'orcs fêtant leur dernière victoire. En silence, il s'infiltre dans leur camp et chuchote un serment : deux orcs tombent raide morts avant même d'avoir pu entrevoir sa présence. Sa chevelure couleur argent brillant dans le puits de lumière qui ne semble illuminer que lui, un elfe rit, exultant. Sa lance, comme ses yeux, envoie des éclairs alors qu'il virevolte encore et encore autour d'un géant difforme, jusqu'à ce que sa lumière triomphe de cette hideuse obscurité.",
+    "sections": [
+        {
+            "title": "La cause de la vertu",
+            "content": "Un paladin jure de faire respecter la justice et la vertu, de soutenir la cause de la vertu et des choses bénéfiques du monde face aux ténèbres qui progressent, et de chasser les forces du mal quel que soit l'endroit où elles se terrent. Chaque paladin se concentre sur un aspect différent de la cause de la vertu mais tous sont liés par des serments qui leur octroient la puissance requise pour mener à bien leur mission sacrée. Bien que de nombreux paladins soient dévoués aux dieux du bien, la puissance du paladin provient autant de son dévouement en la justice qu'envers un dieu. Les paladins s'entraînent de nombreuses années afin d'acquérir des compétences au combat, de maîtriser une large gamme d'armes et d'armures. Cependant, leur compétences martiales sont secondaires par rapport aux pouvoirs magiques qu'ils manipulent : le pouvoir de soigner les malades et les blessés, détruire les êtres malfaisants et les morts-vivants, protéger les innocents et tous ceux les rejoignant dans leur lutte pour la justice. (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Au-delà d'une vie banale",
+            "content": "Par définition, la vie d'un paladin est une vie aventureuse. A moins qu'une blessure tardant à guérir l'empêche de partir à l'aventure, chaque paladin est en première ligne dans le combat cosmique contre le mal. Les guerriers sont très rares à composer les rangs des milices et des armées du monde, mais encore moins d'individus peuvent prétendre avoir répondu à l'appel véritable du paladin. Lorsqu'ils reçoivent cet appel, ces combattants se détournent de leurs occupations précédentes et prennent les armes afin de combattre le mal. Parfois leur serment les amène à la tête d'une unité de chevaliers d'élite pour le compte d'un royaume, mais leur loyauté va d'abord à la cause de la vertu plus qu'aux rois et aux nations. Les paladins qui partent à l'aventure le font toujours avec sérieux. L'exploration d'anciennes ruines ou d'une crypte poussiéreuse peut être une quête dont l'objectif va bien au-delà de trouver un trésor. Le mal rode dans les donjons et les forets primitives, et même la plus petite des victoires contre lui peut empêcher la balance cosmique de basculer dans l'oubli. (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Créer un paladin",
+            "content": "L'aspect le plus important d'un paladin est la nature sacrée de sa quête. Bien que les caractéristiques du serment n'apparaissent qu'au troisième niveau de la classe, anticipez ce choix en lisant la description de ces serments : êtes-vous un serviteur dévoué au bien, loyal aux dieux de la justice et de l'honneur, un chevalier saint dans son armure étincelante parti à l'aventure pour détruire le mal ? Êtes-vous un valeureux champion de la Lumière, qui chérit le beau face à l'ombre, un chevalier dont le serment provient d'une tradition encore plus ancienne que les dieux ? Ou bien êtes-vous un solitaire aigri, qui a juré de se venger de ceux qui ont répandu le mal, un ange de la mort envoyé par les dieux ou seulement animé d'un besoin de revanche ? Comment avez-vous vécu l'appel à devenir un paladin ? Avez vous perçu le chuchotement d'un ange ou d'un dieu invisible alors que vous étiez en train de prier ? Est-ce qu'un autre paladin a détecté en vous un grand potentiel et a fait de vous un écuyer ? Ou bien un terrible événement – la destruction de votre maison par exemple - vous a t'il fait entreprendre votre quête ? Peut-être êtes-vous tombé par hasard sur un bosquet sacré ou une enclave elfique cachée et vous avez alors décidé vous-même qu'il fallait protéger ce havre de paix et de beauté. Ou bien dès vos premiers souvenirs, vous avez su que vous répondriez à l'appel du paladinat, un peu comme si vous aviez été envoyé sur le monde avec cet objectif imprégné dans l'âme. (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Création rapide",
+            "content": "Vous pouvez concevoir rapidement un paladin en suivant ces quelques suggestions. En premier lieu, la Force devrait être votre plus haute valeur de caractéristique, suivie par le Charisme. Ensuite, choisissez l'historique noble . (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Points de vie",
+            "content": "DV : 1d10 par niveau de paladin pv au niveau 1 : 10 + votre modificateur de Constitution pv aux niveaux suivants : 1d10 (ou 6) + votre modificateur de Constitution (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Armures : toutes les armures, boucliers Armes : armes courantes, armes de guerre Outils : aucun Jets de sauvegarde : Sagesse, Charisme Compétences : choisissez deux compétences parmi Athlétisme, Intimidation, Intuition, Médecine, Persuasion et Religion (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Équipement",
+            "content": "Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique : (a) une arme de guerre et un bouclier ou (b) deux armes de guerre (a) cinq javelines ou (b) n'importe quelle arme courante de corps à corps (a) un sac d'ecclésiastique ou (b) un sac d'explorateur une cotte de mailles et un symbole sacré"
+        },
+        {
+            "title": "Sens divin",
+            "content": "Une forte présence maléfique éveille vos sens, comme une odeur nocive, et un bien puissant fait résonner dans vos oreilles une musique céleste. Par une action, vous pouvez éveiller votre conscience pour détecter de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de toute créature céleste, fiélon ou mort-vivante dans un rayon de 18 mètres autour de vous, et qui ne se trouve pas derrière un abri total. Vous connaissez le type (céleste, fiélon ou mort-vivant) et le nombre de tous les êtres dont vous sentez la présence, mais pas leur identité (le vampire comte Strahd von Zarovich, par exemple). Dans ce même rayon, vous détectez également la présence d'un lieu ou d'un objet qui a été consacré ou profané, comme avec le sort sanctification . Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Imposition des mains",
+            "content": "Votre toucher béni peut guérir les blessures. Vous possédez une réserve de points de vie à soigner qui se récupère après chaque repos long. Avec cette réserve, vous pouvez restaurer un nombre total de points de vie égal à votre niveau de paladin multiplié par 5. Au prix d'une action, vous pouvez toucher une créature et puiser dans votre réserve pour soigner autant de points de vie que vous le désirez, sans dépasser le nombre de points dans votre réserve bien entendu. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Style de combat",
+            "content": "Au niveau 2, vous adoptez un style particulier de combat qui sera votre spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de style de combat plus d'une fois, même si vous obtenez plus tard la possibilité de choisir un nouveau style. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Arme à deux mains",
+            "content": "Lorsque vous obtenez 1 ou 2 à un dé de dégâts lors d'une attaque que vous effectuez avec une arme de corps à corps que vous tenez avec vos deux mains, vous pouvez relancer le dé et obligatoirement prendre le nouveau résultat, même si celui-ci est un 1 ou un 2. L'arme doit avoir la propriété à deux mains ou polyvalente pour octroyer cet avantage. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Défense",
+            "content": "Si vous portez une armure, vous obtenez un bonus de +1 à la CA. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Duel",
+            "content": "Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Protection",
+            "content": "Quand une créature que vous pouvez voir attaque une cible autre que vous-même et qui se trouve à 1,50 mètre ou moins de vous, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque. Vous devez pour cela porter un bouclier. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Incantation",
+            "content": "Au niveau 2, vous avez appris à tirer parti de la magie divine à travers la méditation et la prière pour lancer des sorts comme un clerc le ferait. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Préparer et lancer des sorts",
+            "content": "La table ci-dessus montre combien d'emplacements de sorts vous avez pour lancer vos sorts de paladin de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Caractéristique d'incantation",
+            "content": "Le Charisme est votre caractéristique d'incantation pour vos sorts de paladin. La puissance de vos sorts vient de votre force de conviction. Vous utilisez votre Charisme chaque fois qu'un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur de Charisme pour définir le DD du jet de sauvegarde d'un sort de paladin que vous lancez ainsi que pour le jet d'attaque de celui-ci. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Focaliseur d'incantation",
+            "content": "Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de paladin. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Châtiment divin",
+            "content": "À partir du niveau 2, quand vous touchez une créature avec une arme de corps à corps, vous pouvez utiliser n'importe quel emplacement de sort (de paladin ou autre) pour châtier cette créature et lui infliger des dégâts radiants supplémentaires. Les dégâts supplémentaires infligés sont de 2d8 pour un emplacement de sort de niveau 1, plus 1d8 supplémentaire pour chaque niveau de sort supérieur à 1, jusqu'à un maximum de 5d8. Si la créature est un mort-vivant ou un fiélon, les dégâts augmentent de 1d8, jusqu'à un maximum de 6d8. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Santé divine",
+            "content": "À partir du niveau 3, la magie divine qui coule en vous vous immunise contre les maladies. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Serment sacré",
+            "content": "Au niveau 3, vous prêtez un serment qui vous lie en tant que paladin pour l'éternité. Jusque-là, vous étiez dans une phase préparatoire, engagé dans la voie, mais sans avoir encore prêté serment. Maintenant, vous devez choisir entre le serment de dévotion, le serment des anciens ou le serment de vengeance, qui sont tous détaillés à la fin de la description de la classe. Votre choix vous accorde des capacités au niveau 3, puis aux niveaux 7, 15 et 20. Ces capacités comprennent des sorts de serment et la capacité de Conduit divin. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Sorts de serment",
+            "content": "Chaque serment est associé à une liste de sorts qui lui est propre. Vous accéderez à ces sorts au niveau spécifié dans la description du serment. Une fois que vous avez accès à un sort de serment, celui-ci sera toujours considéré comme préparé mais ne compte pas dans le nombre de sorts que vous préparez chaque jour. Si vous gagnez un sort de serment qui n'est pas dans la liste des sorts de paladin, ce sort sera tout de même considéré comme étant un sort de paladin pour vous. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Conduit divin",
+            "content": "Votre serment vous permet de canaliser de l'énergie divine qui alimente des effets magiques. Chaque Conduit divin proposé par votre serment en détaille les options d'utilisation. Quand vous utilisez votre Conduit divin, vous choisissez quelle option vous voulez utiliser. Un repos court ou long est nécessaire pour pouvoir utiliser un Conduit divin de nouveau. Certains effets de Conduit divin nécessitent des jets de sauvegarde. Quand vous utilisez ce type d'effet, le DD est égal au DD pour résister à vos sorts. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Attaque supplémentaire",
+            "content": "À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l'action Attaquer durant votre tour. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Aura de protection",
+            "content": "À partir du niveau 6, si vous ou une créature alliée située à 3 mètres ou moins de vous doit effectuer un jet de sauvegarde, la créature gagne un bonus égal à votre modificateur de Charisme (minimum +1). Vous devez être conscient pour accorder ce bonus. Au niveau 18, le rayon de l'aura passe à 9 mètres. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Aura de courage",
+            "content": "À partir du niveau 10, vous et toutes créatures amicales situées à 3 mètres ou moins de vous ne pouvez être effrayés tant que vous êtes conscient. Au niveau 18, le rayon de l'aura passe à 9 mètres. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Châtiment divin amélioré",
+            "content": "Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de corps à corps portent la puissance divine en elles. Lorsque vous touchez avec une arme de corps à corps, la créature cible subit 1d8 dégâts radiants supplémentaires. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Contact purifiant",
+            "content": "À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort sur vous ou une créature consentante que vous touchez. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Charisme (minimum 1) entre deux repos long. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Serment de dévotion",
+            "content": "Le serment de dévotion lie un paladin aux idéaux les plus élevés de la justice, de la vertu, et de l'ordre. Les cavaliers parfois appelés, chevaliers blancs, ou les guerriers saints, ces paladins rencontrent l'idéal du chevalier dans l'armure brillante, agissant avec l'honneur à la poursuite de la justice et du bien le plus grand. Ils se tiennent sur les niveaux les plus élevés de la conduite, et certains, pour le meilleur ou pour le pire, tiennent le reste du monde sur les mêmes normes. Beaucoup qui jurent ce serment sont consacrés aux dieux de la loi et du bien et emploient les principes d'un leur dieu comme mesure de leur dévotion. Ils tiennent les anges (les employés parfaits du bien) en tant que leurs idéaux, et incorporent des images d'ailes angéliques à leurs casques ou leurs bracelets. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Préceptes de dévotion",
+            "content": "Bien que les mots exacts et les restrictions imposées par le serment de dévotion varient, les paladins de ce serment partagent ces préceptes. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Sorts de serment",
+            "content": "Vous gagnez des sorts de serment aux niveaux de paladin indiqués. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Conduit divin",
+            "content": "Quand vous prêtez votre serment au niveau 3, vous gagnez les deux options suivantes de Conduit divin. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Aura de dévotion",
+            "content": "À partir du niveau 7, vous et toutes créatures amicales à 3 mètres ou moins de vous ne peuvent être charmées tant que vous êtes conscient. Au niveau 18, le rayon de l'aura passe à 9 mètres. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Pureté de l'esprit",
+            "content": "À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de protection contre le mal et le bien . Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Nimbe sacré",
+            "content": "Au niveau 20, au prix d'une action, vous pouvez diffuser une lumière brillante semblable à celle du soleil. Pendant 1 minute, une lumière vive s'échappe de vous sur un rayon de 9 mètres, et une lumière faible sur 9 mètres supplémentaires. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Serment des anciens",
+            "content": "Le serment des anciens est aussi vieux que la race des elfes et les rituels druidiques. Parfois appelés chevaliers fées, chevaliers verts ou chevaliers cornus, les paladins qui jurent ce serment jettent leurs sorts du côté de la lumière dans la lutte cosmique contre l'obscurité parce qu'ils aiment les choses belles et vivifiantes du monde, non nécessairement parce qu'ils croient aux principes d'honneur, de courage et de justice. Ils ornent leurs armures et habits avec des images de feuilles, de bois ou de fleurs, pour refléter leurs engagements à préserver la vie et la lumière dans le monde. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Préceptes des anciens",
+            "content": "Les préceptes du serment des anciens ont été préservés pendant des siècles innombrables. Ce serment met l'accent sur les principes du bien au-dessus des questions de loi ou de chaos. Ses quatre principes centraux sont simples. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Sorts de serment",
+            "content": "Vous gagnez des sorts de serment aux niveaux de paladin indiqués. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Conduit divin",
+            "content": "Quand vous prêtez votre serment au niveau 3, vous gagnez les deux options suivantes de Conduit divin. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Aura de garde",
+            "content": "À partir du niveau 7, la magie ancienne est si lourdement sur vous qu'elle forme une protection. Vous et vos alliés dans un rayon de 3 mètres autour de vous gagnez la résistance aux dégâts causés par les sorts. Au niveau 18, le rayon de l'aura passe à 9 mètres. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Sentinelle immortelle",
+            "content": "À partir du niveau 15, lorsque vous êtes réduit à 0 point de vie et que vous n'êtes pas tué sur le coup, vous pouvez choisir de passer à 1 point de vie. Une fois cette capacité utilisée, vous devez terminer un repos long pour pouvoir l'utiliser de nouveau. De plus, vous ne souffrez d'aucun inconvénient dû à la vieillesse, et ne pouvez pas vieillir magiquement. Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Champion antique",
+            "content": "Au niveau 20, vous pouvez prendre la forme d'une ancienne force de la nature, revêtant l'aspect que vous souhaitez. Par exemple, votre peau peut devenir verte ou prendre une texture semblable à l'écorce, vos cheveux pourrait devenir feuillu ou semblable à de la mousse, ou vous pourriez avoir des bois qui poussent ou une crinière de lion. Au prix d'une action, vous subissez une transformation. Pendant 1 minute, vous obtenez les avantages suivants : Au début de chacun de vos tours, vous regagnez 10 points de vie. Chaque fois que vous lancez un sort de paladin qui possède un temps d'incantation de 1 action, vous pouvez lancer le sort en action bonus à la place. Les créatures ennemies dans un rayon de 3 mètres autour de vous ont un désavantage aux jets de sauvegarde contre vos sorts de paladin et vos options de Conduit divin."
+        },
+        {
+            "title": "Serment de vengeance",
+            "content": "Le serment de Vengeance est un engagement solennel de punir ceux qui ont commis de graves crimes. Lorsque les forces du mal attaquent des villageois sans défense, quand tout un peuple se retourne contre la volonté des dieux, lorsque la guilde de voleurs devient trop puissante, quand un dragon saccage une campagne, dans des moments comme ceux-ci, des paladins se lèvent et font serment de vengeance pour rétablir ce qui a été défait. Pour ces paladins – parfois appelés vengeur ou chevalier noir – sont prêt à sacrifier leurs puretés pour promulguer la justice. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Préceptes de vengeance",
+            "content": "Chaque serment de vengeance est différent, mais tous ont en commun de punir les fautifs à tout prix et par tous les moyens nécessaires. Toutefois, bien que les serments soient presque toujours fait pour punir les méchants, les paladins qui font le serment de vengeance sont eux-mêmes généralement d'alignement neutre ou loyal neutre. Les principes fondamentaux des principes sont brutalement simples. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Sorts de serment",
+            "content": "Vous gagnez des sorts de serment aux niveaux de paladin indiqués. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Conduit divin",
+            "content": "Quand vous prêtez votre serment au niveau 3, vous gagnez les deux options suivantes de Conduit divin. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Vengeur implacable",
+            "content": "À partir du niveau 7, votre concentration surnaturelle vous permet de contrer la retraite d'un adversaire. Lorsque vous touchez une créature lors d'une attaque d'opportunité, vous pouvez vous déplacer de la moitié de votre vitesse de déplacement dès l'attaque terminée et dans cette même réaction. Ce déplacement ne provoque pas d'attaque d'opportunité. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Âme vengeresse",
+            "content": "À partir du niveau 15, l'autorité avec laquelle vous prononcez votre vœu d'hostilité vous donne plus de puissance contre votre adversaire. Quand la créature sous l'effet de votre vœu d'hostilité réalise une attaque, vous pouvez utiliser une réaction pour faire une attaque contre cette créature si elle est à portée. Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        },
+        {
+            "title": "Ange de la vengeance",
+            "content": "Au niveau 20, vous pouvez vous transformer en ange de la vengeance. En utilisant une action, vous subissez une transformation qui dure 1 heure. Pendant cette durée, vous gagnez les avantages suivants : Des ailes poussent dans votre dos et vous confère une vitesse de vol de 18 mètres. Vous émettez une aura de menace de 9 mètres de rayon. La première fois qu'une créature rentre dans votre aura ou si elle y commence son tour pendant une bataille, la créature doit réussir un jet de sauvegarde de Sagesse ou être effrayée pendant 1 minute ou jusqu'à ce que la créature prenne des dégâts. Les jets d'attaque contre la créature effrayée bénéficient d'un avantage."
+        }
+    ],
+    "tables": [
+        {
+            "name": "Progression du magicien",
+            "data": [
+                {
+                    "Niv": "1",
+                    "maîtrise": "+2",
+                    "Capacités": "Sens divin, Imposition des mains",
+                    "1": "-",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "2",
+                    "maîtrise": "+2",
+                    "Capacités": "Style de combat, Incantation, Châtiment divin",
+                    "1": "2",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "3",
+                    "maîtrise": "+2",
+                    "Capacités": "Santé divine, Serment sacré",
+                    "1": "3",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "4",
+                    "maîtrise": "+2",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "1": "3",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "5",
+                    "maîtrise": "+3",
+                    "Capacités": "Attaque supplémentaire",
+                    "1": "4",
+                    "2": "2",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "6",
+                    "maîtrise": "+3",
+                    "Capacités": "Aura de protection",
+                    "1": "4",
+                    "2": "2",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "7",
+                    "maîtrise": "+3",
+                    "Capacités": "Capacité de serment sacré",
+                    "1": "4",
+                    "2": "3",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "8",
+                    "maîtrise": "+3",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "1": "4",
+                    "2": "3",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "9",
+                    "maîtrise": "+4",
+                    "Capacités": "-",
+                    "1": "4",
+                    "2": "3",
+                    "3": "2",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "10",
+                    "maîtrise": "+4",
+                    "Capacités": "Aura de courage",
+                    "1": "4",
+                    "2": "3",
+                    "3": "2",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "11",
+                    "maîtrise": "+4",
+                    "Capacités": "Châtiment divin amélioré",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "12",
+                    "maîtrise": "+4",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "13",
+                    "maîtrise": "+5",
+                    "Capacités": "-",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "1",
+                    "5": "-"
+                },
+                {
+                    "Niv": "14",
+                    "maîtrise": "+5",
+                    "Capacités": "Contact purifiant",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "1",
+                    "5": "-"
+                },
+                {
+                    "Niv": "15",
+                    "maîtrise": "+5",
+                    "Capacités": "Capacité de serment sacré",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "2",
+                    "5": "-"
+                },
+                {
+                    "Niv": "16",
+                    "maîtrise": "+5",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "2",
+                    "5": "-"
+                },
+                {
+                    "Niv": "17",
+                    "maîtrise": "+6",
+                    "Capacités": "-",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "1"
+                },
+                {
+                    "Niv": "18",
+                    "maîtrise": "+6",
+                    "Capacités": "Amélioration d'auras",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "1"
+                },
+                {
+                    "Niv": "19",
+                    "maîtrise": "+6",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2"
+                },
+                {
+                    "Niv": "20",
+                    "maîtrise": "+6",
+                    "Capacités": "Capacité de serment sacré",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2"
+                }
+            ]
+        }
+    ],
+    "images": [
+        "https://www.aidedd.org/assets/regles/classes/paladin.jpg"
+    ],
+    "links": [
+        "https://www.aidedd.org/regles/historiques/noble/",
+        "https://www.aidedd.org/regles/classes/paladin/#voie",
+        "https://www.aidedd.org/regles/classes/paladin/#devotion",
+        "https://www.aidedd.org/regles/classes/paladin/#anciens",
+        "https://www.aidedd.org/regles/classes/paladin/#vengeance"
+    ]
+}

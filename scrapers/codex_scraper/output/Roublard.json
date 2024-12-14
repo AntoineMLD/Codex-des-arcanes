@@ -1,0 +1,403 @@
+{
+    "title": "Roublard",
+    "introduction": "Signifiant à ses compagnons d'attendre, un halfelin avance lentement dans la salle du donjon. Il colle son oreille à la porte, puis sort un jeu d'outils et crochète la serrure en un clin d'œil. Il disparaît ensuite dans l'ombre, lorsque son ami guerrier avance pour frapper la porte ouverte. Un humain se cache dans l'ombre d'une ruelle tandis que son complice se prépare pour l'embuscade. Quand leur cible, un esclavagiste notoire, passe en face de la ruelle, le complice crie, l'esclavagiste vient voir ce qui se passe, et la lame de l'assassin lui coupe la gorge avant qu'il ne puisse faire le moindre bruit. Une gnome agite ses doigts et soulève par magie le trousseau de clés à la ceinture du garde. En un instant, les clés sont dans sa main, la porte de la cellule est ouverte, et elle et ses compagnons sont libres de prendre la fuite. Les roublards s'appuient sur ​​la compétence, la discrétion et les faiblesses de leurs ennemis pour prendre la main dans n'importe quelle situation. Ils ont le don de trouver la solution à n'importe quel problème, démontrant une ingéniosité et une polyvalence qui est la pierre angulaire de toute aventure réussie. Les roublards consacrent autant d'effort à la maîtrise d'une variété de compétences qu'au perfectionnement de leurs capacités de combat, ce qui leur donne une large expertise à laquelle peu d'autres personnages peuvent prétendre. Beaucoup de roublards se concentrent sur la ruse et la tromperie, tandis que d'autres affinent les compétences qui les aident dans un environnement de type donjon, comme l'escalade, la recherche et le désamorçage des pièges et le crochetage. Lorsqu'il s'agit du combat, les roublards préfèrent la ruse à la force brute. Un roublard préférera donner un seul coup précis, le plaçant exactement à l'endroit qui blessera le plus la cible, plutôt qu'user son adversaire avec une série d'attaques. Les roublards ont un don presque surnaturel pour éviter le danger et quelques-uns apprennent des tours de magie pour compléter leurs autres capacités. Chaque ville et cité possède ses roublards. La plupart d'entre eux vivent en accord avec les pires stéréotypes de la classe, gagnant leur vie comme cambrioleurs, assassins, coupeurs de bourses et escrocs. Souvent, ces canailles sont organisées en guildes de voleurs ou en familles du crime. Beaucoup de roublards opèrent indépendamment, même s'ils recrutent parfois des apprentis pour les aider dans leurs escroqueries et cambriolages. Quelques roublards mènent une vie honnête comme serruriers, enquêteurs ou dératiseurs, qui peut être un travail dangereux dans un monde où des rats géants et autres rats-garous hantent les égouts. Comme aventuriers, les roublards peuvent être des deux côtés de la loi. Certains sont des criminels endurcis qui décident de chercher fortune en pillant des trésors, tandis que d'autres choisissent une vie d'aventure pour échapper à la loi. Certains ont appris et ont perfectionné leurs compétences avec le but explicite d'infiltrer des ruines antiques et des cryptes secrètes à la recherche de trésors. Lorsque vous créez votre roublard, pensez à la relation du personnage avec la loi. Avez-vous un passé... ou un présent... criminel ? Êtes-vous en fuite, recherché par les autorités ou par le maître d'une guilde de voleurs en colère ? Ou avez-vous quitté votre guilde à la recherche de plus grands risques et de récompenses plus importantes ? Est-ce la cupidité qui vous pousse dans vos aventures, ou bien un désir ou un idéal ? Quel a été le déclic qui vous a éloigné de votre précédente vie ? Peut-être avez-vous été chanceux et un vol réussi vous a donné les moyens dont vous aviez besoin pour échapper à la misère de votre vie. Ou l'envie de voyager vous a menée à quitter votre domicile ? Peut-être vous êtes-vous trouvé tout à coup coupé de votre famille ou de votre mentor, et il vous a alors fallu trouver de nouveaux moyens de soutien. Ou peut-être vous êtes-vous fait un nouvel ami qui vous a montré de nouvelles possibilités pour gagner sa vie en employant vos talents particuliers. Vous pouvez concevoir rapidement un roublard en suivant ces quelques suggestions. En premier lieu, la Dextérité devrait être votre plus haute valeur de caractéristique. Votre deuxième plus grande valeur de caractéristique devrait être l'Intelligence si vous voulez exceller en Investigation, ou le Charisme si vous préférez vous spécialiser en duperies et interactions sociales. Ensuite, choisissez l'historique criminel .",
+    "sections": [
+        {
+            "title": "Talent et précision",
+            "content": "Les roublards consacrent autant d'effort à la maîtrise d'une variété de compétences qu'au perfectionnement de leurs capacités de combat, ce qui leur donne une large expertise à laquelle peu d'autres personnages peuvent prétendre. Beaucoup de roublards se concentrent sur la ruse et la tromperie, tandis que d'autres affinent les compétences qui les aident dans un environnement de type donjon, comme l'escalade, la recherche et le désamorçage des pièges et le crochetage. Lorsqu'il s'agit du combat, les roublards préfèrent la ruse à la force brute. Un roublard préférera donner un seul coup précis, le plaçant exactement à l'endroit qui blessera le plus la cible, plutôt qu'user son adversaire avec une série d'attaques. Les roublards ont un don presque surnaturel pour éviter le danger et quelques-uns apprennent des tours de magie pour compléter leurs autres capacités. (a) une rapière ou (b) une épée courte (a) un arc court et un carquois de 20 flèches ou (b) une épée courte (a) un sac de cambrioleur, (b) un sac d'exploration souterraine ou (c) un sac d'explorateur une armure de cuir, deux dagues et des outils de voleur"
+        },
+        {
+            "title": "Un mode de vie suspect",
+            "content": "Chaque ville et cité possède ses roublards. La plupart d'entre eux vivent en accord avec les pires stéréotypes de la classe, gagnant leur vie comme cambrioleurs, assassins, coupeurs de bourses et escrocs. Souvent, ces canailles sont organisées en guildes de voleurs ou en familles du crime. Beaucoup de roublards opèrent indépendamment, même s'ils recrutent parfois des apprentis pour les aider dans leurs escroqueries et cambriolages. Quelques roublards mènent une vie honnête comme serruriers, enquêteurs ou dératiseurs, qui peut être un travail dangereux dans un monde où des rats géants et autres rats-garous hantent les égouts. Comme aventuriers, les roublards peuvent être des deux côtés de la loi. Certains sont des criminels endurcis qui décident de chercher fortune en pillant des trésors, tandis que d'autres choisissent une vie d'aventure pour échapper à la loi. Certains ont appris et ont perfectionné leurs compétences avec le but explicite d'infiltrer des ruines antiques et des cryptes secrètes à la recherche de trésors. (a) une rapière ou (b) une épée courte (a) un arc court et un carquois de 20 flèches ou (b) une épée courte (a) un sac de cambrioleur, (b) un sac d'exploration souterraine ou (c) un sac d'explorateur une armure de cuir, deux dagues et des outils de voleur"
+        },
+        {
+            "title": "Créer un roublard",
+            "content": "Lorsque vous créez votre roublard, pensez à la relation du personnage avec la loi. Avez-vous un passé... ou un présent... criminel ? Êtes-vous en fuite, recherché par les autorités ou par le maître d'une guilde de voleurs en colère ? Ou avez-vous quitté votre guilde à la recherche de plus grands risques et de récompenses plus importantes ? Est-ce la cupidité qui vous pousse dans vos aventures, ou bien un désir ou un idéal ? Quel a été le déclic qui vous a éloigné de votre précédente vie ? Peut-être avez-vous été chanceux et un vol réussi vous a donné les moyens dont vous aviez besoin pour échapper à la misère de votre vie. Ou l'envie de voyager vous a menée à quitter votre domicile ? Peut-être vous êtes-vous trouvé tout à coup coupé de votre famille ou de votre mentor, et il vous a alors fallu trouver de nouveaux moyens de soutien. Ou peut-être vous êtes-vous fait un nouvel ami qui vous a montré de nouvelles possibilités pour gagner sa vie en employant vos talents particuliers. (a) une rapière ou (b) une épée courte (a) un arc court et un carquois de 20 flèches ou (b) une épée courte (a) un sac de cambrioleur, (b) un sac d'exploration souterraine ou (c) un sac d'explorateur une armure de cuir, deux dagues et des outils de voleur"
+        },
+        {
+            "title": "Capacités de classe",
+            "content": "DV : 1d8 par niveau de roublard pv au niveau 1 : 8 + votre modificateur de Constitution pv aux niveaux suivants : 1d8 (ou 5) + votre modificateur de Constitution (a) une rapière ou (b) une épée courte (a) un arc court et un carquois de 20 flèches ou (b) une épée courte (a) un sac de cambrioleur, (b) un sac d'exploration souterraine ou (c) un sac d'explorateur une armure de cuir, deux dagues et des outils de voleur"
+        },
+        {
+            "title": "Expertise",
+            "content": "Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Attaque sournoise",
+            "content": "À partir du niveau 1, vous savez comment trouver et exploiter subtilement la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous réussissez à toucher si vous avez un avantage au jet d'attaque. L'attaque doit utiliser une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage au jet d'attaque si un autre ennemi de la cible est à 1,50 mètre ou moins de celle-ci, que cet ennemi n'est pas incapable d'agir, et que vous n'avez pas un désavantage au jet d'attaque. Le nombre de dégâts supplémentaires augmente à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Attaque sournoise de la table ci-dessus. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Jargon des voleurs",
+            "content": "Au cours de votre formation de roublard, vous avez appris le jargon des voleurs, un mélange secret de dialecte, de jargon et de codes, qui vous permet de cacher des messages dans une conversation apparemment normale. Seule une autre créature qui connaît le jargon des voleurs comprend ces messages. Il faut quatre fois plus de temps pour transmettre un tel message qu'il ne le faudrait pour transmettre la même idée clairement. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Ruse",
+            "content": "À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours en combat. Cette action ne peut être utilisée que pour Se désengager, Se cacher ou Foncer. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Archétype de roublard",
+            "content": "Au niveau 3, choisissez un archétype que vous émulez dans l'exercice de vos capacités de roublard. Votre archétype vous accorde des capacités spéciales au niveau 3 puis de nouvelles aux niveaux 9, 13 et 17. Voir Archétypes de roublard ci-dessous. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 8, 10, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Esquive instinctive",
+            "content": "À partir du niveau 5, quand un attaquant que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre vous. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Esquive totale",
+            "content": "À partir du niveau 7, vous pouvez esquiver certains effets de zone, tels le souffle ardent d'un dragon rouge ou un sort de tempête de glace . Lorsque vous êtes sujet à un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez aucun dégât si vous réussissez le jet de sauvegarde, et seulement la moitié des dégâts si vous échouez. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Savoir-faire",
+            "content": "À partir du niveau 11, les compétences que vous avez choisies sont si affinées qu'elles approchent la perfection. Chaque fois que vous faites un jet de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, vous pouvez traiter un résultat au dé de 9 ou moins comme un 10. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Perception aveugle",
+            "content": "À partir du niveau 14, si vous êtes capable d'entendre, vous pouvez assumer l'emplacement de n'importe quelle créature cachée ou invisible à 3 mètres ou moins de vous. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Esprit fuyant",
+            "content": "À partir du niveau 15, vous avez acquis une plus grande force mentale. Vous gagnez la maîtrise aux jets de sauvegarde de Sagesse. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Insaisissable",
+            "content": "À partir du niveau 18, les attaquants gagnent rarement le dessus sur vous. Aucun jet d'attaque n'a un avantage contre vous tant que vous n'êtes pas incapable d'agir. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Coup de chance",
+            "content": "Au niveau 20, vous avez un talent surnaturel pour réussir quand vous en avez besoin. Si votre attaque échoue contre une cible à portée, vous pouvez transformer l'échec en succès. Ou bien si vous échouez à un jet de caractéristique, vous pouvez traiter le résultat du d20 comme un 20. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Archétypes de roublard",
+            "content": "Tous les roublards ont de nombreuses caractéristiques en commun, comme l'accent qu'ils mettent sur le fait de perfectionner leurs compétences, leur approche précise et mortelle du combat et leurs réflexes toujours plus rapides. Mais des roublards différents orientent ces talents dans diverses directions, lesquelles sont incarnées par les archétypes de roublard. Votre choix de l'archétype est le reflet de votre attention. Ce n'est pas nécessairement une indication de votre profession, mais plutôt une description de vos techniques préférées. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Assassin",
+            "content": "Vous focalisez votre entrainement sur l'art de l'assassinat. Divers personnages choisissent cet archétype : tueurs sous contrat, espions, chasseurs de primes, et même certains religieux entraînés à cela pour exterminer les ennemis de leur divinité. Discrétion, poisons et déguisements vous aident à éliminer vos cibles avec une efficacité meurtrière. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Voleur",
+            "content": "Vous perfectionnez vos compétences dans les arts du larcin. Cambrioleurs, bandits, coupe-bourses et autres criminels suivent généralement cet archétype, de même que les roublards qui se considèrent eux-mêmes comme des chercheurs de trésors professionnels, des explorateurs ou des investigateurs. En plus d'améliorer votre agilité et votre furtivité, vous apprenez des compétences utiles pour pénétrer dans des ruines antiques, lire des langues inconnues ou utiliser des objets magiques que vous ne pourriez normalement pas employer. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Escroc arcanique",
+            "content": "Quelques roublards améliorent leurs compétences aiguisées en furtivité et agilité avec la magie, apprenant des tours d'enchantement et d'illusion. On trouve parmi eux des voleurs à la tire et des cambrioleurs, mais aussi des farceurs, des fauteurs de troubles et un nombre important d'aventuriers. Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature. Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature. Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance."
+        },
+        {
+            "title": "Conspirateur",
+            "content": "Version officielle du Xanathar's Guide to Everything de cette sous-classe mise en ligne par WotC lors de l'Extra Life 2015. Valeur d'Intelligence Valeur de Sagesse Valeur de Charisme Niveau de classe (le cas échéant)"
+        }
+    ],
+    "images": [
+        "assets/regles/classes/roublard.jpg",
+        "assets/regles/classes/mystificateur-profane.jpg"
+    ],
+    "table": {
+        "headers": [
+            "Niv",
+            "Bonus de",
+            "maîtrise",
+            "Attaque",
+            "sournoise",
+            "Capacités",
+            ""
+        ],
+        "rows": [
+            {
+                "Niv": "1",
+                "Bonus de": "+2",
+                "maîtrise": "1d6",
+                "Attaque": "Expertise, Attaque sournoise, Jargon des voleurs"
+            },
+            {
+                "Niv": "2",
+                "Bonus de": "+2",
+                "maîtrise": "1d6",
+                "Attaque": "Ruse"
+            },
+            {
+                "Niv": "3",
+                "Bonus de": "+2",
+                "maîtrise": "2d6",
+                "Attaque": "Archétype de roublard"
+            },
+            {
+                "Niv": "4",
+                "Bonus de": "+2",
+                "maîtrise": "2d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "5",
+                "Bonus de": "+3",
+                "maîtrise": "3d6",
+                "Attaque": "Esquive instinctive"
+            },
+            {
+                "Niv": "6",
+                "Bonus de": "+3",
+                "maîtrise": "3d6",
+                "Attaque": "Expertise"
+            },
+            {
+                "Niv": "7",
+                "Bonus de": "+3",
+                "maîtrise": "4d6",
+                "Attaque": "Esquive totale"
+            },
+            {
+                "Niv": "8",
+                "Bonus de": "+3",
+                "maîtrise": "4d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "9",
+                "Bonus de": "+4",
+                "maîtrise": "5d6",
+                "Attaque": "Capacité de l'archétype de roublard"
+            },
+            {
+                "Niv": "10",
+                "Bonus de": "+4",
+                "maîtrise": "5d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "11",
+                "Bonus de": "+4",
+                "maîtrise": "6d6",
+                "Attaque": "Savoir-faire"
+            },
+            {
+                "Niv": "12",
+                "Bonus de": "+4",
+                "maîtrise": "6d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "13",
+                "Bonus de": "+5",
+                "maîtrise": "7d6",
+                "Attaque": "Capacité de l'archétype de roublard"
+            },
+            {
+                "Niv": "14",
+                "Bonus de": "+5",
+                "maîtrise": "7d6",
+                "Attaque": "Perception aveugle"
+            },
+            {
+                "Niv": "15",
+                "Bonus de": "+5",
+                "maîtrise": "8d6",
+                "Attaque": "Esprit fuyant"
+            },
+            {
+                "Niv": "16",
+                "Bonus de": "+5",
+                "maîtrise": "8d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "17",
+                "Bonus de": "+6",
+                "maîtrise": "9d6",
+                "Attaque": "Capacité de l'archétype de roublard"
+            },
+            {
+                "Niv": "18",
+                "Bonus de": "+6",
+                "maîtrise": "9d6",
+                "Attaque": "Insaisissable"
+            },
+            {
+                "Niv": "19",
+                "Bonus de": "+6",
+                "maîtrise": "10d6",
+                "Attaque": "Amélioration de caractéristiques"
+            },
+            {
+                "Niv": "20",
+                "Bonus de": "+6",
+                "maîtrise": "10d6",
+                "Attaque": "Coup de chance"
+            },
+            {},
+            {},
+            {
+                "Niv": "3",
+                "Bonus de": "3",
+                "maîtrise": "3",
+                "Attaque": "2",
+                "sournoise": "-",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "4",
+                "Bonus de": "3",
+                "maîtrise": "4",
+                "Attaque": "3",
+                "sournoise": "-",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "5",
+                "Bonus de": "3",
+                "maîtrise": "4",
+                "Attaque": "3",
+                "sournoise": "-",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "6",
+                "Bonus de": "3",
+                "maîtrise": "4",
+                "Attaque": "3",
+                "sournoise": "-",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "7",
+                "Bonus de": "3",
+                "maîtrise": "5",
+                "Attaque": "4",
+                "sournoise": "2",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "8",
+                "Bonus de": "3",
+                "maîtrise": "6",
+                "Attaque": "4",
+                "sournoise": "2",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "9",
+                "Bonus de": "3",
+                "maîtrise": "6",
+                "Attaque": "4",
+                "sournoise": "2",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "10",
+                "Bonus de": "4",
+                "maîtrise": "7",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "11",
+                "Bonus de": "4",
+                "maîtrise": "8",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "12",
+                "Bonus de": "4",
+                "maîtrise": "8",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "-",
+                "": "-"
+            },
+            {
+                "Niv": "13",
+                "Bonus de": "4",
+                "maîtrise": "9",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "2",
+                "": "-"
+            },
+            {
+                "Niv": "14",
+                "Bonus de": "4",
+                "maîtrise": "10",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "2",
+                "": "-"
+            },
+            {
+                "Niv": "15",
+                "Bonus de": "4",
+                "maîtrise": "10",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "2",
+                "": "-"
+            },
+            {
+                "Niv": "16",
+                "Bonus de": "4",
+                "maîtrise": "11",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "3",
+                "": "-"
+            },
+            {
+                "Niv": "17",
+                "Bonus de": "4",
+                "maîtrise": "11",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "3",
+                "": "-"
+            },
+            {
+                "Niv": "18",
+                "Bonus de": "4",
+                "maîtrise": "11",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "3",
+                "": "-"
+            },
+            {
+                "Niv": "19",
+                "Bonus de": "4",
+                "maîtrise": "12",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "3",
+                "": "1"
+            },
+            {
+                "Niv": "20",
+                "Bonus de": "4",
+                "maîtrise": "13",
+                "Attaque": "4",
+                "sournoise": "3",
+                "Capacités": "3",
+                "": "1"
+            }
+        ]
+    },
+    "links": [
+        "https://www.aidedd.org/regles/historiques/criminel/",
+        "https://www.aidedd.org/regles/classes/roublard/#voie",
+        "https://www.aidedd.org/regles/classes/roublard/#assassin",
+        "https://www.aidedd.org/regles/classes/roublard/#voleur",
+        "https://www.aidedd.org/regles/classes/roublard/#mystificateur",
+        "https://www.aidedd.org/regles/classes/roublard/#conspirateur"
+    ]
+}

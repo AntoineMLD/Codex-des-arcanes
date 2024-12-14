@@ -1,0 +1,300 @@
+{
+    "title": "Barbare",
+    "introduction": "Drapé de fourrure et portant une hache, un humain tribal de haute taille marche à grandes enjambées à travers le blizzard. Riant aux éclats, il charge le géant du givre qui a osé s'en prendre au troupeau de son clan. Une demi-orc grogne férocement contre le dernier adversaire qui a voulu remettre en cause son autorité sur la tribu, prête à lui briser le cou comme elle l'a fait avec les six précédents. L'écume aux lèvres, un nain balance son casque dans le visage d'un premier ennemi drow puis, se retournant, envoie sa cubitière dans le ventre d'un second.",
+    "sections": [
+        {
+            "title": "Instinct primitif",
+            "content": "Villageois et citadins sont fiers de leur manières civilisées qui les distinguent des animaux, comme si renier sa propre nature était un signe de supériorité. Mais pour un barbare, la civilisation n'est pas une vertu, c'est un signe de faiblesse. Les forts assument leurs instincts naturels, leur physique primitif et leur rage féroce. Les barbares ne sont pas à l'aise derrière des murs ou entourés par la foule. Ils prospèrent sur les étendues sauvages de leurs terres natales : la toundra, la jungle ou les prairies où leur tribu vit et chasse. Les barbares renaissent dans le chaos d'un combat. Ils peuvent entrer en rage et devenir fous furieux, ce qui leur donne une force et une résistance au-delà des limites humaines. Un barbare ne peut puiser dans cette réserve de furie que quelquefois avant de devoir se reposer, mais ces quelques rages sont généralement suffisantes pour annihiler toute menace. (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Une vie pleine de danger",
+            "content": "Un membre d'une tribu réputée « barbare » par la société civilisée ne possède pas forcément des niveaux dans la classe de barbare. Un vrai barbare parmi son peuple est aussi rare qu'un guerrier compétent en ville, et il ou elle joue un rôle similaire destiné à protéger son peuple et à être un meneur en cas de guerre. La vie dans les endroits sauvages du monde est remplie de dangers : des tribus rivales, un climat hostile et des monstres terrifiants. Les barbares s'y jettent la tête la première afin que leur peuple n'ait pas besoin de le faire. Le courage dont ils font preuve face au danger en font de parfaits aventuriers. L'errance étant souvent le mode de vie de leur tribu natale, la vie souvent sans attache d'un aventurier n'est donc pas contraignante pour un barbare. La structure familiale d'une tribu et ses membres très unis peut manquer au barbare mais, finalement, elle sera compensée par les liens tissés avec leurs compagnons d'aventure. (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Créer un barbare",
+            "content": "Lorsque vous créez un barbare, réfléchissez d'où il vient et quelle est sa place dans le monde. Discutez avec votre MD afin de lui trouver une origine appropriée. Venez-vous d'une contrée éloignée faisant de vous un étranger dans la campagne ? Ou bien cette même campagne se déroule t-elle dans une rude région frontalière où les barbares sont communs ? Qu'est-ce qui vous a poussé à devenir aventurier ? Avez vous été séduit par la certitude de devenir riche dans les pays régis par les lois ? Avez-vous joint vos forces avec les soldats de ces mêmes pays afin de repousser une menace commune ? Est-ce que des monstres ou une horde étrangère vous ont contraint à l'exil ? Vous étiez peut-être un prisonnier de guerre, conduit enchaîné dans les pays « civilisés » et qui tente de regagner sa liberté à tout prix. Ou peut-être avez vous été banni de votre peuple suite à un crime que vous avez commis, un tabou que vous avez brisé ou une révolte qui vous a déchu de votre autorité. (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Création rapide",
+            "content": "Vous pouvez concevoir rapidement un barbare en suivant ces quelques suggestions. En premier lieu, la Force devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique  sauvageon . (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Points de vie",
+            "content": "DV  : 1d12 par niveau de barbare pv au niveau 1  : 12 + votre modificateur de Constitution pv aux niveaux suivants  : 1d12 (ou 7) + votre modificateur de Constitution (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Armures  : armures légères, armures intermédiaires, boucliers Armes  : armes courantes, armes de guerre Outils  : aucun Jets de sauvegarde  : Force, Constitution Compétences  : choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Équipement",
+            "content": "Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique : (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps à corps (a) deux hachettes ou (b) n'importe quelle arme courante un sac d'explorateur et quatre javelines"
+        },
+        {
+            "title": "Rage",
+            "content": "En combat, vous vous battez avec une férocité bestiale. Durant votre tour, vous pouvez entrer en rage en utilisant une action bonus. En rage, vous gagnez les bénéfices suivants si vous ne portez pas d'armure lourde : Vous avez un avantage aux jets de Force et aux jets de sauvegarde de Force. Quand vous effectuez une attaque au corps à corps avec une arme utilisant la Force, vous gagnez un bonus aux jets de dégâts qui dépend de votre niveau de barbare, comme indiqué dans la colonne Dégâts de la table ci-dessus. Vous avez la résistance aux dégâts contondants, perforants et tranchants."
+        },
+        {
+            "title": "Défense sans armure",
+            "content": "Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et continuer de profiter de cette capacité. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Attaque téméraire",
+            "content": "À partir du niveau 2, vous pouvez mettre de côté votre défense pour attaquer avec toute la violence du désespoir. Lorsque vous effectuez la première attaque de votre tour, vous pouvez décider d'effectuer une Attaque téméraire. Vous obtenez ainsi un avantage aux jets d'attaque au corps à corps avec une arme utilisant la Force durant ce tour, mais les attaques effectuées contre vous ont également un avantage jusqu'à votre prochain tour. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Sens du danger",
+            "content": "Au niveau 2, vous ressentez une sensation étrange lorsque les choses qui vous entourent ne sont pas comme elles devraient être, vous donnant un avantage lorsque vous tentez de vous extirper du danger. Vous avez un avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Pour bénéficier de cet effet vous ne devez pas être aveuglé, assourdi ou incapable d'agir. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Voie primitive",
+            "content": "Au niveau 3, vous choisissez la voie par laquelle s'exprime votre rage. Choisissez la voie du berserker ou la voie du guerrier totem, chacune étant détaillée ci-dessous. Votre choix vous accorde des capacités aux niveaux 3, 6, 10 et 14. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Attaque supplémentaire",
+            "content": "À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l'action Attaquer durant votre tour. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Déplacement rapide",
+            "content": "Au niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Instinct sauvage",
+            "content": "Au niveau 7, vos instincts sont si aiguisés que vous obtenez un avantage aux jets d'initiative. De plus, si vous êtes surpris au début du combat et que vous n'êtes pas incapable d'agir, vous pouvez jouer normalement durant votre premier tour, mais seulement si vous entrez en rage avant de faire quoique ce soit d'autre à ce tour. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Critique brutal",
+            "content": "À partir du niveau 9, vous pouvez lancer un dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps. Ce bonus aux dégâts passe à deux dés au niveau 13 et à trois dés au niveau 17. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Rage implacable",
+            "content": "À partir du niveau 11, votre rage vous permet de continuer à combattre en dépit des graves blessures qui vous affectent. Si vous tombez à 0 point de vie pendant votre rage et que vous ne mourrez pas sur le coup, vous pouvez faire un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous retournez immédiatement à 1 point de vie. Chaque fois que vous utilisez cette capacité après la première, le DD augmente de 5. Quand vous terminez un repos court ou long le DD retombe à 10. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Rage persistante",
+            "content": "En atteignant le niveau 15, votre rage est si intense qu'elle ne s'arrête prématurément qu'à la condition que vous tombiez inconscient ou que vous choisissiez de l'arrêter. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Puissance indomptable",
+            "content": "Au niveau 18, si le résultat d'un de vos jets de Force est inférieur à votre valeur de Force, vous pouvez utiliser votre valeur de Force à la place de votre résultat. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Champion primitif",
+            "content": "Au niveau 20, vous êtes l'incarnation de la puissance du monde sauvage. Vos valeurs de Force et de Constitution augmentent de 4. Votre maximum dans ces valeurs de caractéristique est maintenant de 24. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Voie du berserker",
+            "content": "Pour bon nombre de barbares, la rage est le moyen d'atteindre un but, ce but étant la violence. La voie du berserker est une voie de fureur débridée, poisseuse de sang. En entrant en rage de berserker, vous êtes électrisé par le chaos de la bataille, faisant fi de votre sécurité et de votre bien-être. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Frénésie",
+            "content": "Dès que vous choisissez cette voie au niveau 3, vous pouvez choisir de sombrer dans un état de frénésie au cours de votre rage. Si vous le faites, pour la durée de votre rage, vous pouvez effectuer une unique attaque au corps à corps avec une arme en utilisant une action bonus à chacun de vos tours après celui-ci. Lorsque votre rage se termine, vous subissez un niveau d'épuisement. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Rage aveugle",
+            "content": "À partir du niveau 6, vous ne pouvez pas être charmé ou effrayé tant que vous êtes en rage. Si vous êtes déjà charmé ou effrayé lorsque vous entrez en rage, l'effet est suspendu le temps de votre rage. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Présence intimidante",
+            "content": "À partir du niveau 10, vous pouvez utiliser votre action pour effrayer quelqu'un avec votre présence effrayante. Pour ce faire, choisissez une créature que vous pouvez voir à 9 mètres maximum de vous. Si la créature peut vous voir ou vous entendre, elle doit réussir un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou vous l'effrayez jusqu'à la fin de votre prochain tour. Aux tours suivants, vous pouvez utiliser votre action pour augmenter d'un tour supplémentaire la durée de cet effet sur la créature effrayée. Cet effet se termine si la créature finit son tour hors de votre ligne de vue ou qu'elle se trouve à plus de 18 mètres de vous. Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cette capacité contre elle durant 24 heures. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Représailles",
+            "content": "À partir du niveau 14, lorsque vous subissez des dégâts d'une créature située à 1,50 mètre de vous, vous pouvez utiliser votre réaction pour effectuer une attaque au corps à corps avec une arme contre cette créature. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Voie du guerrier totem",
+            "content": "La voie du guerrier totem est un parcours spirituel, étant donné que le barbare accepte un esprit animal comme guide, protecteur et source d'inspiration. En plein bataille, votre esprit totem vous imprègne de pouvoirs surnaturels, distillant de l'essence magique dans votre rage. La plupart des tribus barbares utilise un animal totem comme signe d'appartenance à un clan particulier. Dans ce cas-là, il est rare pour un individu d'avoir plus d'un esprit-animal totem, bien qu'il existe des exceptions. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Quêteur spirituel",
+            "content": "Une voie qui cherche à vous initier au monde naturel, vous affiliant aux bêtes, est faite pour vous. Au niveau 3, lorsque vous adoptez cette voie, vous obtenez la capacité de lancer les sorts  communication avec les animaux  et  sens animal , mais seulement en tant que rituels. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Esprit totem",
+            "content": "Au niveau 3, lorsque vous adoptez cette voie, vous choisissez un esprit totem et obtenez les avantages associés. Vous devez fabriquer ou obtenir un objet totem - une amulette ou un ornement similaire - constitué d'os, de poils, de griffes, de plumes ou de dents de votre animal totem. Si vous le souhaitez, vous pouvez également obtenir un attribut physique mineur qui rappelle votre esprit totem. Par exemple, si vous avez choisi l'ours comme esprit totem, vous pourriez être incroyablement poilu et avoir la peau épaisse, ou si votre totem est l'aigle, vos yeux pourraient virer au jaune. Votre animal totem devrait être un animal correspondant à l'un de ceux listés ci-dessous ou s'en approchant mais dont l'espèce est plus appropriée à votre pays d'origine (un vautour ou un faucon à la place d'un aigle par exemple). Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Aspect de la bête",
+            "content": "Au niveau 6, vous obtenez un bénéfice magique dépendant de l'animal totem de votre choix. Vous pouvez choisir le même animal que celui sélectionné au niveau 3 ou en prendre un différent. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Marcheur spirituel",
+            "content": "Au niveau 10, vous pouvez lancer le sort  communion avec la nature , mais seulement en tant que rituel. Lorsque vous le lancez, une version spirituelle de l'un des animaux que vous avez choisis avec Esprit totem ou Aspect de la bête apparaît et vous donne l'information que vous recherchez. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Lien totémique",
+            "content": "Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem de votre choix. Vous pouvez choisir un animal que vous avez précédemment sélectionné ou en prendre un nouveau. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Voie de la magie sauvage",
+            "content": "Version officielle du  Tasha's Cauldron of Everything  de cette sous-classe mise en ligne par WotC lors du D&D Celebration 2020. Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Sens de la magie",
+            "content": "Capacité de la voie de la magie sauvage de niveau 3 Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Sursaut sauvage",
+            "content": "Capacité de la voie de la magie sauvage de niveau 3 Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Réserve de magie",
+            "content": "Capacité de la voie de la magie sauvage de niveau 6 Durant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou un jet de caractéristique, et ajouter le nombre obtenu au d20. Lancez un d3. La créature regagne un emplacement de sort dépensé d'un niveau égal ou inférieur au nombre obtenu (au choix de la créature). Une fois qu'une créature a reçu cet avantage, elle ne peut plus en bénéficier avant d'avoir terminé un repos long."
+        },
+        {
+            "title": "Réaction instable",
+            "content": "Capacité de la voie de la magie sauvage de niveau 10"
+        },
+        {
+            "title": "Sursaut contrôlé",
+            "content": "Capacité de la voie de la magie sauvage de niveau 14"
+        }
+    ],
+    "class_abilities": [
+        {
+            "level": "1",
+            "proficiency_bonus": "+2",
+            "features": "Rage, Défense sans armure",
+            "rages": "2",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "2",
+            "proficiency_bonus": "+2",
+            "features": "Attaque téméraire, Sens du danger",
+            "rages": "2",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "3",
+            "proficiency_bonus": "+2",
+            "features": "Voie primitive",
+            "rages": "3",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "4",
+            "proficiency_bonus": "+2",
+            "features": "Amélioration de caractéristiques",
+            "rages": "3",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "5",
+            "proficiency_bonus": "+3",
+            "features": "Attaque supplémentaire, Déplacement rapide",
+            "rages": "3",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "6",
+            "proficiency_bonus": "+3",
+            "features": "Capacité de voie",
+            "rages": "4",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "7",
+            "proficiency_bonus": "+3",
+            "features": "Instinct sauvage",
+            "rages": "4",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "8",
+            "proficiency_bonus": "+3",
+            "features": "Amélioration de caractéristiques",
+            "rages": "4",
+            "rage_damage": "+2"
+        },
+        {
+            "level": "9",
+            "proficiency_bonus": "+4",
+            "features": "Critique brutal (1 dé)",
+            "rages": "4",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "10",
+            "proficiency_bonus": "+4",
+            "features": "Capacité de voie",
+            "rages": "4",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "11",
+            "proficiency_bonus": "+4",
+            "features": "Rage implacable",
+            "rages": "4",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "12",
+            "proficiency_bonus": "+4",
+            "features": "Amélioration de caractéristiques",
+            "rages": "5",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "13",
+            "proficiency_bonus": "+5",
+            "features": "Critique brutal (2 dés)",
+            "rages": "5",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "14",
+            "proficiency_bonus": "+5",
+            "features": "Capacité de voie",
+            "rages": "5",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "15",
+            "proficiency_bonus": "+5",
+            "features": "Rage persistante",
+            "rages": "5",
+            "rage_damage": "+3"
+        },
+        {
+            "level": "16",
+            "proficiency_bonus": "+5",
+            "features": "Amélioration de caractéristiques",
+            "rages": "5",
+            "rage_damage": "+4"
+        },
+        {
+            "level": "17",
+            "proficiency_bonus": "+6",
+            "features": "Critique brutal (3 dés)",
+            "rages": "6",
+            "rage_damage": "+4"
+        },
+        {
+            "level": "18",
+            "proficiency_bonus": "+6",
+            "features": "Puissance indomptable",
+            "rages": "6",
+            "rage_damage": "+4"
+        },
+        {
+            "level": "19",
+            "proficiency_bonus": "+6",
+            "features": "Amélioration de caractéristiques",
+            "rages": "6",
+            "rage_damage": "+4"
+        },
+        {
+            "level": "20",
+            "proficiency_bonus": "+6",
+            "features": "Champion primitif",
+            "rages": "illimitées",
+            "rage_damage": "+4"
+        }
+    ]
+}

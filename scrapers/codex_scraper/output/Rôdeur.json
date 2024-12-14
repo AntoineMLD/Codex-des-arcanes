@@ -1,0 +1,418 @@
+{
+    "title": "Rôdeur",
+    "introduction": "D'aspect sauvage et rude, un humain traque seul à travers les ombres des arbres, chassant les orcs qu'il sait préparer l'attaque d'une ferme alentour. Armé d'une épée courte dans chaque main il devient une tornade de métal, tranchant les ennemis les uns après les autres. Après avoir fait une roulade loin d'un souffle d'air gelé, une elfe se redresse d'un bond et dégaine son arc, décochant au passage une flèche vers le dragon blanc. S'affranchissant de la vague de terreur qui émane de lui comme la morsure glacée de son souffle, elle fait pleuvoir ses traits les uns après les autres afin de trouver un point faible entre les épaisses écailles du dragon. Levant sa main en l'air, un demi-elfe siffle vers le faucon qui vole en cercle au-dessus de lui, l'appelant à ses côtés. Chuchotant des instructions en elfique, il pointe du doigt l'ours-hibou qu'il traquait et envoie le rapace distraire la créature pendant qu'il bande son arc.",
+    "sections": [
+        {
+            "title": "Chasseurs mortels",
+            "content": "Guerriers des étendues sauvages, les rôdeurs sont spécialisés dans la traque des monstres qui menacent les remparts de la civilisation : pillards humanoïdes, monstruosités et bêtes rampantes, terribles géants ou mortels dragons. Ils apprennent à traquer leurs proies comme le font les prédateurs, se déplaçant silencieusement à travers les fourrés en se cachant dans les buissons ou les gravats. Les rôdeurs focalisent leur entraînements martiaux et leurs techniques de combats contre leurs ennemis de prédilection. Grâce à leur familiarité avec le monde sauvage, les rôdeurs acquièrent la capacité de lancer des sorts qui utilisent le pouvoir de la nature, comme les druides. Leurs sorts, comme leurs aptitudes de combat, améliorent leur vitesse, leur discrétion et leurs capacités de chasse. Les talents et les aptitudes de rôdeur sont concentrées à l'extrême sur la tâche sinistre de protéger les zones frontalières. (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Aventuriers indépendants",
+            "content": "Bien qu'un rôdeur puisse gagner sa vie comme chasseur, guide ou traqueur, la véritable vocation d'un rôdeur est de défendre la périphérie de la civilisation contre les ravages des monstres et des hordes humanoïdes qui pressent de l'extérieur. Dans certains endroits, les rôdeurs se rassemblent dans des ordres secrets ou rejoignent les forces des cercles druidiques. Beaucoup de rôdeurs cependant sont indépendants, presque à l'excès, sachant que lorsqu'un dragon ou une bande d'orcs attaquent, un rôdeur pourrait bien être la première, et possiblement la dernière, ligne de défense. Cette indépendance farouche rend les rôdeurs bien adaptés à l'aventure, car ils sont habitués à la vie loin du confort d'un lit sec et d'un bain chaud. Face aux aventuriers de la ville qui se plaignent des difficultés de la vie sauvage, les rôdeurs réagissent avec un certain mélange d'amusement, de frustration et de compassion. Mais ils apprennent vite que d'autres aventuriers qui peuvent peser dans un combat contre les ennemis de la civilisation valent toute charge supplémentaire. Les citadins gâtés ne savent pas comment se nourrir ou trouver de l'eau fraîche dans l’environnement sauvage, mais ils brillent par d'autres moyens. (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Créer un rôdeur",
+            "content": "Lorsque vous créez un rôdeur, considérez la nature de la formation qui vous a donné vos capacités particulières. Vous êtes-vous entraîné avec un seul mentor, errant ensemble dans les étendues sauvages jusqu'à ce que vous ayez maîtrisé les voies du rôdeur ? Avez-vous quitté votre apprentissage ou votre mentor a-t-il été tué (peut-être par le type de monstre qui est devenu votre ennemi juré) ? Ou peut-être avez-vous appris vos compétences en tant que membre d'un groupe de rôdeurs affiliés à un cercle druidique, formé ainsi aux chemins mystiques comme à l'histoire sauvage. Vous pourriez aussi être un autodidacte, un reclus qui a appris les techniques de combat, la traque, et même un lien magique avec la nature par la nécessité de survivre dans la nature. Quelle est la source de votre haine particulière envers un certain type d'ennemi ? Ont-ils tué quelqu'un que vous aimiez ou détruit votre village natal ? Ou avez-vous trop vu de la destruction que ces monstres provoquent et cela vous a poussé à vous engager à lutter contre leurs déprédations ? Votre carrière d'aventurier est-elle une prolongation de votre travail de protection des zones frontalières ou un changement significatif ? Qu'est-ce qui vous a poussé à rejoindre un groupe d'aventuriers ? Trouvez-vous intéressant d'enseigner à de nouveaux alliés les méthodes de survie dans la nature, ou accueillez-vous avec soulagement la compagnie qu'ils offrent ? (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Création rapide",
+            "content": "Vous pouvez concevoir rapidement un rôdeur en suivant ces quelques suggestions. En premier lieu, la Dextérité devrait être votre plus haute valeur de caractéristique, suivie par la Sagesse (certain rôdeurs qui se focalisent sur le combat à deux armes font toutefois de la Force leur caractéristique principale). Ensuite, choisissez l'historique sauvageon . (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Points de vie",
+            "content": "DV : 1d10 par niveau de rôdeur pv au niveau 1 : 10 + votre modificateur de Constitution pv aux niveaux suivants : 1d10 (ou 6) + votre modificateur de Constitution (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Maîtrises",
+            "content": "Armures : armures légères et intermédiaires, boucliers Armes : armes courantes, armes de guerre Outils : aucun Jets de sauvegarde : Force, Dextérité Compétences : choisissez trois compétences parmi Athlétisme, Discrétion, Dressage, Intuition, Investigation, Nature, Perception et Survie (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Équipement",
+            "content": "Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique : (a) armure d'écailles ou (b) armure de cuir (a) deux épées courtes ou (b) deux armes courantes de corps à corps (a) un sac d'exploration souterraine ou (b) un sac d'explorateur un arc long et un carquois avec 20 flèches"
+        },
+        {
+            "title": "Ennemi juré",
+            "content": "À partir du niveau 1, vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Choisissez un type d'ennemi juré : aberrations, artificiels, bêtes, célestes, dragons, élémentaires, fées, fiélons, géants, monstruosités, morts-vivants, plantes ou vases. Sinon, vous pouvez sélectionner deux races d’humanoïde (comme gnolls et orcs) comme ennemis favoris. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une. Le terrain difficile ne ralentit pas le voyage de votre groupe. Votre groupe ne peut pas se perdre, sauf par des moyens magiques. Même lorsque vous êtes engagé dans une autre activité tout en voyageant (comme la recherche de nourriture, la navigation ou le pistage), vous restez alerte face au danger. Si vous voyagez seul, vous pouvez vous déplacer furtivement à un rythme normal. Lorsque vous cherchez de la nourriture, vous en trouvez deux fois plus que normalement. Lorsque vous pistez d'autres créatures, vous découvrez aussi leur nombre exact, leurs tailles, et depuis combien de temps elles sont passées dans la zone."
+        },
+        {
+            "title": "Explorateur-né",
+            "content": "Vous êtes particulièrement familier avec un type de milieu naturel et êtes apte à voyager et à survivre dans ces régions. Choisissez un type de terrain favori : arctique, désert, forêt, littoral, marais, montagne, plaine ou Outreterre. Lorsque vous faites un jet d’Intelligence ou de Sagesse lié à votre terrain favori, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez. Le terrain difficile ne ralentit pas le voyage de votre groupe. Votre groupe ne peut pas se perdre, sauf par des moyens magiques. Même lorsque vous êtes engagé dans une autre activité tout en voyageant (comme la recherche de nourriture, la navigation ou le pistage), vous restez alerte face au danger. Si vous voyagez seul, vous pouvez vous déplacer furtivement à un rythme normal. Lorsque vous cherchez de la nourriture, vous en trouvez deux fois plus que normalement. Lorsque vous pistez d'autres créatures, vous découvrez aussi leur nombre exact, leurs tailles, et depuis combien de temps elles sont passées dans la zone."
+        },
+        {
+            "title": "Style de combat",
+            "content": "Au niveau 2, Vous adoptez un style particulier de combat qui sera votre spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de Style de combat plus d'une fois, même si vous obtenez plus tard la possibilité de choisir un nouveau style. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Archerie",
+            "content": "Vous obtenez un bonus de +2 aux jets d'attaque avec une arme à distance. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Combat à deux armes",
+            "content": "Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Défense",
+            "content": "Si vous portez une armure, vous obtenez un bonus de +1 à la CA. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Duel",
+            "content": "Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Incantation",
+            "content": "Au moment où vous atteignez le niveau 2, vous avez appris à utiliser l'essence magique de la nature pour lancer des sorts, tout comme le fait un druide. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Emplacements de sorts",
+            "content": "La table ci-dessus montre combien d'emplacements de sorts vous avez pour lancer vos sorts de rôdeur de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long. Par exemple, si vous connaissez le sort de niveau 1 amitié avec les animaux et qu'il vous reste un emplacement de niveau 1 et un emplacement de niveau 2, vous pouvez lancer ce sort avec n'importe lequel de ces deux emplacements. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Sorts connus de niveau 1 et supérieur",
+            "content": "Vous connaissez deux sorts de niveau 1, à choisir dans la liste des sorts de rôdeur. La colonne Sorts connus de la table ci-dessus indique les niveaux auxquels vous apprenez de nouveaux sorts de rôdeur de votre choix. Chacun de ces sorts doit être d'un niveau pour lequel vous possédez un emplacement de sort, comme indiqué dans la table. Par exemple, lorsque vous atteignez le niveau 5 de cette classe, vous pouvez apprendre un nouveau sort de niveau 1 ou 2. En outre, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de rôdeur que vous connaissez et le remplacer par un autre sort choisi dans la liste de sorts de rôdeur, celui-ci devant également être d'un niveau pour lequel vous possédez un emplacement de sort. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Caractéristique d'incantation",
+            "content": "La Sagesse est votre caractéristique d'incantation pour vos sorts de rôdeur, car le pouvoir de votre magie vient de votre lien avec la nature. Vous utilisez votre Sagesse chaque fois qu'un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur de Sagesse pour définir le DD du jet de sauvegarde d'un sort de rôdeur que vous lancez, ainsi que pour le jet d'attaque de celui-ci. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Archétype de rôdeur",
+            "content": "Au niveau 3, vous choisissez un archétype qui vous inspire : le chasseur ou le maître des bêtes, détaillé à la fin de la description de classe. Votre choix vous accorde des capacités aux niveaux 3, 7, 11 et niveau 15. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Vigilance primitive",
+            "content": "À partir du niveau 3, vous pouvez utiliser votre action et dépenser un emplacement de sort de rôdeur afin de concentrer votre attention sur la région autour de vous. Pour 1 minute par niveau d'emplacement de sort que vous dépensez, vous pouvez sentir si les types de créatures suivants sont présents à 1,5 kilomètre de vous (ou jusqu'à 9 kilomètres si vous êtes dans votre terrain favori) : aberrations, célestes, dragons, élémentaires, fées, démons et morts-vivants. Cette capacité ne révèle pas l'emplacement ou le nombre des créatures. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Amélioration de caractéristiques",
+            "content": "Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Attaque supplémentaire",
+            "content": "À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l’action Attaquer durant votre tour. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Foulée tellurique",
+            "content": "À partir du niveau 8, se déplacer à travers un terrain difficile non magique ne vous coûte pas de mouvement supplémentaire. Vous pouvez également passer à travers des plantes non magiques sans être ralenti et sans subir de dégâts par leurs épines, ou un risque semblable. En outre, vous avez un avantage aux jets de sauvegarde contre les plantes qui sont créés ou manipulés par magie afin d’entraver les mouvements, comme celles créées par le sort enchevêtrement . Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Camouflage naturel",
+            "content": "À partir du niveau 10, vous pouvez passer 1 minute pour vous créer un camouflage. Vous devez avoir accès à de la boue fraîche, de la crasse, des plantes, de la suie et d'autres matériaux naturels avec lesquels vous pouvez créer votre camouflage. Une fois que vous êtes camouflé de cette façon, vous pouvez essayer de vous cacher en vous appuyant contre une surface solide, comme un arbre ou un mur, s'il est au moins aussi grand et aussi large que vous. Vous bénéficiez d'un bonus de +10 aux jets de Dextérité (Discrétion) aussi longtemps que vous restez sans bouger et sans effectuer d'actions. Une fois que vous vous déplacez ou prenez une action ou une réaction, vous devez vous camoufler à nouveau pour regagner cet avantage. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Disparition",
+            "content": "À partir du niveau 14, vous pouvez utiliser l’action Se cacher en tant qu'action bonus à votre tour. En outre, vous ne pouvez pas être suivi par des moyens non magiques, sauf si vous choisissez de laisser une trace. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Sens sauvages",
+            "content": "Au niveau 18, vous gagnez un sens surnaturel qui vous aide à combattre les créatures que vous ne pouvez pas voir. Lorsque vous attaquez une créature que vous ne pouvez pas voir, votre incapacité à voir ne vous impose pas un désavantage à vos jets d'attaque contre elle. Vous êtes également au courant de l'emplacement d'une créature invisible dans un rayon de 9 mètres autour de vous, à condition que la créature ne se soit pas cachée vis-à-vis de vous et que vous ne soyez pas aveuglé ou assourdi. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Tueur implacable",
+            "content": "Au niveau 20, vous devenez un chasseur hors pair pour vos ennemis. Une fois à chacun de vos tours, vous pouvez ajouter votre modificateur de Sagesse au jet d'attaque ou de dégâts d'une attaque que vous effectuez contre l'un de vos ennemis favoris. Vous pouvez choisir d'utiliser cette capacité avant ou après le jet, mais avant que les effets du jet ne soient appliqués. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Chasseur",
+            "content": "Émuler l'archétype du chasseur signifie que vous acceptez votre rôle de rempart entre la civilisation et les terreurs de la nature sauvage. En prenant la voie du chasseur, vous apprenez des techniques spécialisées pour lutter contre les menaces que vous rencontrez, des ogres saccageurs et des hordes d'orcs aux imposants géants et aux terrifiants dragons. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Proie du chasseur",
+            "content": "Au niveau 3, vous gagnez l'une des capacités suivantes de votre choix. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Tactiques défensives",
+            "content": "Au niveau 7, vous gagnez l'une des capacités suivantes de votre choix. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Attaques multiples",
+            "content": "Au niveau 11, vous gagnez l'une des capacités suivantes de votre choix. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Défense du chasseur supérieure",
+            "content": "Au niveau 15, vous gagnez l'une des capacités suivantes de votre choix. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Maître des bêtes",
+            "content": "L'archétype maître des bêtes incarne la relation entre les races civilisées et les animaux du monde. Unis dans un même but, la bête et le rôdeur agissent de concert pour combattre les ennemis monstrueux qui menacent la civilisation autant que les étendues sauvages. Choisir l'archétype maître des bêtes signifie que vous vous engagez vers cet idéal pour agir en association avec un animal qui sera pour vous un compagnon et un ami. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Compagnon du rôdeur",
+            "content": "Au niveau 3, vous gagnez un compagnon animal qui vous accompagne lors de vos aventures et qui est entraîné pour combattre à vos côtés. Choisissez une bête de taille M maximum et dont le facteur de puissance est de 1/4 ou moins (le bestiaire présente les caractéristiques du faucon , du molosse et de la panthère par exemple). Ajoutez votre bonus de maîtrise à la CA de la bête, à ses jets d'attaque et de dégâts, ainsi qu'aux jets de sauvegarde et aux compétences qu'elle maîtrise. Son maximum de points de vie est égal à son maximum normal ou à quatre fois votre niveau de rôdeur (selon le plus haut des deux). Comme toute créature, le compagnon peut dépenser des dés de vie durant un repos court. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Entraînement exceptionnel",
+            "content": "À partir du niveau 7, lorsque lors de votre tour votre compagnon animal n'attaque pas, vous pouvez utiliser votre action bonus pour ordonner à votre animal de réaliser l'action Aider, Foncer ou Se désengager lors de son tour. De plus, l'attaque du compagnon compte dorénavant comme étant magique pour ce qui est de la résistance et de l'immunité aux attaques et aux dégâts non magiques. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Fureur bestiale",
+            "content": "À partir du niveau 11, lorsque vous ordonnez à votre compagnon animal d'effectuer l'action Attaquer, celui-ci peut attaquer deux fois ou prendre l'action Attaques multiples s'il la possède. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Partage des sorts",
+            "content": "À partir du niveau 15, lorsque vous lancez un sort vous prenant pour cible, vous pouvez aussi affecter votre compagnon animal avec le même sort si la bête se trouve à 9 mètres ou moins de vous. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Gardien de drake",
+            "content": "Version officielle du Fizban’s Treasury of Dragons de cette sous-classe mise en ligne par WotC lors du D&D Celebration 2021. Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Don draconique",
+            "content": "Capacité de gardien de drake de niveau 3 Thaumaturgie . Vous apprenez le sort mineur thaumaturgie , qui est un sort de rôdeur pour vous. Langue des dragons . Vous apprenez à parler, lire et écrire le draconique, ou une autre langue de votre choix."
+        },
+        {
+            "title": "Compagnon drake",
+            "content": "Capacité de gardien de drake de niveau 3 Monture drake . Le drake atteint une taille M. Reflétant votre lien spécial, vous pouvez utiliser le drake comme monture même si votre taille est M. Lorsque vous montez votre drake, celui-ci ne peut pas utiliser la vitesse de vol de cette capacité. Croc magique . L'attaque de morsure du drake inflige 1d6 dégâts supplémentaires du type choisi pour son Essence draconique. Résistance . Vous gagnez la résistance au type de dégâts choisi pour l'Essence draconique du drake."
+        },
+        {
+            "title": "Compagnon drake",
+            "content": "Essence draconique . Lorsque vous invoquez le drake, choisissez un type de dégâts : acide, froid, feu, foudre ou poison. Le type choisi détermine l'immunité aux dégâts du drake et les dégâts de son trait Coups imprégnés."
+        },
+        {
+            "title": "Lien du croc et d'écailles",
+            "content": "Capacité de gardien de drake de niveau 7 Monture drake . Le drake atteint une taille M. Reflétant votre lien spécial, vous pouvez utiliser le drake comme monture même si votre taille est M. Lorsque vous montez votre drake, celui-ci ne peut pas utiliser la vitesse de vol de cette capacité. Croc magique . L'attaque de morsure du drake inflige 1d6 dégâts supplémentaires du type choisi pour son Essence draconique. Résistance . Vous gagnez la résistance au type de dégâts choisi pour l'Essence draconique du drake."
+        },
+        {
+            "title": "Souffle de drake",
+            "content": "Capacité de gardien de drake de niveau 11 Morsure puissante . L'attaque de morsure du drake inflige 1d6 dégâts supplémentaires du type choisi pour son Essence draconique (pour un total de 2d6 dégâts supplémentaires). Grand drake . Le drake devient de taille G. Lorsque vous montez votre drake, il n'est plus interdit d'utiliser la vitesse de vol de Lien du croc et d'écailles. Résistance réflexive . Lorsque vous ou le drake subissez des dégâts alors que vous êtes à moins de 9 mètres l'un de l'autre, vous pouvez utiliser votre réaction pour vous donner à vous-même ou au drake une résistance à ce type de dégâts."
+        },
+        {
+            "title": "Lien parfait",
+            "content": "Capacité de gardien de drake de niveau 15 Morsure puissante . L'attaque de morsure du drake inflige 1d6 dégâts supplémentaires du type choisi pour son Essence draconique (pour un total de 2d6 dégâts supplémentaires). Grand drake . Le drake devient de taille G. Lorsque vous montez votre drake, il n'est plus interdit d'utiliser la vitesse de vol de Lien du croc et d'écailles. Résistance réflexive . Lorsque vous ou le drake subissez des dégâts alors que vous êtes à moins de 9 mètres l'un de l'autre, vous pouvez utiliser votre réaction pour vous donner à vous-même ou au drake une résistance à ce type de dégâts."
+        }
+    ],
+    "tables": [
+        {
+            "name": "Progression du rodeur",
+            "data": [
+                {
+                    "Niv": "1",
+                    "maîtrise": "+2",
+                    "Capacités": "Ennemi juré, Explorateur-né",
+                    "connus": "-",
+                    "1": "-",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "2",
+                    "maîtrise": "+2",
+                    "Capacités": "Style de combat, Incantation",
+                    "connus": "2",
+                    "1": "2",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "3",
+                    "maîtrise": "+2",
+                    "Capacités": "Archétype de rôdeur, Vigilance primitive",
+                    "connus": "3",
+                    "1": "3",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "4",
+                    "maîtrise": "+2",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "connus": "3",
+                    "1": "3",
+                    "2": "-",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "5",
+                    "maîtrise": "+3",
+                    "Capacités": "Attaque supplémentaire",
+                    "connus": "4",
+                    "1": "4",
+                    "2": "2",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "6",
+                    "maîtrise": "+3",
+                    "Capacités": "Amélioration de l'Ennemi juré et de l'Explorateur-né",
+                    "connus": "4",
+                    "1": "4",
+                    "2": "2",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "7",
+                    "maîtrise": "+3",
+                    "Capacités": "Capacité de l'archétype de rôdeur",
+                    "connus": "5",
+                    "1": "4",
+                    "2": "3",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "8",
+                    "maîtrise": "+3",
+                    "Capacités": "Amélioration de caractéristiques, Foulée tellurique",
+                    "connus": "5",
+                    "1": "4",
+                    "2": "3",
+                    "3": "-",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "9",
+                    "maîtrise": "+4",
+                    "Capacités": "-",
+                    "connus": "6",
+                    "1": "4",
+                    "2": "3",
+                    "3": "2",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "10",
+                    "maîtrise": "+4",
+                    "Capacités": "Amélioration de l'Explorateur-né, Camouflage naturel",
+                    "connus": "6",
+                    "1": "4",
+                    "2": "3",
+                    "3": "2",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "11",
+                    "maîtrise": "+4",
+                    "Capacités": "Capacité de l'archétype de rôdeur",
+                    "connus": "7",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "12",
+                    "maîtrise": "+4",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "connus": "7",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "-",
+                    "5": "-"
+                },
+                {
+                    "Niv": "13",
+                    "maîtrise": "+5",
+                    "Capacités": "-",
+                    "connus": "8",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "1",
+                    "5": "-"
+                },
+                {
+                    "Niv": "14",
+                    "maîtrise": "+5",
+                    "Capacités": "Amélioration de l'Ennemi juré, Disparition",
+                    "connus": "8",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "1",
+                    "5": "-"
+                },
+                {
+                    "Niv": "15",
+                    "maîtrise": "+5",
+                    "Capacités": "Capacité de l'archétype de rôdeur",
+                    "connus": "9",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "2",
+                    "5": "-"
+                },
+                {
+                    "Niv": "16",
+                    "maîtrise": "+5",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "connus": "9",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "2",
+                    "5": "-"
+                },
+                {
+                    "Niv": "17",
+                    "maîtrise": "+6",
+                    "Capacités": "-",
+                    "connus": "10",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "1"
+                },
+                {
+                    "Niv": "18",
+                    "maîtrise": "+6",
+                    "Capacités": "Sens sauvages",
+                    "connus": "10",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "1"
+                },
+                {
+                    "Niv": "19",
+                    "maîtrise": "+6",
+                    "Capacités": "Amélioration de caractéristiques",
+                    "connus": "11",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2"
+                },
+                {
+                    "Niv": "20",
+                    "maîtrise": "+6",
+                    "Capacités": "Tueur implacable",
+                    "connus": "11",
+                    "1": "4",
+                    "2": "3",
+                    "3": "3",
+                    "4": "3",
+                    "5": "2"
+                }
+            ]
+        }
+    ],
+    "images": [
+        "https://www.aidedd.org/assets/regles/classes/rodeur.jpg"
+    ],
+    "links": [
+        "https://www.aidedd.org/regles/historiques/sauvageon/",
+        "https://www.aidedd.org/regles/classes/rodeur/#voie",
+        "https://www.aidedd.org/regles/classes/rodeur/#chasseur",
+        "https://www.aidedd.org/regles/classes/rodeur/#betes"
+    ]
+}
