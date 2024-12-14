@@ -4,3 +4,4 @@ flake8
 autopep8
 scrapy
 pandas
+psycopg2-binary
