@@ -1,0 +1,191 @@
+{
+    "title": "Artiste",
+    "introduction": "Vous vous épanouissez lorsque vous vous trouvez devant un public. Vous savez comment l'hypnotiser, comment l'amuser, comment l'inspirer. Vos poèmes font fondre les cœurs de ceux qui vous écoutent, réveillant les colères et les joies, répandant le rire ou la tristesse. Votre musique envahit leur esprit et s'empare de leurs douleurs. Vos pas de danse hypnotisent, votre humour pique au vif. Quelles que soient les techniques que vous utilisiez, l'art est toute votre vie.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d10",
+                "Domaine"
+            ],
+            "rows": [
+                {
+                    "d10": "1",
+                    "Domaine": "Acteur"
+                },
+                {
+                    "d10": "2",
+                    "Domaine": "Danseur"
+                },
+                {
+                    "d10": "3",
+                    "Domaine": "Cracheur-de-feu"
+                },
+                {
+                    "d10": "4",
+                    "Domaine": "Bouffon"
+                },
+                {
+                    "d10": "5",
+                    "Domaine": "Jongleur"
+                },
+                {
+                    "d10": "6",
+                    "Domaine": "Musicien"
+                },
+                {
+                    "d10": "7",
+                    "Domaine": "Poète"
+                },
+                {
+                    "d10": "8",
+                    "Domaine": "Chanteur"
+                },
+                {
+                    "d10": "9",
+                    "Domaine": "Conteur"
+                },
+                {
+                    "d10": "10",
+                    "Domaine": "Acrobate"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Je connais une histoire en rapport avec chaque situation."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "À chaque fois que j'arrive dans un nouvel endroit, je m'entiche des rumeurs locales et répands les commérages."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "Je suis désespérément romantique, toujours à la recherche de cette \"personne spéciale\"."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Personne ne reste en colère contre moi très longtemps, car je peux désamorcer toute tension."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "J'adore les bonnes insultes, même celles qui sont dirigées contre moi."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Je deviens acerbe si je ne suis pas le centre de l'attention."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Je ne peux me contenter que de la perfection."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Je change mon humeur ou mon état d'esprit aussi vite que je change de note dans une chanson."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Beauté. Lorsque je fais une représentation, je rends le monde meilleur qu'il ne l'était (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Tradition. Les histoires, les légendes et les chansons du passé ne devraient jamais être oubliées, car elles nous apprennent qui nous sommes (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Créativité. Le monde a besoin de nouvelles idées et d'audace (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Avarice. Je ne fais cela que pour l'or et la gloire (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Peuple. J'aime voir des sourires sur les visages qui m'entourent lorsque je fais ma représentation. C'est tout ce qui m'importe (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Honnêteté. L'art doit être le reflet de l'âme ; il doit provenir du plus profond de notre être et révéler qui nous sommes (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Mon instrument est mon bien le plus précieux, et il me rappelle quelqu'un que j'aime."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Quelqu'un a volé mon précieux instrument, et un jour je le récupérerai."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Je veux être connu, et ferais n'importe quoi pour cela."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "J'idolâtre le héros d'une vieille histoire et calque mes actions sur les siennes."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Je ferais n'importe quoi pour me prouver que je suis supérieur à mon détesté rival."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Je ferais n'importe quoi pour les membres de mon ancienne troupe."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je ferais n'importe quoi pour gagner gloire et notoriété."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Je suis sans défense devant un joli minois."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Un scandale m'empêche de retourner chez moi. Ce genre de désagrément semble me suivre de partout."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "J'ai un jour caricaturé un noble, lequel cherche encore à voir ma tête au bout d'une pique. C'était une erreur que je vais probablement répéter."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "J'ai des difficultés à garder mes vrais sentiments pour moi. Ma langue acérée me cause beaucoup de problèmes."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "En dépit de mes efforts, mes amis ont peu confiance en moi."
+                }
+            ]
+        }
+    ]
+}

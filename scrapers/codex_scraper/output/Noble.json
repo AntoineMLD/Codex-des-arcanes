@@ -1,0 +1,143 @@
+{
+    "title": "Noble",
+    "introduction": "Vous savez ce qu'est la richesse, le pouvoir et les privilèges. Vous portez un titre de noblesse, et votre famille possède des terres, perçoit des impôts, et exerce une influence politique significative. Vous pourriez être un aristocrate choyé qui ne connaît pas le travail et l'inconfort, un ancien marchand qui vient d'être élevé au rang de noble, ou une fripouille déshéritée avec un attrait pour les titres disproportionnés. Ou vous pourriez être un honnête propriétaire terrien qui travaille dur et qui se soucie profondément des gens qui vivent et travaillent sur ses terres, tout à fait conscient de votre responsabilité envers eux. Travaillez avec votre MD pour définir un titre approprié et quelle autorité ce titre vous donne. Un titre de noblesse n'est pas une chose personnelle, il concerne une famille entière, et, quel que soit le titre que vous détenez, vous le transmettrez à vos enfants. Donc non seulement vous devez déterminer votre titre de noblesse, mais vous devez également travailler avec votre MD pour décrire votre famille et l'influence qu'elle a sur vous.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Ma flatterie éloquente fait sentir à toute personne à qui je parle qu'elle est la plus merveilleuse et la plus importante au monde."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Les gens ordinaires m'aiment pour ma gentillesse et ma générosité."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "Nul ne peut douter en regardant mon allure royale que je suis un cran au-dessus des masses de bouseux."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je prends grand soin de toujours m'habiller de mon mieux et de suivre les dernières tendances."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je n'aime pas me salir les mains, et je ne veux pas finir dans des logements inappropriés."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Malgré ma noble naissance, je ne me place pas au-dessus des autres. Nous avons tous le même sang."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Mon soutien, une fois perdu, est perdu à jamais."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "Si vous me blessez, je vais vous écraser, souiller votre nom et ruiner vos champs."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Respect. Le respect m'est dû de par ma position, mais toutes les personnes, quelle que soit leur position, méritent d'être traitées avec dignité (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Responsabilité. Il est de mon devoir de respecter l'autorité de ceux qui sont au-dessus de moi, tout comme ceux qui sont en-dessous doivent me respecter (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Indépendance. Je dois prouver que je peux me débrouiller sans le cocon de ma famille (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Pouvoir. Si je peux obtenir plus de pouvoir, on ne me dira plus ce qu'il faut faire (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Famille. Le sang est plus épais que l'eau (Tout alignement)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Obligation de noble. Il est de mon devoir de protéger et de soigner les gens au-dessous moi (Bon)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Je ferais face à n'importe quel défi pour gagner l'approbation de ma famille."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "L'alliance de ma maison avec une autre famille noble doit être maintenue à tout prix."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Rien n'est plus important que les autres membres de ma famille."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je suis amoureux de l'héritière d'une famille que ma propre famille méprise."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Ma loyauté envers mon souverain est inébranlable."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Les gens ordinaires doivent me voir comme un héros du peuple."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je crois secrètement que tout le monde est au-dessous de moi."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Je cache un secret vraiment scandaleux qui pourrait ruiner la réputation de ma famille pour toujours."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "J'entends trop souvent des insultes et des menaces à peine voilées quand on s'adresse à moi, et je suis prompt à la colère."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "J'ai un désir insatiable de plaisirs charnels."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "En fait, le monde tourne autour de moi."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Par mes paroles et mes actions, je fais honte à ma famille."
+                }
+            ]
+        }
+    ]
+}

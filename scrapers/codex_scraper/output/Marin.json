@@ -1,0 +1,143 @@
+{
+    "title": "Marin",
+    "introduction": "Vous avez navigué sur un navire pendant des années. Durant cette période, vous avez affronté de nombreuses tempêtes, de nombreux monstres des profondeurs, et tous ceux qui voulaient envoyer par le fond votre embarcation. Votre premier amour est cette ligne inatteignable, l'horizon, mais le temps est venu pour vous de vous frotter à autre chose.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "Mes amis savent qu'ils peuvent compter sur moi, quoi qu'il arrive."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je travaille dur donc je peux me lâcher totalement lorsque le travail est terminé."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "J'aime naviguer vers de nouveaux ports et me faire de nouveaux amis autour d'une chope de bière."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "J'altère un peu les faits pour créer une bonne histoire."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Pour moi, une taverne bruyante est le meilleur moyen d'apprendre à connaître une ville."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Je ne laisse jamais passer un pari amical."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Mon langage est aussi pourri qu'un nid d'otyugh."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "J'aime le travail bien fait, en particulier si je peux convaincre quelqu'un d'autre de le faire à ma place."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Respect. Ce qui maintient l'unité sur un navire est le respect mutuel qu'il y a entre le capitaine et son équipage (Bon)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Justice. Nous faisons tous notre travail, nous avons donc tous notre part de récompense (Loyal)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Liberté. La mer c'est la liberté, la liberté d'aller partout et de faire ce que l'on veut (Chaotique)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Domination. Je suis un prédateur, et les autres bateaux sur la mer sont mes proies (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Peuple. Je m'engage pour mes coéquipiers, pas pour des idéaux (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Aspiration. Un jour j'aurai mon propre navire et suivrai ma propre destiné (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Je reste loyal envers mon premier capitaine, tout passe après lui."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Le navire est le plus important, les équipages et les capitaines vont et viennent."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Je me rappellerai toujours de mon premier navire."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Dans une ville portuaire, j'ai une maîtresse dont les yeux ont failli m'arracher à la mer."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "J'ai été trompé sur la part de profits qui me revient de droit, et je vais récupérer mon dû."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Des pirates sans pitié ont tué mon capitaine et les autres membres d'équipage, ont pillé notre navire et m'ont laissé pour mort. La vengeance sera mienne."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je suis les ordres, même si je pense qu'ils sont mauvais."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Je dirais n'importe quoi pour éviter d'avoir du travail supplémentaire."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Lorsque quelqu'un met en doute mon courage, je ne recule devant rien pour le faire changer d'avis, même si les situations sont extrêmement périlleuses."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Lorsque je commence à boire, il est difficile de me faire arrêter."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Je n'y peux rien mais les poches des autres perdent leurs pièces et leurs babioles lorsque je passe dans le coin."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Mon orgueil me mènera probablement à ma perte."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "title": "Sauvageon",
+    "introduction": "Vous avez grandi dans les étendues sauvages, loin de toute civilisation et des conforts qu'offrent les villes et la technologie. Vous avez été témoin de la migration de troupeaux plus larges que des forêts, vous avez survécu à des climats plus extrêmes qu'aucun citadin ne pourrait l'imaginer, et vous avez apprécié la solitude d'être la seule créature pensante à des kilomètres à la ronde. La nature est dans votre sang, que vous ayez été nomade, explorateur, reclus, chasseur ou même pillard. Même dans un endroit dont vous ne connaissez pas les caractéristiques du terrain, vous savez de quelle manière appréhender une étendue sauvage.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d10",
+                "Origine"
+            ],
+            "rows": [
+                {
+                    "d10": "1",
+                    "Origine": "Forestier"
+                },
+                {
+                    "d10": "2",
+                    "Origine": "Trappeur"
+                },
+                {
+                    "d10": "3",
+                    "Origine": "Colon"
+                },
+                {
+                    "d10": "4",
+                    "Origine": "Guide"
+                },
+                {
+                    "d10": "5",
+                    "Origine": "Exilé ou paria"
+                },
+                {
+                    "d10": "6",
+                    "Origine": "Chasseur de prime"
+                },
+                {
+                    "d10": "7",
+                    "Origine": "Pèlerin"
+                },
+                {
+                    "d10": "8",
+                    "Origine": "Nomade tribal"
+                },
+                {
+                    "d10": "9",
+                    "Origine": "Chasseur"
+                },
+                {
+                    "d10": "10",
+                    "Origine": "Pillard tribal"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "J'éprouve le besoin de voir le monde, c'est ce qui m'a fait quitter mon foyer."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je garde un œil sur mes amis, comme s'ils étaient les langes d'un nouveau-né."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "J'ai couru une fois sur 40 kilomètres sans m'arrêter pour prévenir mon clan de l'approche d'une horde d'orcs. Je le referai s'il le faut."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "J'ai une leçon pour chaque situation, leçon que j'ai découverte en observant la nature."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je n'accorde pas d'importance aux riches ou aux gens bien-élevés. L'argent ou les bonnes manières ne sauveront personne face à un ours-hibou affamé."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Je ramasse toujours ce qui traîne, jouant distraitement avec, et parfois les cassant accidentellement."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "Je me sens bien plus dans mon élément entouré d'animaux que de personnes."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "J'ai, en fait, été élevé par des loups."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Changement. La vie est comme les saisons, en changement constant, et nous devons changer avec elle (Chaotique)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Le plus grand bien. Il est de la responsabilité de chacun de faire ce qu'il y a de mieux pour l'ensemble de la tribu (Bon)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Honneur. Si je me déshonore, je déshonore l'ensemble de ma tribu (Loyal)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Puissance. Les plus forts sont destinés à gouverner (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Nature. Le monde naturel est bien plus important que toutes les constructions des peuples civilisés (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Gloire. Je dois gagner la gloire lors de batailles, pour moi même et pour mon clan (Tout alignement)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Ma famille, mon clan ou ma tribu sont les choses les plus importantes dans ma vie, même lorsqu'ils sont loin de moi."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Insulter la nature indomptée de mes terres c'est m'insulter."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Ma terrible colère s'abattra sur les malfrats qui ont saccagé ma terre."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je suis le dernier des membres de ma tribu, et il me revient de faire entrer leur nom dans la légende."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "J'ai eu d'horribles visions d'un grand désastre imminent et vais tout faire pour l'empêcher."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Il est de mon devoir de faire des enfants pour le salut de ma tribu."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Je ne suis pas du tout résistant à la bière, au vin et autres boissons alcoolisées."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Il n'y a pas de place pour la prudence dans une vie pleinement vécue."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "Je me rappelle de toutes les injures que j'ai reçues, et nourris une haine silencieuse envers tous ceux qui m'ont fait du tort."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Je mets du temps à faire confiance aux membres d'autres races, tribus ou sociétés."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "La violence est ma réponse à presque tous les défis."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "N'espérez pas que je sauve ceux qui ne peuvent pas se sauver eux-même. C'est la loi de la nature, les forts survivent et les faibles périssent."
+                }
+            ]
+        }
+    ]
+}

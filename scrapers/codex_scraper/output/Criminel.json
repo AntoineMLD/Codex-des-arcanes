@@ -1,0 +1,183 @@
+{
+    "title": "Criminel",
+    "introduction": "Vous êtes un criminel expérimenté avec un long passif d'infractions à la loi. Vous avez passé beaucoup de temps aux côtés d'autres criminels et avez encore des contacts au sein de la pègre. Vous êtes bien plus familier que la plupart des autres personnes avec le monde du meurtre, du vol et de la violence qui règne au sein de la civilisation, et vous avez survécu jusque là en bafouant les règles et les lois de la société.",
+    "sections": [],
+    "tables": [
+        {
+            "headers": [
+                "d8",
+                "Spécialité"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Spécialité": "Maître-chanteur"
+                },
+                {
+                    "d8": "2",
+                    "Spécialité": "Cambrioleur"
+                },
+                {
+                    "d8": "3",
+                    "Spécialité": "Homme de main"
+                },
+                {
+                    "d8": "4",
+                    "Spécialité": "Receleur"
+                },
+                {
+                    "d8": "5",
+                    "Spécialité": "Voleur de grand chemin"
+                },
+                {
+                    "d8": "6",
+                    "Spécialité": "Tueur à gages"
+                },
+                {
+                    "d8": "7",
+                    "Spécialité": "Pickpocket"
+                },
+                {
+                    "d8": "8",
+                    "Spécialité": "Contrebandier"
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d8",
+                "Trait"
+            ],
+            "rows": [
+                {
+                    "d8": "1",
+                    "Trait": "J'ai toujours un plan pour savoir quoi faire quand les choses vont mal."
+                },
+                {
+                    "d8": "2",
+                    "Trait": "Je suis toujours calme, quelle que soit la situation. Je n'élève pas la voix ou ne laisse pas mes émotions me contrôler."
+                },
+                {
+                    "d8": "3",
+                    "Trait": "La première chose que je fais dans un nouveau lieu est de noter les emplacements de toute chose précieuse, ou bien là où ces choses pourraient être cachées."
+                },
+                {
+                    "d8": "4",
+                    "Trait": "Je préfère me faire un nouvel ami qu'un nouvel ennemi."
+                },
+                {
+                    "d8": "5",
+                    "Trait": "Je suis incroyablement lent à faire confiance. Ceux qui semblent les plus droits sont souvent ceux qui ont le plus à cacher."
+                },
+                {
+                    "d8": "6",
+                    "Trait": "Je ne fais pas attention aux risques d'une situation."
+                },
+                {
+                    "d8": "7",
+                    "Trait": "La meilleure façon de me faire faire quelque chose est de me dire de ne pas le faire."
+                },
+                {
+                    "d8": "8",
+                    "Trait": "J'explose à la moindre insulte."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Idéal"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Idéal": "Honneur. Je ne vole pas les autres dans une négociation (Loyal)."
+                },
+                {
+                    "d6": "2",
+                    "Idéal": "Liberté. Les chaînes sont faites pour être brisées, de même que ceux qui les forgent (Chaotique)."
+                },
+                {
+                    "d6": "3",
+                    "Idéal": "Charité. Je vole des riches pour pouvoir aider ceux qui sont dans le besoin (Bon)."
+                },
+                {
+                    "d6": "4",
+                    "Idéal": "Avidité. Je ferai tout ce qu'il faut pour devenir riche (Mauvais)."
+                },
+                {
+                    "d6": "5",
+                    "Idéal": "Personnes. Je suis fidèle à mes amis, pas à des idéaux, et tous les autres peuvent bien s'embarquer sur le Styx, ça ne m'importe pas (Neutre)."
+                },
+                {
+                    "d6": "6",
+                    "Idéal": "Rédemption. Il y a une étincelle de bonté en chacun de nous (Bon)."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Lien"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Lien": "Je suis en train de payer une vieille dette que je dois à un généreux bienfaiteur."
+                },
+                {
+                    "d6": "2",
+                    "Lien": "Mes gains mal acquis vont soutenir ma famille."
+                },
+                {
+                    "d6": "3",
+                    "Lien": "Quelque chose d'important m'a été pris, et je dois le voler de nouveau."
+                },
+                {
+                    "d6": "4",
+                    "Lien": "Je vais devenir le plus grand voleur qui n'ait jamais été."
+                },
+                {
+                    "d6": "5",
+                    "Lien": "Je suis coupable d'un crime terrible. J'espère pouvoir me racheter."
+                },
+                {
+                    "d6": "6",
+                    "Lien": "Quelqu'un que j'aimais est mort à cause d'une erreur que j'ai faite. Cela ne se reproduira plus."
+                }
+            ]
+        },
+        {
+            "headers": [
+                "d6",
+                "Défaut"
+            ],
+            "rows": [
+                {
+                    "d6": "1",
+                    "Défaut": "Quand je vois quelque chose de précieux, je ne pense qu'à une chose : comment m'en emparer."
+                },
+                {
+                    "d6": "2",
+                    "Défaut": "Lorsque je suis confronté à un choix entre l'argent et mes amis, je choisis généralement l'argent."
+                },
+                {
+                    "d6": "3",
+                    "Défaut": "S'il y a un plan, je vais l'oublier. Si je ne l'oublie pas, je l'ignore."
+                },
+                {
+                    "d6": "4",
+                    "Défaut": "Il y a quelque chose qui me trahit quand je mens."
+                },
+                {
+                    "d6": "5",
+                    "Défaut": "Je tourne le dos et m'enfuis en courant quand les choses vont mal."
+                },
+                {
+                    "d6": "6",
+                    "Défaut": "Une personne innocente est en prison pour un crime que j'ai commis. Et je n'ai pas de problème avec cela."
+                }
+            ]
+        }
+    ]
+}
