@@ -3,3 +3,4 @@ pytest-django
 flake8
 autopep8
 scrapy
+pandas
