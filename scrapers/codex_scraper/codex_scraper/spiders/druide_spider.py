@@ -1,11 +1,12 @@
 import scrapy
 
 
-class OccultisteSpider(scrapy.Spider):
-    name = "occultiste_spider"
-    start_urls = ["https://www.aidedd.org/regles/classes/occultiste/"]
+class DruideSpider(scrapy.Spider):
+    name = "druide_spider"
+    start_urls = ["https://www.aidedd.org/regles/classes/druide/"]
 
     def parse(self, response):
+
         # Extraire le titre principal
         title = response.xpath("//h1/text()").get().strip()
 
@@ -34,42 +35,42 @@ class OccultisteSpider(scrapy.Spider):
                     {"title": section_title.strip(), "content": section_content}
                 )
 
-        # Extraire le tableau
-        tables = response.xpath("//table")
-        table_data = []
+        # Extraire les tables spécifiques aux cercles
+        tables = response.xpath("//table[caption]")
+        circle_data = []
 
         for table in tables:
-            headers = table.xpath(".//tr[1]/th//text()").getall()
-            headers = [header.strip() for header in headers]
+            # Extraire le titre (caption) du tableau
+            caption = table.xpath(".//caption/text()").get(default="").strip()
 
+            # Extraire les en-têtes
+            headers = table.xpath(".//tr[1]//th//text()").getall()
+            headers = [header.strip() for header in headers if header.strip()]
+
+            # Extraire les données des lignes
             rows = []
-            for row in table.xpath(".//tr[position() > 1]"):
-                cells = row.xpath(".//td//text()").getall()
-                cells = [cell.strip() for cell in cells]
-                rows.append(dict(zip(headers, cells)))
+            for row in table.xpath(".//tr[position()>1]"):
+                cells = row.xpath(".//td")
+                row_data = {}
+                for idx, cell in enumerate(cells):
+                    key = headers[idx] if idx < len(headers) else f"col_{idx+1}"
+                    value = cell.xpath(".//text()").get(default="").strip()
+                    row_data[key] = value
+                rows.append(row_data)
 
-            table_data.append({"headers": headers, "rows": rows})
+            # Ajouter le tableau extrait
+            circle_data.append(
+                {
+                    "circle_name": caption,
+                    "headers": headers,
+                    "rows": rows,
+                }
+            )
 
-        # Extraire les liens présents dans le contenu
-        links = response.xpath("//div[@class='content']//a/@href").getall()
-        links = [
-            "https://www.aidedd.org" + link if link.startswith("/") else link
-            for link in links
-        ]
-
-        # Extraire les images
-        images = response.xpath("//div[@class='content']//img/@src").getall()
-        images = [
-            "https://www.aidedd.org" + img if img.startswith("/") else img
-            for img in images
-        ]
-
-        # Structurer les données
+        # Générer les données au format JSON
         yield {
             "title": title,
             "introduction": introduction,
             "sections": section_data,
-            "tables": table_data,
-            "images": images,
-            "links": links,
+            "circle_tables": circle_data,
         }
