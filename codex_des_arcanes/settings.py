@@ -88,11 +88,9 @@ DATABASES = {
         'HOST': os.getenv('DB_HOST', 'localhost'),
         'PORT': os.getenv('DB_PORT', '5432'),
         'TEST': {
-            'NAME': 'test_codex_db',
-        },
-    },
-}
-
+    'NAME': 'test_codex_db',
+    'DEPENDENCIES': [],
+},
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
