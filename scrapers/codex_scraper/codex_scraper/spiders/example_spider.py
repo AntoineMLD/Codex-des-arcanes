@@ -15,7 +15,7 @@ class CreationPersoSpider(scrapy.Spider):
         "https://www.aidedd.org/regles/races/demi-orc/",
         "https://www.aidedd.org/regles/races/drakeide/",
         "https://www.aidedd.org/regles/races/gnome/",
-        "https://www.aidedd.org/regles/races/tieffelin/"
+        "https://www.aidedd.org/regles/races/tieffelin/",
     ]
 
     def parse(self, response):
