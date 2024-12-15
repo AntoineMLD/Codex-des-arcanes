@@ -6,3 +6,4 @@ scrapy
 pandas
 psycopg2-binary
 python-dotenv
+requests
